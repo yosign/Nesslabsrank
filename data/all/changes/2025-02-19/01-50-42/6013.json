@@ -1,0 +1,572 @@
+{
+  "date": "2025-02-19",
+  "changes": {
+    "6013": {
+      "added": [
+        {
+          "appId": 6740829839,
+          "name": "Bicah",
+          "publisher": "Bicah Body, LLC",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/17/7e/63/177e63aa-0992-803b-b25d-0e75fb3c150d/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/180x180bb.png",
+          "rating": 5,
+          "ratingCount": 69,
+          "price": "0.00",
+          "rank": 79,
+          "category": "6013"
+        },
+        {
+          "appId": 1660452999,
+          "name": "Brown Noise for Sleep",
+          "publisher": "Rimone Holding",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/04/09/2f/04092f18-cc55-650b-9e29-e6e11829b8b9/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/180x180bb.png",
+          "rating": 4.7,
+          "ratingCount": 5099,
+          "price": "0.00",
+          "rank": 249,
+          "category": "6013"
+        },
+        {
+          "appId": 6596777024,
+          "name": "Talkbook Video Journal",
+          "publisher": "Overlap Studios, Inc.",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7f/1b/46/7f1b465c-6ce9-e1a0-47bd-8a51b17c3de3/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/180x180bb.png",
+          "rating": 4.6,
+          "ratingCount": 3573,
+          "price": "0.00",
+          "rank": 323,
+          "category": "6013"
+        },
+        {
+          "appId": 1579097649,
+          "name": "Fit19",
+          "publisher": "Endo Fitness LLC",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/66/de/49/66de49aa-8fd9-2f0b-d22b-f612e8d4d3a0/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/180x180bb.png",
+          "rating": 4.7,
+          "ratingCount": 884,
+          "price": "0.00",
+          "rank": 360,
+          "category": "6013"
+        },
+        {
+          "appId": 1533264837,
+          "name": "Gold\\'s Gym SoCal Online",
+          "publisher": "Gym Management Services, Inc.",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/1d/64/07/1d6407cf-cb55-c873-8822-649c853053a2/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/180x180bb.png",
+          "rating": 3.4,
+          "ratingCount": 68,
+          "price": "0.00",
+          "rank": 380,
+          "category": "6013"
+        },
+        {
+          "appId": 6444051752,
+          "name": "TruFit Athletic Club",
+          "publisher": "CORNERSTONE FITNESS - TEXAS LLC",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e2/04/86/e204862c-6cd9-b8ac-f87b-afe16e1a8a4c/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/180x180bb.png",
+          "rating": 4,
+          "ratingCount": 323,
+          "price": "0.00",
+          "rank": 385,
+          "category": "6013"
+        },
+        {
+          "appId": 6447005546,
+          "name": "Ozlo Sleepbuds",
+          "publisher": "Drowsy Digital Inc.",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2d/0a/72/2d0a729b-d4ab-7ab1-a903-b8f01b917327/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/180x180bb.png",
+          "rating": 4.8,
+          "ratingCount": 1327,
+          "price": "0.00",
+          "rank": 398,
+          "category": "6013"
+        },
+        {
+          "appId": 6449454470,
+          "name": "FitAttack: Work Out At Home",
+          "publisher": "Solid Solutions OU",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/03/5d/75/035d7536-b3fe-9c48-dd59-a506c425c730/AppIcon-1x_U007emarketing-0-11-0-0-85-220-0.png/180x180bb.png",
+          "rating": 4.4,
+          "ratingCount": 13,
+          "price": "0.00",
+          "rank": 405,
+          "category": "6013"
+        },
+        {
+          "appId": 1461517107,
+          "name": "Mesmerize - Visual Meditation",
+          "publisher": "Rockwell Ventures",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/08/c5/10/08c5108f-9537-488f-0bb7-0ab647b04921/AppIcon-Mesmerize-0-0-1x_U007epad-0-0-85-220.png/180x180bb.png",
+          "rating": 4.7,
+          "ratingCount": 33400,
+          "price": "0.00",
+          "rank": 413,
+          "category": "6013"
+        },
+        {
+          "appId": 1610025918,
+          "name": "UFC GYM+",
+          "publisher": "U GYM, LLC",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4e/2d/ca/4e2dca3c-2e79-55fd-63c0-33c1c25121d1/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/180x180bb.png",
+          "rating": 4.8,
+          "ratingCount": 1597,
+          "price": "0.00",
+          "rank": 415,
+          "category": "6013"
+        },
+        {
+          "appId": 1247478067,
+          "name": "HypnoBox: Hypnosis & Sleep",
+          "publisher": "HypnoBox GmbH",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e5/1a/e2/e51ae2d7-0814-52ec-fa93-fdcec1141856/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/180x180bb.png",
+          "rating": 4.7,
+          "ratingCount": 985,
+          "price": "0.00",
+          "rank": 425,
+          "category": "6013"
+        },
+        {
+          "appId": 6738061267,
+          "name": "Calorie AI - Tracker & Counter",
+          "publisher": "EvenEdge",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/fc/97/34/fc9734ff-e52b-de5f-86fe-0c9320b857fb/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/180x180bb.png",
+          "rating": 4.2,
+          "ratingCount": 20,
+          "price": "0.00",
+          "rank": 430,
+          "category": "6013"
+        },
+        {
+          "appId": 1573298047,
+          "name": "STNDRD: Bodybuilding Workouts",
+          "publisher": "Set The Standard LLC",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6c/13/4c/6c134c62-2269-2aad-442d-0e4319135052/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/180x180bb.png",
+          "rating": 4.6,
+          "ratingCount": 3484,
+          "price": "0.00",
+          "rank": 431,
+          "category": "6013"
+        },
+        {
+          "appId": 726780077,
+          "name": "Brainbuddy: Quit Porn Now",
+          "publisher": "AppStudio Australia Pty Ltd",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6d/a7/c5/6da7c5d8-dcbf-5fd8-a5f7-446fc0789f3d/AppIcon-1x_U007emarketing-0-7-0-0-85-220-0.png/180x180bb.png",
+          "rating": 4.7,
+          "ratingCount": 21900,
+          "price": "0.00",
+          "rank": 436,
+          "category": "6013"
+        },
+        {
+          "appId": 1551928101,
+          "name": "Sleep Tracker: Recorder, Sound",
+          "publisher": "Leap Health",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ec/64/fc/ec64fc46-d125-3cde-669d-d3f9fe529f50/AppIcon-0-0-1x_U007emarketing-0-5-0-0-sRGB-85-220.png/180x180bb.png",
+          "rating": 4.8,
+          "ratingCount": 5273,
+          "price": "0.00",
+          "rank": 446,
+          "category": "6013"
+        },
+        {
+          "appId": 1565509007,
+          "name": "Sleepwave: Record Sleep Sounds",
+          "publisher": "Reviva Softworks Ltd",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/74/4c/e0/744ce090-0aa9-bcd9-3301-c6c8f6e033d4/AppIcon-0-0-1x_U007ephone-0-1-0-sRGB-85-220.png/180x180bb.png",
+          "rating": 4.7,
+          "ratingCount": 5107,
+          "price": "0.00",
+          "rank": 450,
+          "category": "6013"
+        },
+        {
+          "appId": 1032114463,
+          "name": "Regence Health Insurance",
+          "publisher": "Regence Health Insurance",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c2/37/76/c237768f-afdf-1092-09e1-9388583d3c44/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/180x180bb.png",
+          "rating": 4.4,
+          "ratingCount": 1496,
+          "price": "0.00",
+          "rank": 452,
+          "category": "6013"
+        },
+        {
+          "appId": 6468002313,
+          "name": "Brainpal: Meditation & Sleep",
+          "publisher": "Three Jiaren Limited",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3c/8f/ee/3c8fee12-c13a-355b-65ef-8ab10ecf04e8/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/180x180bb.png",
+          "rating": 4.6,
+          "ratingCount": 358,
+          "price": "0.00",
+          "rank": 476,
+          "category": "6013"
+        },
+        {
+          "appId": 1453508270,
+          "name": "Sleep Sounds White Noise, Rain",
+          "publisher": "Healive Ltd.",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/07/98/48/07984835-aba0-893b-6279-bb82ee5f8ee5/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/100x100bb.jpg",
+          "rating": 4.8,
+          "ratingCount": 33100,
+          "price": "0.00",
+          "rank": 480,
+          "category": "6013"
+        },
+        {
+          "appId": 1372575227,
+          "name": "Gratitude: Self-Care Journal",
+          "publisher": "Hapjoy Technologies Private Limited",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/87/a8/bc/87a8bc7a-4322-797e-75c5-ae4d228ae4a9/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/180x180bb.png",
+          "rating": 4.9,
+          "ratingCount": 41300,
+          "price": "0.00",
+          "rank": 481,
+          "category": "6013"
+        },
+        {
+          "appId": 1476252089,
+          "name": "Sleep: Sounds & Meditation",
+          "publisher": "GUIDED MEDITATION & CALM SLEEP SRL",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/f0/ef/8f/f0ef8f1c-3d37-dded-a848-efe900385573/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/180x180bb.png",
+          "rating": 4.6,
+          "ratingCount": 8469,
+          "price": "0.00",
+          "rank": 485,
+          "category": "6013"
+        },
+        {
+          "appId": 1465238901,
+          "name": "Loóna: Sleep, reduce anxiety",
+          "publisher": "Loona Inc",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/02/66/bf/0266bf82-1c29-8274-d3eb-579e35720bae/AppIcon24-0-0-1x_U007epad-0-0-85-220.png/180x180bb.png",
+          "rating": 4.6,
+          "ratingCount": 23500,
+          "price": "0.00",
+          "rank": 486,
+          "category": "6013"
+        },
+        {
+          "appId": 6479300175,
+          "name": "maxbud: GLP-1 & Cal Tracker",
+          "publisher": "Thousand Lotus",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f5/08/ae/f508ae36-dcfa-3667-97e1-52870f50c85d/AppIcon-0-0-1x_U007ephone-0-0-85-220.png/180x180bb.png",
+          "rating": 4.6,
+          "ratingCount": 25,
+          "price": "0.00",
+          "rank": 488,
+          "category": "6013"
+        },
+        {
+          "appId": 1574239307,
+          "name": "SnapCalorie AI Calorie Counter",
+          "publisher": "Perception Labs, Inc.",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5e/0c/20/5e0c2041-9c8c-8bec-7aa4-26151cb5f4bb/AppIcon-0-0-1x_U007epad-0-1-85-220.png/180x180bb.png",
+          "rating": 4.7,
+          "ratingCount": 1255,
+          "price": "0.00",
+          "rank": 494,
+          "category": "6013"
+        }
+      ],
+      "removed": [
+        {
+          "appId": 6476712925,
+          "name": "Peloton Strength+",
+          "publisher": "Peloton Interactive, Inc.",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/15/3a/f8/153af8f8-3463-fa00-7e78-93055541f6e1/AppIcon-Launch-0-0-1x_U007ephone-0-1-85-220.png/180x180bb.png",
+          "rating": 4.7,
+          "ratingCount": 8071,
+          "price": "0.00",
+          "rank": 131,
+          "category": "6013"
+        },
+        {
+          "appId": 410089731,
+          "name": "Carb Manager—Keto Diet Tracker",
+          "publisher": "Wombat Apps LLC",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4a/c3/1d/4ac31d71-9122-52ee-8db3-1092807b7a91/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/180x180bb.png",
+          "rating": 4.8,
+          "ratingCount": 695000,
+          "price": "0.00",
+          "rank": 186,
+          "category": "6013"
+        },
+        {
+          "appId": 1670445335,
+          "name": "Lingo by Abbott",
+          "publisher": "Abbott",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/53/b6/98/53b69800-a78a-bf85-9b65-fc87a2626f9c/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/180x180bb.png",
+          "rating": 2.7,
+          "ratingCount": 273,
+          "price": "0.00",
+          "rank": 187,
+          "category": "6013"
+        },
+        {
+          "appId": 6511229961,
+          "name": "BPCare-Bloodpressure Heartrate",
+          "publisher": "Guangzhou Yinmiju Technology Co., Ltd.",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b6/aa/a4/b6aaa46e-dd1e-e851-ae9f-28670dc5d843/AppIcon-0-1x_U007epad-0-1-0-85-220-0.png/180x180bb.png",
+          "rating": 4.8,
+          "ratingCount": 20,
+          "price": "0.00",
+          "rank": 351,
+          "category": "6013"
+        },
+        {
+          "appId": 1104881108,
+          "name": "HealthJoy",
+          "publisher": "HealthJoy, LLC",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/de/df/94/dedf949f-49ee-0718-185c-8f2ba0b9fdd9/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/180x180bb.png",
+          "rating": 4.8,
+          "ratingCount": 3448,
+          "price": "0.00",
+          "rank": 389,
+          "category": "6013"
+        },
+        {
+          "appId": 6673907965,
+          "name": "Eatwise AI: Calorie Counter",
+          "publisher": "Vision Wizard",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/94/4a/ee/944aee97-bce6-2cb6-bcfd-ecf59e283dec/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/180x180bb.png",
+          "rating": 4.6,
+          "ratingCount": 245,
+          "price": "0.00",
+          "rank": 398,
+          "category": "6013"
+        },
+        {
+          "appId": 893334296,
+          "name": "CenterWell Pharmacy",
+          "publisher": "Humana Inc.",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d6/87/a3/d687a359-cf83-22cc-e413-961da0469f89/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/180x180bb.png",
+          "rating": 4.7,
+          "ratingCount": 179000,
+          "price": "0.00",
+          "rank": 401,
+          "category": "6013"
+        },
+        {
+          "appId": 529160691,
+          "name": "First Aid: American Red Cross",
+          "publisher": "American Red Cross",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/55/9b/21/559b2123-578e-763a-8b9d-5d6fee2a75ba/AppIcon-0-0-1x_U007emarketing-0-7-0-sRGB-85-220.png/180x180bb.png",
+          "rating": 4.4,
+          "ratingCount": 617,
+          "price": "0.00",
+          "rank": 403,
+          "category": "6013"
+        },
+        {
+          "appId": 6448191724,
+          "name": "Start TODAY Meal Plan, Fitness",
+          "publisher": "NBC News Digital, LLC",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2d/4a/c9/2d4ac945-075d-5dee-9326-b7bdcaf6e31e/AppIcon-0-0-1x_U007ephone-0-0-0-1-0-0-85-220.png/180x180bb.png",
+          "rating": 4.4,
+          "ratingCount": 29,
+          "price": "0.00",
+          "rank": 404,
+          "category": "6013"
+        },
+        {
+          "appId": 1577427619,
+          "name": "Mt. Bachelor",
+          "publisher": "Mt Bachelor, LLC",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/99/bc/05/99bc05db-ecf6-07ed-1ad2-dfe3997e703c/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/180x180bb.png",
+          "rating": 4.1,
+          "ratingCount": 140,
+          "price": "0.00",
+          "rank": 412,
+          "category": "6013"
+        },
+        {
+          "appId": 1484612659,
+          "name": "MyFitCoach Gym Workout Planner",
+          "publisher": "MyFitCoach GmbH",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/95/aa/e8/95aae866-7007-95ba-658c-b718f6c6bfdc/AppIcon-1x_U007emarketing-0-8-0-0-85-220-0.png/180x180bb.png",
+          "rating": 4.6,
+          "ratingCount": 954,
+          "price": "0.00",
+          "rank": 423,
+          "category": "6013"
+        },
+        {
+          "appId": 6738285605,
+          "name": "MyGEHA",
+          "publisher": "Government Employees Health Association, Inc.",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/49/12/c5/4912c52a-8c72-fab2-3f33-7a88972de382/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/180x180bb.png",
+          "rating": 4.6,
+          "ratingCount": 651,
+          "price": "0.00",
+          "rank": 424,
+          "category": "6013"
+        },
+        {
+          "appId": 6463792627,
+          "name": "Fit4me: Workout & Weight Loss",
+          "publisher": "WHITE APPS LTD",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0a/36/6c/0a366c1e-28b4-18fe-8438-ab2345d2ab56/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/180x180bb.png",
+          "rating": 4.6,
+          "ratingCount": 345,
+          "price": "0.00",
+          "rank": 441,
+          "category": "6013"
+        },
+        {
+          "appId": 6473512692,
+          "name": "CaloScanAI -AI Calorie Tracker",
+          "publisher": "Arcane Miracle Limited",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c5/15/4a/c5154a7f-ebad-9001-b157-8bed0257330a/AppIcon-0-0-1x_U007epad-0-10-0-85-220.png/180x180bb.png",
+          "rating": 4.7,
+          "ratingCount": 1572,
+          "price": "0.00",
+          "rank": 442,
+          "category": "6013"
+        },
+        {
+          "appId": 1385561364,
+          "name": "Skin Bliss: Skincare Routines",
+          "publisher": "Skin Bliss SIA",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/bf/28/cb/bf28cb77-9372-206f-0c10-ab64ab592584/AppIcon-0-0-1x_U007epad-0-85-220.png/180x180bb.png",
+          "rating": 4.8,
+          "ratingCount": 469,
+          "price": "0.00",
+          "rank": 450,
+          "category": "6013"
+        },
+        {
+          "appId": 1605495324,
+          "name": "Luna - Period Tracker",
+          "publisher": "Ashkan Hatef",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/df/94/6c/df946c55-e7eb-83a0-8223-10177d26d5e0/AppIcon-1x_U007emarketing-0-10-0-85-220-0.png/180x180bb.png",
+          "rating": 4.8,
+          "ratingCount": 2976,
+          "price": "0.00",
+          "rank": 457,
+          "category": "6013"
+        },
+        {
+          "appId": 1567018012,
+          "name": "iHealth COVID-19 Test",
+          "publisher": "iHealth Labs Inc.",
+          "icon": "https://is4-ssl.mzstatic.com/image/thumb/Purple116/v4/ac/b9/0c/acb90cd9-8525-4d86-d88d-1f2ea77515dd/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/180x180bb.png",
+          "rating": 4.5,
+          "ratingCount": 5350,
+          "price": "0.00",
+          "rank": 469,
+          "category": "6013"
+        },
+        {
+          "appId": 1096827640,
+          "name": "MuscleWiki: Workout & Fitness",
+          "publisher": "MuscleWiki SEZC",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/27/53/65/275365e2-9941-1b50-28d4-dd8c7bd0baed/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/180x180bb.png",
+          "rating": 4.8,
+          "ratingCount": 2424,
+          "price": "0.00",
+          "rank": 471,
+          "category": "6013"
+        },
+        {
+          "appId": 1312538762,
+          "name": "Seed to Spoon - Garden Planner",
+          "publisher": "JP Garden",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f9/89/4f/f9894ffa-e6fa-2407-6f92-c02fad2dc05e/AppIcon-0-0-1x_U007epad-0-1-85-220.png/180x180bb.png",
+          "rating": 4.8,
+          "ratingCount": 8505,
+          "price": "0.00",
+          "rank": 476,
+          "category": "6013"
+        },
+        {
+          "appId": 1172909820,
+          "name": "myCOMPASS PA",
+          "publisher": "Executive Office of The Commonwealth of Pennsylvania",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/78/4e/86/784e8634-d579-fcf3-25c9-f7e5ac47fd1a/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/180x180bb.png",
+          "rating": 4.7,
+          "ratingCount": 60000,
+          "price": "0.00",
+          "rank": 477,
+          "category": "6013"
+        },
+        {
+          "appId": 1514053992,
+          "name": "Pregnancy Diet: Food & Recipes",
+          "publisher": "Team Penguin",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d0/1d/9d/d01d9d04-1ed5-c3f5-107b-acfb4e6bbb68/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/180x180bb.png",
+          "rating": 4.5,
+          "ratingCount": 474,
+          "price": "0.00",
+          "rank": 479,
+          "category": "6013"
+        },
+        {
+          "appId": 1490244152,
+          "name": "Satisfyer Connect",
+          "publisher": "Triple A Marketing GmbH",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4f/fb/ab/4ffbab7f-59f4-eb8b-c975-31ce27176d4e/AppIcon-0-0-1x_U007ephone-0-0-85-220.jpeg/180x180bb.png",
+          "rating": 4.8,
+          "ratingCount": 5113,
+          "price": "0.00",
+          "rank": 482,
+          "category": "6013"
+        },
+        {
+          "appId": 1552621043,
+          "name": "Fit by Wix",
+          "publisher": "Wix.com Inc.",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7b/6b/da/7b6bdabf-10fa-3f5c-fe68-ee9a0b5b1d93/AppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.png/180x180bb.png",
+          "rating": 4.9,
+          "ratingCount": 4117,
+          "price": "0.00",
+          "rank": 488,
+          "category": "6013"
+        },
+        {
+          "appId": 1453444814,
+          "name": "GymRats · Fitness challenge",
+          "publisher": "Avocado Apps, LLC",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/aa/2a/f4/aa2af444-3790-70be-9d9e-233c26b47628/AppIcon-0-0-1x_U007emarketing-0-5-0-85-220.png/180x180bb.png",
+          "rating": 4.8,
+          "ratingCount": 2284,
+          "price": "0.00",
+          "rank": 492,
+          "category": "6013"
+        },
+        {
+          "appId": 1537946628,
+          "name": "iTouch Wearables",
+          "publisher": "AX Technologies",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/82/38/e0/8238e047-d1c2-2583-0f00-5971b02c3759/AppIcon-itouch-0-0-1x_U007emarketing-0-10-0-85-220.png/180x180bb.png",
+          "rating": 4.6,
+          "ratingCount": 35900,
+          "price": "0.00",
+          "rank": 497,
+          "category": "6013"
+        },
+        {
+          "appId": 1588729407,
+          "name": "TeamBuildr Training",
+          "publisher": "TeamBuildr, LLC",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d4/0f/8e/d40f8e61-3279-de9f-516d-f517083c7fac/AppIcon-Production-0-0-1x_U007emarketing-0-10-0-85-220.png/180x180bb.png",
+          "rating": 3.3,
+          "ratingCount": 188,
+          "price": "0.00",
+          "rank": 498,
+          "category": "6013"
+        },
+        {
+          "appId": 636875425,
+          "name": "TrailLink: Bike, Run, Walk",
+          "publisher": "Rails-to-Trails Conservancy",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/2d/a3/f5/2da3f53d-98c2-b3d1-8709-40941681d0b4/AppIcon-0-1x_U007emarketing-0-10-0-sRGB-85-220.png/180x180bb.png",
+          "rating": 4.6,
+          "ratingCount": 6944,
+          "price": "0.00",
+          "rank": 500,
+          "category": "6013"
+        }
+      ]
+    }
+  }
+}
