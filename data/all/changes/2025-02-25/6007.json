@@ -3,21 +3,10 @@
   "genre": "6007",
   "topRisers": [
     {
-      "appId": 1529442180,
-      "previous_rank": 476,
-      "current_rank": 195,
-      "rank_change": 281,
-      "category": "6007",
-      "date": "2025-02-25",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/43/fb/ba/43fbbaf6-3af2-13ce-cb31-9e76d9b2ed50/AppIcon-0-0-1x_U007emarketing-0-7-0-sRGB-85-220.png/180x180bb.png",
-      "app_name": "HelpDesk Host",
-      "publisher": "IDrive Incorporated"
-    },
-    {
       "appId": 834618886,
       "previous_rank": 274,
-      "current_rank": 36,
-      "rank_change": 238,
+      "current_rank": 37,
+      "rank_change": 237,
       "category": "6007",
       "date": "2025-02-25",
       "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/93/a0/8c/93a08c73-3df2-01d1-5cbc-97446b8c6123/AppIcon-0-0-1x_U007epad-0-11-0-85-220.png/180x180bb.png",
@@ -25,10 +14,32 @@
       "publisher": "Wallwisher, Inc."
     },
     {
+      "appId": 1662071074,
+      "previous_rank": 303,
+      "current_rank": 144,
+      "rank_change": 159,
+      "category": "6007",
+      "date": "2025-02-25",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4a/94/77/4a947788-f3bb-07bf-a7f6-dd9fe52f1c69/AppIcon-0-0-1x_U007ephone-0-0-0-85-220.png/100x100bb.jpg",
+      "app_name": "Authenticator App ©",
+      "publisher": "INIS LLC"
+    },
+    {
+      "appId": 1554982665,
+      "previous_rank": 327,
+      "current_rank": 172,
+      "rank_change": 155,
+      "category": "6007",
+      "date": "2025-02-25",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/20/31/27/203127f4-81a6-3421-fab6-d9c1403ecdec/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/180x180bb.png",
+      "app_name": "Clean Now：Clean Up Storage",
+      "publisher": "Shanghai Grammar Tree Technology Co., Ltd"
+    },
+    {
       "appId": 1515671684,
       "previous_rank": 468,
-      "current_rank": 260,
-      "rank_change": 208,
+      "current_rank": 317,
+      "rank_change": 151,
       "category": "6007",
       "date": "2025-02-25",
       "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/27/56/0e/27560ebe-e958-6af2-c735-9cc5b08b98a2/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-85-220.png/180x180bb.png",
@@ -36,37 +47,26 @@
       "publisher": "ESRI"
     },
     {
-      "appId": 1553473179,
-      "previous_rank": 348,
-      "current_rank": 154,
-      "rank_change": 194,
-      "category": "6007",
-      "date": "2025-02-25",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f2/9e/20/f29e201f-66d8-4899-314f-ef1ed3f568d2/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/180x180bb.png",
-      "app_name": "Hola ***",
-      "publisher": "Hola VPN Ltd"
-    },
-    {
-      "appId": 1228616124,
-      "previous_rank": 471,
-      "current_rank": 279,
-      "rank_change": 192,
-      "category": "6007",
-      "date": "2025-02-25",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/bc/d4/a0/bcd4a0c2-49de-3368-f892-6d9715f55fbe/AppIcon-0-0-1x_U007epad-0-1-85-220.png/180x180bb.png",
-      "app_name": "Staffmark Group WorkNOW",
-      "publisher": "Staffmark"
-    },
-    {
       "appId": 1633616591,
       "previous_rank": 341,
-      "current_rank": 182,
-      "rank_change": 159,
+      "current_rank": 191,
+      "rank_change": 150,
       "category": "6007",
       "date": "2025-02-25",
       "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0f/91/5f/0f915f23-0b91-a34f-37e4-30929d3ea476/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/180x180bb.png",
       "app_name": "ScanNow - Convert Pics to PDF",
       "publisher": "Magenta Apps"
+    },
+    {
+      "appId": 1529442180,
+      "previous_rank": 476,
+      "current_rank": 327,
+      "rank_change": 149,
+      "category": "6007",
+      "date": "2025-02-25",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/43/fb/ba/43fbbaf6-3af2-13ce-cb31-9e76d9b2ed50/AppIcon-0-0-1x_U007emarketing-0-7-0-sRGB-85-220.png/180x180bb.png",
+      "app_name": "HelpDesk Host",
+      "publisher": "IDrive Incorporated"
     }
   ]
 }
