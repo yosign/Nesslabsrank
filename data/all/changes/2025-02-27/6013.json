@@ -3,6 +3,28 @@
   "genre": "6013",
   "topRisers": [
     {
+      "appId": 6471596320,
+      "previous_rank": 429,
+      "current_rank": 252,
+      "rank_change": 177,
+      "category": "6013",
+      "date": "2025-02-27",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2e/0d/0b/2e0d0b2b-a0d0-b43e-7033-ebeb82a720e5/AppIconLimberV3-0-0-1x_U007emarketing-0-7-0-85-220.png/180x180bb.png",
+      "app_name": "Limber Health Home Exercise",
+      "publisher": "Limber Health, Inc."
+    },
+    {
+      "appId": 318815572,
+      "previous_rank": 461,
+      "current_rank": 289,
+      "rank_change": 172,
+      "category": "6013",
+      "date": "2025-02-27",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/67/ff/bd/67ffbd74-adde-eafb-78c8-822d38d2cbda/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/180x180bb.png",
+      "app_name": "Equinox+",
+      "publisher": "Equinox"
+    },
+    {
       "appId": 1096827640,
       "previous_rank": 488,
       "current_rank": 316,
@@ -14,21 +36,10 @@
       "publisher": "MuscleWiki SEZC"
     },
     {
-      "appId": 6504586102,
-      "previous_rank": 303,
-      "current_rank": 138,
-      "rank_change": 165,
-      "category": "6013",
-      "date": "2025-02-27",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e6/8e/28/e68e281f-c2b5-9a71-8d34-2c03a28b8c1a/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/180x180bb.png",
-      "app_name": "Musa: cycle syncing dragon",
-      "publisher": "Beek Technologies"
-    },
-    {
       "appId": 6443780756,
       "previous_rank": 384,
-      "current_rank": 236,
-      "rank_change": 148,
+      "current_rank": 218,
+      "rank_change": 166,
       "category": "6013",
       "date": "2025-02-27",
       "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d3/dd/05/d3dd053b-3cdd-3824-334a-a244e977b3c9/AppIcon-1x_U007ephone-0-85-220-0.png/180x180bb.png",
@@ -36,21 +47,10 @@
       "publisher": "DentaQuest LLC"
     },
     {
-      "appId": 318815572,
-      "previous_rank": 461,
-      "current_rank": 314,
-      "rank_change": 147,
-      "category": "6013",
-      "date": "2025-02-27",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/67/ff/bd/67ffbd74-adde-eafb-78c8-822d38d2cbda/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/180x180bb.png",
-      "app_name": "Equinox+",
-      "publisher": "Equinox"
-    },
-    {
       "appId": 1594167292,
       "previous_rank": 362,
-      "current_rank": 216,
-      "rank_change": 146,
+      "current_rank": 214,
+      "rank_change": 148,
       "category": "6013",
       "date": "2025-02-27",
       "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/75/57/0b/75570b30-3128-10fc-9bb9-d87db8513094/AppIcon-0-0-1x_U007ephone-0-1-0-0-sRGB-85-220.jpeg/180x180bb.png",
@@ -58,15 +58,15 @@
       "publisher": "Digital Skincare Inc"
     },
     {
-      "appId": 6476712925,
-      "previous_rank": 236,
-      "current_rank": 92,
-      "rank_change": 144,
+      "appId": 6448081563,
+      "previous_rank": 216,
+      "current_rank": 75,
+      "rank_change": 141,
       "category": "6013",
       "date": "2025-02-27",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/cf/0a/36/cf0a3612-53f6-197a-a9ad-b874595d852c/AppIcon-Launch-0-0-1x_U007ephone-0-1-85-220.png/180x180bb.png",
-      "app_name": "Peloton Strength+",
-      "publisher": "Peloton Interactive, Inc."
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3d/90/bf/3d90bff8-c29a-33f9-c8a2-fad9cb0df081/AppIcon-0-0-1x_U007epad-0-1-85-220.png/180x180bb.png",
+      "app_name": "Liftoff: Ranked Gym Workouts",
+      "publisher": "GymBros Inc."
     }
   ]
 }
