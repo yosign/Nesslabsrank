@@ -3,32 +3,10 @@
   "genre": "6002",
   "topRisers": [
     {
-      "appId": 1640323514,
-      "previous_rank": 470,
-      "current_rank": 314,
-      "rank_change": 156,
-      "category": "6002",
-      "date": "2025-02-28",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/cf/5a/7d/cf5a7dce-edf1-ab36-fd31-590cbe2dfb82/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/180x180bb.png",
-      "app_name": "Helium Mobile",
-      "publisher": "Nova Labs, Inc."
-    },
-    {
-      "appId": 6578425449,
-      "previous_rank": 318,
-      "current_rank": 168,
-      "rank_change": 150,
-      "category": "6002",
-      "date": "2025-02-28",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0d/99/3d/0d993d92-63e5-c56a-c43f-3fee5cf7c3f7/HomeAppIcon-0-0-1x_U007epad-0-10-0-85-220.png/180x180bb.png",
-      "app_name": "Lockly Home",
-      "publisher": "PIN GENIE LIMITED"
-    },
-    {
       "appId": 6740532952,
       "previous_rank": 473,
-      "current_rank": 338,
-      "rank_change": 135,
+      "current_rank": 269,
+      "rank_change": 204,
       "category": "6002",
       "date": "2025-02-28",
       "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/20/7e/53/207e533c-d0c2-5874-95c5-c739ddf8ef56/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/180x180bb.png",
@@ -36,10 +14,21 @@
       "publisher": "YELTO DEVELOP LLC"
     },
     {
+      "appId": 6578425449,
+      "previous_rank": 318,
+      "current_rank": 145,
+      "rank_change": 173,
+      "category": "6002",
+      "date": "2025-02-28",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0d/99/3d/0d993d92-63e5-c56a-c43f-3fee5cf7c3f7/HomeAppIcon-0-0-1x_U007epad-0-10-0-85-220.png/180x180bb.png",
+      "app_name": "Lockly Home",
+      "publisher": "PIN GENIE LIMITED"
+    },
+    {
       "appId": 6470879050,
       "previous_rank": 412,
-      "current_rank": 298,
-      "rank_change": 114,
+      "current_rank": 250,
+      "rank_change": 162,
       "category": "6002",
       "date": "2025-02-28",
       "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d1/2b/41/d12b412a-f1c6-443e-8b73-0ce1a73fc9dd/AppIcon-0-0-1x_U007epad-0-10-0-85-220.png/180x180bb.png",
@@ -47,26 +36,37 @@
       "publisher": "Ministry of Interior - Qatar"
     },
     {
-      "appId": 6741469520,
-      "previous_rank": 410,
-      "current_rank": 304,
-      "rank_change": 106,
+      "appId": 1477261074,
+      "previous_rank": 403,
+      "current_rank": 246,
+      "rank_change": 157,
       "category": "6002",
       "date": "2025-02-28",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/27/07/ed/2707edde-d8b9-44cb-b4f9-964e6a879561/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.jpeg/180x180bb.png",
-      "app_name": "DetX: Hidden Security Detector",
-      "publisher": "Cuthbert Barker"
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0b/c9/64/0bc9649a-b0d2-c7b0-196e-894ca5ce56d4/AppIcon-1x_U007epad-0-1-85-220-0.png/180x180bb.png",
+      "app_name": "Verkada Pass",
+      "publisher": "Verkada Inc."
     },
     {
-      "appId": 6741075452,
-      "previous_rank": 272,
-      "current_rank": 170,
-      "rank_change": 102,
+      "appId": 1072241945,
+      "previous_rank": 495,
+      "current_rank": 339,
+      "rank_change": 156,
       "category": "6002",
       "date": "2025-02-28",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ce/47/36/ce473670-8bd5-b596-60c7-086f5570dd07/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.jpeg/180x180bb.png",
-      "app_name": "Location Tracker: Family Find.",
-      "publisher": "Gaga Kvinikadze"
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/79/d2/09/79d20921-7abe-3a13-2d27-43bc5791f4c4/archcalcicon-0-0-1x_U007emarketing-0-7-0-85-220.png/180x180bb.png",
+      "app_name": "Feet and Inches Calculator",
+      "publisher": "Evan Winograd"
+    },
+    {
+      "appId": 1615561965,
+      "previous_rank": 367,
+      "current_rank": 226,
+      "rank_change": 141,
+      "category": "6002",
+      "date": "2025-02-28",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f1/4a/02/f14a02de-5408-67b7-5ef7-d1126a69e5cc/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/180x180bb.png",
+      "app_name": "RealCall - Spam Call Blocker",
+      "publisher": "Second Phone Number Inc"
     }
   ]
 }
