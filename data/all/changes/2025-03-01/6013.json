@@ -3,10 +3,21 @@
   "genre": "6013",
   "topRisers": [
     {
+      "appId": 1638253339,
+      "previous_rank": 472,
+      "current_rank": 299,
+      "rank_change": 173,
+      "category": "6013",
+      "date": "2025-03-01",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6e/ba/9d/6eba9d94-5505-262a-a36d-16436ce22bee/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/180x180bb.png",
+      "app_name": "Moneywalk Step Counter&Rewards",
+      "publisher": "Gravity Labs Co., Ltd."
+    },
+    {
       "appId": 6468272431,
       "previous_rank": 457,
-      "current_rank": 294,
-      "rank_change": 163,
+      "current_rank": 298,
+      "rank_change": 159,
       "category": "6013",
       "date": "2025-03-01",
       "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/67/1c/84/671c84ea-5631-cf2d-071e-c031a0147c72/AppIcon-0-0-1x_U007ephone-0-11-0-85-220.png/180x180bb.png",
@@ -14,32 +25,21 @@
       "publisher": "Spartan Race, Inc"
     },
     {
-      "appId": 1447478883,
-      "previous_rank": 473,
-      "current_rank": 331,
-      "rank_change": 142,
+      "appId": 1549559068,
+      "previous_rank": 481,
+      "current_rank": 336,
+      "rank_change": 145,
       "category": "6013",
       "date": "2025-03-01",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3b/bc/ec/3bbcec24-024c-0e17-5015-47f612b05fda/AppIcon-0-0-1x_U007epad-0-0-0-sRGB-85-220.png/180x180bb.png",
-      "app_name": "Sleep",
-      "publisher": "Bending Spoons Apps ApS"
-    },
-    {
-      "appId": 6498150329,
-      "previous_rank": 460,
-      "current_rank": 332,
-      "rank_change": 128,
-      "category": "6013",
-      "date": "2025-03-01",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/76/42/05/76420539-e03d-3b87-265c-3932bc20f740/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/180x180bb.png",
-      "app_name": "SelfQuest",
-      "publisher": "james kirkham"
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/90/5e/52/905e5299-c6c4-eb99-f392-25c6855be7b2/AppIcon-0-1x_U007emarketing-0-7-0-sRGB-85-220-0.png/180x180bb.png",
+      "app_name": "My Starkey",
+      "publisher": "Starkey Laboratories"
     },
     {
       "appId": 6587551738,
       "previous_rank": 374,
-      "current_rank": 254,
-      "rank_change": 120,
+      "current_rank": 260,
+      "rank_change": 114,
       "category": "6013",
       "date": "2025-03-01",
       "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/12/84/6d/12846df0-5ec8-f66f-2c4b-c191569c46fb/AppIcon-0-0-1x_U007ephone-0-0-85-220.png/180x180bb.png",
@@ -47,26 +47,26 @@
       "publisher": "Fuxin Technology"
     },
     {
+      "appId": 1201324762,
+      "previous_rank": 325,
+      "current_rank": 215,
+      "rank_change": 110,
+      "category": "6013",
+      "date": "2025-03-01",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f9/b9/ab/f9b9abee-8772-30ff-8b3e-caebe2200eab/AppIcon-0-0-1x_U007emarketing-0-6-0-sRGB-85-220.png/180x180bb.png",
+      "app_name": "Onelife Fitness",
+      "publisher": "MotionVibe Innovations LLC"
+    },
+    {
       "appId": 6741685163,
       "previous_rank": 498,
-      "current_rank": 389,
-      "rank_change": 109,
+      "current_rank": 394,
+      "rank_change": 104,
       "category": "6013",
       "date": "2025-03-01",
       "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/23/f7/f1/23f7f118-22d7-419f-049a-0f99d0f0fe1e/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/180x180bb.png",
       "app_name": "Debloat AI",
       "publisher": "Mindmush"
-    },
-    {
-      "appId": 1049249827,
-      "previous_rank": 369,
-      "current_rank": 282,
-      "rank_change": 87,
-      "category": "6013",
-      "date": "2025-03-01",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fc/68/03/fc68038b-c00f-d707-c103-592a5cd82800/AppIconProd-0-0-1x_U007emarketing-0-6-0-85-220.png/180x180bb.png",
-      "app_name": "Hello Heart • For heart health",
-      "publisher": "Hello Doctor Ltd."
     }
   ]
 }
