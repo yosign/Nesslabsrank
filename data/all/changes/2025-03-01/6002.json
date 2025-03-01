@@ -3,10 +3,21 @@
   "genre": "6002",
   "topRisers": [
     {
+      "appId": 305793334,
+      "previous_rank": 445,
+      "current_rank": 28,
+      "rank_change": 417,
+      "category": "6002",
+      "date": "2025-03-01",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/7f/e4/7b/7fe47b60-8892-1d69-12e9-ced414d64ad5/AppIcon-0-1x_U007emarketing-0-0-GLES2_U002c0-512MB-sRGB-0-0-0-85-220-0-0-0-7.png/180x180bb.png",
+      "app_name": "Planets",
+      "publisher": "Q Continuum"
+    },
+    {
       "appId": 6738782632,
       "previous_rank": 486,
-      "current_rank": 137,
-      "rank_change": 349,
+      "current_rank": 218,
+      "rank_change": 268,
       "category": "6002",
       "date": "2025-03-01",
       "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/30/a7/37/30a73748-d530-968d-92fa-4b052b464121/AppIcon-0-0-1x_U007epad-0-10-0-85-220.png/180x180bb.png",
@@ -14,10 +25,32 @@
       "publisher": "Cogeorgia LLC"
     },
     {
+      "appId": 1275945156,
+      "previous_rank": 425,
+      "current_rank": 197,
+      "rank_change": 228,
+      "category": "6002",
+      "date": "2025-03-01",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6e/3e/85/6e3e8572-b5a0-9036-f4ba-c2ab5108f7ff/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/180x180bb.png",
+      "app_name": "Chooser!",
+      "publisher": "Bon App & T"
+    },
+    {
+      "appId": 6739942125,
+      "previous_rank": 302,
+      "current_rank": 107,
+      "rank_change": 195,
+      "category": "6002",
+      "date": "2025-03-01",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e3/b5/04/e3b504e4-be8b-bc4a-be80-0ee1c0224ad8/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/180x180bb.png",
+      "app_name": "Apince",
+      "publisher": "Quan Owen Noome"
+    },
+    {
       "appId": 6738571716,
       "previous_rank": 432,
-      "current_rank": 198,
-      "rank_change": 234,
+      "current_rank": 244,
+      "rank_change": 188,
       "category": "6002",
       "date": "2025-03-01",
       "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6a/70/8c/6a708ce3-056a-dcec-8827-2eabd4ade079/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/180x180bb.png",
@@ -27,46 +60,13 @@
     {
       "appId": 6469581113,
       "previous_rank": 457,
-      "current_rank": 276,
-      "rank_change": 181,
+      "current_rank": 277,
+      "rank_change": 180,
       "category": "6002",
       "date": "2025-03-01",
       "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/97/08/cc/9708cc14-f130-107a-9a53-87bed779aae1/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/180x180bb.png",
       "app_name": "Cleaner: Phone Cleanup Storage",
       "publisher": "CheeseJoy Apps"
-    },
-    {
-      "appId": 6446767738,
-      "previous_rank": 443,
-      "current_rank": 272,
-      "rank_change": 171,
-      "category": "6002",
-      "date": "2025-03-01",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d2/10/42/d2104270-b71b-6fbc-03a9-1993fbdabd97/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/180x180bb.png",
-      "app_name": "Fonto - story font for IG",
-      "publisher": "ZEEBAVERSE LLC"
-    },
-    {
-      "appId": 6741692520,
-      "previous_rank": 371,
-      "current_rank": 208,
-      "rank_change": 163,
-      "category": "6002",
-      "date": "2025-03-01",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/63/3a/a8/633aa85d-48c3-6f91-f3d8-d4a70916e967/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/180x180bb.png",
-      "app_name": "QibIa Finder+",
-      "publisher": "Dhodi Miteshbhai Arvindbhai"
-    },
-    {
-      "appId": 6737031221,
-      "previous_rank": 493,
-      "current_rank": 335,
-      "rank_change": 158,
-      "category": "6002",
-      "date": "2025-03-01",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f7/e1/ea/f7e1ea06-d178-421b-6902-22fca53b41ef/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/180x180bb.png",
-      "app_name": "AI Cleaner Pro: Clean Storage",
-      "publisher": "HOMEX AND AI PTE. LTD."
     }
   ]
 }
