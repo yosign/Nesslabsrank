@@ -3,54 +3,10 @@
   "genre": "6012",
   "topRisers": [
     {
-      "appId": 1573869498,
-      "previous_rank": 279,
-      "current_rank": 121,
-      "rank_change": 158,
-      "category": "6012",
-      "date": "2025-03-17",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ba/0a/56/ba0a56e6-279d-e375-3537-8cbeeb240cd6/AppIcon-0-0-1x_U007emarketing-0-11-0-0-85-220.png/180x180bb.png",
-      "app_name": "Shuffles by Pinterest",
-      "publisher": "Pinterest"
-    },
-    {
-      "appId": 950623169,
-      "previous_rank": 394,
-      "current_rank": 246,
-      "rank_change": 148,
-      "category": "6012",
-      "date": "2025-03-17",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/38/9e/46/389e46f5-a35c-904f-0b33-6a910641ac45/AppIcon-0-0-1x_U007ephone-0-85-220.png/180x180bb.png",
-      "app_name": "The Nudge",
-      "publisher": "Livday"
-    },
-    {
-      "appId": 1635913940,
-      "previous_rank": 440,
-      "current_rank": 321,
-      "rank_change": 119,
-      "category": "6012",
-      "date": "2025-03-17",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/00/42/b1/0042b15a-9730-07d2-3e47-d185cd3dd3fe/AppIcon-0-1x_U007emarketing-0-7-0-sRGB-85-220-0.png/180x180bb.png",
-      "app_name": "Resident Experience",
-      "publisher": "Greystar Real Estate Partners LLC"
-    },
-    {
-      "appId": 1357742931,
-      "previous_rank": 126,
-      "current_rank": 19,
-      "rank_change": 107,
-      "category": "6012",
-      "date": "2025-03-17",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3c/90/38/3c9038db-8e47-cd2c-78ec-d50652ad2b8e/AppIcon-0-1x_U007emarketing-0-7-0-85-220-0.png/180x180bb.png",
-      "app_name": "Church Center App",
-      "publisher": "Ministry Centered Technologies"
-    },
-    {
       "appId": 6496536815,
       "previous_rank": 450,
-      "current_rank": 345,
-      "rank_change": 105,
+      "current_rank": 321,
+      "rank_change": 129,
       "category": "6012",
       "date": "2025-03-17",
       "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/70/93/56/709356b8-98bb-0eb6-9158-28678eaec2fd/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/180x180bb.png",
@@ -58,15 +14,59 @@
       "publisher": "Seedtime"
     },
     {
-      "appId": 1542642210,
-      "previous_rank": 348,
-      "current_rank": 250,
-      "rank_change": 98,
+      "appId": 1573869498,
+      "previous_rank": 279,
+      "current_rank": 155,
+      "rank_change": 124,
       "category": "6012",
       "date": "2025-03-17",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d7/33/8f/d7338f56-158c-880d-afb5-3cd05d9fd43b/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/180x180bb.png",
-      "app_name": "Planter: Garden Planner",
-      "publisher": "Percula"
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ba/0a/56/ba0a56e6-279d-e375-3537-8cbeeb240cd6/AppIcon-0-0-1x_U007emarketing-0-11-0-0-85-220.png/180x180bb.png",
+      "app_name": "Shuffles by Pinterest",
+      "publisher": "Pinterest"
+    },
+    {
+      "appId": 6450182934,
+      "previous_rank": 494,
+      "current_rank": 371,
+      "rank_change": 123,
+      "category": "6012",
+      "date": "2025-03-17",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/28/42/01/2842018a-2be9-7f48-2078-342850aef797/AppIcon-0-0-1x_U007epad-0-1-85-220.png/180x180bb.png",
+      "app_name": "Prime Opinion: Paid Surveys",
+      "publisher": "Prime Insights Group LLC"
+    },
+    {
+      "appId": 950623169,
+      "previous_rank": 394,
+      "current_rank": 275,
+      "rank_change": 119,
+      "category": "6012",
+      "date": "2025-03-17",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/38/9e/46/389e46f5-a35c-904f-0b33-6a910641ac45/AppIcon-0-0-1x_U007ephone-0-85-220.png/180x180bb.png",
+      "app_name": "The Nudge",
+      "publisher": "Livday"
+    },
+    {
+      "appId": 6502498724,
+      "previous_rank": 482,
+      "current_rank": 367,
+      "rank_change": 115,
+      "category": "6012",
+      "date": "2025-03-17",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b2/c6/2c/b2c62cf5-c52a-4c40-d5df-48c92c7c77b1/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/180x180bb.png",
+      "app_name": "Bytech",
+      "publisher": "BYTECH NY, INC."
+    },
+    {
+      "appId": 6502996574,
+      "previous_rank": 452,
+      "current_rank": 339,
+      "rank_change": 113,
+      "category": "6012",
+      "date": "2025-03-17",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a9/03/72/a9037267-4ae5-7d6e-8ab3-fcd2cbca272f/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.jpeg/180x180bb.png",
+      "app_name": "Maxxing: Face Beauty Analysis",
+      "publisher": "Glow Up"
     }
   ]
 }
