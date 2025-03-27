@@ -1,0 +1,385 @@
+{
+  "date": "2025-03-27",
+  "changes": {
+    "6005": {
+      "added": [
+        {
+          "appId": 1458740001,
+          "name": "Sticker.ly - Sticker Maker",
+          "publisher": "NAVER Z Corporation",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f4/5a/1a/f45a1ac4-6226-8c52-8fd7-9be08d9e6a99/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/180x180bb.png",
+          "rating": 4.8,
+          "ratingCount": 141000,
+          "price": "0.00",
+          "rank": 53,
+          "category": "6005"
+        },
+        {
+          "appId": 1616664639,
+          "name": "Tribel",
+          "publisher": "Likeopedia LLC",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/99/15/a3/9915a35f-10a9-09f4-7ec4-74c5b495ff13/AppIcon-1x_U007epad-0-10-0-0-85-220-0.png/180x180bb.png",
+          "rating": 4.6,
+          "ratingCount": 6974,
+          "price": "0.00",
+          "rank": 382,
+          "category": "6005"
+        },
+        {
+          "appId": 1394371125,
+          "name": "GroupSpot",
+          "publisher": "Kohort Technologies, Inc.",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4e/78/2a/4e782aef-65cb-1adc-98f8-f2f9af81b852/Prod-0-0-1x_U007emarketing-0-8-0-85-220.png/180x180bb.png",
+          "rating": 4.8,
+          "ratingCount": 1982,
+          "price": "0.00",
+          "rank": 386,
+          "category": "6005"
+        },
+        {
+          "appId": 1436429339,
+          "name": "Ditu",
+          "publisher": "Yas Opisso",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/98/51/01/98510197-f543-f092-54fa-4ddb71693a00/AppIcon-0-1x_U007emarketing-0-0-GLES2_U002c0-512MB-sRGB-0-0-0-85-220-0-0-0-7.png/180x180bb.png",
+          "rating": 4.3,
+          "ratingCount": 13,
+          "price": "0.00",
+          "rank": 421,
+          "category": "6005"
+        },
+        {
+          "appId": 1658972379,
+          "name": "GraceChat",
+          "publisher": "AI FANTASY INC",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/56/05/74/56057406-2f50-18a6-fbf3-711dd1117636/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/180x180bb.png",
+          "rating": 4.5,
+          "ratingCount": 1864,
+          "price": "0.00",
+          "rank": 424,
+          "category": "6005"
+        },
+        {
+          "appId": 1540206041,
+          "name": "Heartbeat Chat",
+          "publisher": "Heartbeat Chat, Inc",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/77/7b/a2/777ba2ef-3134-97c6-28b4-59b686dbecc4/AppIcon-0-0-1x_U007ephone-0-85-220.png/180x180bb.png",
+          "rating": 3.7,
+          "ratingCount": 83,
+          "price": "0.00",
+          "rank": 448,
+          "category": "6005"
+        },
+        {
+          "appId": 6740253507,
+          "name": "Rika - Girls & Live Video Call",
+          "publisher": "Taokeyi Network Technology Co., Ltd.",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/93/ab/62/93ab6243-2086-8067-993c-7789d2c9c3db/AppIcon-1x_U007ephone-0-10-0-85-220-0.png/180x180bb.png",
+          "rating": 5,
+          "ratingCount": 7,
+          "price": "0.00",
+          "rank": 451,
+          "category": "6005"
+        },
+        {
+          "appId": 6739125373,
+          "name": "SeeTa-Haz amigos & Divertirse",
+          "publisher": "METAZ TECHNOLOGY PTE. LTD.",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/66/0c/70/660c708b-9442-2715-8ea2-910aeff4e7b8/AppIcon-1x_U007ephone-0-0-0-85-220-0.png/180x180bb.png",
+          "rating": 0,
+          "ratingCount": 0,
+          "price": "0.00",
+          "rank": 462,
+          "category": "6005"
+        },
+        {
+          "appId": 6502249418,
+          "name": "Tango",
+          "publisher": "Benjamin Castro",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b3/29/26/b32926e4-a02a-128f-a130-b0f0e85f4a9c/AppIcon-0-0-1x_U007epad-0-85-220.png/180x180bb.png",
+          "rating": 0,
+          "ratingCount": 0,
+          "price": "0.00",
+          "rank": 474,
+          "category": "6005"
+        },
+        {
+          "appId": 1124287892,
+          "name": "Trans - Transgender Dating",
+          "publisher": "丽 沈",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/30/d1/3d/30d13d0a-4a4d-5de7-28a0-9179d893b469/AppIconForTrans-1x_U007emarketing-0-7-0-85-220-0.png/180x180bb.png",
+          "rating": 3.9,
+          "ratingCount": 3532,
+          "price": "0.00",
+          "rank": 487,
+          "category": "6005"
+        },
+        {
+          "appId": 1556283748,
+          "name": "TUVU App",
+          "publisher": "Potomac Technologies",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d2/00/1f/d2001fca-e6e0-90bc-c7c4-c8660bbf7b7b/AppIcon-0-0-1x_U007epad-0-85-220.png/180x180bb.png",
+          "rating": 4.6,
+          "ratingCount": 78,
+          "price": "0.00",
+          "rank": 488,
+          "category": "6005"
+        },
+        {
+          "appId": 6444900158,
+          "name": "Ultraviolet Chat",
+          "publisher": "Ultraviolet Labs, Inc.",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/82/a2/7f/82a27fa4-1750-7112-793a-4bdf57e9565e/AppIcon-0-0-1x_U007epad-0-1-85-220.png/180x180bb.png",
+          "rating": 4.4,
+          "ratingCount": 323,
+          "price": "0.00",
+          "rank": 490,
+          "category": "6005"
+        },
+        {
+          "appId": 1446854381,
+          "name": "Cougar Meet & Video Chat: Whip",
+          "publisher": "本均 邹",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a2/56/82/a2568273-2db0-c52c-19b9-8ac45bed28c5/AppIcon-0-0-1x_U007ephone-0-0-0-85-220.png/180x180bb.png",
+          "rating": 4.3,
+          "ratingCount": 1234,
+          "price": "0.00",
+          "rank": 492,
+          "category": "6005"
+        },
+        {
+          "appId": 6737146865,
+          "name": "Caller ID :True Name Caller ID",
+          "publisher": "Ravibhai Ramani",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/30/a8/c3/30a8c3a9-8e9c-4817-a7e1-7faa57d41f9c/AppIcon-0-0-1x_U007ephone-0-0-85-220.png/180x180bb.png",
+          "rating": 4.6,
+          "ratingCount": 101,
+          "price": "0.00",
+          "rank": 493,
+          "category": "6005"
+        },
+        {
+          "appId": 6743149825,
+          "name": "Solace: Paint with Words",
+          "publisher": "ENES KEKILLI",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6f/e0/1f/6fe01f6b-7258-b0be-e5c1-a4721d604328/AppIcon-1x_U007ephone-0-1-0-85-220-0.png/180x180bb.png",
+          "rating": 0,
+          "ratingCount": 0,
+          "price": "0.00",
+          "rank": 497,
+          "category": "6005"
+        },
+        {
+          "appId": 1212875170,
+          "name": "BNI Connect® Mobile",
+          "publisher": "BNI Mobile",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/09/a6/14/09a61454-05eb-8348-96b6-482b725a4f5d/MemberAppIcon-0-0-1x_U007emarketing-0-5-0-85-220.png/180x180bb.png",
+          "rating": 3,
+          "ratingCount": 97,
+          "price": "0.00",
+          "rank": 498,
+          "category": "6005"
+        },
+        {
+          "appId": 1457015349,
+          "name": "Fiorry: Transgender Dating",
+          "publisher": "DreamTek",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/03/24/4f/03244fb0-fbd0-cc55-e19c-98109a0c03c1/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/180x180bb.png",
+          "rating": 4.3,
+          "ratingCount": 2308,
+          "price": "0.00",
+          "rank": 500,
+          "category": "6005"
+        }
+      ],
+      "removed": [
+        {
+          "appId": 6739698522,
+          "name": "Comela - Surf Video & Chat",
+          "publisher": "Turgut BAHA",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c4/74/27/c474273a-28b2-76bc-a3a3-39ff780abb81/AppIcon-1x_U007ephone-0-0-0-85-220-0.png/180x180bb.png",
+          "rating": 0,
+          "ratingCount": 0,
+          "price": "0.00",
+          "rank": 371,
+          "category": "6005"
+        },
+        {
+          "appId": 589542221,
+          "name": "Instant Church Directory",
+          "publisher": "Communication Resources, Inc.",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d7/a2/5e/d7a25ee6-7163-078b-bf7d-11b22e93d82e/appicon_ios-1x_U007emarketing-0-8-0-85-220-0.png/180x180bb.png",
+          "rating": 4.5,
+          "ratingCount": 328,
+          "price": "0.00",
+          "rank": 453,
+          "category": "6005"
+        },
+        {
+          "appId": 6742431971,
+          "name": "CleanEarth: Eco Fun Together",
+          "publisher": "Kayra RAHMET",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/fa/ff/1a/faff1a92-92a0-78e0-fb7a-fdcdc9536033/AppIcon-1x_U007ephone-0-1-0-85-220-0.png/180x180bb.png",
+          "rating": 0,
+          "ratingCount": 0,
+          "price": "0.00",
+          "rank": 461,
+          "category": "6005"
+        },
+        {
+          "appId": 1406823891,
+          "name": "Dizkover: Find Friends Near Me",
+          "publisher": "ROCELLER ALVAREZ",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d5/d1/dd/d5d1dd44-d19c-8225-9c71-7f6ead7d5c32/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/180x180bb.png",
+          "rating": 4.3,
+          "ratingCount": 3087,
+          "price": "0.00",
+          "rank": 463,
+          "category": "6005"
+        },
+        {
+          "appId": 6475953781,
+          "name": "Spark Live - Live Streaming",
+          "publisher": "Hellen HK Limited",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/dd/21/63/dd21635d-172c-501d-3a28-a0f83e57c3d4/AppIcon-0-0-1x_U007emarketing-0-11-0-0-85-220.png/180x180bb.png",
+          "rating": 4.5,
+          "ratingCount": 95,
+          "price": "0.00",
+          "rank": 467,
+          "category": "6005"
+        },
+        {
+          "appId": 6740525721,
+          "name": "Fifty410",
+          "publisher": "Fifty 410 LLC",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/37/c7/50/37c750eb-31f4-5072-a8ed-4cc6415c5fd7/AppIcon-0-0-1x_U007epad-0-85-220.png/180x180bb.png",
+          "rating": 4.9,
+          "ratingCount": 89,
+          "price": "0.00",
+          "rank": 473,
+          "category": "6005"
+        },
+        {
+          "appId": 1291952832,
+          "name": "Bond Touch",
+          "publisher": "Bond Touch Inc.",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/1f/ae/b8/1faeb8f5-2e1f-2f87-a59d-4bfb6ed65ace/AppIcon-0-0-1x_U007ephone-0-11-0-85-220.png/180x180bb.png",
+          "rating": 4.6,
+          "ratingCount": 17000,
+          "price": "0.00",
+          "rank": 475,
+          "category": "6005"
+        },
+        {
+          "appId": 1453081302,
+          "name": "Kinzoo: Fun All-Ages Messenger",
+          "publisher": "Kinzoo Technologies Inc.",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/13/46/5a/13465ade-f657-1dd1-c16a-4a7dcecfc01b/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/180x180bb.png",
+          "rating": 4.8,
+          "ratingCount": 4238,
+          "price": "0.00",
+          "rank": 479,
+          "category": "6005"
+        },
+        {
+          "appId": 6738100998,
+          "name": "Cerca Dating: For Mutuals",
+          "publisher": "Cerca Applications, LLC",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/78/65/cd/7865cdcd-88f5-f0a0-af4e-65adbcb145bc/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/180x180bb.png",
+          "rating": 4.1,
+          "ratingCount": 103,
+          "price": "0.00",
+          "rank": 483,
+          "category": "6005"
+        },
+        {
+          "appId": 1664646371,
+          "name": "OMEGA NETWORK",
+          "publisher": "OM TECH CO. LTD.",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3e/45/83/3e458331-123a-f312-d392-e4d6e2940bd0/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/100x100bb.jpg",
+          "rating": 4.1,
+          "ratingCount": 125,
+          "price": "0.00",
+          "rank": 484,
+          "category": "6005"
+        },
+        {
+          "appId": 6642671875,
+          "name": "PolyTalk AI: Spicy Chat AI",
+          "publisher": "Abhishek Gajera",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/28/90/e9/2890e996-f391-9534-0ef1-4a1be8a82f18/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/180x180bb.png",
+          "rating": 4.6,
+          "ratingCount": 93,
+          "price": "0.00",
+          "rank": 488,
+          "category": "6005"
+        },
+        {
+          "appId": 1000261864,
+          "name": "MobileServe App",
+          "publisher": "MobileServe, LLC",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1b/32/3f/1b323f06-9269-be3d-5b80-cd05b12f185b/AppIcon-0-0-1x_U007emarketing-0-9-0-85-220.png/180x180bb.png",
+          "rating": 4.3,
+          "ratingCount": 1052,
+          "price": "0.00",
+          "rank": 490,
+          "category": "6005"
+        },
+        {
+          "appId": 1539388601,
+          "name": "YallaChat",
+          "publisher": "Yalla Technology FZ-LLC",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f0/26/2c/f0262c07-730a-dd84-3c35-fd8c96fbeb13/AppIcon-0-1x_U007emarketing-0-5-0-0-85-220-0.png/180x180bb.png",
+          "rating": 4.3,
+          "ratingCount": 292,
+          "price": "0.00",
+          "rank": 492,
+          "category": "6005"
+        },
+        {
+          "appId": 1523254549,
+          "name": "Grandstream Wave",
+          "publisher": "Grandstream",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9a/d3/fd/9ad3fd06-f59a-350b-5464-f4ab90973227/AppIcon-1x_U007emarketing-0-11-0-0-0-85-220-0.png/180x180bb.png",
+          "rating": 2.8,
+          "ratingCount": 39,
+          "price": "0.00",
+          "rank": 493,
+          "category": "6005"
+        },
+        {
+          "appId": 1443195071,
+          "name": "عدسات سناب",
+          "publisher": "abdallah almotiri",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/68/4b/cd/684bcd7f-3a59-70b7-203b-6b65bcfe10cf/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/180x180bb.png",
+          "rating": 4.5,
+          "ratingCount": 2566,
+          "price": "0.00",
+          "rank": 494,
+          "category": "6005"
+        },
+        {
+          "appId": 1514175088,
+          "name": "Twiq - Anonymous Chat",
+          "publisher": "Livantis GmbH",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3f/0e/6d/3f0e6d09-82c5-cc79-7d75-3ff58e814eff/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/180x180bb.png",
+          "rating": 4.4,
+          "ratingCount": 1399,
+          "price": "0.00",
+          "rank": 495,
+          "category": "6005"
+        },
+        {
+          "appId": 1639848849,
+          "name": "Moji: Your Global Best Friend",
+          "publisher": "w3company co.,ltd.",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/57/4b/8b/574b8b70-fc66-b71f-198a-d04d0369d280/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/180x180bb.png",
+          "rating": 4.6,
+          "ratingCount": 1332,
+          "price": "0.00",
+          "rank": 496,
+          "category": "6005"
+        }
+      ]
+    }
+  }
+}
