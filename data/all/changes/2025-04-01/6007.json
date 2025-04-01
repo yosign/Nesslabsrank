@@ -3,10 +3,21 @@
   "genre": "6007",
   "topRisers": [
     {
+      "appId": 6743493941,
+      "previous_rank": 346,
+      "current_rank": 133,
+      "rank_change": 213,
+      "category": "6007",
+      "date": "2025-04-01",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/63/84/c8/6384c822-11ff-cf78-cbbc-5e26a7143b61/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/180x180bb.png",
+      "app_name": "OCR Image AI",
+      "publisher": "Khawar Abbas Azam"
+    },
+    {
       "appId": 1609286976,
       "previous_rank": 441,
-      "current_rank": 213,
-      "rank_change": 228,
+      "current_rank": 234,
+      "rank_change": 207,
       "category": "6007",
       "date": "2025-04-01",
       "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f5/85/3f/f5853f2a-ab28-cd99-559d-158693ea08bb/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/180x180bb.png",
@@ -16,8 +27,8 @@
     {
       "appId": 953140409,
       "previous_rank": 471,
-      "current_rank": 281,
-      "rank_change": 190,
+      "current_rank": 286,
+      "rank_change": 185,
       "category": "6007",
       "date": "2025-04-01",
       "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/76/b3/39/76b33995-49b0-b9b8-0610-005f58e9b4e3/AppIcon-0-0-1x_U007emarketing-0-7-0-0-sRGB-0-85-220.png/180x180bb.png",
@@ -25,32 +36,10 @@
       "publisher": "Najm for Insurance Services"
     },
     {
-      "appId": 6502765078,
-      "previous_rank": 240,
-      "current_rank": 51,
-      "rank_change": 189,
-      "category": "6007",
-      "date": "2025-04-01",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ec/d1/bf/ecd1bff1-5fcf-d1fd-2f97-e5c27879f17a/AppIcon-0-0-1x_U007ephone-0-10-0-85-220.png/100x100bb.jpg",
-      "app_name": "Authenticator App ‧",
-      "publisher": "Normal Vector"
-    },
-    {
-      "appId": 6743493941,
-      "previous_rank": 346,
-      "current_rank": 169,
-      "rank_change": 177,
-      "category": "6007",
-      "date": "2025-04-01",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/63/84/c8/6384c822-11ff-cf78-cbbc-5e26a7143b61/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/180x180bb.png",
-      "app_name": "OCR Image AI",
-      "publisher": "Khawar Abbas Azam"
-    },
-    {
       "appId": 1228616124,
       "previous_rank": 449,
-      "current_rank": 280,
-      "rank_change": 169,
+      "current_rank": 274,
+      "rank_change": 175,
       "category": "6007",
       "date": "2025-04-01",
       "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/bc/d4/a0/bcd4a0c2-49de-3368-f892-6d9715f55fbe/AppIcon-0-0-1x_U007epad-0-1-85-220.png/180x180bb.png",
@@ -58,15 +47,26 @@
       "publisher": "Staffmark"
     },
     {
-      "appId": 1515671684,
-      "previous_rank": 416,
-      "current_rank": 274,
-      "rank_change": 142,
+      "appId": 6504410575,
+      "previous_rank": 429,
+      "current_rank": 259,
+      "rank_change": 170,
       "category": "6007",
       "date": "2025-04-01",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a4/a6/3b/a4a63b32-ba90-5e3b-54ed-56e3592fe307/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-85-220.png/180x180bb.png",
-      "app_name": "ArcGIS Field Maps",
-      "publisher": "ESRI"
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/37/21/29/37212942-86fa-700d-ac2d-01f2f8069aed/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/180x180bb.png",
+      "app_name": "BypassGPT - AI Detector Check",
+      "publisher": "Warrance Tougas"
+    },
+    {
+      "appId": 6502765078,
+      "previous_rank": 240,
+      "current_rank": 74,
+      "rank_change": 166,
+      "category": "6007",
+      "date": "2025-04-01",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ec/d1/bf/ecd1bff1-5fcf-d1fd-2f97-e5c27879f17a/AppIcon-0-0-1x_U007ephone-0-10-0-85-220.png/100x100bb.jpg",
+      "app_name": "Authenticator App ‧",
+      "publisher": "Normal Vector"
     }
   ]
 }
