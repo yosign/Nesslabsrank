@@ -3,10 +3,21 @@
   "genre": "6007",
   "topRisers": [
     {
+      "appId": 6740225830,
+      "previous_rank": 315,
+      "current_rank": 36,
+      "rank_change": 279,
+      "category": "6007",
+      "date": "2025-04-08",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0d/e3/e0/0de3e036-02ef-d48b-dbbc-1626cce9750b/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/180x180bb.png",
+      "app_name": "Rents Manage",
+      "publisher": "Fereh RAN"
+    },
+    {
       "appId": 1515671684,
       "previous_rank": 465,
-      "current_rank": 255,
-      "rank_change": 210,
+      "current_rank": 285,
+      "rank_change": 180,
       "category": "6007",
       "date": "2025-04-08",
       "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a4/a6/3b/a4a63b32-ba90-5e3b-54ed-56e3592fe307/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-85-220.png/180x180bb.png",
@@ -16,8 +27,8 @@
     {
       "appId": 1210034113,
       "previous_rank": 496,
-      "current_rank": 334,
-      "rank_change": 162,
+      "current_rank": 322,
+      "rank_change": 174,
       "category": "6007",
       "date": "2025-04-08",
       "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1e/82/8d/1e828d41-23ad-27aa-226e-9e6cbcfcd014/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/180x180bb.png",
@@ -25,10 +36,21 @@
       "publisher": "DIGISET LLC"
     },
     {
+      "appId": 290853822,
+      "previous_rank": 427,
+      "current_rank": 265,
+      "rank_change": 162,
+      "category": "6007",
+      "date": "2025-04-08",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/44/ae/db/44aedb17-e7d8-5714-f6ea-af89d46c18b5/AppIconAppStore-0-1x_U007emarketing-0-11-0-85-220-0.png/180x180bb.png",
+      "app_name": "Box: The Content Cloud",
+      "publisher": "Box, Inc."
+    },
+    {
       "appId": 1228616124,
       "previous_rank": 442,
-      "current_rank": 284,
-      "rank_change": 158,
+      "current_rank": 280,
+      "rank_change": 162,
       "category": "6007",
       "date": "2025-04-08",
       "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/bc/d4/a0/bcd4a0c2-49de-3368-f892-6d9715f55fbe/AppIcon-0-0-1x_U007epad-0-1-85-220.png/180x180bb.png",
@@ -38,35 +60,13 @@
     {
       "appId": 834618886,
       "previous_rank": 495,
-      "current_rank": 357,
-      "rank_change": 138,
+      "current_rank": 337,
+      "rank_change": 158,
       "category": "6007",
       "date": "2025-04-08",
       "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5b/93/c2/5b93c244-bcf8-29b0-949b-9a278463dac3/AppIcon-0-0-1x_U007epad-0-11-0-85-220.png/180x180bb.png",
       "app_name": "Padlet",
       "publisher": "Wallwisher, Inc."
-    },
-    {
-      "appId": 6443812921,
-      "previous_rank": 500,
-      "current_rank": 369,
-      "rank_change": 131,
-      "category": "6007",
-      "date": "2025-04-08",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ae/7b/24/ae7b245e-c364-28ef-0c0e-b89cb813cfcf/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/180x180bb.png",
-      "app_name": "Cubbily Family Shared Calendar",
-      "publisher": "DISCOVERY BAY PTE. LTD."
-    },
-    {
-      "appId": 1098999871,
-      "previous_rank": 373,
-      "current_rank": 256,
-      "rank_change": 117,
-      "category": "6007",
-      "date": "2025-04-08",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/be/47/4d/be474dd0-1d6a-70ff-9f12-9dc57c82537e/AppIcon-0-0-1x_U007emarketing-0-5-0-85-220.png/180x180bb.png",
-      "app_name": "Shared Family Calendar: FamCal",
-      "publisher": "Beesoft Apps"
     }
   ]
 }
