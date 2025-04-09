@@ -1,0 +1,484 @@
+{
+  "date": "2025-04-09",
+  "changes": {
+    "6005": {
+      "added": [
+        {
+          "appId": 6596801654,
+          "name": "hobi - Friends, Plans & Events",
+          "publisher": "INTI EMMANUEL PADILLA CLOUTHIER",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ed/ec/13/edec1344-c347-5bcf-fb54-f37bedca998a/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/180x180bb.png",
+          "rating": 0,
+          "ratingCount": 0,
+          "price": "0.00",
+          "rank": 233,
+          "category": "6005"
+        },
+        {
+          "appId": 1076117681,
+          "name": "Stationhead",
+          "publisher": "Stationhead, Inc",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/df/bc/d6/dfbcd6bf-b7e9-6f7e-e8d4-1a84811fc55c/AppIcon-1x_U007emarketing-0-11-0-sRGB-85-220-0.png/180x180bb.png",
+          "rating": 4.8,
+          "ratingCount": 23100,
+          "price": "0.00",
+          "rank": 313,
+          "category": "6005"
+        },
+        {
+          "appId": 6742226738,
+          "name": "Winkly: Cosplay",
+          "publisher": "JOY SPEAK LIMITED",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d8/10/e2/d810e287-50dd-363c-a0a4-7b87a7d3ae15/AppIcon-0-0-1x_U007ephone-0-1-85-220.jpeg/180x180bb.png",
+          "rating": 0,
+          "ratingCount": 0,
+          "price": "0.00",
+          "rank": 338,
+          "category": "6005"
+        },
+        {
+          "appId": 969104283,
+          "name": "Locate & Track Phone By Number",
+          "publisher": "Blender Soft Ltd",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/0f/62/52/0f625286-df58-e460-31e3-31c1e557c2a7/AppIcon-release-0-0-1x_U007emarketing-0-10-0-85-220.png/180x180bb.png",
+          "rating": 4.5,
+          "ratingCount": 444,
+          "price": "0.00",
+          "rank": 389,
+          "category": "6005"
+        },
+        {
+          "appId": 6447674973,
+          "name": "WhataLife by Whataburger",
+          "publisher": "Whataburger",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b1/8f/8e/b18f8e73-95ec-2e5b-f454-d57569390ff1/CustomAppIcon-0-0-1x_U007epad-0-1-0-85-220.png/180x180bb.png",
+          "rating": 4.3,
+          "ratingCount": 24,
+          "price": "0.00",
+          "rank": 392,
+          "category": "6005"
+        },
+        {
+          "appId": 1560495181,
+          "name": "Soltera - Latino Dating App",
+          "publisher": "Swift Tech, LLC",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6d/57/ca/6d57ca2a-e747-d5c4-b9e7-5a5543f8f850/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/180x180bb.png",
+          "rating": 4.7,
+          "ratingCount": 3329,
+          "price": "0.00",
+          "rank": 431,
+          "category": "6005"
+        },
+        {
+          "appId": 1000261864,
+          "name": "MobileServe App",
+          "publisher": "MobileServe, LLC",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/51/15/57/51155763-5d04-8387-04cf-7595b0a16cfa/AppIcon-0-0-1x_U007emarketing-0-9-0-85-220.png/180x180bb.png",
+          "rating": 4.3,
+          "ratingCount": 1053,
+          "price": "0.00",
+          "rank": 457,
+          "category": "6005"
+        },
+        {
+          "appId": 1514175088,
+          "name": "Twiq - Anonymous Chat",
+          "publisher": "Livantis GmbH",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f9/b3/95/f9b39597-ea34-b6e7-45a6-25f919afeb9d/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/180x180bb.png",
+          "rating": 4.4,
+          "ratingCount": 1423,
+          "price": "0.00",
+          "rank": 472,
+          "category": "6005"
+        },
+        {
+          "appId": 1485347374,
+          "name": "Timekettle",
+          "publisher": "Shenzhen Timekettle Technologies Co., Ltd.",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a3/26/bf/a326bf51-408e-6ebd-e84b-b9fcbcf71d88/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/180x180bb.png",
+          "rating": 2.8,
+          "ratingCount": 266,
+          "price": "0.00",
+          "rank": 473,
+          "category": "6005"
+        },
+        {
+          "appId": 1444762648,
+          "name": "PingMe - Second Phone Number",
+          "publisher": "PingMe",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fe/23/13/fe2313bd-e107-ad83-4e78-0d195dd479ac/AppIcon-0-0-1x_U007emarketing-0-8-0-0-sRGB-85-220.png/180x180bb.png",
+          "rating": 3.7,
+          "ratingCount": 1034,
+          "price": "0.00",
+          "rank": 479,
+          "category": "6005"
+        },
+        {
+          "appId": 1461664069,
+          "name": "AllMyLinks",
+          "publisher": "ALLMYLINKS LLC",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/89/8a/d7/898ad7b7-475e-f781-d36b-fffbbab4827c/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/100x100bb.jpg",
+          "rating": 2.6,
+          "ratingCount": 50,
+          "price": "0.00",
+          "rank": 483,
+          "category": "6005"
+        },
+        {
+          "appId": 1061569723,
+          "name": "Vyke: Second Phone Number",
+          "publisher": "Vyke Telecoms Limited",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3b/21/64/3b2164e8-9a3f-500b-b746-e8cc44441031/AppIcon-1x_U007emarketing-0-8-0-0-85-220-0.png/180x180bb.png",
+          "rating": 4.2,
+          "ratingCount": 1830,
+          "price": "0.00",
+          "rank": 485,
+          "category": "6005"
+        },
+        {
+          "appId": 977620481,
+          "name": "Plus40 - dating and chat.",
+          "publisher": "Recordmedia SL",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/62/60/8f/62608ff3-7a41-125e-bfb4-f9c1f2e84fbf/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/180x180bb.png",
+          "rating": 4.7,
+          "ratingCount": 515,
+          "price": "0.00",
+          "rank": 486,
+          "category": "6005"
+        },
+        {
+          "appId": 6463862890,
+          "name": "Paint Love - widget for couple",
+          "publisher": "FutureForce OU",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7c/47/2a/7c472a4a-93ea-c27a-be78-b529d5765dde/AppIcon-0-0-1x_U007ephone-0-0-0-0-85-220.png/180x180bb.png",
+          "rating": 4.5,
+          "ratingCount": 734,
+          "price": "0.00",
+          "rank": 487,
+          "category": "6005"
+        },
+        {
+          "appId": 936601391,
+          "name": "Me - Caller ID",
+          "publisher": "NFO LTD",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/42/eb/eb/42ebebeb-398c-c40a-2a4e-951956a22a92/AppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.png/180x180bb.png",
+          "rating": 4.4,
+          "ratingCount": 1344,
+          "price": "0.00",
+          "rank": 489,
+          "category": "6005"
+        },
+        {
+          "appId": 1347676495,
+          "name": "Omi - Date & Meet Friends",
+          "publisher": "MatchUp UK Limited",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a0/9d/83/a09d8360-f727-d783-4057-85eb2b59c980/AppIcon-0-0-1x_U007ephone-0-11-0-0-sRGB-85-220.png/180x180bb.png",
+          "rating": 4.5,
+          "ratingCount": 1255,
+          "price": "0.00",
+          "rank": 491,
+          "category": "6005"
+        },
+        {
+          "appId": 1464227762,
+          "name": "Alignable",
+          "publisher": "Alignable, Inc.",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/26/3c/b1/263cb1cb-a4e7-5d09-3016-c82fd242772c/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/180x180bb.png",
+          "rating": 0,
+          "ratingCount": 0,
+          "price": "0.00",
+          "rank": 492,
+          "category": "6005"
+        },
+        {
+          "appId": 6504856731,
+          "name": "Telegram x Dual Messenger",
+          "publisher": "Sharad Solanki",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e3/61/d2/e361d2e6-4999-3d14-d594-7439f44cd900/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/180x180bb.png",
+          "rating": 4.5,
+          "ratingCount": 239,
+          "price": "0.00",
+          "rank": 493,
+          "category": "6005"
+        },
+        {
+          "appId": 1668282277,
+          "name": "corner: curate & share places",
+          "publisher": "Corner International, Inc.",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/8f/9d/77/8f9d77be-da87-73bc-c20f-be732ff5c4a9/AppIcon-0-0-1x_U007ephone-0-85-220.jpeg/180x180bb.png",
+          "rating": 4.5,
+          "ratingCount": 167,
+          "price": "0.00",
+          "rank": 494,
+          "category": "6005"
+        },
+        {
+          "appId": 1522059253,
+          "name": "كاشف الارقام: معرفة اسم المتصل",
+          "publisher": "GLOBAL SOFTWARE DEVELOPMENT AND TECHNOLOGY SUPPORT Limited",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3a/fd/1d/3afd1dd0-cef5-7162-d75f-c8be11fb7065/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/180x180bb.png",
+          "rating": 4.3,
+          "ratingCount": 5187,
+          "price": "0.00",
+          "rank": 495,
+          "category": "6005"
+        },
+        {
+          "appId": 6738100998,
+          "name": "Cerca Dating: For Mutuals",
+          "publisher": "Cerca Applications, LLC",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/37/54/89/3754897d-a1a4-67de-6111-246866983a21/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/180x180bb.png",
+          "rating": 4,
+          "ratingCount": 113,
+          "price": "0.00",
+          "rank": 496,
+          "category": "6005"
+        }
+      ],
+      "removed": [
+        {
+          "appId": 405228226,
+          "name": "Ubisoft Connect",
+          "publisher": "Ubisoft",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e9/26/d4/e926d440-666b-a825-932c-de5c88871e72/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/180x180bb.png",
+          "rating": 4.7,
+          "ratingCount": 23400,
+          "price": "0.00",
+          "rank": 100,
+          "category": "6005"
+        },
+        {
+          "appId": 6742175775,
+          "name": "StorySphere",
+          "publisher": "Thao Thanh Anh Nguyen",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0a/27/95/0a27958a-2a8f-d76e-9953-58939351af3f/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/180x180bb.png",
+          "rating": 4.4,
+          "ratingCount": 9,
+          "price": "0.00",
+          "rank": 302,
+          "category": "6005"
+        },
+        {
+          "appId": 6742431971,
+          "name": "CleanEarth: Eco Fun Together",
+          "publisher": "Kayra RAHMET",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/fa/ff/1a/faff1a92-92a0-78e0-fb7a-fdcdc9536033/AppIcon-1x_U007ephone-0-1-0-85-220-0.png/180x180bb.png",
+          "rating": 0,
+          "ratingCount": 0,
+          "price": "0.00",
+          "rank": 308,
+          "category": "6005"
+        },
+        {
+          "appId": 6743937022,
+          "name": "Qumiu",
+          "publisher": "Ali GUR",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/61/92/c9/6192c948-da04-7725-c3a8-b6fdc0da2ecd/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/180x180bb.png",
+          "rating": 0,
+          "ratingCount": 0,
+          "price": "0.00",
+          "rank": 347,
+          "category": "6005"
+        },
+        {
+          "appId": 1660550114,
+          "name": "OneMeetUp Dating app:Chat&Date",
+          "publisher": "Jeffly Jean",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/69/4d/a8/694da852-8fa0-d81d-c061-8dd1801bc181/AppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.png/180x180bb.png",
+          "rating": 3.6,
+          "ratingCount": 12,
+          "price": "0.00",
+          "rank": 385,
+          "category": "6005"
+        },
+        {
+          "appId": 6743522333,
+          "name": "Kine: Discover Fascinate Facts",
+          "publisher": "施航 季",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e1/5a/d1/e15ad19d-68a3-9cce-3ab7-2d72efc2ff61/AppIcon-0-0-1x_U007ephone-0-85-220.png/180x180bb.png",
+          "rating": 4.9,
+          "ratingCount": 7,
+          "price": "0.00",
+          "rank": 400,
+          "category": "6005"
+        },
+        {
+          "appId": 1447414322,
+          "name": "WristWeb for Facebook",
+          "publisher": "XAN Applications GmbH & Co. KG",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/2b/68/ee/2b68eeb4-c7f6-817a-cff6-0e6c82aae2ca/AppIcon_1-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/180x180bb.png",
+          "rating": 4.2,
+          "ratingCount": 496,
+          "price": "0.00",
+          "rank": 411,
+          "category": "6005"
+        },
+        {
+          "appId": 1299968090,
+          "name": "BaseConnect",
+          "publisher": "BaseConnect LLC",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/86/63/f9/8663f9de-5afd-d27b-eeb2-688f49f6457e/AppIcon-0-0-1x_U007epad-0-1-85-220.png/180x180bb.png",
+          "rating": 3.9,
+          "ratingCount": 14,
+          "price": "0.00",
+          "rank": 437,
+          "category": "6005"
+        },
+        {
+          "appId": 6740232833,
+          "name": "OtaFU: Random Chat & Girls",
+          "publisher": "JP Tech",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f5/33/23/f533237f-2904-a62d-21d1-8126d7a5a912/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/180x180bb.png",
+          "rating": 5,
+          "ratingCount": 6,
+          "price": "0.00",
+          "rank": 441,
+          "category": "6005"
+        },
+        {
+          "appId": 6743472494,
+          "name": "Cupidy - Safe AI Chat and Fun",
+          "publisher": "一萍 耿",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8d/1e/27/8d1e276b-f19a-4951-349e-61e023adeafe/AppIcon-0-0-1x_U007ephone-0-85-220.png/180x180bb.png",
+          "rating": 0,
+          "ratingCount": 0,
+          "price": "0.00",
+          "rank": 450,
+          "category": "6005"
+        },
+        {
+          "appId": 6470240338,
+          "name": "Lonestar Dads",
+          "publisher": "LonestarDads LLC",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/69/ac/eb/69acebb9-485b-49fe-2727-d5255ae99ac6/AppIcon-0-0-1x_U007emarketing-0-10-0-0-85-220.png/180x180bb.png",
+          "rating": 0,
+          "ratingCount": 0,
+          "price": "0.00",
+          "rank": 467,
+          "category": "6005"
+        },
+        {
+          "appId": 6740472768,
+          "name": "Zingo: Live & Private Chat",
+          "publisher": "Qudrat Kinzar",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/03/23/6b/03236bc3-3204-d78f-7d2d-efedee17f960/AppIcon-1x_U007ephone-0-10-0-85-220-0.png/180x180bb.png",
+          "rating": 0,
+          "ratingCount": 0,
+          "price": "0.00",
+          "rank": 471,
+          "category": "6005"
+        },
+        {
+          "appId": 6502898347,
+          "name": "Flamify AI: AI Date and Chat",
+          "publisher": "Tolstykh Dmitrii",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/78/82/93/78829354-91bb-8efa-ca2c-05748f47bed3/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/180x180bb.png",
+          "rating": 4.5,
+          "ratingCount": 580,
+          "price": "0.00",
+          "rank": 473,
+          "category": "6005"
+        },
+        {
+          "appId": 1530339637,
+          "name": "MyALDI USA",
+          "publisher": "ALDI International Services GmbH & Co. oHG",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8a/5f/57/8a5f5786-c3f0-484f-bda2-8653f679a476/CustomAppIcon-0-0-1x_U007epad-0-1-0-85-220.png/180x180bb.png",
+          "rating": 2.6,
+          "ratingCount": 98,
+          "price": "0.00",
+          "rank": 484,
+          "category": "6005"
+        },
+        {
+          "appId": 1453081302,
+          "name": "Kinzoo: Fun All-Ages Messenger",
+          "publisher": "Kinzoo Technologies Inc.",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/13/46/5a/13465ade-f657-1dd1-c16a-4a7dcecfc01b/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/180x180bb.png",
+          "rating": 4.8,
+          "ratingCount": 4238,
+          "price": "0.00",
+          "rank": 486,
+          "category": "6005"
+        },
+        {
+          "appId": 6449623196,
+          "name": "Texting App: Text & Call Now",
+          "publisher": "Shenzhen Lingxing Culture Co., Ltd.",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/83/2f/d2/832fd2b6-f74b-840f-6d5d-c57adab01b14/AppIcon-0-0-1x_U007emarketing-0-11-0-sRGB-85-220.png/180x180bb.png",
+          "rating": 4.7,
+          "ratingCount": 538,
+          "price": "0.00",
+          "rank": 490,
+          "category": "6005"
+        },
+        {
+          "appId": 908023218,
+          "name": "MICO: Make Friends, Live Chat",
+          "publisher": "MICO WORLD",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7d/74/b2/7d74b236-1d36-3c17-4612-f2114cedc891/AppIcon-0-0-1x_U007emarketing-0-5-0-0-85-220.png/180x180bb.png",
+          "rating": 3.8,
+          "ratingCount": 1596,
+          "price": "0.00",
+          "rank": 492,
+          "category": "6005"
+        },
+        {
+          "appId": 6742219437,
+          "name": "Seya - Fantasy Video Chat",
+          "publisher": "Woods Nemiah",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9a/6e/aa/9a6eaa20-b0f8-d108-522e-0aa887a6ad35/AppIcon-0-0-1x_U007ephone-0-85-220.png/180x180bb.png",
+          "rating": 4.7,
+          "ratingCount": 52,
+          "price": "0.00",
+          "rank": 493,
+          "category": "6005"
+        },
+        {
+          "appId": 1539272301,
+          "name": "ChatHub Random Stranger Chat",
+          "publisher": "Peppty Technologies Private Limited",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3f/60/60/3f6060ae-930e-5254-0649-62ced8637785/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/180x180bb.png",
+          "rating": 4.2,
+          "ratingCount": 538,
+          "price": "0.00",
+          "rank": 496,
+          "category": "6005"
+        },
+        {
+          "appId": 1525252630,
+          "name": "WinkChat: Make New Chat Room",
+          "publisher": "ALPHASCALE MEDIA GMBH",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b4/6b/10/b46b101d-1a0b-cf61-9ffc-5db09719742b/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/180x180bb.png",
+          "rating": 4.7,
+          "ratingCount": 5758,
+          "price": "0.00",
+          "rank": 497,
+          "category": "6005"
+        },
+        {
+          "appId": 625001689,
+          "name": "CDFF: Christian Dating App",
+          "publisher": "E Dating For Free, Inc.",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/aa/24/ac/aa24acf8-6ab9-3ffb-c1f8-a045119b18fa/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/180x180bb.png",
+          "rating": 4.1,
+          "ratingCount": 3156,
+          "price": "0.00",
+          "rank": 498,
+          "category": "6005"
+        },
+        {
+          "appId": 6737146865,
+          "name": "Caller ID :True Name Caller ID",
+          "publisher": "Ravibhai Ramani",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/30/a8/c3/30a8c3a9-8e9c-4817-a7e1-7faa57d41f9c/AppIcon-0-0-1x_U007ephone-0-0-85-220.png/180x180bb.png",
+          "rating": 4.7,
+          "ratingCount": 129,
+          "price": "0.00",
+          "rank": 499,
+          "category": "6005"
+        }
+      ]
+    }
+  }
+}
