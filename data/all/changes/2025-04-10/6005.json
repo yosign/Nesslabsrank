@@ -3,43 +3,10 @@
   "genre": "6005",
   "topRisers": [
     {
-      "appId": 6447674973,
-      "previous_rank": 392,
-      "current_rank": 230,
-      "rank_change": 162,
-      "category": "6005",
-      "date": "2025-04-10",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b1/8f/8e/b18f8e73-95ec-2e5b-f454-d57569390ff1/CustomAppIcon-0-0-1x_U007epad-0-1-0-85-220.png/180x180bb.png",
-      "app_name": "WhataLife by Whataburger",
-      "publisher": "Whataburger"
-    },
-    {
-      "appId": 6738100998,
-      "previous_rank": 496,
-      "current_rank": 359,
-      "rank_change": 137,
-      "category": "6005",
-      "date": "2025-04-10",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/37/54/89/3754897d-a1a4-67de-6111-246866983a21/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/180x180bb.png",
-      "app_name": "Cerca Dating: For Mutuals",
-      "publisher": "Cerca Applications, LLC"
-    },
-    {
-      "appId": 6449951641,
-      "previous_rank": 366,
-      "current_rank": 242,
-      "rank_change": 124,
-      "category": "6005",
-      "date": "2025-04-10",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f2/63/5a/f2635a73-1aa9-fdab-b9a2-157fa9caaf29/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/180x180bb.png",
-      "app_name": "Try Your Best",
-      "publisher": "TYB Inc."
-    },
-    {
       "appId": 6499293117,
       "previous_rank": 441,
-      "current_rank": 327,
-      "rank_change": 114,
+      "current_rank": 288,
+      "rank_change": 153,
       "category": "6005",
       "date": "2025-04-10",
       "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5f/13/48/5f13485a-2b69-b40f-51d8-d24a5cdcb2f4/AppIcon-1x_U007ephone-0-1-0-85-220-0.png/180x180bb.png",
@@ -47,26 +14,59 @@
       "publisher": "METAZ TECHNOLOGY PTE. LTD."
     },
     {
-      "appId": 1571998974,
-      "previous_rank": 437,
-      "current_rank": 326,
-      "rank_change": 111,
+      "appId": 6738100998,
+      "previous_rank": 496,
+      "current_rank": 354,
+      "rank_change": 142,
       "category": "6005",
       "date": "2025-04-10",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a2/4d/fd/a24dfd49-4468-5b85-3daf-87cc45a97dde/AppIcon-0-0-1x_U007epad-0-1-P3-85-220.png/180x180bb.png",
-      "app_name": "Mastodon",
-      "publisher": "Mastodon gGmbH"
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/37/54/89/3754897d-a1a4-67de-6111-246866983a21/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/180x180bb.png",
+      "app_name": "Cerca Dating: For Mutuals",
+      "publisher": "Cerca Applications, LLC"
     },
     {
-      "appId": 1464227762,
-      "previous_rank": 492,
-      "current_rank": 390,
-      "rank_change": 102,
+      "appId": 969104283,
+      "previous_rank": 389,
+      "current_rank": 262,
+      "rank_change": 127,
       "category": "6005",
       "date": "2025-04-10",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/26/3c/b1/263cb1cb-a4e7-5d09-3016-c82fd242772c/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/180x180bb.png",
-      "app_name": "Alignable",
-      "publisher": "Alignable, Inc."
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/0f/62/52/0f625286-df58-e460-31e3-31c1e557c2a7/AppIcon-release-0-0-1x_U007emarketing-0-10-0-85-220.png/180x180bb.png",
+      "app_name": "Locate & Track Phone By Number",
+      "publisher": "Blender Soft Ltd"
+    },
+    {
+      "appId": 6447674973,
+      "previous_rank": 392,
+      "current_rank": 285,
+      "rank_change": 107,
+      "category": "6005",
+      "date": "2025-04-10",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b1/8f/8e/b18f8e73-95ec-2e5b-f454-d57569390ff1/CustomAppIcon-0-0-1x_U007epad-0-1-0-85-220.png/180x180bb.png",
+      "app_name": "WhataLife by Whataburger",
+      "publisher": "Whataburger"
+    },
+    {
+      "appId": 6475953781,
+      "previous_rank": 417,
+      "current_rank": 312,
+      "rank_change": 105,
+      "category": "6005",
+      "date": "2025-04-10",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/dd/21/63/dd21635d-172c-501d-3a28-a0f83e57c3d4/AppIcon-0-0-1x_U007emarketing-0-11-0-0-85-220.png/180x180bb.png",
+      "app_name": "Spark Live - Live Streaming",
+      "publisher": "Hellen HK Limited"
+    },
+    {
+      "appId": 6742230377,
+      "previous_rank": 428,
+      "current_rank": 325,
+      "rank_change": 103,
+      "category": "6005",
+      "date": "2025-04-10",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/82/9a/22/829a2220-4156-d087-75d8-4856a35bb58c/AppIcon-0-1x_U007ephone-0-1-0-85-220-0.jpeg/180x180bb.png",
+      "app_name": "Kiza",
+      "publisher": "正轩 谭"
     }
   ]
 }
