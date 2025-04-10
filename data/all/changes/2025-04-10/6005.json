@@ -3,21 +3,10 @@
   "genre": "6005",
   "topRisers": [
     {
-      "appId": 6499293117,
-      "previous_rank": 441,
-      "current_rank": 311,
-      "rank_change": 130,
-      "category": "6005",
-      "date": "2025-04-10",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5f/13/48/5f13485a-2b69-b40f-51d8-d24a5cdcb2f4/AppIcon-1x_U007ephone-0-1-0-85-220-0.png/180x180bb.png",
-      "app_name": "ChatTa-Live Match New Friends",
-      "publisher": "METAZ TECHNOLOGY PTE. LTD."
-    },
-    {
       "appId": 6447674973,
       "previous_rank": 392,
-      "current_rank": 281,
-      "rank_change": 111,
+      "current_rank": 230,
+      "rank_change": 162,
       "category": "6005",
       "date": "2025-04-10",
       "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b1/8f/8e/b18f8e73-95ec-2e5b-f454-d57569390ff1/CustomAppIcon-0-0-1x_U007epad-0-1-0-85-220.png/180x180bb.png",
@@ -25,21 +14,10 @@
       "publisher": "Whataburger"
     },
     {
-      "appId": 1559483982,
-      "previous_rank": 327,
-      "current_rank": 218,
-      "rank_change": 109,
-      "category": "6005",
-      "date": "2025-04-10",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c6/cd/3b/c6cd3bf5-98c4-74d4-4528-ba2699fcb634/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/180x180bb.png",
-      "app_name": "HoYoLAB",
-      "publisher": "COGNOSPHERE PTE. LTD."
-    },
-    {
       "appId": 6738100998,
       "previous_rank": 496,
-      "current_rank": 387,
-      "rank_change": 109,
+      "current_rank": 359,
+      "rank_change": 137,
       "category": "6005",
       "date": "2025-04-10",
       "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/37/54/89/3754897d-a1a4-67de-6111-246866983a21/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/180x180bb.png",
@@ -49,8 +27,8 @@
     {
       "appId": 6449951641,
       "previous_rank": 366,
-      "current_rank": 260,
-      "rank_change": 106,
+      "current_rank": 242,
+      "rank_change": 124,
       "category": "6005",
       "date": "2025-04-10",
       "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f2/63/5a/f2635a73-1aa9-fdab-b9a2-157fa9caaf29/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/180x180bb.png",
@@ -58,15 +36,37 @@
       "publisher": "TYB Inc."
     },
     {
-      "appId": 6743310234,
-      "previous_rank": 174,
-      "current_rank": 86,
-      "rank_change": 88,
+      "appId": 6499293117,
+      "previous_rank": 441,
+      "current_rank": 327,
+      "rank_change": 114,
       "category": "6005",
       "date": "2025-04-10",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/bc/88/0c/bc880c53-b87b-345e-c03e-d2550d8eeb46/AppIcon-1x_U007ephone-0-0-85-220-0.png/180x180bb.png",
-      "app_name": "Solvion",
-      "publisher": "Kerim MERCAN"
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5f/13/48/5f13485a-2b69-b40f-51d8-d24a5cdcb2f4/AppIcon-1x_U007ephone-0-1-0-85-220-0.png/180x180bb.png",
+      "app_name": "ChatTa-Live Match New Friends",
+      "publisher": "METAZ TECHNOLOGY PTE. LTD."
+    },
+    {
+      "appId": 1571998974,
+      "previous_rank": 437,
+      "current_rank": 326,
+      "rank_change": 111,
+      "category": "6005",
+      "date": "2025-04-10",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a2/4d/fd/a24dfd49-4468-5b85-3daf-87cc45a97dde/AppIcon-0-0-1x_U007epad-0-1-P3-85-220.png/180x180bb.png",
+      "app_name": "Mastodon",
+      "publisher": "Mastodon gGmbH"
+    },
+    {
+      "appId": 1464227762,
+      "previous_rank": 492,
+      "current_rank": 390,
+      "rank_change": 102,
+      "category": "6005",
+      "date": "2025-04-10",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/26/3c/b1/263cb1cb-a4e7-5d09-3016-c82fd242772c/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/180x180bb.png",
+      "app_name": "Alignable",
+      "publisher": "Alignable, Inc."
     }
   ]
 }
