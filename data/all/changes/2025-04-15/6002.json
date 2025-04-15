@@ -3,32 +3,10 @@
   "genre": "6002",
   "topRisers": [
     {
-      "appId": 1106069401,
-      "previous_rank": 498,
-      "current_rank": 300,
-      "rank_change": 198,
-      "category": "6002",
-      "date": "2025-04-15",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d7/bc/eb/d7bceb2c-3d61-1cc3-17f1-db40eac0071a/D2AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/180x180bb.png",
-      "app_name": "Samsara Driver",
-      "publisher": "Samsara Networks, Inc."
-    },
-    {
-      "appId": 1661733229,
-      "previous_rank": 352,
-      "current_rank": 175,
-      "rank_change": 177,
-      "category": "6002",
-      "date": "2025-04-15",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/db/8c/fc/db8cfcbf-7236-687c-1cc9-ba51341d3c91/AppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.png/180x180bb.png",
-      "app_name": "LocalSend",
-      "publisher": "Tien Do Nam"
-    },
-    {
       "appId": 6738495270,
       "previous_rank": 403,
-      "current_rank": 245,
-      "rank_change": 158,
+      "current_rank": 170,
+      "rank_change": 233,
       "category": "6002",
       "date": "2025-04-15",
       "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/20/3f/45/203f4596-fbfb-0a2f-6c88-7d318c040086/AppIcon-0-0-1x_U007ephone-0-0-85-220.png/180x180bb.png",
@@ -38,8 +16,8 @@
     {
       "appId": 6743848904,
       "previous_rank": 398,
-      "current_rank": 261,
-      "rank_change": 137,
+      "current_rank": 246,
+      "rank_change": 152,
       "category": "6002",
       "date": "2025-04-15",
       "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c8/76/b7/c876b755-4e64-7fc6-5100-01e9dee3fdba/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/180x180bb.png",
@@ -47,26 +25,48 @@
       "publisher": "ELEVEN 09 DESIGN LLC"
     },
     {
+      "appId": 1575903244,
+      "previous_rank": 397,
+      "current_rank": 270,
+      "rank_change": 127,
+      "category": "6002",
+      "date": "2025-04-15",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ad/93/b4/ad93b49a-746c-a91a-f961-fa0b16b31f19/AppIconBaseline-0-0-1x_U007emarketing-0-8-0-85-220.png/180x180bb.png",
+      "app_name": "CleanX: Photo Storage Cleaner",
+      "publisher": "xStudios Mobile"
+    },
+    {
+      "appId": 6736361418,
+      "previous_rank": 317,
+      "current_rank": 200,
+      "rank_change": 117,
+      "category": "6002",
+      "date": "2025-04-15",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/68/a4/bf/68a4bf0d-d2f4-48cc-dd45-1ca978a23ed6/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/180x180bb.png",
+      "app_name": "Star Gazer: Night Sky View Map",
+      "publisher": "LeoStudio Global"
+    },
+    {
+      "appId": 6743632830,
+      "previous_rank": 233,
+      "current_rank": 120,
+      "rank_change": 113,
+      "category": "6002",
+      "date": "2025-04-15",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/72/74/21/72742147-f5eb-b1f6-0519-ee00d4b0105d/AppIcon-1x_U007emarketing-0-10-0-85-220-0.png/180x180bb.png",
+      "app_name": "EevatGoal",
+      "publisher": "Hasail Urf Khan"
+    },
+    {
       "appId": 1534850579,
       "previous_rank": 423,
-      "current_rank": 298,
-      "rank_change": 125,
+      "current_rank": 313,
+      "rank_change": 110,
       "category": "6002",
       "date": "2025-04-15",
       "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/89/5d/37/895d3747-b4ae-86ce-e51a-c85073584546/AppIcon-0-0-1x_U007ephone-0-0-0-1-0-0-sRGB-85-220.png/180x180bb.png",
       "app_name": "Countdown Buddy",
       "publisher": "Taptics Ltd."
-    },
-    {
-      "appId": 1579881271,
-      "previous_rank": 489,
-      "current_rank": 367,
-      "rank_change": 122,
-      "category": "6002",
-      "date": "2025-04-15",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e4/85/2c/e4852c50-e5d0-4520-bbac-c92a263f60de/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/180x180bb.png",
-      "app_name": "Clean Manager: Storage Cleaner",
-      "publisher": "Quiet Games"
     }
   ]
 }
