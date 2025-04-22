@@ -3,21 +3,10 @@
   "genre": "6005",
   "topRisers": [
     {
-      "appId": 1501929060,
-      "previous_rank": 456,
-      "current_rank": 230,
-      "rank_change": 226,
-      "category": "6005",
-      "date": "2025-04-22",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/59/3c/4d/593c4d79-16a3-0123-50f7-397360783ba6/AppIcon-0-0-1x_U007emarketing-0-11-0-0-85-220.png/180x180bb.png",
-      "app_name": "MoneyDolly",
-      "publisher": "MoneyDolly"
-    },
-    {
       "appId": 6743468265,
       "previous_rank": 499,
-      "current_rank": 287,
-      "rank_change": 212,
+      "current_rank": 180,
+      "rank_change": 319,
       "category": "6005",
       "date": "2025-04-22",
       "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d5/63/95/d56395e1-d466-3101-2988-48a355d5f2e8/AppIcon-1x_U007ephone-0-1-85-220-0.png/180x180bb.png",
@@ -25,10 +14,32 @@
       "publisher": "立强 满"
     },
     {
+      "appId": 6743526256,
+      "previous_rank": 378,
+      "current_rank": 173,
+      "rank_change": 205,
+      "category": "6005",
+      "date": "2025-04-22",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/00/2e/38/002e38c5-a046-df8f-ef24-b285e99cedaf/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/180x180bb.png",
+      "app_name": "Tivoro",
+      "publisher": "思敏 马"
+    },
+    {
+      "appId": 6740265045,
+      "previous_rank": 468,
+      "current_rank": 276,
+      "rank_change": 192,
+      "category": "6005",
+      "date": "2025-04-22",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2f/5f/2e/2f5f2e8e-0df5-228e-142c-3683eef05cfa/AppIcon-0-1x_U007ephone-0-0-0-85-220-0.jpeg/180x180bb.png",
+      "app_name": "Livo: Live, Video, Call",
+      "publisher": "Sidra Parveen"
+    },
+    {
       "appId": 6648781947,
       "previous_rank": 384,
-      "current_rank": 214,
-      "rank_change": 170,
+      "current_rank": 202,
+      "rank_change": 182,
       "category": "6005",
       "date": "2025-04-22",
       "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/15/93/33/15933327-0de6-df5a-2b42-1bf751dd66a1/AppIcon-1x_U007ephone-0-0-0-85-220-0.png/180x180bb.png",
@@ -36,37 +47,26 @@
       "publisher": "圆 杨"
     },
     {
-      "appId": 6593672593,
-      "previous_rank": 464,
-      "current_rank": 338,
-      "rank_change": 126,
+      "appId": 1501929060,
+      "previous_rank": 456,
+      "current_rank": 286,
+      "rank_change": 170,
       "category": "6005",
       "date": "2025-04-22",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7b/2a/87/7b2a879f-a342-f916-663a-085d01009eaa/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/180x180bb.png",
-      "app_name": "HiFun嗨翻-全球华人No.1聊天交友，游戏约玩，语音直播",
-      "publisher": "Langoo Ltd."
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/59/3c/4d/593c4d79-16a3-0123-50f7-397360783ba6/AppIcon-0-0-1x_U007emarketing-0-11-0-0-85-220.png/180x180bb.png",
+      "app_name": "MoneyDolly",
+      "publisher": "MoneyDolly"
     },
     {
-      "appId": 6740508107,
-      "previous_rank": 436,
-      "current_rank": 325,
-      "rank_change": 111,
+      "appId": 1540532648,
+      "previous_rank": 461,
+      "current_rank": 306,
+      "rank_change": 155,
       "category": "6005",
       "date": "2025-04-22",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0b/9f/7b/0b9f7bff-e787-38ea-c013-dd9688664f89/AppIcon-1x_U007ephone-0-0-85-220-0.jpeg/180x180bb.png",
-      "app_name": "Carol - Live Chat & Call",
-      "publisher": "HENLEY TRADING COMPANY"
-    },
-    {
-      "appId": 6739870608,
-      "previous_rank": 444,
-      "current_rank": 337,
-      "rank_change": 107,
-      "category": "6005",
-      "date": "2025-04-22",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/44/19/2e/44192e38-05ab-5c1c-66aa-cf4789787864/AppIcon-1x_U007ephone-0-10-0-85-220-0.png/180x180bb.png",
-      "app_name": "Para - Live Chat & Call",
-      "publisher": "Jalal Khan"
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ab/6c/a6/ab6ca6e9-1fe4-9497-21d4-97cbf7fac70a/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/180x180bb.png",
+      "app_name": "Reinbow",
+      "publisher": "Reinbow Tech inc."
     }
   ]
 }
