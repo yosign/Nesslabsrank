@@ -3,10 +3,21 @@
   "genre": "6016",
   "topRisers": [
     {
+      "appId": 1346914815,
+      "previous_rank": 407,
+      "current_rank": 11,
+      "rank_change": 396,
+      "category": "6016",
+      "date": "2025-04-28",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4a/a2/90/4aa29006-85cc-b686-b4a6-4059c8f959cd/AppIcon-0-0-1x_U007epad-0-11-0-85-220.png/180x180bb.png",
+      "app_name": "American Idol - Watch and Vote",
+      "publisher": "Disney"
+    },
+    {
       "appId": 1101436941,
       "previous_rank": 491,
-      "current_rank": 277,
-      "rank_change": 214,
+      "current_rank": 232,
+      "rank_change": 259,
       "category": "6016",
       "date": "2025-04-28",
       "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e4/62/4a/e4624ab1-66c3-3447-a31b-f354c94030de/AppIcon-IDS-0-0-1x_U007emarketing-0-6-0-P3-85-220.png/180x180bb.png",
@@ -14,43 +25,21 @@
       "publisher": "Discovery Communications"
     },
     {
-      "appId": 6670410084,
-      "previous_rank": 442,
-      "current_rank": 248,
-      "rank_change": 194,
+      "appId": 6504385346,
+      "previous_rank": 416,
+      "current_rank": 261,
+      "rank_change": 155,
       "category": "6016",
       "date": "2025-04-28",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d9/8f/92/d98f92c8-b7aa-5494-d9c7-e47cd58ac203/AppIcon-1x_U007emarketing-0-11-0-85-220-0.png/180x180bb.png",
-      "app_name": "BuzzPass",
-      "publisher": "Buzz Technologies Inc."
-    },
-    {
-      "appId": 6738796847,
-      "previous_rank": 330,
-      "current_rank": 168,
-      "rank_change": 162,
-      "category": "6016",
-      "date": "2025-04-28",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e0/97/27/e097278f-f975-311c-f90f-f7839fbf2829/AppIcon-0-0-1x_U007emarketing-0-11-0-0-85-220.png/180x180bb.png",
-      "app_name": "DRM Sport - Live Scores",
-      "publisher": "Shaheena Parveen"
-    },
-    {
-      "appId": 396972659,
-      "previous_rank": 326,
-      "current_rank": 179,
-      "rank_change": 147,
-      "category": "6016",
-      "date": "2025-04-28",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3b/4c/0c/3b4c0c38-441f-998e-1bca-cc443eab95dd/AppIcon-0-0-1x_U007emarketing-0-5-0-85-220.png/180x180bb.png",
-      "app_name": "truTV",
-      "publisher": "truTV"
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/16/e4/72/16e4723e-4cb6-0c2b-1d89-45d913f74275/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/180x180bb.png",
+      "app_name": "FloralWhisper: Lovely Language",
+      "publisher": "VOLIO VIET NAM COMPANY LIMITED"
     },
     {
       "appId": 6479210655,
       "previous_rank": 500,
-      "current_rank": 366,
-      "rank_change": 134,
+      "current_rank": 379,
+      "rank_change": 121,
       "category": "6016",
       "date": "2025-04-28",
       "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/88/3b/8f/883b8fed-9a54-32f4-91ef-7a1108c5fb94/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/180x180bb.png",
@@ -58,15 +47,26 @@
       "publisher": "Fitness Training Global"
     },
     {
-      "appId": 1247862561,
-      "previous_rank": 385,
-      "current_rank": 288,
-      "rank_change": 97,
+      "appId": 1011285354,
+      "previous_rank": 285,
+      "current_rank": 167,
+      "rank_change": 118,
       "category": "6016",
       "date": "2025-04-28",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0a/d0/09/0ad00970-cebd-7728-7329-776003bfd73e/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/180x180bb.png",
-      "app_name": "Ghost Detector Radar Camera",
-      "publisher": "First Class Media B.V."
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/63/e9/eb/63e9eb5c-5c41-e464-35ac-25202c148070/AppIcon-0-0-1x_U007emarketing-0-6-0-sRGB-85-220.png/180x180bb.png",
+      "app_name": "TheaterEars",
+      "publisher": "Theater Ears, LLC"
+    },
+    {
+      "appId": 396972659,
+      "previous_rank": 326,
+      "current_rank": 208,
+      "rank_change": 118,
+      "category": "6016",
+      "date": "2025-04-28",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3b/4c/0c/3b4c0c38-441f-998e-1bca-cc443eab95dd/AppIcon-0-0-1x_U007emarketing-0-5-0-85-220.png/180x180bb.png",
+      "app_name": "truTV",
+      "publisher": "truTV"
     }
   ]
 }
