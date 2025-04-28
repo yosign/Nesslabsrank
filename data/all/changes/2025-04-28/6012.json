@@ -3,21 +3,10 @@
   "genre": "6012",
   "topRisers": [
     {
-      "appId": 1635913940,
-      "previous_rank": 417,
-      "current_rank": 228,
-      "rank_change": 189,
-      "category": "6012",
-      "date": "2025-04-28",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f2/49/f6/f249f6c7-314f-57ae-3bd8-8be64e4470aa/AppIcon-0-1x_U007emarketing-0-8-0-sRGB-85-220-0.png/180x180bb.png",
-      "app_name": "Resident Experience",
-      "publisher": "Greystar Real Estate Partners LLC"
-    },
-    {
       "appId": 6736916284,
       "previous_rank": 362,
-      "current_rank": 224,
-      "rank_change": 138,
+      "current_rank": 198,
+      "rank_change": 164,
       "category": "6012",
       "date": "2025-04-28",
       "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/77/d7/d4/77d7d4ec-be01-e0b3-d61d-faad7ee7a4a5/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/180x180bb.png",
@@ -27,8 +16,8 @@
     {
       "appId": 6737239101,
       "previous_rank": 489,
-      "current_rank": 353,
-      "rank_change": 136,
+      "current_rank": 331,
+      "rank_change": 158,
       "category": "6012",
       "date": "2025-04-28",
       "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/dd/5f/e5/dd5fe51d-cdab-a8f2-828c-9eaa1c92b8ac/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/180x180bb.png",
@@ -36,10 +25,32 @@
       "publisher": "MOTORMIA INC."
     },
     {
+      "appId": 1568677696,
+      "previous_rank": 482,
+      "current_rank": 340,
+      "rank_change": 142,
+      "category": "6012",
+      "date": "2025-04-28",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/25/db/04/25db0457-3618-e152-75ff-80e177173ea3/AppIcon_BLE-0-0-1x_U007emarketing-0-8-0-0-85-220.png/180x180bb.png",
+      "app_name": "ZENGGE",
+      "publisher": "JM Zengge Co., Ltd"
+    },
+    {
+      "appId": 1635913940,
+      "previous_rank": 417,
+      "current_rank": 278,
+      "rank_change": 139,
+      "category": "6012",
+      "date": "2025-04-28",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f2/49/f6/f249f6c7-314f-57ae-3bd8-8be64e4470aa/AppIcon-0-1x_U007emarketing-0-8-0-sRGB-85-220-0.png/180x180bb.png",
+      "app_name": "Resident Experience",
+      "publisher": "Greystar Real Estate Partners LLC"
+    },
+    {
       "appId": 1357742931,
       "previous_rank": 146,
-      "current_rank": 26,
-      "rank_change": 120,
+      "current_rank": 21,
+      "rank_change": 125,
       "category": "6012",
       "date": "2025-04-28",
       "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/07/2c/c7/072cc761-93a4-aa30-554a-23b2a154eb8f/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/180x180bb.png",
@@ -47,26 +58,15 @@
       "publisher": "Ministry Centered Technologies"
     },
     {
-      "appId": 1535562075,
-      "previous_rank": 496,
-      "current_rank": 376,
-      "rank_change": 120,
+      "appId": 1107631390,
+      "previous_rank": 179,
+      "current_rank": 68,
+      "rank_change": 111,
       "category": "6012",
       "date": "2025-04-28",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/16/06/9a/16069a37-77c9-25ec-285e-88dafa3252dc/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/180x180bb.png",
-      "app_name": "First Round\\'s On Me | Date IRL",
-      "publisher": "First Round Is On Me, Inc."
-    },
-    {
-      "appId": 6465081332,
-      "previous_rank": 470,
-      "current_rank": 375,
-      "rank_change": 95,
-      "category": "6012",
-      "date": "2025-04-28",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/74/19/c6/7419c67d-00ab-6299-6427-953d6a68d862/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/180x180bb.png",
-      "app_name": "Call Santa Claus - Prank Call",
-      "publisher": "Rofi Games"
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/77/4a/4b/774a4b5c-7157-c7f3-ddcc-a0b343482c25/AppIcon-0-0-1x_U007emarketing-0-5-0-85-220.png/180x180bb.png",
+      "app_name": "AttaPoll - Paid Surveys",
+      "publisher": "AttaPoll Ltd"
     }
   ]
 }
