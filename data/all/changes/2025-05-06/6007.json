@@ -3,21 +3,10 @@
   "genre": "6007",
   "topRisers": [
     {
-      "appId": 1512015579,
-      "previous_rank": 410,
-      "current_rank": 209,
-      "rank_change": 201,
-      "category": "6007",
-      "date": "2025-05-06",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3f/1e/40/3f1e40c0-ac38-2d8f-5dbb-88d9e78401c1/YMSL_AppIcon-0-0-1x_U007emarketing-0-9-0-85-220.png/180x180bb.png",
-      "app_name": "YMSL",
-      "publisher": "Digital Cheetah Solutions, Inc."
-    },
-    {
       "appId": 1454483188,
       "previous_rank": 481,
-      "current_rank": 306,
-      "rank_change": 175,
+      "current_rank": 282,
+      "rank_change": 199,
       "category": "6007",
       "date": "2025-05-06",
       "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a6/25/e0/a625e08b-a285-5d13-344f-c13f5b2b3b1f/AppIconProduction-0-0-1x_U007ephone-0-1-0-0-85-220.png/180x180bb.png",
@@ -25,10 +14,21 @@
       "publisher": "Saturn Technologies Inc."
     },
     {
+      "appId": 6711347033,
+      "previous_rank": 318,
+      "current_rank": 121,
+      "rank_change": 197,
+      "category": "6007",
+      "date": "2025-05-06",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/55/82/34/55823411-f81d-441c-a47b-8477318f2759/AppIcon-0-0-1x_U007ephone-0-85-220.png/180x180bb.png",
+      "app_name": "Chatbot App - AI Assistant",
+      "publisher": "xStudios Mobile"
+    },
+    {
       "appId": 1515671684,
       "previous_rank": 500,
-      "current_rank": 337,
-      "rank_change": 163,
+      "current_rank": 331,
+      "rank_change": 169,
       "category": "6007",
       "date": "2025-05-06",
       "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a4/a6/3b/a4a63b32-ba90-5e3b-54ed-56e3592fe307/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-85-220.png/180x180bb.png",
@@ -36,37 +36,37 @@
       "publisher": "ESRI"
     },
     {
-      "appId": 6744888686,
-      "previous_rank": 490,
-      "current_rank": 329,
-      "rank_change": 161,
+      "appId": 290853822,
+      "previous_rank": 471,
+      "current_rank": 319,
+      "rank_change": 152,
       "category": "6007",
       "date": "2025-05-06",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c7/aa/aa/c7aaaa26-df42-2b92-4472-b67f31651f74/AppIcon-1x_U007ephone-0-1-0-85-220-0.jpeg/180x180bb.png",
-      "app_name": "Chillio: The Life Planner",
-      "publisher": "Iryna Buhaieva"
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/cb/19/1e/cb191e40-1003-cbfd-2add-2c446bf89b39/AppIconAppStore-0-1x_U007emarketing-0-11-0-85-220-0.png/180x180bb.png",
+      "app_name": "Box: The Content Cloud",
+      "publisher": "Box, Inc."
+    },
+    {
+      "appId": 1512015579,
+      "previous_rank": 410,
+      "current_rank": 266,
+      "rank_change": 144,
+      "category": "6007",
+      "date": "2025-05-06",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3f/1e/40/3f1e40c0-ac38-2d8f-5dbb-88d9e78401c1/YMSL_AppIcon-0-0-1x_U007emarketing-0-9-0-85-220.png/180x180bb.png",
+      "app_name": "YMSL",
+      "publisher": "Digital Cheetah Solutions, Inc."
     },
     {
       "appId": 1523618695,
       "previous_rank": 483,
-      "current_rank": 334,
-      "rank_change": 149,
+      "current_rank": 339,
+      "rank_change": 144,
       "category": "6007",
       "date": "2025-05-06",
       "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/56/a7/78/56a778de-48a1-f642-8f78-51e7b1340036/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-85-220.png/180x180bb.png",
       "app_name": "Kickresume: AI Resume Builder",
       "publisher": "Kickresume"
-    },
-    {
-      "appId": 1582750372,
-      "previous_rank": 423,
-      "current_rank": 290,
-      "rank_change": 133,
-      "category": "6007",
-      "date": "2025-05-06",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b4/70/eb/b470eb5b-4a7f-26d3-c18b-2947808bf2ca/AppIcon-1x_U007emarketing-0-11-0-85-220-0.png/180x180bb.png",
-      "app_name": "VNeID",
-      "publisher": "Trung tâm dữ liệu quốc gia về dân cư"
     }
   ]
 }
