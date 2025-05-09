@@ -5,8 +5,8 @@
     {
       "appId": 6736814144,
       "previous_rank": 397,
-      "current_rank": 206,
-      "rank_change": 191,
+      "current_rank": 141,
+      "rank_change": 256,
       "category": "6002",
       "date": "2025-05-09",
       "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/78/cb/e0/78cbe0f3-2d99-21dc-2d2d-fade8178844e/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/180x180bb.png",
@@ -16,8 +16,8 @@
     {
       "appId": 6657977998,
       "previous_rank": 431,
-      "current_rank": 268,
-      "rank_change": 163,
+      "current_rank": 218,
+      "rank_change": 213,
       "category": "6002",
       "date": "2025-05-09",
       "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/dd/08/7a/dd087a3e-bc08-14c4-083e-311b73e85ca5/AppIcon-0-0-1x_U007ephone-0-0-85-220.png/180x180bb.png",
@@ -27,8 +27,8 @@
     {
       "appId": 6471389899,
       "previous_rank": 321,
-      "current_rank": 167,
-      "rank_change": 154,
+      "current_rank": 131,
+      "rank_change": 190,
       "category": "6002",
       "date": "2025-05-09",
       "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/eb/56/42/eb564282-461d-ca6e-6fc2-74039de19d7c/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/180x180bb.png",
@@ -36,10 +36,21 @@
       "publisher": "MOZTECH LIMITED"
     },
     {
+      "appId": 6739480825,
+      "previous_rank": 346,
+      "current_rank": 179,
+      "rank_change": 167,
+      "category": "6002",
+      "date": "2025-05-09",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b5/f3/50/b5f35001-561f-8555-516a-a2ef8a55cd12/AppIcon-0-0-1x_U007epad-0-11-0-0-85-220.png/180x180bb.png",
+      "app_name": "PDF Reader - Editor",
+      "publisher": "DAOWEI NETWORK TECHNOLOGY PTE.LTD."
+    },
+    {
       "appId": 6504668266,
       "previous_rank": 331,
-      "current_rank": 177,
-      "rank_change": 154,
+      "current_rank": 186,
+      "rank_change": 145,
       "category": "6002",
       "date": "2025-05-09",
       "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/73/ce/08/73ce0808-c365-1820-af65-bc0fe53c7376/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/180x180bb.png",
@@ -47,26 +58,15 @@
       "publisher": "AppCentury Apps"
     },
     {
-      "appId": 6742987446,
-      "previous_rank": 202,
-      "current_rank": 85,
-      "rank_change": 117,
+      "appId": 1241055944,
+      "previous_rank": 498,
+      "current_rank": 371,
+      "rank_change": 127,
       "category": "6002",
       "date": "2025-05-09",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4f/29/84/4f2984d1-13c8-c06a-3d56-f496954a10f8/AppIcon-1x_U007epad-0-1-0-85-220-0.jpeg/180x180bb.png",
-      "app_name": "Universal Remote TV ◦ for Roku",
-      "publisher": "Teresa Obrien"
-    },
-    {
-      "appId": 6503708537,
-      "previous_rank": 304,
-      "current_rank": 191,
-      "rank_change": 113,
-      "category": "6002",
-      "date": "2025-05-09",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ee/64/b1/ee64b103-12c8-7e39-51a1-dafaf66f65f4/AppIcon-0-0-1x_U007epad-0-1-85-220.png/180x180bb.png",
-      "app_name": "Scan QR Code Now",
-      "publisher": "Sparktonic, LLC"
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/82/93/f9/8293f919-1dc0-3d15-eb19-a36ace51948f/AppIcon-0-0-1x_U007emarketing-0-8-0-0-sRGB-85-220.png/180x180bb.png",
+      "app_name": "Storage Smart Entry by Nokē",
+      "publisher": "Noke Inc"
     }
   ]
 }
