@@ -3,43 +3,10 @@
   "genre": "6005",
   "topRisers": [
     {
-      "appId": 6741508001,
-      "previous_rank": 477,
-      "current_rank": 255,
-      "rank_change": 222,
-      "category": "6005",
-      "date": "2025-05-13",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4d/ba/44/4dba4468-97c6-bd62-e9f6-b412a22d6df8/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/180x180bb.png",
-      "app_name": "Teno",
-      "publisher": "Hung Dinh Vu"
-    },
-    {
-      "appId": 6743310234,
-      "previous_rank": 298,
-      "current_rank": 159,
-      "rank_change": 139,
-      "category": "6005",
-      "date": "2025-05-13",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/bc/88/0c/bc880c53-b87b-345e-c03e-d2550d8eeb46/AppIcon-1x_U007ephone-0-0-85-220-0.png/180x180bb.png",
-      "app_name": "Solvion",
-      "publisher": "Kerim MERCAN"
-    },
-    {
-      "appId": 6446965293,
-      "previous_rank": 491,
-      "current_rank": 362,
-      "rank_change": 129,
-      "category": "6005",
-      "date": "2025-05-13",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/23/c4/88/23c4889a-cfa3-7133-1c4d-9fbb773322e7/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/180x180bb.png",
-      "app_name": "Timo-Video Chat",
-      "publisher": "Fastwall Information Technology Co., Limited"
-    },
-    {
       "appId": 1005070636,
       "previous_rank": 489,
-      "current_rank": 379,
-      "rank_change": 110,
+      "current_rank": 203,
+      "rank_change": 286,
       "category": "6005",
       "date": "2025-05-13",
       "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b2/08/74/b208740f-17de-696a-0a73-c4cc2c70b5c5/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/180x180bb.png",
@@ -47,26 +14,59 @@
       "publisher": "Fishbowl Media LLC"
     },
     {
-      "appId": 6743468265,
-      "previous_rank": 281,
-      "current_rank": 174,
-      "rank_change": 107,
+      "appId": 6741508001,
+      "previous_rank": 477,
+      "current_rank": 229,
+      "rank_change": 248,
       "category": "6005",
       "date": "2025-05-13",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d5/63/95/d56395e1-d466-3101-2988-48a355d5f2e8/AppIcon-1x_U007ephone-0-1-85-220-0.png/180x180bb.png",
-      "app_name": "Viizta",
-      "publisher": "立强 满"
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4d/ba/44/4dba4468-97c6-bd62-e9f6-b412a22d6df8/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/180x180bb.png",
+      "app_name": "Teno",
+      "publisher": "Hung Dinh Vu"
     },
     {
-      "appId": 1507659524,
-      "previous_rank": 372,
-      "current_rank": 275,
-      "rank_change": 97,
+      "appId": 6473674364,
+      "previous_rank": 269,
+      "current_rank": 117,
+      "rank_change": 152,
       "category": "6005",
       "date": "2025-05-13",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/27/ed/de/27edde25-dc1e-aeab-750e-902bed09a8ff/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/180x180bb.png",
-      "app_name": "PokeRaid - Raid From Home",
-      "publisher": "PYDE TECHNOLOGIES LTD"
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6b/2b/55/6b2b55c1-ea92-6850-f7ec-eedf29ef6be8/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/180x180bb.png",
+      "app_name": "IGOTIN",
+      "publisher": "Bondit Community Inc."
+    },
+    {
+      "appId": 1527684503,
+      "previous_rank": 469,
+      "current_rank": 324,
+      "rank_change": 145,
+      "category": "6005",
+      "date": "2025-05-13",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/80/ce/44/80ce4460-92fe-4e36-7f0f-390b63264002/AppIcon-kids-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-85-220.png/180x180bb.png",
+      "app_name": "BAND for Kids",
+      "publisher": "NAVER Corp."
+    },
+    {
+      "appId": 1086013687,
+      "previous_rank": 333,
+      "current_rank": 191,
+      "rank_change": 142,
+      "category": "6005",
+      "date": "2025-05-13",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fc/1a/1c/fc1a1c05-cd43-8f04-436f-6860078e432c/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/180x180bb.png",
+      "app_name": "Flare - For Groups",
+      "publisher": "Flare App, Inc."
+    },
+    {
+      "appId": 6446965293,
+      "previous_rank": 491,
+      "current_rank": 349,
+      "rank_change": 142,
+      "category": "6005",
+      "date": "2025-05-13",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/23/c4/88/23c4889a-cfa3-7133-1c4d-9fbb773322e7/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/180x180bb.png",
+      "app_name": "Timo-Video Chat",
+      "publisher": "Fastwall Information Technology Co., Limited"
     }
   ]
 }
