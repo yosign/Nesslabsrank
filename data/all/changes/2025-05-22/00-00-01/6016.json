@@ -1,0 +1,429 @@
+{
+  "date": "2025-05-22",
+  "changes": {
+    "6016": {
+      "added": [
+        {
+          "appId": 6472712161,
+          "name": "TVMonaco",
+          "publisher": "TVMonaco",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/41/24/3e/41243ea1-8b0d-8881-ec9c-f19199572b4d/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/180x180bb.png",
+          "rating": 0,
+          "ratingCount": 0,
+          "price": "0.00",
+          "rank": 107,
+          "category": "6016"
+        },
+        {
+          "appId": 6745812832,
+          "name": "Dumb Zoo: Brain Rot Games",
+          "publisher": "Kien Phan tat",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d9/a2/67/d9a267aa-4b2a-02a2-3eab-50cafddd53a6/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/180x180bb.png",
+          "rating": 0,
+          "ratingCount": 0,
+          "price": "0.00",
+          "rank": 227,
+          "category": "6016"
+        },
+        {
+          "appId": 6670708370,
+          "name": "Better Call Timmy",
+          "publisher": "MODERN DEV LP",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/92/e3/e0/92e3e0dd-7932-c0d7-8c9b-f26af8ff825d/AppIcon-1x_U007ephone-0-0-85-220-0.png/180x180bb.png",
+          "rating": 4.1,
+          "ratingCount": 221,
+          "price": "0.00",
+          "rank": 259,
+          "category": "6016"
+        },
+        {
+          "appId": 1519806651,
+          "name": "The Emmys",
+          "publisher": "National Academy of Television Arts and Sciences",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7b/3b/8c/7b3b8c69-118e-1bd6-1ad0-38f623350835/AppIcon-Branded-0-0-1x_U007emarketing-0-7-0-85-220.png/180x180bb.png",
+          "rating": 3.8,
+          "ratingCount": 18,
+          "price": "0.00",
+          "rank": 271,
+          "category": "6016"
+        },
+        {
+          "appId": 6449983233,
+          "name": "Law Nerd",
+          "publisher": "Baker Media, LLC",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c7/2c/c9/c72cc9f0-9dd0-acc7-fcc6-962de2c252af/AppIcon-0-0-1x_U007emarketing-0-6-85-220.png/180x180bb.png",
+          "rating": 4.9,
+          "ratingCount": 225,
+          "price": "0.00",
+          "rank": 299,
+          "category": "6016"
+        },
+        {
+          "appId": 6468977935,
+          "name": "DramaBite-Short Dramas & TV",
+          "publisher": "KEIICHIRO YAMAOKA",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/95/04/c8/9504c89d-d6d6-3753-b349-43d3f5cbde6c/AppIcon-0-0-1x_U007ephone-0-1-0-0-85-220.jpeg/180x180bb.png",
+          "rating": 4.8,
+          "ratingCount": 4049,
+          "price": "0.00",
+          "rank": 373,
+          "category": "6016"
+        },
+        {
+          "appId": 447923263,
+          "name": "Emagine Theatres",
+          "publisher": "Emagine Entertainment",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/60/c1/5b/60c15bbf-ae67-30eb-a7d2-1fa4af3b96b2/AppIcon-0-0-1x_U007epad-0-9-0-85-220.png/180x180bb.png",
+          "rating": 4.7,
+          "ratingCount": 10200,
+          "price": "0.00",
+          "rank": 389,
+          "category": "6016"
+        },
+        {
+          "appId": 1079958817,
+          "name": "MeTV App",
+          "publisher": "MeTV Network",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/19/ca/fd/19cafdd7-27f0-b9a4-0149-b3b1dfa7e613/AppIcon-0-0-1x_U007emarketing-0-8-0-sRGB-85-220.png/180x180bb.png",
+          "rating": 2.6,
+          "ratingCount": 679,
+          "price": "0.00",
+          "rank": 390,
+          "category": "6016"
+        },
+        {
+          "appId": 391589404,
+          "name": "tkts",
+          "publisher": "Theatre Development Fund",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/85/c3/5c/85c35cb2-92d6-74bf-7acf-33531a8b6e2a/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/180x180bb.png",
+          "rating": 3,
+          "ratingCount": 125,
+          "price": "0.00",
+          "rank": 392,
+          "category": "6016"
+        },
+        {
+          "appId": 1030410655,
+          "name": "Boston Calling Music Festival",
+          "publisher": "Crash Line Productions, LLC",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1d/c2/69/1dc2695a-3bd0-9b13-3f86-c6da84b28e1f/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/180x180bb.png",
+          "rating": 2.6,
+          "ratingCount": 12,
+          "price": "0.00",
+          "rank": 424,
+          "category": "6016"
+        },
+        {
+          "appId": 6744161063,
+          "name": "Ravi - Chat & Trend",
+          "publisher": "杭 林",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a1/97/8d/a1978d4c-ebd0-fc5b-6249-90dc73be7a38/AppIcon-1x_U007ephone-0-1-85-220-0.png/180x180bb.png",
+          "rating": 0,
+          "ratingCount": 0,
+          "price": "0.00",
+          "rank": 426,
+          "category": "6016"
+        },
+        {
+          "appId": 488541199,
+          "name": "A View From My Seat",
+          "publisher": "A View From My Seat",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/af/67/06/af67067e-caac-8112-8167-8d26b3cdc1f5/AppIcon-0-0-1x_U007ephone-0-1-0-P3-85-220.png/180x180bb.png",
+          "rating": 3.5,
+          "ratingCount": 67,
+          "price": "0.00",
+          "rank": 447,
+          "category": "6016"
+        },
+        {
+          "appId": 1195477151,
+          "name": "Silver Dollar City Attractions",
+          "publisher": "Herschend Family Entertainment Corporation",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2c/cb/fb/2ccbfb11-74bc-43f0-a029-308e023bcfbe/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/180x180bb.png",
+          "rating": 4.9,
+          "ratingCount": 4779,
+          "price": "0.00",
+          "rank": 450,
+          "category": "6016"
+        },
+        {
+          "appId": 661695783,
+          "name": "USA Network",
+          "publisher": "NBCUniversal Media, LLC",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/07/5b/f3/075bf36a-7e12-9baf-c6cd-e510d17ef6e0/AppIcon-1x_U007emarketing-0-8-0-0-0-85-220-0.png/180x180bb.png",
+          "rating": 4.5,
+          "ratingCount": 21100,
+          "price": "0.00",
+          "rank": 463,
+          "category": "6016"
+        },
+        {
+          "appId": 6738346486,
+          "name": "Nivi",
+          "publisher": "Beckoning Cude HK",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a6/3f/16/a63f166a-337d-c488-9814-8e0813c66ef0/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/180x180bb.png",
+          "rating": 3.5,
+          "ratingCount": 2,
+          "price": "0.00",
+          "rank": 468,
+          "category": "6016"
+        },
+        {
+          "appId": 1288107282,
+          "name": "NC Lottery Official Mobile App",
+          "publisher": "NC Education Lottery",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/67/53/be/6753be77-e732-4294-5795-663c9607103e/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/180x180bb.png",
+          "rating": 2,
+          "ratingCount": 2045,
+          "price": "0.00",
+          "rank": 486,
+          "category": "6016"
+        },
+        {
+          "appId": 6680192437,
+          "name": "TicTack Challenge: Mini Games",
+          "publisher": "Hassam Ahmad",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d3/ee/61/d3ee6104-3fe3-4ccd-26dc-7b6272adc19f/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/180x180bb.png",
+          "rating": 4.3,
+          "ratingCount": 8768,
+          "price": "0.00",
+          "rank": 488,
+          "category": "6016"
+        },
+        {
+          "appId": 6473186557,
+          "name": "Mannic Movies Now",
+          "publisher": "Hanane Charkaoui",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/06/18/42/061842c7-01df-af93-e5b0-a89a63f7e8a9/AppIcon-0-0-1x_U007emarketing-0-11-0-0-85-220.png/180x180bb.png",
+          "rating": 4.5,
+          "ratingCount": 2279,
+          "price": "0.00",
+          "rank": 496,
+          "category": "6016"
+        },
+        {
+          "appId": 601528163,
+          "name": "Michigan Lottery Mobile",
+          "publisher": "Michigan Lottery",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d7/24/92/d72492cb-7913-8355-0aa3-2aa28f654404/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/180x180bb.png",
+          "rating": 4.6,
+          "ratingCount": 120000,
+          "price": "0.00",
+          "rank": 500,
+          "category": "6016"
+        }
+      ],
+      "removed": [
+        {
+          "appId": 6503456381,
+          "name": "Ai Girl: Chat with Girlfriend",
+          "publisher": "FindUS Phone Tracker by number",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f7/47/51/f7475131-7e69-4f26-c50a-849506b8d7db/AppIcon-7-0-0-1x_U007ephone-0-1-0-85-220.png/180x180bb.png",
+          "rating": 4.3,
+          "ratingCount": 1574,
+          "price": "0.00",
+          "rank": 273,
+          "category": "6016"
+        },
+        {
+          "appId": 6741810506,
+          "name": "Pet Sound Talking: Bark & Meow",
+          "publisher": "Charles Owens",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/1e/87/d8/1e87d8c1-74a3-cbd1-ce0d-849314149b4b/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.jpeg/180x180bb.png",
+          "rating": 4.4,
+          "ratingCount": 15,
+          "price": "0.00",
+          "rank": 297,
+          "category": "6016"
+        },
+        {
+          "appId": 1485722011,
+          "name": "Play Clout",
+          "publisher": "Three Curve Esports",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/80/72/18/807218a4-dc72-a420-08e2-e48e4138d8a2/AppIcon-0-0-1x_U007emarketing-0-6-0-0-85-220.png/180x180bb.png",
+          "rating": 4.8,
+          "ratingCount": 113,
+          "price": "0.00",
+          "rank": 350,
+          "category": "6016"
+        },
+        {
+          "appId": 6443405421,
+          "name": "Mnet Plus",
+          "publisher": "CJ ENM Co., Ltd.",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/04/8c/a9/048ca9c6-820f-7b44-f88d-5ec3203d1ad2/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/180x180bb.png",
+          "rating": 1.9,
+          "ratingCount": 1011,
+          "price": "0.00",
+          "rank": 418,
+          "category": "6016"
+        },
+        {
+          "appId": 6743764487,
+          "name": "Gore Town Online Multiplayer",
+          "publisher": "Edy Geldman",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3b/fb/08/3bfb0807-567d-9249-96f3-b6708a2669d0/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/180x180bb.png",
+          "rating": 4.2,
+          "ratingCount": 18,
+          "price": "0.00",
+          "rank": 423,
+          "category": "6016"
+        },
+        {
+          "appId": 6504628526,
+          "name": "Cincinnati Zoo",
+          "publisher": "Zoological Society of Cincinnati",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fa/7b/f3/fa7bf306-d16d-f367-b4b9-dc5336ab6c39/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/180x180bb.png",
+          "rating": 4.9,
+          "ratingCount": 329,
+          "price": "0.00",
+          "rank": 427,
+          "category": "6016"
+        },
+        {
+          "appId": 1459081967,
+          "name": "TheLotter US - Lottery App",
+          "publisher": "TLE LTD",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0f/78/5c/0f785ce7-e6f0-004d-ea90-89bfe31f6ee2/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/180x180bb.png",
+          "rating": 4.7,
+          "ratingCount": 1178,
+          "price": "0.00",
+          "rank": 444,
+          "category": "6016"
+        },
+        {
+          "appId": 6744023335,
+          "name": "MeetChat iHappy",
+          "publisher": "Baria Ashokbhai",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5c/59/3b/5c593bf0-3a17-13ba-c0ad-374cb28d669b/AppIcon-0-0-1x_U007ephone-0-11-0-85-220.png/180x180bb.png",
+          "rating": 0,
+          "ratingCount": 0,
+          "price": "0.00",
+          "rank": 450,
+          "category": "6016"
+        },
+        {
+          "appId": 6743790748,
+          "name": "Harvest Finds",
+          "publisher": "ABJJ Investments LLC",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5d/3a/03/5d3a032d-5336-5604-2f75-7ff6ccef86d7/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/180x180bb.png",
+          "rating": 0,
+          "ratingCount": 0,
+          "price": "0.00",
+          "rank": 462,
+          "category": "6016"
+        },
+        {
+          "appId": 1517915485,
+          "name": "Ice Nine Kills",
+          "publisher": "Ice Nine Kills",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a2/64/59/a26459ac-1d4a-823a-0441-7d9a41105295/AppIcon-0-0-1x_U007emarketing-0-6-0-0-sRGB-85-220.png/180x180bb.png",
+          "rating": 4.8,
+          "ratingCount": 115,
+          "price": "0.00",
+          "rank": 465,
+          "category": "6016"
+        },
+        {
+          "appId": 1554132853,
+          "name": "Queue - Find Movies & Shows",
+          "publisher": "Watch Queue, Inc.",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b7/ac/74/b7ac7408-a620-0472-f34a-8809e4122186/AppIcon-0-0-1x_U007ephone-0-1-0-0-85-220.png/180x180bb.png",
+          "rating": 4.7,
+          "ratingCount": 10700,
+          "price": "0.00",
+          "rank": 468,
+          "category": "6016"
+        },
+        {
+          "appId": 6496356479,
+          "name": "Time warp scan: Face warp",
+          "publisher": "AvnTech Inc.",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/08/91/49/089149d8-9f55-6aab-97fe-58b406166ea3/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/180x180bb.png",
+          "rating": 4.2,
+          "ratingCount": 395,
+          "price": "0.00",
+          "rank": 472,
+          "category": "6016"
+        },
+        {
+          "appId": 6451148933,
+          "name": "Showmax",
+          "publisher": "Showmax Africa Holdings Limited",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ff/85/e3/ff85e39e-b896-cee5-08ee-3a19acec4017/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/180x180bb.png",
+          "rating": 4.7,
+          "ratingCount": 2905,
+          "price": "0.00",
+          "rank": 485,
+          "category": "6016"
+        },
+        {
+          "appId": 6514291564,
+          "name": "Animation Creator: Flipbook 2D",
+          "publisher": "CEM SOFTWARE LTD",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/54/8c/09/548c092c-5cbc-6a0e-e024-fd8c2e3b7ee6/AppIcon-0-0-1x_U007epad-0-11-0-85-220.png/180x180bb.png",
+          "rating": 4.7,
+          "ratingCount": 14200,
+          "price": "0.00",
+          "rank": 488,
+          "category": "6016"
+        },
+        {
+          "appId": 1619498084,
+          "name": "Choozy - Finger Chooser",
+          "publisher": "David Azancot",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/f2/af/de/f2afded8-412d-75f7-1ecb-aa759f6b5e51/AppIcon-0-0-1x_U007emarketing-0-5-0-85-220.png/180x180bb.png",
+          "rating": 4.6,
+          "ratingCount": 399,
+          "price": "0.00",
+          "rank": 489,
+          "category": "6016"
+        },
+        {
+          "appId": 1574490738,
+          "name": "GhostTube VOX",
+          "publisher": "GhostTube Pty Ltd",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0e/da/b7/0edab7b7-c5c4-ed87-c2cd-10880a60d5fe/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-85-220.png/180x180bb.png",
+          "rating": 4.4,
+          "ratingCount": 2318,
+          "price": "0.00",
+          "rank": 492,
+          "category": "6016"
+        },
+        {
+          "appId": 554936514,
+          "name": "Talking Angela",
+          "publisher": "Outfit7 Limited",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/22/dc/0c/22dc0c1c-3f7e-be7f-b07b-0adb020ddbc1/AngelaAppIconiPhone-0-0-1x_U007emarketing-0-7-0-0-85-220.png/180x180bb.png",
+          "rating": 3.8,
+          "ratingCount": 79100,
+          "price": "0.00",
+          "rank": 493,
+          "category": "6016"
+        },
+        {
+          "appId": 1079991140,
+          "name": "AZ Lottery Players Club",
+          "publisher": "Pollard Banknote Limited",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/84/38/57/843857dc-f37a-f289-423e-53775a5086a9/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/180x180bb.png",
+          "rating": 2.2,
+          "ratingCount": 1071,
+          "price": "0.00",
+          "rank": 496,
+          "category": "6016"
+        },
+        {
+          "appId": 6462672843,
+          "name": "The Nyx Network",
+          "publisher": "The Nyx Network LLC",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b5/ac/a3/b5aca3db-237e-512f-be6d-811c8b1d2842/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/180x180bb.png",
+          "rating": 3.2,
+          "ratingCount": 133,
+          "price": "0.00",
+          "rank": 500,
+          "category": "6016"
+        }
+      ]
+    }
+  }
+}
