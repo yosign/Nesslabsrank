@@ -1,0 +1,407 @@
+{
+  "date": "2025-05-30",
+  "changes": {
+    "6012": {
+      "added": [
+        {
+          "appId": 997457664,
+          "name": "First 5",
+          "publisher": "Proverbs 31 Ministry, Inc.",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/05/b3/22/05b32287-b400-a262-ba0c-53bc90a6c159/AppIcon-0-0-1x_U007emarketing-0-11-0-0-0-85-220.png/180x180bb.png",
+          "rating": 4.5,
+          "ratingCount": 834,
+          "price": "0.00",
+          "rank": 348,
+          "category": "6012"
+        },
+        {
+          "appId": 6745974616,
+          "name": "Franklin Clayton Murphy Fit",
+          "publisher": "Franklin Health and Fitness Center, LLC",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b9/3f/2f/b93f2f76-d3e7-2290-22af-8c0d2a260647/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/180x180bb.png",
+          "rating": 0,
+          "ratingCount": 0,
+          "price": "0.00",
+          "rank": 367,
+          "category": "6012"
+        },
+        {
+          "appId": 1631312180,
+          "name": "PDF Scan",
+          "publisher": "Xian Dayanshan Electronic Tech Limited",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/45/7c/81/457c8180-c6a4-3226-e88f-80fe85c23733/AppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.png/180x180bb.png",
+          "rating": 3.5,
+          "ratingCount": 47,
+          "price": "0.00",
+          "rank": 440,
+          "category": "6012"
+        },
+        {
+          "appId": 6446644082,
+          "name": "BH Life",
+          "publisher": "BH Management Services, LLC",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ff/fa/c5/fffac5c9-16a2-baf1-4525-d17b8bb9e252/AppIcon-0-0-1x_U007epad-0-1-85-220.png/180x180bb.png",
+          "rating": 4.8,
+          "ratingCount": 517,
+          "price": "0.00",
+          "rank": 453,
+          "category": "6012"
+        },
+        {
+          "appId": 928624751,
+          "name": "MileagePlus X",
+          "publisher": "UAL",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a7/a6/b3/a7a6b3b0-c84e-89da-76d9-6a7ac2bceb18/AppIcon-1x_U007ephone-0-11-0-85-220-0.png/180x180bb.png",
+          "rating": 4.8,
+          "ratingCount": 19800,
+          "price": "0.00",
+          "rank": 461,
+          "category": "6012"
+        },
+        {
+          "appId": 673376074,
+          "name": "KSL Classifieds",
+          "publisher": "Deseret Digital Media, Inc",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b8/ba/bf/b8babfb1-0bfd-50ad-e0a4-86887b92fd9b/AppIcon-0-1x_U007emarketing-0-8-0-sRGB-85-220-0.png/180x180bb.png",
+          "rating": 4.8,
+          "ratingCount": 59900,
+          "price": "0.00",
+          "rank": 471,
+          "category": "6012"
+        },
+        {
+          "appId": 6466275286,
+          "name": "Vicont",
+          "publisher": "深圳市伟创高科电子有限公司",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/05/bc/9e/05bc9e33-a36f-eb91-2a9a-5b5992787c20/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/180x180bb.png",
+          "rating": 2,
+          "ratingCount": 38,
+          "price": "0.00",
+          "rank": 475,
+          "category": "6012"
+        },
+        {
+          "appId": 1199338956,
+          "name": "Puppr - Dog Training & Tricks",
+          "publisher": "Chin and Cheeks LLC",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2a/00/03/2a00038b-987b-7a11-0925-fbbc90833f4b/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/180x180bb.png",
+          "rating": 4.8,
+          "ratingCount": 25900,
+          "price": "0.00",
+          "rank": 478,
+          "category": "6012"
+        },
+        {
+          "appId": 6447049042,
+          "name": "Mooze - Relaxing & Antistress",
+          "publisher": "Calm & Relax Zone",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/1e/c0/fb/1ec0fb10-dcfe-532d-981f-dd6dabc285c3/AppIcon-1x_U007emarketing-0-7-0-85-220.png/100x100bb.jpg",
+          "rating": 4.5,
+          "ratingCount": 9959,
+          "price": "0.00",
+          "rank": 481,
+          "category": "6012"
+        },
+        {
+          "appId": 431904233,
+          "name": "Trane® Home",
+          "publisher": "TRANE U.S. INC",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/cb/7b/53/cb7b534f-92df-dde3-65f0-3ba4121e9d29/traneAppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/180x180bb.png",
+          "rating": 4.8,
+          "ratingCount": 132000,
+          "price": "0.00",
+          "rank": 483,
+          "category": "6012"
+        },
+        {
+          "appId": 6738053432,
+          "name": "Smoothcomp",
+          "publisher": "Smoothcomp AB",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4f/f4/1a/4ff41a7b-517d-3670-01a9-cdf7848f9526/AppIcon-1x_U007epad-0-1-85-220-0.png/180x180bb.png",
+          "rating": 3.6,
+          "ratingCount": 7,
+          "price": "0.00",
+          "rank": 485,
+          "category": "6012"
+        },
+        {
+          "appId": 981863450,
+          "name": "Yoosee",
+          "publisher": "Gwell Inc",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/09/f5/18/09f518ab-8d0c-6a84-2f26-0bc8962cb0e1/AppIcon-0-0-1x_U007emarketing-0-8-0-sRGB-85-220.png/180x180bb.png",
+          "rating": 4.3,
+          "ratingCount": 10100,
+          "price": "0.00",
+          "rank": 488,
+          "category": "6012"
+        },
+        {
+          "appId": 1509258260,
+          "name": "MyGabb",
+          "publisher": "Gabb Wireless, Inc.",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/01/42/05/01420545-e8c6-7c36-e086-d88b8193d189/AppIcon-0-0-1x_U007ephone-0-1-0-sRGB-85-220.png/180x180bb.png",
+          "rating": 4.6,
+          "ratingCount": 7859,
+          "price": "0.00",
+          "rank": 489,
+          "category": "6012"
+        },
+        {
+          "appId": 1265035248,
+          "name": "Mingle2 - Dating & Meet People",
+          "publisher": "NextC LLC",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8f/cb/2d/8fcb2d98-63f5-cf28-04c5-db181554710c/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/180x180bb.png",
+          "rating": 4.4,
+          "ratingCount": 78200,
+          "price": "0.00",
+          "rank": 492,
+          "category": "6012"
+        },
+        {
+          "appId": 6447664832,
+          "name": "Outfit Formulas: Closet Maker",
+          "publisher": "GYPO LLC.",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e2/b3/2c/e2b32c7b-4eb1-23a5-6d8b-39d6c5187bdd/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/180x180bb.png",
+          "rating": 4.6,
+          "ratingCount": 992,
+          "price": "0.00",
+          "rank": 494,
+          "category": "6012"
+        },
+        {
+          "appId": 1576005531,
+          "name": "RAISE365",
+          "publisher": "RAISE365 Develoment LLC",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/93/ca/66/93ca66db-23e4-e2f7-4d5d-d0dd35651c80/AppIcon-0-0-1x_U007emarketing-0-0-0-6-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/180x180bb.png",
+          "rating": 2.5,
+          "ratingCount": 1155,
+          "price": "0.00",
+          "rank": 496,
+          "category": "6012"
+        },
+        {
+          "appId": 1158895079,
+          "name": "Sober Time - Sobriety Counter",
+          "publisher": "Sociosoftware LLC",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/cf/f0/13/cff013e8-c61a-154d-f8dd-ffcd051b3653/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/180x180bb.png",
+          "rating": 4.8,
+          "ratingCount": 24900.000000000004,
+          "price": "0.00",
+          "rank": 498,
+          "category": "6012"
+        },
+        {
+          "appId": 1555979427,
+          "name": "CASIO WATCHES",
+          "publisher": "CASIO COMPUTER CO., LTD.",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b1/90/5f/b1905fa8-4e55-24ae-8dea-932ab3bd9258/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/180x180bb.png",
+          "rating": 4.6,
+          "ratingCount": 10900,
+          "price": "0.00",
+          "rank": 500,
+          "category": "6012"
+        }
+      ],
+      "removed": [
+        {
+          "appId": 6744893117,
+          "name": "Scanatryx",
+          "publisher": "GLOBAL BUSINESS PRIME SP Z O O",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1c/48/e1/1c48e103-3cff-77e0-3727-142b2918b51a/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/180x180bb.png",
+          "rating": 4.6,
+          "ratingCount": 119,
+          "price": "0.00",
+          "rank": 83,
+          "category": "6012"
+        },
+        {
+          "appId": 6744749997,
+          "name": "PixelPro Vision+",
+          "publisher": "Olivia Grace Curry",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/04/41/be/0441be48-5636-184c-a2d7-19f4335dbe72/AppIcon-0-0-1x_U007ephone-0-85-220.png/180x180bb.png",
+          "rating": 0,
+          "ratingCount": 0,
+          "price": "0.00",
+          "rank": 283,
+          "category": "6012"
+        },
+        {
+          "appId": 6449217258,
+          "name": "Throne: Wishlist for Creators",
+          "publisher": "Global Gifting Technologies Inc.",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c3/83/6e/c3836ec2-54a2-c337-28f0-4a8973f20025/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.jpeg/180x180bb.png",
+          "rating": 4.6,
+          "ratingCount": 1456,
+          "price": "0.00",
+          "rank": 321,
+          "category": "6012"
+        },
+        {
+          "appId": 6742175264,
+          "name": "Silver - Live Call, Meet, Chat",
+          "publisher": "A DONG INTERIOR AND ADVERTISING LTD",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5e/23/34/5e23346e-0d16-1c67-1d71-7d92f5aaee9d/AppIcon-0-1x_U007ephone-0-0-0-85-220-0.png/180x180bb.png",
+          "rating": 4.9,
+          "ratingCount": 65,
+          "price": "0.00",
+          "rank": 431,
+          "category": "6012"
+        },
+        {
+          "appId": 6476876551,
+          "name": "Water Wave - Clean Speaker",
+          "publisher": "Water Eject",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/06/55/b3/0655b353-5fc0-d5b4-a805-0634e410ba0f/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/180x180bb.png",
+          "rating": 4.6,
+          "ratingCount": 1074,
+          "price": "0.00",
+          "rank": 438,
+          "category": "6012"
+        },
+        {
+          "appId": 6745227353,
+          "name": "Alphalete",
+          "publisher": "Alphalete Athletics",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f3/87/00/f387005b-725f-fda9-e6b9-fa1ed2f43790/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/180x180bb.png",
+          "rating": 4.9,
+          "ratingCount": 17,
+          "price": "0.00",
+          "rank": 457,
+          "category": "6012"
+        },
+        {
+          "appId": 1227286852,
+          "name": "برنامج الاذان - مواقيت الصلاة",
+          "publisher": "mohannad mahmoud",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/76/d2/2d/76d22d23-e228-a6af-ff3a-b93f5670d103/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220-0.png/180x180bb.png",
+          "rating": 4.6,
+          "ratingCount": 15200,
+          "price": "0.00",
+          "rank": 471,
+          "category": "6012"
+        },
+        {
+          "appId": 6499107303,
+          "name": "CUE Astrology",
+          "publisher": "Cue",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/fb/44/52/fb44526c-948a-e9ff-c28e-e6a206ce35c7/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/180x180bb.png",
+          "rating": 4.7,
+          "ratingCount": 335,
+          "price": "0.00",
+          "rank": 473,
+          "category": "6012"
+        },
+        {
+          "appId": 6443928590,
+          "name": "Things With You",
+          "publisher": "Jibran Khalil",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/01/f3/d5/01f3d581-4529-b292-de48-b589228eddfe/AppIcon-0-0-1x_U007emarketing-0-8-0-sRGB-85-220.png/180x180bb.png",
+          "rating": 4.7,
+          "ratingCount": 502,
+          "price": "0.00",
+          "rank": 476,
+          "category": "6012"
+        },
+        {
+          "appId": 6504396303,
+          "name": "ChargeWall: Live Wallpapers 4K",
+          "publisher": "超亮 刘",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/53/7b/04/537b04c0-efbd-b0e3-b4f7-2b288f990fa3/AppIcon-0-0-1x_U007epad-0-11-0-85-220.png/180x180bb.png",
+          "rating": 4.7,
+          "ratingCount": 1651,
+          "price": "0.00",
+          "rank": 481,
+          "category": "6012"
+        },
+        {
+          "appId": 1542743354,
+          "name": "My Porsche",
+          "publisher": "Porsche Cars North America, Inc.",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7f/03/85/7f03856a-5214-a3d5-e6a1-6e509be98190/default-0-0-1x_U007ephone-0-1-0-85-220.png/180x180bb.png",
+          "rating": 4.7,
+          "ratingCount": 7087,
+          "price": "0.00",
+          "rank": 482,
+          "category": "6012"
+        },
+        {
+          "appId": 1599179405,
+          "name": "Indyx: Wardrobe & Outfit App",
+          "publisher": "Indyx Inc.",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/8f/96/1b/8f961b2b-f42d-b83e-452d-38f59db0a2c8/AppIcon-1x_U007epad-0-1-0-85-220-0.png/180x180bb.png",
+          "rating": 4.6,
+          "ratingCount": 433,
+          "price": "0.00",
+          "rank": 484,
+          "category": "6012"
+        },
+        {
+          "appId": 1212205667,
+          "name": "iVueit: Earn Cash For Surveys",
+          "publisher": "TruPic Media LLC",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a4/d4/df/a4d4dfab-c05d-ca1b-46dc-3b78205dd5c1/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/180x180bb.png",
+          "rating": 4.2,
+          "ratingCount": 2355,
+          "price": "0.00",
+          "rank": 486,
+          "category": "6012"
+        },
+        {
+          "appId": 6448629709,
+          "name": "Blush - Dating App",
+          "publisher": "OLIVER LABS, INC.",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/72/1c/52/721c52d9-7140-8b74-f472-69b9091f2a6a/AppIcon-0-0-1x_U007emarketing-0-7-0-0-GLES2_U002c0-85-220.png/180x180bb.png",
+          "rating": 2.8,
+          "ratingCount": 33,
+          "price": "0.00",
+          "rank": 491,
+          "category": "6012"
+        },
+        {
+          "appId": 1333675995,
+          "name": "Poplin: Got Laundry? Allow us.",
+          "publisher": "Poplin Technologies, Inc.",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/11/b7/88/11b78868-2530-d5a6-bd72-54cbbda310cf/AppIcon-0-0-1x_U007epad-0-1-85-220.png/180x180bb.png",
+          "rating": 4.8,
+          "ratingCount": 22200.000000000004,
+          "price": "0.00",
+          "rank": 492,
+          "category": "6012"
+        },
+        {
+          "appId": 1489889871,
+          "name": "Moonly: Moon Phases & Calendar",
+          "publisher": "Cosmic Vibrations, Inc.",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e3/44/bb/e344bb95-8009-38a0-5d22-1c930ec860ec/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/180x180bb.png",
+          "rating": 4.7,
+          "ratingCount": 30600,
+          "price": "0.00",
+          "rank": 496,
+          "category": "6012"
+        },
+        {
+          "appId": 1182728161,
+          "name": "Wyndy: Babysitting, simplified",
+          "publisher": "Wyndy",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/f4/40/38/f44038b6-eb83-afec-39dd-23dd1f4b23b1/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/180x180bb.png",
+          "rating": 4.7,
+          "ratingCount": 1812,
+          "price": "0.00",
+          "rank": 498,
+          "category": "6012"
+        },
+        {
+          "appId": 1184577212,
+          "name": "Zap Surveys - Earn Easy Money",
+          "publisher": "Apps that Pay, LLC",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b0/1a/6f/b01a6feb-ae90-2e22-b810-ebb0d81643ab/AppIcon-0-0-1x_U007emarketing-0-8-0-0-sRGB-85-220.png/180x180bb.png",
+          "rating": 4.4,
+          "ratingCount": 249000,
+          "price": "0.00",
+          "rank": 499,
+          "category": "6012"
+        }
+      ]
+    }
+  }
+}
