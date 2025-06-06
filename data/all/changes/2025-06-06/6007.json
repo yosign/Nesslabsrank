@@ -3,21 +3,10 @@
   "genre": "6007",
   "topRisers": [
     {
-      "appId": 6502470921,
-      "previous_rank": 432,
-      "current_rank": 146,
-      "rank_change": 286,
-      "category": "6007",
-      "date": "2025-06-06",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/19/b6/2d/19b62d04-b207-1319-6caf-eb889ac33ef8/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/180x180bb.png",
-      "app_name": "AIA Events",
-      "publisher": "The American Institute of Architects"
-    },
-    {
       "appId": 6723891452,
       "previous_rank": 401,
-      "current_rank": 227,
-      "rank_change": 174,
+      "current_rank": 187,
+      "rank_change": 214,
       "category": "6007",
       "date": "2025-06-06",
       "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b5/66/90/b566902f-501e-6076-b356-945d3f654c7c/AppIcon_1-0-0-1x_U007epad-0-1-0-85-220.png/180x180bb.png",
@@ -25,10 +14,32 @@
       "publisher": "Vulcan Labs Company Limited"
     },
     {
+      "appId": 6502470921,
+      "previous_rank": 432,
+      "current_rank": 256,
+      "rank_change": 176,
+      "category": "6007",
+      "date": "2025-06-06",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/19/b6/2d/19b62d04-b207-1319-6caf-eb889ac33ef8/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/180x180bb.png",
+      "app_name": "AIA Events",
+      "publisher": "The American Institute of Architects"
+    },
+    {
+      "appId": 6458735203,
+      "previous_rank": 262,
+      "current_rank": 87,
+      "rank_change": 175,
+      "category": "6007",
+      "date": "2025-06-06",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/26/5f/2e/265f2e97-efb8-a5e3-5333-83ba095cad34/AppIcon-Prod-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-0-85-220.png/180x180bb.png",
+      "app_name": "Noteshelf 3: Digital Notes",
+      "publisher": "Fluid Touch Pte. Ltd."
+    },
+    {
       "appId": 6523430492,
       "previous_rank": 496,
-      "current_rank": 327,
-      "rank_change": 169,
+      "current_rank": 325,
+      "rank_change": 171,
       "category": "6007",
       "date": "2025-06-06",
       "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5e/3f/8b/5e3f8b4e-2c42-30ee-459b-72d2040c54d8/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/180x180bb.png",
@@ -38,8 +49,8 @@
     {
       "appId": 6738896306,
       "previous_rank": 413,
-      "current_rank": 259,
-      "rank_change": 154,
+      "current_rank": 263,
+      "rank_change": 150,
       "category": "6007",
       "date": "2025-06-06",
       "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9a/cb/c5/9acbc549-38c7-c154-c71a-26cce2837b6e/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/180x180bb.png",
@@ -47,26 +58,15 @@
       "publisher": "Noname Digital"
     },
     {
-      "appId": 6744973559,
-      "previous_rank": 318,
-      "current_rank": 169,
-      "rank_change": 149,
+      "appId": 1554982665,
+      "previous_rank": 255,
+      "current_rank": 120,
+      "rank_change": 135,
       "category": "6007",
       "date": "2025-06-06",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/17/6d/12/176d1232-e61d-f72c-4015-90781a5bef52/AppIcon-0-0-1x_U007ephone-0-11-0-85-220.png/180x180bb.png",
-      "app_name": "AI Chat with GPT App by Trevo",
-      "publisher": "TREVO LTD"
-    },
-    {
-      "appId": 1268078389,
-      "previous_rank": 449,
-      "current_rank": 332,
-      "rank_change": 117,
-      "category": "6007",
-      "date": "2025-06-06",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6c/63/33/6c633353-6fa1-ce2d-2f28-8c7b499c567c/AppIcon-0-0-1x_U007emarketing-0-5-0-sRGB-85-220.png/180x180bb.png",
-      "app_name": "Case Status",
-      "publisher": "https://casestatus.com"
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/eb/dd/77/ebdd77d1-91b6-e990-4d5e-7e3e6b874757/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/180x180bb.png",
+      "app_name": "Clean Now：Clean Up Storage",
+      "publisher": "APPADIX COMPANY LIMITED"
     }
   ]
 }
