@@ -3,43 +3,10 @@
   "genre": "6005",
   "topRisers": [
     {
-      "appId": 6474192103,
-      "previous_rank": 437,
-      "current_rank": 149,
-      "rank_change": 288,
-      "category": "6005",
-      "date": "2025-06-18",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5b/28/fa/5b28fa37-7783-9717-dce0-0d45e6d377da/AppIcon-0-0-1x_U007epad-0-1-85-220.png/180x180bb.png",
-      "app_name": "Zora: Post and Trade Content",
-      "publisher": "Zora Labs, Inc."
-    },
-    {
-      "appId": 1459523234,
-      "previous_rank": 439,
-      "current_rank": 173,
-      "rank_change": 266,
-      "category": "6005",
-      "date": "2025-06-18",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0d/cf/7b/0dcf7b4a-362a-be04-1039-0e524bdb714f/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/180x180bb.png",
-      "app_name": "Delta Chat",
-      "publisher": "merlinux"
-    },
-    {
-      "appId": 362528311,
-      "previous_rank": 448,
-      "current_rank": 186,
-      "rank_change": 262,
-      "category": "6005",
-      "date": "2025-06-18",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ca/53/44/ca5344aa-fee4-33c1-a2e4-6f84e319c36c/AppIcon-MobileVOIP-0-0-1x_U007emarketing-0-7-0-0-85-220.png/100x100bb.jpg",
-      "app_name": "MobileVOIP international calls",
-      "publisher": "SolarisSystems"
-    },
-    {
       "appId": 1564725856,
       "previous_rank": 410,
-      "current_rank": 217,
-      "rank_change": 193,
+      "current_rank": 98,
+      "rank_change": 312,
       "category": "6005",
       "date": "2025-06-18",
       "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/aa/ec/65/aaec651e-2be2-5af8-f343-b4e575735f1a/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/180x180bb.png",
@@ -47,26 +14,59 @@
       "publisher": "Clockout INC."
     },
     {
-      "appId": 1579846701,
-      "previous_rank": 421,
-      "current_rank": 243,
-      "rank_change": 178,
+      "appId": 362528311,
+      "previous_rank": 448,
+      "current_rank": 155,
+      "rank_change": 293,
       "category": "6005",
       "date": "2025-06-18",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4b/00/4c/4b004c34-2e42-3cdd-81ea-77f4aaa29c5f/AppIcon.prod-0-0-1x_U007emarketing-0-11-0-85-220.png/180x180bb.png",
-      "app_name": "Ipsos iSay: Take Paid Surveys",
-      "publisher": "Ipsos"
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ca/53/44/ca5344aa-fee4-33c1-a2e4-6f84e319c36c/AppIcon-MobileVOIP-0-0-1x_U007emarketing-0-7-0-0-85-220.png/100x100bb.jpg",
+      "app_name": "MobileVOIP international calls",
+      "publisher": "SolarisSystems"
     },
     {
-      "appId": 1394371125,
-      "previous_rank": 500,
-      "current_rank": 334,
-      "rank_change": 166,
+      "appId": 1459523234,
+      "previous_rank": 439,
+      "current_rank": 171,
+      "rank_change": 268,
       "category": "6005",
       "date": "2025-06-18",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ca/de/02/cade02ef-94ee-c8fe-feb6-24ea09f2e4e7/Prod-0-0-1x_U007emarketing-0-8-0-85-220.png/180x180bb.png",
-      "app_name": "GroupSpot",
-      "publisher": "Kohort Technologies, Inc."
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0d/cf/7b/0dcf7b4a-362a-be04-1039-0e524bdb714f/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/180x180bb.png",
+      "app_name": "Delta Chat",
+      "publisher": "merlinux"
+    },
+    {
+      "appId": 6474192103,
+      "previous_rank": 437,
+      "current_rank": 181,
+      "rank_change": 256,
+      "category": "6005",
+      "date": "2025-06-18",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5b/28/fa/5b28fa37-7783-9717-dce0-0d45e6d377da/AppIcon-0-0-1x_U007epad-0-1-85-220.png/180x180bb.png",
+      "app_name": "Zora: Post and Trade Content",
+      "publisher": "Zora Labs, Inc."
+    },
+    {
+      "appId": 6449951641,
+      "previous_rank": 344,
+      "current_rank": 191,
+      "rank_change": 153,
+      "category": "6005",
+      "date": "2025-06-18",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a4/63/a5/a463a52d-e978-b0f1-299e-1a44a2acfb25/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/180x180bb.png",
+      "app_name": "Try Your Best",
+      "publisher": "TYB Inc."
+    },
+    {
+      "appId": 1527684503,
+      "previous_rank": 479,
+      "current_rank": 327,
+      "rank_change": 152,
+      "category": "6005",
+      "date": "2025-06-18",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1f/89/99/1f89996e-c269-795d-d851-ad809dc9d9a9/AppIcon-kids-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-85-220.png/180x180bb.png",
+      "app_name": "BAND for Kids",
+      "publisher": "NAVER Corp."
     }
   ]
 }
