@@ -3,21 +3,10 @@
   "genre": "6007",
   "topRisers": [
     {
-      "appId": 6495063092,
-      "previous_rank": 446,
-      "current_rank": 283,
-      "rank_change": 163,
-      "category": "6007",
-      "date": "2025-06-18",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b7/c1/07/b7c107ee-46ce-a7b6-a4f0-361a0d010e26/AppIcon-0-1x_U007epad-0-1-0-sRGB-85-220-0.png/180x180bb.png",
-      "app_name": "SparqGo",
-      "publisher": "UnitedHealth Group"
-    },
-    {
       "appId": 983980808,
       "previous_rank": 257,
-      "current_rank": 103,
-      "rank_change": 154,
+      "current_rank": 68,
+      "rank_change": 189,
       "category": "6007",
       "date": "2025-06-18",
       "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9f/92/8e/9f928eaf-d3b8-2437-165e-4468ec3719b6/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/180x180bb.png",
@@ -25,32 +14,21 @@
       "publisher": "Yoti Limited"
     },
     {
-      "appId": 1228616124,
-      "previous_rank": 416,
-      "current_rank": 265,
-      "rank_change": 151,
+      "appId": 6739414192,
+      "previous_rank": 436,
+      "current_rank": 269,
+      "rank_change": 167,
       "category": "6007",
       "date": "2025-06-18",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/36/50/c4/3650c4df-eddb-e24c-dd6a-c0cdbe7330c9/AppIcon-0-0-1x_U007epad-0-1-85-220.png/180x180bb.png",
-      "app_name": "Staffmark Group WorkNOW",
-      "publisher": "Staffmark"
-    },
-    {
-      "appId": 1006972087,
-      "previous_rank": 490,
-      "current_rank": 347,
-      "rank_change": 143,
-      "category": "6007",
-      "date": "2025-06-18",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/60/4c/f8/604cf8c8-613a-a724-7dcf-b52f356ff90a/AppIcon-0-0-1x_U007epad-0-1-85-220.png/180x180bb.png",
-      "app_name": "Jira Cloud by Atlassian",
-      "publisher": "Atlassian"
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/cf/a9/a3/cfa9a333-03f0-db52-0665-076fb0516594/AppIcon-1x_U007ephone-0-1-0-85-220-0.png/180x180bb.png",
+      "app_name": "ClearSnap-Clean Up Storage",
+      "publisher": "晨光 张"
     },
     {
       "appId": 6443412722,
       "previous_rank": 478,
-      "current_rank": 337,
-      "rank_change": 141,
+      "current_rank": 311,
+      "rank_change": 167,
       "category": "6007",
       "date": "2025-06-18",
       "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3c/1d/14/3c1d144f-5d0e-3512-4fe2-e1cf91a2789e/AppIcon-0-0-1x_U007ephone-0-11-0-sRGB-85-220.png/180x180bb.png",
@@ -58,15 +36,37 @@
       "publisher": "MagicX Inc."
     },
     {
-      "appId": 287170072,
-      "previous_rank": 435,
-      "current_rank": 313,
-      "rank_change": 122,
+      "appId": 6478655348,
+      "previous_rank": 318,
+      "current_rank": 154,
+      "rank_change": 164,
       "category": "6007",
       "date": "2025-06-18",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e0/72/89/e072896a-cd98-09a7-18e8-2e76e38e9108/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/180x180bb.png",
-      "app_name": "Keeper Password Manager",
-      "publisher": "Callpod Inc."
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/81/8d/03/818d031e-dda2-7c68-57e8-153e08050431/AppIcon-0-0-1x_U007epad-0-11-0-85-220.png/180x180bb.png",
+      "app_name": "AI Notebook: Notes, Summary",
+      "publisher": "Tuling Network Limited"
+    },
+    {
+      "appId": 1228616124,
+      "previous_rank": 416,
+      "current_rank": 261,
+      "rank_change": 155,
+      "category": "6007",
+      "date": "2025-06-18",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/36/50/c4/3650c4df-eddb-e24c-dd6a-c0cdbe7330c9/AppIcon-0-0-1x_U007epad-0-1-85-220.png/180x180bb.png",
+      "app_name": "Staffmark Group WorkNOW",
+      "publisher": "Staffmark"
+    },
+    {
+      "appId": 1570856853,
+      "previous_rank": 415,
+      "current_rank": 263,
+      "rank_change": 152,
+      "category": "6007",
+      "date": "2025-06-18",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/be/ca/e5/becae5af-3662-9d77-4906-7453ef9c970e/AppIcon-0-0-1x_U007emarketing-0-8-0-sRGB-85-220.png/180x180bb.png",
+      "app_name": "Blank Spaces Launcher (-)",
+      "publisher": "Ecstasis LLC"
     }
   ]
 }
