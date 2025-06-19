@@ -5,8 +5,8 @@
     {
       "appId": 1306951055,
       "previous_rank": 359,
-      "current_rank": 53,
-      "rank_change": 306,
+      "current_rank": 80,
+      "rank_change": 279,
       "category": "6005",
       "date": "2025-06-19",
       "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/46/7c/41/467c4182-7ba7-99b4-cb7d-f5b7f8a85b44/AppIcon-0-1x_U007emarketing-0-0-0-8-0-0-85-220-0.png/180x180bb.png",
@@ -14,32 +14,10 @@
       "publisher": "Savoir-faire Linux"
     },
     {
-      "appId": 6502898347,
-      "previous_rank": 454,
-      "current_rank": 305,
-      "rank_change": 149,
-      "category": "6005",
-      "date": "2025-06-19",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d6/39/77/d63977f3-ebef-bd85-789a-df012147e62c/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/180x180bb.png",
-      "app_name": "Flamify: AI Chat & Love Dating",
-      "publisher": "Tolstykh Dmitrii"
-    },
-    {
-      "appId": 1559483982,
-      "previous_rank": 273,
-      "current_rank": 134,
-      "rank_change": 139,
-      "category": "6005",
-      "date": "2025-06-19",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e8/1a/c2/e81ac2cb-35e0-06ae-4799-75c8b69a5627/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/180x180bb.png",
-      "app_name": "HoYoLAB",
-      "publisher": "COGNOSPHERE PTE. LTD."
-    },
-    {
       "appId": 1564725856,
       "previous_rank": 217,
-      "current_rank": 108,
-      "rank_change": 109,
+      "current_rank": 35,
+      "rank_change": 182,
       "category": "6005",
       "date": "2025-06-19",
       "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/aa/ec/65/aaec651e-2be2-5af8-f343-b4e575735f1a/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/180x180bb.png",
@@ -47,26 +25,48 @@
       "publisher": "Clockout INC."
     },
     {
-      "appId": 6743468265,
-      "previous_rank": 255,
-      "current_rank": 148,
-      "rank_change": 107,
+      "appId": 6502898347,
+      "previous_rank": 454,
+      "current_rank": 313,
+      "rank_change": 141,
       "category": "6005",
       "date": "2025-06-19",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d5/63/95/d56395e1-d466-3101-2988-48a355d5f2e8/AppIcon-1x_U007ephone-0-1-85-220-0.png/180x180bb.png",
-      "app_name": "Viizta",
-      "publisher": "立强 满"
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d6/39/77/d63977f3-ebef-bd85-789a-df012147e62c/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/180x180bb.png",
+      "app_name": "Flamify: AI Chat & Love Dating",
+      "publisher": "Tolstykh Dmitrii"
     },
     {
-      "appId": 6745872308,
-      "previous_rank": 368,
-      "current_rank": 267,
-      "rank_change": 101,
+      "appId": 6742024299,
+      "previous_rank": 410,
+      "current_rank": 280,
+      "rank_change": 130,
       "category": "6005",
       "date": "2025-06-19",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e3/72/71/e3727160-5fb4-3ff6-5c41-498327487802/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/180x180bb.png",
-      "app_name": "Ampri",
-      "publisher": "鑫宇 唐"
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e6/9d/66/e69d66ef-ea42-4fa7-bdac-628e24af75a8/AppIcon-1-0-0-1x_U007epad-0-1-0-85-220.png/180x180bb.png",
+      "app_name": "Dual Messenger for WhatsAp",
+      "publisher": "gareld buh"
+    },
+    {
+      "appId": 1559483982,
+      "previous_rank": 273,
+      "current_rank": 156,
+      "rank_change": 117,
+      "category": "6005",
+      "date": "2025-06-19",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e8/1a/c2/e81ac2cb-35e0-06ae-4799-75c8b69a5627/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/180x180bb.png",
+      "app_name": "HoYoLAB",
+      "publisher": "COGNOSPHERE PTE. LTD."
+    },
+    {
+      "appId": 1509667820,
+      "previous_rank": 344,
+      "current_rank": 228,
+      "rank_change": 116,
+      "category": "6005",
+      "date": "2025-06-19",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e6/74/f5/e674f5b0-71ba-6cd5-6899-f6df865fba5e/AppIcon-0-0-1x_U007epad-0-1-85-220.png/180x180bb.png",
+      "app_name": "pie: make better friends",
+      "publisher": "Pie Labs, PBC"
     }
   ]
 }
