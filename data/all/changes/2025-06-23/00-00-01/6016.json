@@ -1,0 +1,572 @@
+{
+  "date": "2025-06-23",
+  "changes": {
+    "6016": {
+      "added": [
+        {
+          "appId": 1594172751,
+          "name": "DIgital Grading AI",
+          "publisher": "Dominic Wood",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7a/21/ba/7a21ba03-9d68-46d4-ed7c-6d635fc91623/AppIcon-0-1x_U007emarketing-0-7-0-85-220-0.png/180x180bb.png",
+          "rating": 3.5,
+          "ratingCount": 434,
+          "price": "0.00",
+          "rank": 96,
+          "category": "6016"
+        },
+        {
+          "appId": 527215784,
+          "name": "California\\'s Great America",
+          "publisher": "Cedar Fair",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f1/37/18/f1371869-dcea-5388-22f5-4438e094abc2/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/180x180bb.png",
+          "rating": 2.6,
+          "ratingCount": 24,
+          "price": "0.00",
+          "rank": 353,
+          "category": "6016"
+        },
+        {
+          "appId": 6744915680,
+          "name": "Puya",
+          "publisher": "Ahmet ROKA",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/54/97/30/54973063-b301-8cc6-3d00-1ad8ef68b991/AppIcon-1x_U007ephone-0-1-0-85-220-0.png/180x180bb.png",
+          "rating": 0,
+          "ratingCount": 0,
+          "price": "0.00",
+          "rank": 363,
+          "category": "6016"
+        },
+        {
+          "appId": 396972659,
+          "name": "truTV",
+          "publisher": "truTV",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/de/f0/c5/def0c532-4a6d-58cf-2b80-426ba221bad3/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/180x180bb.png",
+          "rating": 4.5,
+          "ratingCount": 14000,
+          "price": "0.00",
+          "rank": 371,
+          "category": "6016"
+        },
+        {
+          "appId": 6670410084,
+          "name": "BuzzPass",
+          "publisher": "Buzz Technologies Inc.",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8e/91/18/8e911825-4ac8-5c5f-e2f2-f6bcac9a3597/AppIcon-1x_U007emarketing-0-11-0-85-220-0.png/180x180bb.png",
+          "rating": 4.7,
+          "ratingCount": 86,
+          "price": "0.00",
+          "rank": 381,
+          "category": "6016"
+        },
+        {
+          "appId": 6739529158,
+          "name": "This or That: Funny Filter",
+          "publisher": "CEM SOFTWARE LTD",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a7/be/e2/a7bee27f-2860-596d-976e-d7176724786e/AppIcon-0-0-1x_U007epad-0-11-0-85-220.png/180x180bb.png",
+          "rating": 4.3,
+          "ratingCount": 6375,
+          "price": "0.00",
+          "rank": 399,
+          "category": "6016"
+        },
+        {
+          "appId": 1222923708,
+          "name": "Cheers - Party Games",
+          "publisher": "Peter Skarheim",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8b/92/43/8b924312-139a-92f2-e892-f20841722278/AppIcon-0-0-1x_U007epad-0-1-0-P3-85-220.png/180x180bb.png",
+          "rating": 4.9,
+          "ratingCount": 15100,
+          "price": "0.00",
+          "rank": 405,
+          "category": "6016"
+        },
+        {
+          "appId": 459677810,
+          "name": "The Ultimate Buzzer",
+          "publisher": "Makens Apps, LLC",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/56/e6/23/56e62361-b89e-1c38-690c-e43568827745/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/180x180bb.png",
+          "rating": 4.4,
+          "ratingCount": 12500,
+          "price": "0.00",
+          "rank": 426,
+          "category": "6016"
+        },
+        {
+          "appId": 6504894331,
+          "name": "Lie Detector Test for Prank",
+          "publisher": "Bazooka App Studio",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/bf/bc/7a/bfbc7a2f-92d5-554f-3d8c-2d7c9ca72f10/AppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.png/180x180bb.png",
+          "rating": 3.5,
+          "ratingCount": 31,
+          "price": "0.00",
+          "rank": 441,
+          "category": "6016"
+        },
+        {
+          "appId": 6473455653,
+          "name": "Round1 USA",
+          "publisher": "Round One Entertainment, inc",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/dd/4b/a5/dd4ba56b-c45f-e928-a3e3-ad6af6f68ca4/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/180x180bb.png",
+          "rating": 1.7,
+          "ratingCount": 54,
+          "price": "0.00",
+          "rank": 449,
+          "category": "6016"
+        },
+        {
+          "appId": 6743923997,
+          "name": "TV Remote Control · Universal",
+          "publisher": "Zhengzhou Zhijian Intelligence Technology Co., Ltd.",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/20/9f/7a/209f7ace-b5d9-697c-143d-9faf7073df12/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/180x180bb.png",
+          "rating": 5,
+          "ratingCount": 1,
+          "price": "0.00",
+          "rank": 463,
+          "category": "6016"
+        },
+        {
+          "appId": 1365137337,
+          "name": "Fios TV Mobile",
+          "publisher": "Verizon Services Corporation",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ef/eb/46/efeb4683-a84a-acf9-0456-c6f2339106de/AppIcon-0-1x_U007emarketing-0-8-0-sRGB-85-220-0.png/180x180bb.png",
+          "rating": 4.5,
+          "ratingCount": 317000,
+          "price": "0.00",
+          "rank": 466,
+          "category": "6016"
+        },
+        {
+          "appId": 1526097733,
+          "name": "Makeover Games: Makeup Salon",
+          "publisher": "Salon™",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/f9/d7/76/f9d77636-8ae9-ef71-d3a2-a3678ebf4978/AppIcon-1x_U007emarketing-0-9-0-85-220.png/100x100bb.jpg",
+          "rating": 4.5,
+          "ratingCount": 38200,
+          "price": "0.00",
+          "rank": 469,
+          "category": "6016"
+        },
+        {
+          "appId": 6499225047,
+          "name": "Epic Universe Preview Center",
+          "publisher": "NBCUniversal Media, LLC",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/49/74/67/4974675b-01b0-36c1-4276-93890cfe7b30/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/180x180bb.png",
+          "rating": 4.3,
+          "ratingCount": 40,
+          "price": "0.00",
+          "rank": 470,
+          "category": "6016"
+        },
+        {
+          "appId": 1502406835,
+          "name": "LEGO® Super Mario™",
+          "publisher": "LEGO",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0f/31/de/0f31de61-f204-1d06-247d-d7d61d3350ee/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/180x180bb.png",
+          "rating": 4.7,
+          "ratingCount": 54100,
+          "price": "0.00",
+          "rank": 471,
+          "category": "6016"
+        },
+        {
+          "appId": 952379144,
+          "name": "Washington\\'s Lottery",
+          "publisher": "Marcus Thomas LLC",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5a/8a/25/5a8a259a-0c8b-d3fb-1c69-a6a672b90594/AppIcon-0-0-1x_U007emarketing-0-5-85-220.png/180x180bb.png",
+          "rating": 1.6,
+          "ratingCount": 1213,
+          "price": "0.00",
+          "rank": 480,
+          "category": "6016"
+        },
+        {
+          "appId": 6745005908,
+          "name": "Movies Stream Pro Ultra",
+          "publisher": "Dipaliben Jitendrabhai",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a1/03/78/a1037867-40e7-3818-9fcd-eb5f2a729409/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/180x180bb.png",
+          "rating": 0,
+          "ratingCount": 0,
+          "price": "0.00",
+          "rank": 485,
+          "category": "6016"
+        },
+        {
+          "appId": 445128693,
+          "name": "BYUtv: Stream Live TV & Movies",
+          "publisher": "BYU Broadcasting",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/13/62/c1/1362c116-d009-6687-e18f-063af3fc4f94/AppIcon_tv-1x_U007emarketing-0-8-0-85-220-0.png/180x180bb.png",
+          "rating": 4,
+          "ratingCount": 1038,
+          "price": "0.00",
+          "rank": 486,
+          "category": "6016"
+        },
+        {
+          "appId": 1588849495,
+          "name": "Star Gazer & Sky Map",
+          "publisher": "App Star Family",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d8/49/1a/d8491a5f-358a-d8ee-aca7-489c7c81f7c2/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/180x180bb.png",
+          "rating": 4.7,
+          "ratingCount": 3889,
+          "price": "0.00",
+          "rank": 487,
+          "category": "6016"
+        },
+        {
+          "appId": 1113503715,
+          "name": "Lie Detector Truth Test",
+          "publisher": "First Class Media B.V.",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/06/eb/60/06eb600a-dbfb-c626-cd8b-3c40a035981b/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/180x180bb.png",
+          "rating": 4.6,
+          "ratingCount": 45900,
+          "price": "0.00",
+          "rank": 489,
+          "category": "6016"
+        },
+        {
+          "appId": 1532854862,
+          "name": "Lighter Simulator Concert Mode",
+          "publisher": "Just4Fun Mobile Sp. z o. o.",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/fe/cc/b1/feccb182-d955-21da-afc9-1ac112c737bf/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/180x180bb.png",
+          "rating": 4.6,
+          "ratingCount": 3617,
+          "price": "0.00",
+          "rank": 491,
+          "category": "6016"
+        },
+        {
+          "appId": 527266478,
+          "name": "Worlds of Fun",
+          "publisher": "Cedar Fair",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3c/85/99/3c859935-fd1b-8c49-e098-af3420f30aa4/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/180x180bb.png",
+          "rating": 3.2,
+          "ratingCount": 114,
+          "price": "0.00",
+          "rank": 492,
+          "category": "6016"
+        },
+        {
+          "appId": 6474420242,
+          "name": "Super Santa: Video Call & Chat",
+          "publisher": "Wejoy Jsc",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0f/52/36/0f52360e-1041-e96a-5a23-fa492500adcf/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/180x180bb.png",
+          "rating": 2.7,
+          "ratingCount": 11,
+          "price": "0.00",
+          "rank": 493,
+          "category": "6016"
+        },
+        {
+          "appId": 6737598824,
+          "name": "BestReels",
+          "publisher": "bestnovel",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/15/d7/63/15d7639c-1ec3-6dfe-014d-48ebe4196bd8/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/180x180bb.png",
+          "rating": 4.2,
+          "ratingCount": 584,
+          "price": "0.00",
+          "rank": 497,
+          "category": "6016"
+        },
+        {
+          "appId": 1539611818,
+          "name": "Logitech G",
+          "publisher": "Logitech Inc.",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0a/87/33/0a87331f-52f3-47e1-1192-2ca62ff2652f/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/180x180bb.png",
+          "rating": 4.7,
+          "ratingCount": 3812,
+          "price": "0.00",
+          "rank": 498,
+          "category": "6016"
+        }
+      ],
+      "removed": [
+        {
+          "appId": 987232010,
+          "name": "Stremio Organizer",
+          "publisher": "SMART KOD OOD",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/1c/ef/01/1cef01c8-00be-1f19-2f97-10dce27b71c3/AppIcon-1x_U007emarketing-0-7-0-85-220.png/180x180bb.png",
+          "rating": 2.1,
+          "ratingCount": 517,
+          "price": "0.00",
+          "rank": 282,
+          "category": "6016"
+        },
+        {
+          "appId": 6740232871,
+          "name": "YuzuDrama",
+          "publisher": "CREST DIGITAL MEDIA PTE. LTD.",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/cf/77/7f/cf777f3b-0995-80e5-3354-f674cfe8208a/AppIcon-0-1x_U007epad-0-1-0-85-220-0.jpeg/180x180bb.png",
+          "rating": 4.9,
+          "ratingCount": 2171,
+          "price": "0.00",
+          "rank": 288,
+          "category": "6016"
+        },
+        {
+          "appId": 527232128,
+          "name": "Kings Dominion",
+          "publisher": "Cedar Fair",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8a/0f/b5/8a0fb5a4-081e-81af-2b28-41014a3f22ee/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/180x180bb.png",
+          "rating": 3.4,
+          "ratingCount": 145,
+          "price": "0.00",
+          "rank": 329,
+          "category": "6016"
+        },
+        {
+          "appId": 6740210401,
+          "name": "flixy: Watchworthy Movie Swipe",
+          "publisher": "Ahmet Tepe",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/45/19/31/4519314c-7af0-aaae-c292-e01433ffa58d/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/180x180bb.png",
+          "rating": 5,
+          "ratingCount": 5,
+          "price": "0.00",
+          "rank": 340,
+          "category": "6016"
+        },
+        {
+          "appId": 6743404545,
+          "name": "I have never - party questions",
+          "publisher": "Shona Murray",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/1c/27/eb/1c27eb5f-9d71-a5ba-425e-7c1ae52ffa00/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/180x180bb.png",
+          "rating": 0,
+          "ratingCount": 0,
+          "price": "0.00",
+          "rank": 374,
+          "category": "6016"
+        },
+        {
+          "appId": 6504628526,
+          "name": "Cincinnati Zoo",
+          "publisher": "Zoological Society of Cincinnati",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9a/43/68/9a4368b1-b359-e57e-6561-e2b4eec6bb6e/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/180x180bb.png",
+          "rating": 4.9,
+          "ratingCount": 446,
+          "price": "0.00",
+          "rank": 383,
+          "category": "6016"
+        },
+        {
+          "appId": 6446250424,
+          "name": "MyDStv",
+          "publisher": "Multichoice Support Services (Pty) Ltd",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/31/dc/a8/31dca858-5416-9004-43a5-d5d18cc45591/AppIcon-1x_U007emarketing-0-11-0-85-220-0.png/180x180bb.png",
+          "rating": 0,
+          "ratingCount": 0,
+          "price": "0.00",
+          "rank": 415,
+          "category": "6016"
+        },
+        {
+          "appId": 6502185694,
+          "name": "Wallpapers live 4K Background",
+          "publisher": "Jyotsnaben Varsani",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/34/9f/e8/349fe859-d580-5dd2-d576-b4e59954e4e6/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/180x180bb.png",
+          "rating": 3.5,
+          "ratingCount": 62,
+          "price": "0.00",
+          "rank": 418,
+          "category": "6016"
+        },
+        {
+          "appId": 1669269103,
+          "name": "Aung Bar Lay",
+          "publisher": "Viettech",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6a/2d/64/6a2d640f-00c0-e50f-35e5-506086e0c834/AppIcon-0-1x_U007emarketing-0-11-0-0-85-220-0.png/180x180bb.png",
+          "rating": 4.1,
+          "ratingCount": 80,
+          "price": "0.00",
+          "rank": 421,
+          "category": "6016"
+        },
+        {
+          "appId": 6739735026,
+          "name": "قصة عشق الاصلي",
+          "publisher": "Kamal Ezzahrawi",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fd/3e/be/fd3ebe16-dc30-4aff-57d0-7ef3a9708189/AppIcon-1x_U007emarketing-0-7-0-0-85-220-0.png/180x180bb.png",
+          "rating": 1.9,
+          "ratingCount": 28,
+          "price": "0.00",
+          "rank": 424,
+          "category": "6016"
+        },
+        {
+          "appId": 6474259738,
+          "name": "FD Unlocked",
+          "publisher": "TorkHub",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6b/01/00/6b010006-e819-ba34-ae00-66786e229f00/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/180x180bb.png",
+          "rating": 3.5,
+          "ratingCount": 24,
+          "price": "0.00",
+          "rank": 428,
+          "category": "6016"
+        },
+        {
+          "appId": 6741161760,
+          "name": "Nashville Zoo at Grassmere",
+          "publisher": "Nashville Zoo Inc",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f7/21/43/f72143da-ece8-6e15-05f5-99205e3f50fe/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/180x180bb.png",
+          "rating": 4.8,
+          "ratingCount": 93,
+          "price": "0.00",
+          "rank": 431,
+          "category": "6016"
+        },
+        {
+          "appId": 6738946770,
+          "name": "Mirevo - Chat & Match",
+          "publisher": "Bermanto Prabancono",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c9/31/ee/c931ee66-e2b0-33ac-552e-0b09c6712297/AppIcon-1x_U007ephone-0-1-0-85-220-0.png/180x180bb.png",
+          "rating": 4.5,
+          "ratingCount": 1102,
+          "price": "0.00",
+          "rank": 437,
+          "category": "6016"
+        },
+        {
+          "appId": 6477434409,
+          "name": "HoneyReels",
+          "publisher": "HK YAWEN INFORMATION TECHNOLOGY LIMITED",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/91/a3/6b/91a36b7b-2521-da78-185a-c0d7617a0a3e/AppIcon-0-0-1x_U007epad-0-11-0-85-220.png/180x180bb.png",
+          "rating": 4.6,
+          "ratingCount": 6051,
+          "price": "0.00",
+          "rank": 444,
+          "category": "6016"
+        },
+        {
+          "appId": 6446044754,
+          "name": "MerlMovie",
+          "publisher": "NOU VANNET NOU VANNET",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/dd/f4/55/ddf455d1-359f-98fa-5616-fc3914fc6eb2/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/180x180bb.png",
+          "rating": 3.5,
+          "ratingCount": 452,
+          "price": "0.00",
+          "rank": 449,
+          "category": "6016"
+        },
+        {
+          "appId": 1313256232,
+          "name": "Noor Play",
+          "publisher": "MITHAQ MEDIA PRODUCTION LIMITED",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f1/78/0e/f1780edc-52ae-bc4c-a914-e6067ff43d03/AppIcon-0-0-1x_U007emarketing-0-11-0-0-85-220.png/180x180bb.png",
+          "rating": 4.5,
+          "ratingCount": 9102,
+          "price": "0.00",
+          "rank": 455,
+          "category": "6016"
+        },
+        {
+          "appId": 6742816085,
+          "name": "Led Light Remote Controller Go",
+          "publisher": "Uday AYDEMIR",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/10/81/96/108196fc-2bd1-cdea-6635-7f151abf28be/AppIcon-0-1x_U007epad-0-0-85-220-0.png/180x180bb.png",
+          "rating": 4.4,
+          "ratingCount": 14,
+          "price": "0.00",
+          "rank": 456,
+          "category": "6016"
+        },
+        {
+          "appId": 1543140698,
+          "name": "Chorki",
+          "publisher": "MEDIASTAR LIMITED",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7f/db/eb/7fdbeb7c-0150-aa65-f060-4d9e2e4f1238/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/180x180bb.png",
+          "rating": 3.2,
+          "ratingCount": 275,
+          "price": "0.00",
+          "rank": 475,
+          "category": "6016"
+        },
+        {
+          "appId": 1269049415,
+          "name": "Passionflix",
+          "publisher": "Passionflix Inc",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b7/e4/43/b7e4430c-b605-e687-b442-35d325f347d5/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/180x180bb.png",
+          "rating": 4.2,
+          "ratingCount": 345,
+          "price": "0.00",
+          "rank": 481,
+          "category": "6016"
+        },
+        {
+          "appId": 1257907748,
+          "name": "WebLink Host",
+          "publisher": "Abalta Technologies, Inc.",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/44/75/92/447592c8-9132-1620-4d64-0f127468143e/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/180x180bb.png",
+          "rating": 4.2,
+          "ratingCount": 4424,
+          "price": "0.00",
+          "rank": 487,
+          "category": "6016"
+        },
+        {
+          "appId": 6474291836,
+          "name": "CherryCall",
+          "publisher": "海南凯芸网络科技有限公司",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/de/cd/3d/decd3d5b-b045-6cc6-c358-c4231683fa19/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/180x180bb.png",
+          "rating": 0,
+          "ratingCount": 0,
+          "price": "0.00",
+          "rank": 490,
+          "category": "6016"
+        },
+        {
+          "appId": 6740988947,
+          "name": "Frame-z",
+          "publisher": "Peak Point Technology Co. LTD",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/87/d4/f8/87d4f8ac-5d4f-bdc6-34f5-630f570c2ea4/AppIcon-0-0-1x_U007ephone-0-11-0-85-220.png/180x180bb.png",
+          "rating": 0,
+          "ratingCount": 0,
+          "price": "0.00",
+          "rank": 492,
+          "category": "6016"
+        },
+        {
+          "appId": 894092490,
+          "name": "Hoosier Lottery",
+          "publisher": "GTECH Indiana",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6b/72/19/6b721941-d79e-967b-7170-3a2cf15c92c7/AppIcon-0-0-1x_U007emarketing-0-11-0-0-85-220.png/180x180bb.png",
+          "rating": 4.8,
+          "ratingCount": 49700,
+          "price": "0.00",
+          "rank": 493,
+          "category": "6016"
+        },
+        {
+          "appId": 1608194866,
+          "name": "Jackpot Lottery App",
+          "publisher": "Lottomatrix Corp",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/8d/44/22/8d442283-deb8-080c-4d9c-1505c4166d40/AppIcon-0-0-1x_U007emarketing-0-11-0-sRGB-85-220.png/180x180bb.png",
+          "rating": 4.8,
+          "ratingCount": 20400,
+          "price": "0.00",
+          "rank": 495,
+          "category": "6016"
+        },
+        {
+          "appId": 6538722217,
+          "name": "All Video Downloader - V",
+          "publisher": "Chirag Senjaliya",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e3/e1/91/e3e19123-f942-7437-5c29-dfb9fe1c1b67/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/180x180bb.png",
+          "rating": 4.5,
+          "ratingCount": 1204,
+          "price": "0.00",
+          "rank": 496,
+          "category": "6016"
+        },
+        {
+          "appId": 421997825,
+          "name": "Talking Tom Cat 2",
+          "publisher": "Outfit7 Limited",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1b/5d/6f/1b5d6ff9-e5c0-552c-e2be-4350b8a43de4/Tom2AppIconiPhone-0-0-1x_U007emarketing-0-8-0-0-85-220.png/180x180bb.png",
+          "rating": 4.3,
+          "ratingCount": 55800,
+          "price": "0.00",
+          "rank": 497,
+          "category": "6016"
+        }
+      ]
+    }
+  }
+}
