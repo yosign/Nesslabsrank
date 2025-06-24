@@ -3,10 +3,21 @@
   "genre": "6013",
   "topRisers": [
     {
+      "appId": 1439828095,
+      "previous_rank": 475,
+      "current_rank": 262,
+      "rank_change": 213,
+      "category": "6013",
+      "date": "2025-06-24",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/73/16/f0/7316f0b4-af1d-e9f3-9d38-68848aea0c79/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/180x180bb.png",
+      "app_name": "SHRED: Gym & Home Workouts",
+      "publisher": "Shred Labs, LLC"
+    },
+    {
       "appId": 6744147564,
       "previous_rank": 253,
-      "current_rank": 53,
-      "rank_change": 200,
+      "current_rank": 72,
+      "rank_change": 181,
       "category": "6013",
       "date": "2025-06-24",
       "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0c/64/94/0c6494ae-7f78-a8b8-4b23-c686875a9c95/AppIcon-0-0-1x_U007ephone-0-1-85-220.jpeg/180x180bb.png",
@@ -16,8 +27,8 @@
     {
       "appId": 1588729407,
       "previous_rank": 371,
-      "current_rank": 177,
-      "rank_change": 194,
+      "current_rank": 236,
+      "rank_change": 135,
       "category": "6013",
       "date": "2025-06-24",
       "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/03/ea/d4/03ead4a7-0bc8-f65b-1341-f561c1c5a1eb/AppIcon-Production-0-0-1x_U007emarketing-0-11-0-85-220.png/180x180bb.png",
@@ -27,8 +38,8 @@
     {
       "appId": 1547099435,
       "previous_rank": 496,
-      "current_rank": 348,
-      "rank_change": 148,
+      "current_rank": 361,
+      "rank_change": 135,
       "category": "6013",
       "date": "2025-06-24",
       "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8a/92/3e/8a923ef0-2bc8-6240-b598-bd5b147db814/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/180x180bb.png",
@@ -36,37 +47,26 @@
       "publisher": "Koby Conrad"
     },
     {
-      "appId": 6670173321,
-      "previous_rank": 413,
-      "current_rank": 273,
-      "rank_change": 140,
-      "category": "6013",
-      "date": "2025-06-24",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fc/8f/39/fc8f39b8-4a70-8d1b-5c94-29ac31c3a11a/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/180x180bb.png",
-      "app_name": "CareSource MyLife",
-      "publisher": "CareSource"
-    },
-    {
-      "appId": 687176839,
-      "previous_rank": 283,
-      "current_rank": 156,
-      "rank_change": 127,
-      "category": "6013",
-      "date": "2025-06-24",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/93/31/26/93312659-508a-87c6-fc46-698f4f15be1e/AppIconDefault-0-0-1x_U007emarketing-0-8-0-85-220.png/180x180bb.png",
-      "app_name": "Think Dirty – Shop Clean",
-      "publisher": "Think Dirty Inc."
-    },
-    {
       "appId": 6736971742,
       "previous_rank": 302,
-      "current_rank": 185,
-      "rank_change": 117,
+      "current_rank": 168,
+      "rank_change": 134,
       "category": "6013",
       "date": "2025-06-24",
       "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/05/15/ae/0515aed8-2e35-7753-a51e-1a62733a6b21/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/180x180bb.png",
       "app_name": "Health Partner: Pulse & Sugar",
       "publisher": "Shanghai Kenige Trade Co., Ltd."
+    },
+    {
+      "appId": 687176839,
+      "previous_rank": 283,
+      "current_rank": 159,
+      "rank_change": 124,
+      "category": "6013",
+      "date": "2025-06-24",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/93/31/26/93312659-508a-87c6-fc46-698f4f15be1e/AppIconDefault-0-0-1x_U007emarketing-0-8-0-85-220.png/180x180bb.png",
+      "app_name": "Think Dirty – Shop Clean",
+      "publisher": "Think Dirty Inc."
     }
   ]
 }
