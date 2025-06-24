@@ -3,10 +3,21 @@
   "genre": "6012",
   "topRisers": [
     {
+      "appId": 6499445456,
+      "previous_rank": 364,
+      "current_rank": 13,
+      "rank_change": 351,
+      "category": "6012",
+      "date": "2025-06-24",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2c/b4/ad/2cb4adbe-8ee5-3001-8973-d47ee69beac6/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/180x180bb.png",
+      "app_name": "AHS: American Home Shield",
+      "publisher": "Frontdoor Incorporated"
+    },
+    {
       "appId": 487739314,
       "previous_rank": 365,
-      "current_rank": 173,
-      "rank_change": 192,
+      "current_rank": 156,
+      "rank_change": 209,
       "category": "6012",
       "date": "2025-06-24",
       "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/04/6f/d6/046fd649-359b-1b0f-dbba-7539ab8bb806/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/180x180bb.png",
@@ -14,21 +25,32 @@
       "publisher": "Bunk1.com"
     },
     {
-      "appId": 989727742,
-      "previous_rank": 384,
-      "current_rank": 232,
-      "rank_change": 152,
+      "appId": 565859420,
+      "previous_rank": 489,
+      "current_rank": 298,
+      "rank_change": 191,
       "category": "6012",
       "date": "2025-06-24",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/29/41/22/29412217-4915-cf9c-a342-9b301aa46083/AppIcon-0-1x_U007emarketing-0-8-0-85-220-0.png/180x180bb.png",
-      "app_name": "Combyne - your perfect Outfit",
-      "publisher": "combyne GmbH"
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5f/8c/8d/5f8c8db4-2000-1edd-6bf0-24c558121bc5/AppIcon-0-1x_U007emarketing-0-7-0-0-sRGB-85-220-0.png/180x180bb.png",
+      "app_name": "Everbridge",
+      "publisher": "Everbridge, Inc."
+    },
+    {
+      "appId": 1138970986,
+      "previous_rank": 458,
+      "current_rank": 269,
+      "rank_change": 189,
+      "category": "6012",
+      "date": "2025-06-24",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7c/1d/c6/7c1dc6fc-83a3-6708-ce65-b45f0bfb43ac/AppIcon-1x_U007emarketing-0-11-0-85-220-0.png/180x180bb.png",
+      "app_name": "MyChoice Benefits",
+      "publisher": "Businessolver"
     },
     {
       "appId": 6743355635,
       "previous_rank": 274,
-      "current_rank": 131,
-      "rank_change": 143,
+      "current_rank": 89,
+      "rank_change": 185,
       "category": "6012",
       "date": "2025-06-24",
       "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/56/cb/ea/56cbeae7-e67d-1481-680b-c29ceb9473c7/AppIcon-0-0-1x_U007epad-0-1-85-220.png/180x180bb.png",
@@ -36,37 +58,15 @@
       "publisher": "Encore AI Labs, Inc."
     },
     {
-      "appId": 6738715090,
-      "previous_rank": 336,
-      "current_rank": 212,
-      "rank_change": 124,
+      "appId": 338887129,
+      "previous_rank": 472,
+      "current_rank": 331,
+      "rank_change": 141,
       "category": "6012",
       "date": "2025-06-24",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ab/6d/80/ab6d80ba-c3bc-be24-80af-23c226ecdc1f/AppIcon-1x_U007ephone-0-85-220-0.jpeg/180x180bb.png",
-      "app_name": "Pulse：Emotional resonance",
-      "publisher": "Social Weave Limited"
-    },
-    {
-      "appId": 1357742931,
-      "previous_rank": 158,
-      "current_rank": 35,
-      "rank_change": 123,
-      "category": "6012",
-      "date": "2025-06-24",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1f/b4/4e/1fb44e55-9786-78bb-d44d-da760e53b1d8/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/180x180bb.png",
-      "app_name": "Church Center App",
-      "publisher": "Ministry Centered Technologies"
-    },
-    {
-      "appId": 6745572396,
-      "previous_rank": 366,
-      "current_rank": 246,
-      "rank_change": 120,
-      "category": "6012",
-      "date": "2025-06-24",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/bc/e6/c7/bce6c780-d105-7674-aa14-e3bc51258fc8/AppIcon-0-0-1x_U007epad-0-1-85-220.png/180x180bb.png",
-      "app_name": "Soulmate Sketch Pro",
-      "publisher": "WhatsGoodApps LLC"
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/67/2d/70/672d70ee-c2d5-bebe-cdb0-50a4596c164e/AppIcon-0-0-1x_U007emarketing-0-8-0-sRGB-85-220.png/180x180bb.png",
+      "app_name": "RV Trader: Shop RVs",
+      "publisher": "Trader Interactive, LLC"
     }
   ]
 }
