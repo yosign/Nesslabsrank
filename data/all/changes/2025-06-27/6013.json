@@ -5,8 +5,8 @@
     {
       "appId": 6477849675,
       "previous_rank": 487,
-      "current_rank": 183,
-      "rank_change": 304,
+      "current_rank": 196,
+      "rank_change": 291,
       "category": "6013",
       "date": "2025-06-27",
       "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/53/2c/9d/532c9d0b-ad7d-2b87-e691-b799eb3e755f/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/180x180bb.png",
@@ -14,10 +14,43 @@
       "publisher": "Stompers, LLC"
     },
     {
+      "appId": 1549559068,
+      "previous_rank": 488,
+      "current_rank": 308,
+      "rank_change": 180,
+      "category": "6013",
+      "date": "2025-06-27",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/dd/b7/fd/ddb7fd4a-40a8-a46a-8443-742e84c10792/AppIcon-0-1x_U007epad-0-11-0-85-220-0.png/180x180bb.png",
+      "app_name": "My Starkey",
+      "publisher": "Starkey Laboratories"
+    },
+    {
+      "appId": 529160691,
+      "previous_rank": 386,
+      "current_rank": 233,
+      "rank_change": 153,
+      "category": "6013",
+      "date": "2025-06-27",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/85/7a/b6/857ab68f-3978-e23d-ea2e-26ff9ffe0653/AppIcon-0-0-1x_U007emarketing-0-8-0-sRGB-85-220.png/180x180bb.png",
+      "app_name": "First Aid: American Red Cross",
+      "publisher": "American Red Cross"
+    },
+    {
+      "appId": 6745259054,
+      "previous_rank": 400,
+      "current_rank": 251,
+      "rank_change": 149,
+      "category": "6013",
+      "date": "2025-06-27",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a3/dc/6a/a3dc6aaf-f9e2-adaf-4514-273c8e9786d6/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/180x180bb.png",
+      "app_name": "Heart Beat: Pulse Rate Monitor",
+      "publisher": "Chauncee,Y Butler"
+    },
+    {
       "appId": 1551928101,
       "previous_rank": 420,
-      "current_rank": 268,
-      "rank_change": 152,
+      "current_rank": 272,
+      "rank_change": 148,
       "category": "6013",
       "date": "2025-06-27",
       "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/bf/f7/28/bff72860-6c9f-33e2-f20a-6389db91fd65/AppIcon-0-0-1x_U007emarketing-0-6-0-0-sRGB-85-220.png/180x180bb.png",
@@ -25,48 +58,15 @@
       "publisher": "Leap Health"
     },
     {
-      "appId": 6472631698,
-      "previous_rank": 444,
-      "current_rank": 318,
-      "rank_change": 126,
-      "category": "6013",
-      "date": "2025-06-27",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/76/c0/73/76c07305-1edc-dc4f-5ace-6642d297050f/AppIcon-0-0-1x_U007epad-0-1-85-220.png/180x180bb.png",
-      "app_name": "INTVL",
-      "publisher": "INTVL PTY LTD"
-    },
-    {
       "appId": 6738832996,
       "previous_rank": 312,
-      "current_rank": 189,
-      "rank_change": 123,
+      "current_rank": 172,
+      "rank_change": 140,
       "category": "6013",
       "date": "2025-06-27",
       "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/23/ee/f5/23eef5d8-2819-ef27-023a-1837c066c1f5/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/180x180bb.png",
       "app_name": "Calz - Calorie Counter AI",
       "publisher": "Wachanga LTD"
-    },
-    {
-      "appId": 6746347927,
-      "previous_rank": 409,
-      "current_rank": 309,
-      "rank_change": 100,
-      "category": "6013",
-      "date": "2025-06-27",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d1/ca/da/d1cadaef-5619-7a2f-5387-8b8377adadb1/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/180x180bb.png",
-      "app_name": "Color Sort: Brain Games",
-      "publisher": "SocialLoop LLC"
-    },
-    {
-      "appId": 6479513000,
-      "previous_rank": 279,
-      "current_rank": 188,
-      "rank_change": 91,
-      "category": "6013",
-      "date": "2025-06-27",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/21/01/83/21018301-20c7-270c-e522-00c2f59efbe3/AppIcon-0-0-1x_U007ephone-0-11-0-85-220.png/180x180bb.png",
-      "app_name": "BodyWave: Health Tracker",
-      "publisher": "Shenzhen Proudlong Health Co., Ltd."
     }
   ]
 }
