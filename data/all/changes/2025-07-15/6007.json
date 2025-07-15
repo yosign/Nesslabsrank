@@ -3,21 +3,10 @@
   "genre": "6007",
   "topRisers": [
     {
-      "appId": 1515671684,
-      "previous_rank": 494,
-      "current_rank": 278,
-      "rank_change": 216,
-      "category": "6007",
-      "date": "2025-07-15",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a4/a6/3b/a4a63b32-ba90-5e3b-54ed-56e3592fe307/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-85-220.png/180x180bb.png",
-      "app_name": "ArcGIS Field Maps",
-      "publisher": "ESRI"
-    },
-    {
       "appId": 6504206467,
       "previous_rank": 475,
-      "current_rank": 260,
-      "rank_change": 215,
+      "current_rank": 270,
+      "rank_change": 205,
       "category": "6007",
       "date": "2025-07-15",
       "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/93/3d/36/933d36d4-be2c-feb1-f4cf-8b440b9dd95c/AppIcon-0-0-1x_U007epad-0-1-85-220.jpeg/180x180bb.png",
@@ -27,8 +16,8 @@
     {
       "appId": 6502348629,
       "previous_rank": 324,
-      "current_rank": 126,
-      "rank_change": 198,
+      "current_rank": 144,
+      "rank_change": 180,
       "category": "6007",
       "date": "2025-07-15",
       "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/37/6f/36/376f36b1-60ff-96f5-7b81-b2a06f567c6b/AppIcon1-0-1x_U007ephone-0-1-0-85-220-0.png/180x180bb.png",
@@ -36,37 +25,48 @@
       "publisher": "DialPro L.L.C-FZ"
     },
     {
-      "appId": 1590978658,
-      "previous_rank": 413,
-      "current_rank": 245,
+      "appId": 6449031894,
+      "previous_rank": 358,
+      "current_rank": 190,
       "rank_change": 168,
       "category": "6007",
       "date": "2025-07-15",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ca/ed/4a/caed4a71-68f4-b8dd-d832-12e5f4d279ed/app_icon-0-0-1x_U007emarketing-0-0-0-5-0-0-85-220.png/180x180bb.png",
-      "app_name": "EquateAccess",
-      "publisher": "Equatex AG"
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/ae/b9/cf/aeb9cf2d-c001-2cd8-25a8-6029d31f1b0a/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/180x180bb.png",
+      "app_name": "Enumerate Engage",
+      "publisher": "Enumerate Holding Company, LLC"
     },
     {
-      "appId": 391093033,
-      "previous_rank": 455,
-      "current_rank": 291,
-      "rank_change": 164,
+      "appId": 6478655348,
+      "previous_rank": 291,
+      "current_rank": 132,
+      "rank_change": 159,
       "category": "6007",
       "date": "2025-07-15",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/82/59/c4/8259c458-1036-2f5e-bad0-f8129e09fedf/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-85-220.png/180x180bb.png",
-      "app_name": "Member Tools",
-      "publisher": "The Church of Jesus Christ of Latter-day Saints"
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ed/70/09/ed7009f5-0380-ba8f-8f1c-b5736f634712/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/180x180bb.png",
+      "app_name": "AI Notebook: Notes, Summary",
+      "publisher": "Tuling Network Limited"
     },
     {
-      "appId": 1228616124,
-      "previous_rank": 422,
-      "current_rank": 272,
-      "rank_change": 150,
+      "appId": 6745245606,
+      "previous_rank": 351,
+      "current_rank": 198,
+      "rank_change": 153,
       "category": "6007",
       "date": "2025-07-15",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/36/50/c4/3650c4df-eddb-e24c-dd6a-c0cdbe7330c9/AppIcon-0-0-1x_U007epad-0-1-85-220.png/180x180bb.png",
-      "app_name": "Staffmark Group WorkNOW",
-      "publisher": "Staffmark"
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/29/2b/f4/292bf45d-1f14-18ab-f13a-f44880912a96/AppIcon-0-1x_U007ephone-0-1-0-85-220-0.png/180x180bb.png",
+      "app_name": "ClearPico:Clean Up Storage",
+      "publisher": "Zenith Ai tech Limited"
+    },
+    {
+      "appId": 1515671684,
+      "previous_rank": 494,
+      "current_rank": 342,
+      "rank_change": 152,
+      "category": "6007",
+      "date": "2025-07-15",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a4/a6/3b/a4a63b32-ba90-5e3b-54ed-56e3592fe307/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-85-220.png/180x180bb.png",
+      "app_name": "ArcGIS Field Maps",
+      "publisher": "ESRI"
     }
   ]
 }
