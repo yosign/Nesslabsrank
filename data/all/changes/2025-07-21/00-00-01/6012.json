@@ -1,0 +1,561 @@
+{
+  "date": "2025-07-21",
+  "changes": {
+    "6012": {
+      "added": [
+        {
+          "appId": 565301194,
+          "name": "Church App - Tithe.ly",
+          "publisher": "Your Giving, Inc.",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6c/8b/9f/6c8b9fc2-0a59-7b7e-4667-0824d72351bf/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/180x180bb.png",
+          "rating": 4.4,
+          "ratingCount": 881,
+          "price": "0.00",
+          "rank": 291,
+          "category": "6012"
+        },
+        {
+          "appId": 6745136527,
+          "name": "Pique - Connect, Find & Online",
+          "publisher": "晓艳 彭",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/cf/98/c9/cf98c9b2-2981-a744-2604-55a2e6c85130/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/180x180bb.png",
+          "rating": 4.9,
+          "ratingCount": 448,
+          "price": "0.00",
+          "rank": 375,
+          "category": "6012"
+        },
+        {
+          "appId": 1659844083,
+          "name": "Live Watch Faces Gallery",
+          "publisher": "Aniket Vaddoriya",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/27/cd/da/27cdda2f-27a1-91b3-1f3e-f4a0a206fadb/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/180x180bb.png",
+          "rating": 4.5,
+          "ratingCount": 650,
+          "price": "0.00",
+          "rank": 409,
+          "category": "6012"
+        },
+        {
+          "appId": 6746279648,
+          "name": "Heart Rate Monitor & Tracker!",
+          "publisher": "EDMUND VILLEGAS ZAVALA",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ec/97/48/ec974831-a8f9-7de4-30f8-3c910fe21ee4/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/180x180bb.png",
+          "rating": 0,
+          "ratingCount": 0,
+          "price": "0.00",
+          "rank": 413,
+          "category": "6012"
+        },
+        {
+          "appId": 1335558932,
+          "name": "Spicer - Sex Ideas For Couples",
+          "publisher": "Spicer Limited",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/08/49/0f/08490f1c-2a2e-7922-be8d-c405121ce95d/AppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.png/180x180bb.png",
+          "rating": 4.6,
+          "ratingCount": 2720,
+          "price": "0.00",
+          "rank": 414,
+          "category": "6012"
+        },
+        {
+          "appId": 1125321779,
+          "name": "Sleep Aid Fan - White Noise",
+          "publisher": "App Magna, LLC",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a0/91/f0/a091f044-88ac-f66a-96ae-84d0cd6f0de3/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/180x180bb.png",
+          "rating": 4.8,
+          "ratingCount": 44600,
+          "price": "0.00",
+          "rank": 422,
+          "category": "6012"
+        },
+        {
+          "appId": 6502498724,
+          "name": "Bytech",
+          "publisher": "BYTECH NY, INC.",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/84/18/34/84183416-3747-8ad3-4c09-28127514463e/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/180x180bb.png",
+          "rating": 2.6,
+          "ratingCount": 40,
+          "price": "0.00",
+          "rank": 433,
+          "category": "6012"
+        },
+        {
+          "appId": 6478835459,
+          "name": "Color Analysis: WhatColors",
+          "publisher": "Nelson Azhar",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/bc/32/d6/bc32d659-76c2-4b05-bf2b-2136a24ec038/AppIcon-0-0-1x_U007ephone-0-1-0-sRGB-85-220.png/180x180bb.png",
+          "rating": 4.4,
+          "ratingCount": 924,
+          "price": "0.00",
+          "rank": 443,
+          "category": "6012"
+        },
+        {
+          "appId": 6447049042,
+          "name": "Mooze - Relaxing & Antistress",
+          "publisher": "Calm & Relax Zone",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/1e/c0/fb/1ec0fb10-dcfe-532d-981f-dd6dabc285c3/AppIcon-1x_U007emarketing-0-7-0-85-220.png/100x100bb.jpg",
+          "rating": 4.5,
+          "ratingCount": 10500,
+          "price": "0.00",
+          "rank": 444,
+          "category": "6012"
+        },
+        {
+          "appId": 994053492,
+          "name": "PETKIT",
+          "publisher": "Petkit Smart Technology Limited",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/8f/6a/a7/8f6aa74d-27cb-2177-16dd-9d8c2ba5b98e/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/180x180bb.png",
+          "rating": 4.5,
+          "ratingCount": 9588,
+          "price": "0.00",
+          "rank": 454,
+          "category": "6012"
+        },
+        {
+          "appId": 1638796139,
+          "name": "favorited",
+          "publisher": "Like Labs, Inc.",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c9/bd/42/c9bd42f7-84be-80d8-2d6a-9362e438fa72/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/180x180bb.png",
+          "rating": 4.7,
+          "ratingCount": 7829,
+          "price": "0.00",
+          "rank": 455,
+          "category": "6012"
+        },
+        {
+          "appId": 909048916,
+          "name": "Daily Horoscope - Astrology!",
+          "publisher": "Bosphorus Digital",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/95/1e/75/951e7536-9d09-13e5-d324-0da2fbccd827/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/180x180bb.png",
+          "rating": 4.6,
+          "ratingCount": 33100,
+          "price": "0.00",
+          "rank": 462,
+          "category": "6012"
+        },
+        {
+          "appId": 6745099009,
+          "name": "ThinQ Remote: Home Control",
+          "publisher": "Almared Wards",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/11/92/d3/1192d316-8321-a9bd-87c0-f6520375b34f/AppIcon-1x_U007epad-0-1-0-85-220-0.jpeg/180x180bb.png",
+          "rating": 4.4,
+          "ratingCount": 119,
+          "price": "0.00",
+          "rank": 465,
+          "category": "6012"
+        },
+        {
+          "appId": 6743377249,
+          "name": "Strand- AI Hair Style Analysis",
+          "publisher": "abbott jones",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7a/c4/25/7ac42526-f695-b446-4255-0e87d1667554/AppIcon-0-0-1x_U007epad-0-1-85-220.png/180x180bb.png",
+          "rating": 4.6,
+          "ratingCount": 465,
+          "price": "0.00",
+          "rank": 467,
+          "category": "6012"
+        },
+        {
+          "appId": 1638711689,
+          "name": "Salvia - Tarot & Psychics",
+          "publisher": "SCIFATE PTE. LTD.",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/22/2d/93/222d9339-ab6f-5e21-041f-db99a19911d3/AppIcon-0-0-1x_U007emarketing-0-9-0-0-sRGB-85-220.png/180x180bb.png",
+          "rating": 4.8,
+          "ratingCount": 8181,
+          "price": "0.00",
+          "rank": 469,
+          "category": "6012"
+        },
+        {
+          "appId": 1638712954,
+          "name": "Pink",
+          "publisher": "A.A PInk Beauty LTD",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/46/1b/a2/461ba24f-9c36-8d40-47ec-23acf571dbf9/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/180x180bb.png",
+          "rating": 3.9,
+          "ratingCount": 764,
+          "price": "0.00",
+          "rank": 471,
+          "category": "6012"
+        },
+        {
+          "appId": 6599856080,
+          "name": "Richie Games: Paid Surveys",
+          "publisher": "MEGA FORTUNA TEKNOLOJI VE YAZILIM ANONIM SIRKETI",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/62/79/b6/6279b697-0b4b-868d-960a-d2d8472f3348/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/180x180bb.png",
+          "rating": 4.4,
+          "ratingCount": 4239,
+          "price": "0.00",
+          "rank": 473,
+          "category": "6012"
+        },
+        {
+          "appId": 6745208532,
+          "name": "Cheater AI - Catch a Cheater",
+          "publisher": "FutureX Labs Pte. Ltd.",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/82/7a/67/827a6726-df41-7add-fe0a-c2f6e39c51d9/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/180x180bb.png",
+          "rating": 3.7,
+          "ratingCount": 122,
+          "price": "0.00",
+          "rank": 474,
+          "category": "6012"
+        },
+        {
+          "appId": 373393946,
+          "name": "Harvest+",
+          "publisher": "Harvest Ministries: Greg Laurie",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/20/fa/59/20fa59d8-125e-ecbb-a203-7c201b1d859f/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/180x180bb.png",
+          "rating": 4.4,
+          "ratingCount": 144,
+          "price": "0.00",
+          "rank": 475,
+          "category": "6012"
+        },
+        {
+          "appId": 1592676201,
+          "name": "4moms",
+          "publisher": "4moms",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/23/13/8a/23138a24-6285-e96b-e560-c764858b19f9/AppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.png/180x180bb.png",
+          "rating": 4.9,
+          "ratingCount": 13500,
+          "price": "0.00",
+          "rank": 477,
+          "category": "6012"
+        },
+        {
+          "appId": 879488038,
+          "name": "Wakie Chat: Talk to Strangers",
+          "publisher": "Wakie Inc.",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/14/63/94/14639453-64c4-13c4-0d84-9f7f341308e9/AppIcon-0-0-1x_U007emarketing-0-6-0-0-85-220.png/180x180bb.png",
+          "rating": 4.5,
+          "ratingCount": 16400,
+          "price": "0.00",
+          "rank": 481,
+          "category": "6012"
+        },
+        {
+          "appId": 6743699843,
+          "name": "BelleFi",
+          "publisher": "Damaris Chizorom Idam-Nkama",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2c/b9/66/2cb96697-9ff3-dd36-c562-617a41d13d46/AppIcon-1x_U007epad-0-1-0-85-220-0.png/180x180bb.png",
+          "rating": 4.4,
+          "ratingCount": 7,
+          "price": "0.00",
+          "rank": 492,
+          "category": "6012"
+        },
+        {
+          "appId": 6744336663,
+          "name": "Find my Friends, Phone: Findit",
+          "publisher": "Health Mate Fitness",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/07/cc/1f/07cc1fc7-ae0a-adfa-146d-c25bb2caa4e5/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/180x180bb.png",
+          "rating": 4,
+          "ratingCount": 166,
+          "price": "0.00",
+          "rank": 493,
+          "category": "6012"
+        },
+        {
+          "appId": 6747759287,
+          "name": "Secret Benefits: Growth Club",
+          "publisher": "Vukota Mandic",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/43/c2/c4/43c2c48f-7a58-25e8-2e61-54494d6d56fa/AppIcon-0-0-1x_U007ephone-0-1-85-220.jpeg/180x180bb.png",
+          "rating": 0,
+          "ratingCount": 0,
+          "price": "0.00",
+          "rank": 495,
+          "category": "6012"
+        },
+        {
+          "appId": 1597869513,
+          "name": "AfroIntroductions: Afro Dating",
+          "publisher": "Cupid Media Pty Ltd",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ca/72/54/ca725498-5cc8-2b80-6e9f-2db6c52d153d/AfroIntroductions-0-0-1x_U007emarketing-0-11-0-85-220.png/180x180bb.png",
+          "rating": 4.6,
+          "ratingCount": 7963,
+          "price": "0.00",
+          "rank": 497,
+          "category": "6012"
+        }
+      ],
+      "removed": [
+        {
+          "appId": 6741739686,
+          "name": "AI Collage Maker: Freestyle",
+          "publisher": "Melike YAVAS",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/12/f4/7d/12f47daa-5e28-ce84-8d35-6239de225f4f/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/180x180bb.png",
+          "rating": 0,
+          "ratingCount": 0,
+          "price": "0.00",
+          "rank": 311,
+          "category": "6012"
+        },
+        {
+          "appId": 6742767875,
+          "name": "Kivix",
+          "publisher": "Yen Ly thi",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/18/e9/5c/18e95c06-9844-d883-9b36-073649dc5eaf/AppIcon-1x_U007ephone-0-1-0-85-220-0.jpeg/180x180bb.png",
+          "rating": 4.8,
+          "ratingCount": 439,
+          "price": "0.00",
+          "rank": 318,
+          "category": "6012"
+        },
+        {
+          "appId": 6743739167,
+          "name": "Thrilled: Real-Time Live Chat",
+          "publisher": "Jinghong Xinglin Network Technology Co., Ltd.",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5b/4c/8f/5b4c8f62-c971-696b-8849-3f8fbde70d04/AppIcon-0-1x_U007ephone-0-1-0-85-220-0.png/180x180bb.png",
+          "rating": 0,
+          "ratingCount": 0,
+          "price": "0.00",
+          "rank": 369,
+          "category": "6012"
+        },
+        {
+          "appId": 6747893441,
+          "name": "Unini",
+          "publisher": "Pusat TAHRA",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b9/4d/03/b94d03ad-ef39-edf5-2a85-f2da432e755e/AppIcon-1x_U007ephone-0-1-0-85-220-0.png/180x180bb.png",
+          "rating": 0,
+          "ratingCount": 0,
+          "price": "0.00",
+          "rank": 393,
+          "category": "6012"
+        },
+        {
+          "appId": 6741120123,
+          "name": "Atlas - Krd",
+          "publisher": "Rian ALormany",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4f/f7/91/4ff79106-7294-5df8-59e6-ff02112a646b/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/180x180bb.png",
+          "rating": 5,
+          "ratingCount": 9,
+          "price": "0.00",
+          "rank": 398,
+          "category": "6012"
+        },
+        {
+          "appId": 1633459819,
+          "name": "The Pack by Zoetis",
+          "publisher": "Zoetis Inc",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c0/eb/b9/c0ebb9cd-10d2-8d47-9366-a4c323b86fa4/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/180x180bb.png",
+          "rating": 4.8,
+          "ratingCount": 1398,
+          "price": "0.00",
+          "rank": 413,
+          "category": "6012"
+        },
+        {
+          "appId": 1593378103,
+          "name": "Hand and Stone",
+          "publisher": "Hand and Stone Franchise Corp.",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ae/72/41/ae7241db-c800-555c-08d9-131203298d38/AppIcon-1x_U007emarketing-0-6-0-85-220-0.png/180x180bb.png",
+          "rating": 3.1,
+          "ratingCount": 243,
+          "price": "0.00",
+          "rank": 424,
+          "category": "6012"
+        },
+        {
+          "appId": 1632207449,
+          "name": "Love Wise: Relationship Advice",
+          "publisher": "Reatility Corp.",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/99/08/5e/99085ef3-3152-e1f7-8e24-af50fd9abd17/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/180x180bb.png",
+          "rating": 4.7,
+          "ratingCount": 467,
+          "price": "0.00",
+          "rank": 428,
+          "category": "6012"
+        },
+        {
+          "appId": 6504396303,
+          "name": "ChargeWall: Live Wallpapers 4K",
+          "publisher": "超亮 刘",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/65/b2/7d/65b27d30-fede-baf4-7d76-a94eeb296e06/AppIcon-0-0-1x_U007epad-0-11-0-85-220.png/180x180bb.png",
+          "rating": 4.7,
+          "ratingCount": 1737,
+          "price": "0.00",
+          "rank": 430,
+          "category": "6012"
+        },
+        {
+          "appId": 6448629709,
+          "name": "Blush - Dating App",
+          "publisher": "OLIVER LABS, INC.",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/72/1c/52/721c52d9-7140-8b74-f472-69b9091f2a6a/AppIcon-0-0-1x_U007emarketing-0-7-0-0-GLES2_U002c0-85-220.png/180x180bb.png",
+          "rating": 2.5,
+          "ratingCount": 46,
+          "price": "0.00",
+          "rank": 437,
+          "category": "6012"
+        },
+        {
+          "appId": 6450687692,
+          "name": "Scan QR - flash",
+          "publisher": "RED HISTORY NETWORK TECHNOLOGY LIMITED",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9c/07/aa/9c07aa5c-da20-462f-7a6d-a5efa62e2614/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/180x180bb.png",
+          "rating": 4.1,
+          "ratingCount": 17,
+          "price": "0.00",
+          "rank": 440,
+          "category": "6012"
+        },
+        {
+          "appId": 968630246,
+          "name": "LawnStarter",
+          "publisher": "LawnStarter, Inc.",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/af/59/01/af59019e-4cf0-178f-7dc4-0c4b9c4f22bf/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/180x180bb.png",
+          "rating": 4.6,
+          "ratingCount": 15900,
+          "price": "0.00",
+          "rank": 461,
+          "category": "6012"
+        },
+        {
+          "appId": 1134017691,
+          "name": "RentCheck",
+          "publisher": "RentCheck Holdings, Inc.",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d3/fe/28/d3fe2820-ebb0-f343-0194-2800c90d0976/AppIcon-0-0-1x_U007epad-0-1-85-220.png/180x180bb.png",
+          "rating": 4.8,
+          "ratingCount": 10700,
+          "price": "0.00",
+          "rank": 473,
+          "category": "6012"
+        },
+        {
+          "appId": 985954901,
+          "name": "iSearching",
+          "publisher": "ShenZhen Lenze Technology Co,.Ltd.",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/c2/d7/f4/c2d7f41b-4719-d0d2-fac5-168794c4b561/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/180x180bb.png",
+          "rating": 1.9,
+          "ratingCount": 520,
+          "price": "0.00",
+          "rank": 476,
+          "category": "6012"
+        },
+        {
+          "appId": 292234839,
+          "name": "Apartment Guide Home Rentals",
+          "publisher": "Rent Group Inc.",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b3/0f/b1/b30fb16c-4eaa-29db-9490-c8a9eaa195d9/AppIcon-0-0-1x_U007epad-0-8-0-85-220.png/180x180bb.png",
+          "rating": 4.7,
+          "ratingCount": 46200,
+          "price": "0.00",
+          "rank": 477,
+          "category": "6012"
+        },
+        {
+          "appId": 1490161691,
+          "name": "Color Portfolio",
+          "publisher": "Benjamin Moore & Co",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/15/0a/ac/150aac9a-53a5-302b-5c90-515aa12200ea/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/180x180bb.png",
+          "rating": 4.5,
+          "ratingCount": 10200,
+          "price": "0.00",
+          "rank": 479,
+          "category": "6012"
+        },
+        {
+          "appId": 1299313149,
+          "name": "PNM Companion",
+          "publisher": "TechniPhi, Inc",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/dc/cb/e7/dccbe76d-5220-a021-cf4f-e613d474568a/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/180x180bb.png",
+          "rating": 1.6,
+          "ratingCount": 27,
+          "price": "0.00",
+          "rank": 485,
+          "category": "6012"
+        },
+        {
+          "appId": 892066479,
+          "name": "myParish",
+          "publisher": "Diocesan Publications, Inc.",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f5/ed/18/f5ed1897-de0f-7583-20f1-6c41afd13634/AppIcon-0-0-1x_U007emarketing-0-6-0-0-85-220.png/180x180bb.png",
+          "rating": 4.1,
+          "ratingCount": 685,
+          "price": "0.00",
+          "rank": 486,
+          "category": "6012"
+        },
+        {
+          "appId": 1495094343,
+          "name": "Moen Smart Water Network",
+          "publisher": "Moen Incorporated",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/09/d9/36/09d93622-3983-2229-1e8a-5970fbfb8d07/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/180x180bb.png",
+          "rating": 3.8,
+          "ratingCount": 939,
+          "price": "0.00",
+          "rank": 487,
+          "category": "6012"
+        },
+        {
+          "appId": 418965252,
+          "name": "Xfinity Home",
+          "publisher": "Comcast",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/eb/ad/a4/ebada44e-cf31-82ec-1da5-be460a8da517/AppIcon-AppStore-0-0-1x_U007emarketing-0-8-0-0-85-220.png/180x180bb.png",
+          "rating": 4.3,
+          "ratingCount": 11900,
+          "price": "0.00",
+          "rank": 488,
+          "category": "6012"
+        },
+        {
+          "appId": 6621272550,
+          "name": "Alice: AI assistant",
+          "publisher": "Direct Cursus Computer Systems Trading",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/66/c9/e2/66c9e29c-0a60-a96e-756e-a3d05cb3bc32/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/180x180bb.png",
+          "rating": 4.7,
+          "ratingCount": 197,
+          "price": "0.00",
+          "rank": 490,
+          "category": "6012"
+        },
+        {
+          "appId": 1582810683,
+          "name": "Дом с Алисой",
+          "publisher": "Direct Cursus Computer Systems Trading",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e0/11/61/e01161a3-c0cc-a3cc-206d-44f05718de8c/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/180x180bb.png",
+          "rating": 4.8,
+          "ratingCount": 942,
+          "price": "0.00",
+          "rank": 494,
+          "category": "6012"
+        },
+        {
+          "appId": 6499107303,
+          "name": "CUE Astrology",
+          "publisher": "Cue",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/00/da/7f/00da7f3c-ccab-276d-01ce-d2f5774658fe/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/180x180bb.png",
+          "rating": 4.7,
+          "ratingCount": 413,
+          "price": "0.00",
+          "rank": 495,
+          "category": "6012"
+        },
+        {
+          "appId": 1292723595,
+          "name": "Harley-Davidson",
+          "publisher": "Harley-Davidson Motor Company",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/78/a5/48/78a5483e-e5d0-69fd-5b3b-313d20e2f170/AppIcon-0-0-1x_U007emarketing-0-5-0-85-220.png/180x180bb.png",
+          "rating": 4.8,
+          "ratingCount": 36100,
+          "price": "0.00",
+          "rank": 497,
+          "category": "6012"
+        },
+        {
+          "appId": 1327264569,
+          "name": "Rently Tours",
+          "publisher": "Consumer 2.0 Inc",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a8/29/f3/a829f3a6-5d10-81ae-91dc-fa36e0924b0b/AppIcon-0-0-1x_U007epad-0-1-85-220.png/180x180bb.png",
+          "rating": 4.8,
+          "ratingCount": 28900,
+          "price": "0.00",
+          "rank": 498,
+          "category": "6012"
+        }
+      ]
+    }
+  }
+}
