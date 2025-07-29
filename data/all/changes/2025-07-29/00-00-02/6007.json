@@ -1,0 +1,451 @@
+{
+  "date": "2025-07-29",
+  "changes": {
+    "6007": {
+      "added": [
+        {
+          "appId": 391093033,
+          "name": "Member Tools",
+          "publisher": "The Church of Jesus Christ of Latter-day Saints",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/82/59/c4/8259c458-1036-2f5e-bad0-f8129e09fedf/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-85-220.png/180x180bb.png",
+          "rating": 3.1,
+          "ratingCount": 5786,
+          "price": "0.00",
+          "rank": 231,
+          "category": "6007"
+        },
+        {
+          "appId": 6575384261,
+          "name": "SyncTasks",
+          "publisher": "Toh Kar Le",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/04/b4/49/04b44989-66e2-b279-e34e-9ae54a9169cf/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/180x180bb.png",
+          "rating": 4.4,
+          "ratingCount": 114,
+          "price": "0.00",
+          "rank": 427,
+          "category": "6007"
+        },
+        {
+          "appId": 1611068600,
+          "name": "Chorsee: Chores and Allowance",
+          "publisher": "Ben Noland",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/85/76/6e/85766e70-c88b-d9cc-11d5-9011b5b8f7fa/AppIcon-0-0-1x_U007epad-0-1-0-P3-85-220.png/180x180bb.png",
+          "rating": 4.6,
+          "ratingCount": 8086,
+          "price": "0.00",
+          "rank": 437,
+          "category": "6007"
+        },
+        {
+          "appId": 1547137474,
+          "name": "Onrise: Habit Tracker & Focus",
+          "publisher": "Maximilian Munker",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/1b/74/fa/1b74fa97-7c18-77eb-98fb-02fa358ae455/AppIcon-1x_U007emarketing-0-5-0-85-220.png/180x180bb.png",
+          "rating": 4.8,
+          "ratingCount": 1868,
+          "price": "0.00",
+          "rank": 439,
+          "category": "6007"
+        },
+        {
+          "appId": 1320618078,
+          "name": "DigiLocker",
+          "publisher": "National e-Governance Division",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f3/60/52/f36052ed-a468-399a-c3b8-648986fcb6e9/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/180x180bb.png",
+          "rating": 3.3,
+          "ratingCount": 153,
+          "price": "0.00",
+          "rank": 440,
+          "category": "6007"
+        },
+        {
+          "appId": 6738637439,
+          "name": "Plan Joy:To-Do List & Reminder",
+          "publisher": "Chongqing Caochen Technology Co., Ltd.",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/50/94/cd/5094cdb6-6152-2251-0d37-7f9953284611/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/180x180bb.png",
+          "rating": 4.7,
+          "ratingCount": 171,
+          "price": "0.00",
+          "rank": 450,
+          "category": "6007"
+        },
+        {
+          "appId": 6498880303,
+          "name": "Minimalist Launcher",
+          "publisher": "Ankit Kumar",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/83/88/ef/8388ef8d-6733-b9a0-5518-c52a95302d9a/AppIcon-0-0-1x_U007ephone-0-1-sRGB-85-220.png/180x180bb.png",
+          "rating": 4.7,
+          "ratingCount": 2312,
+          "price": "0.00",
+          "rank": 453,
+          "category": "6007"
+        },
+        {
+          "appId": 6504825711,
+          "name": "Note - Purpose Journal",
+          "publisher": "LT VN TECHNOLOGY COMPANY LIMITED",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/33/bc/ce/33bcce1e-2acd-504e-b49b-6cfe237c172e/AppIcon-1x_U007epad-0-1-0-85-220-0.jpeg/180x180bb.png",
+          "rating": 0,
+          "ratingCount": 0,
+          "price": "0.00",
+          "rank": 454,
+          "category": "6007"
+        },
+        {
+          "appId": 1451755778,
+          "name": "DrawPlan",
+          "publisher": "Fleet Investments LLC",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f1/bb/1f/f1bb1f07-1b16-1948-060b-1b04d506e190/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/180x180bb.png",
+          "rating": 3.5,
+          "ratingCount": 5060,
+          "price": "0.00",
+          "rank": 465,
+          "category": "6007"
+        },
+        {
+          "appId": 1551070188,
+          "name": "Maple: Family Organizer",
+          "publisher": "Grow Maple Inc.",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b3/8d/f1/b38df187-f796-0643-c8c5-63d57798cd51/AppIcon-0-0-1x_U007epad-0-1-85-220.png/180x180bb.png",
+          "rating": 4.3,
+          "ratingCount": 965,
+          "price": "0.00",
+          "rank": 469,
+          "category": "6007"
+        },
+        {
+          "appId": 911636555,
+          "name": "Draft Paper",
+          "publisher": "Giles Goddard",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/cf/92/3a/cf923a80-75d0-1dfa-cc91-37900590d4cd/BlueFlat-1x_U007emarketing-0-5-0-85-220-0.png/180x180bb.png",
+          "rating": 4.4,
+          "ratingCount": 14200,
+          "price": "0.00",
+          "rank": 473,
+          "category": "6007"
+        },
+        {
+          "appId": 1219660920,
+          "name": "Clean Email — Inbox Cleaner",
+          "publisher": "Clean Email, LLC",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9a/71/96/9a719620-8cf9-543c-06d9-982a1a870e31/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/180x180bb.png",
+          "rating": 4.4,
+          "ratingCount": 3277,
+          "price": "0.00",
+          "rank": 478,
+          "category": "6007"
+        },
+        {
+          "appId": 953140409,
+          "name": "Najm | نجم",
+          "publisher": "Najm for Insurance Services",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3d/80/2c/3d802cdc-2330-e379-ab88-d041b897c3ac/AppIcon-0-0-1x_U007emarketing-0-8-0-0-sRGB-0-85-220.png/180x180bb.png",
+          "rating": 2.9,
+          "ratingCount": 293,
+          "price": "0.00",
+          "rank": 479,
+          "category": "6007"
+        },
+        {
+          "appId": 6744721879,
+          "name": "QR Master - Creator",
+          "publisher": "FAR VISION TECH LIMITED",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/45/a3/a2/45a3a2f0-20ef-fa9e-c36e-94c7c984ebcc/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/180x180bb.png",
+          "rating": 5,
+          "ratingCount": 3,
+          "price": "0.00",
+          "rank": 481,
+          "category": "6007"
+        },
+        {
+          "appId": 335703880,
+          "name": "WordPress – Website Builder",
+          "publisher": "Automattic",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e5/fa/66/e5fa669b-c4c7-4fa4-2c51-d69886a47014/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-85-220.png/180x180bb.png",
+          "rating": 4.6,
+          "ratingCount": 22100,
+          "price": "0.00",
+          "rank": 482,
+          "category": "6007"
+        },
+        {
+          "appId": 1104165041,
+          "name": "Supershift - Shift Calendar",
+          "publisher": "Supershift GmbH",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b7/df/ec/b7dfec88-993d-94c6-787f-e6621a64a48a/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/180x180bb.png",
+          "rating": 4.9,
+          "ratingCount": 3997,
+          "price": "0.00",
+          "rank": 488,
+          "category": "6007"
+        },
+        {
+          "appId": 1113106806,
+          "name": "Calendar ·",
+          "publisher": "Luni",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/62/5e/64/625e6466-cdf9-cbdc-de41-6b61559300ac/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/180x180bb.png",
+          "rating": 4.6,
+          "ratingCount": 58300,
+          "price": "0.00",
+          "rank": 494,
+          "category": "6007"
+        },
+        {
+          "appId": 1635330028,
+          "name": "DYMO® LetraTag® Connect",
+          "publisher": "DYMO",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/5a/18/ef/5a18ef91-225a-6b6c-923e-76535ad87676/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/180x180bb.png",
+          "rating": 2.3,
+          "ratingCount": 123,
+          "price": "0.00",
+          "rank": 497,
+          "category": "6007"
+        },
+        {
+          "appId": 1459254606,
+          "name": "*** Proxy -Unlimited Super ***",
+          "publisher": "VPN Apps",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/50/7e/78/507e7835-f71b-d44d-9150-f1613923c859/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/100x100bb.jpg",
+          "rating": 4.7,
+          "ratingCount": 50000,
+          "price": "0.00",
+          "rank": 498,
+          "category": "6007"
+        },
+        {
+          "appId": 1016366447,
+          "name": "Bear - Markdown Notes",
+          "publisher": "Shiny Frog Ltd.",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c9/2d/b0/c92db0d9-96e2-28f0-d620-110c0f773db1/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-85-220.png/180x180bb.png",
+          "rating": 4.7,
+          "ratingCount": 6690,
+          "price": "0.00",
+          "rank": 500,
+          "category": "6007"
+        }
+      ],
+      "removed": [
+        {
+          "appId": 6745254671,
+          "name": "Prosec: Spy Camera Scanner",
+          "publisher": "Prime Software",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a9/9b/ae/a99baeac-0f66-90dd-8de7-72df4d6d8d84/AppIcon-0-0-1x_U007epad-0-1-0-85-220.jpeg/180x180bb.png",
+          "rating": 4.3,
+          "ratingCount": 18,
+          "price": "0.00",
+          "rank": 298,
+          "category": "6007"
+        },
+        {
+          "appId": 6498548255,
+          "name": "Daily Tasks: Planner & Agenda",
+          "publisher": "Konstantin Bolgar",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e4/c8/7c/e4c87ca0-ab6c-d153-592f-c76371d34eea/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/180x180bb.png",
+          "rating": 4.8,
+          "ratingCount": 73,
+          "price": "0.00",
+          "rank": 414,
+          "category": "6007"
+        },
+        {
+          "appId": 1633962564,
+          "name": "Smart Web Radar",
+          "publisher": "COR NANO LTD",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/81/93/e4/8193e479-db31-0a99-3a6c-64f9e92dc3d4/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/180x180bb.png",
+          "rating": 4.6,
+          "ratingCount": 1098,
+          "price": "0.00",
+          "rank": 419,
+          "category": "6007"
+        },
+        {
+          "appId": 867941329,
+          "name": "Genesis Intelligent Assistant",
+          "publisher": "Hyundai Motor America",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/18/3d/3a/183d3a9e-f617-04a3-d470-ed00a369f145/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/180x180bb.png",
+          "rating": 4.7,
+          "ratingCount": 44100,
+          "price": "0.00",
+          "rank": 428,
+          "category": "6007"
+        },
+        {
+          "appId": 1366502697,
+          "name": "Bolt Browser and Documents",
+          "publisher": "Danyil Vasilenko",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/35/64/d2/3564d218-84dc-2995-5335-578369f8ba64/AppIcon-0-0-1x_U007emarketing-0-0-0-4-0-0-85-220.png/100x100bb.jpg",
+          "rating": 4.8,
+          "ratingCount": 226000,
+          "price": "0.00",
+          "rank": 436,
+          "category": "6007"
+        },
+        {
+          "appId": 6449518978,
+          "name": "Camera Detector App",
+          "publisher": "HMA Mobile LLC",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3f/77/df/3f77df1b-e4c6-b559-50de-b3f06cc3ac6f/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/180x180bb.png",
+          "rating": 4.4,
+          "ratingCount": 9347,
+          "price": "0.00",
+          "rank": 448,
+          "category": "6007"
+        },
+        {
+          "appId": 1352834008,
+          "name": "Camera for OBS Studio",
+          "publisher": "Loft Labs Interactive Inc",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/04/f3/12/04f31216-4b8e-af33-a816-fb8cb487349a/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/180x180bb.png",
+          "rating": 4.3,
+          "ratingCount": 3082,
+          "price": "0.00",
+          "rank": 452,
+          "category": "6007"
+        },
+        {
+          "appId": 1521416293,
+          "name": "Smart-Parking",
+          "publisher": "TowCentric LLC",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/af/19/54/af1954da-b39a-1e79-e3af-501c84016e84/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/180x180bb.png",
+          "rating": 1.8,
+          "ratingCount": 57,
+          "price": "0.00",
+          "rank": 465,
+          "category": "6007"
+        },
+        {
+          "appId": 6742651446,
+          "name": "MiniMax - Your AI Assistant",
+          "publisher": "NANONOBLE PTE. LTD.",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/22/33/45/223345c8-ec01-ddc9-2033-0964fc7b71d8/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/180x180bb.png",
+          "rating": 4,
+          "ratingCount": 11,
+          "price": "0.00",
+          "rank": 470,
+          "category": "6007"
+        },
+        {
+          "appId": 6748261328,
+          "name": "Ехpеrt:Оptіоn Supporter",
+          "publisher": "Andreev Leonid",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/71/9d/ea/719dea63-51de-01c5-80a3-e3337070bafd/AppIcon-0-0-1x_U007emarketing-0-11-0-0-85-220.png/180x180bb.png",
+          "rating": 0,
+          "ratingCount": 0,
+          "price": "0.00",
+          "rank": 471,
+          "category": "6007"
+        },
+        {
+          "appId": 997102246,
+          "name": "Spark Mail + AI: Email Inbox",
+          "publisher": "Readdle Technologies Limited",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f5/7a/0f/f57a0f25-80c4-1278-53b0-e0e5976bd007/AppIcon-0-0-1x_U007epad-0-11-0-0-85-220.png/180x180bb.png",
+          "rating": 4.6,
+          "ratingCount": 78900,
+          "price": "0.00",
+          "rank": 478,
+          "category": "6007"
+        },
+        {
+          "appId": 6736766678,
+          "name": "µBrowser - Safe, Fast, Private",
+          "publisher": "BEST SITE TRADING SERVICES COMPANY LIMITED",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4d/fa/e1/4dfae1c1-f2b2-2611-5764-67840eba9002/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/100x100bb.jpg",
+          "rating": 4,
+          "ratingCount": 249,
+          "price": "0.00",
+          "rank": 483,
+          "category": "6007"
+        },
+        {
+          "appId": 1644543252,
+          "name": "Kaaf | Nastaliq fonts Keyboard",
+          "publisher": "3rabapp LTD",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/03/1e/d1/031ed15f-39d5-a4aa-87f9-0a63490ea023/AppIcon-0-0-1x_U007emarketing-0-8-0-sRGB-85-220.png/180x180bb.png",
+          "rating": 4.5,
+          "ratingCount": 5139,
+          "price": "0.00",
+          "rank": 484,
+          "category": "6007"
+        },
+        {
+          "appId": 1320805565,
+          "name": "Jabra Sound+",
+          "publisher": "GN Audio AS",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/47/6c/bd/476cbd91-0214-3926-e931-0e6f6f300b9b/AppIcon-0-0-1x_U007epad-0-1-0-0-GLES2_U002c0-85-220.png/180x180bb.png",
+          "rating": 4.4,
+          "ratingCount": 10900,
+          "price": "0.00",
+          "rank": 485,
+          "category": "6007"
+        },
+        {
+          "appId": 349275540,
+          "name": "Files - File Manager & Browser",
+          "publisher": "Hian Zin Jong",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/13/6e/d4/136ed47b-9f05-3e5e-023e-bc3705b3bf71/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/180x180bb.png",
+          "rating": 4.7,
+          "ratingCount": 11600,
+          "price": "0.00",
+          "rank": 486,
+          "category": "6007"
+        },
+        {
+          "appId": 1595774070,
+          "name": "Digilink-Protect your privacy",
+          "publisher": "RIPWALL, LLC",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/2f/83/8e/2f838e8e-e1e5-db77-44c4-18541da21e7c/AppIcon-1x_U007emarketing-0-7-0-85-220.png/100x100bb.jpg",
+          "rating": 4.8,
+          "ratingCount": 9904,
+          "price": "0.00",
+          "rank": 490,
+          "category": "6007"
+        },
+        {
+          "appId": 553266487,
+          "name": "Yandex Disk: Cloud for Photos",
+          "publisher": "Direct Cursus Computer Systems Trading",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6d/0c/fe/6d0cfed7-5011-73f8-7672-9affb90c7790/AppIcon-0-0-1x_U007epad-0-11-0-85-220.png/180x180bb.png",
+          "rating": 4.8,
+          "ratingCount": 3928,
+          "price": "0.00",
+          "rank": 491,
+          "category": "6007"
+        },
+        {
+          "appId": 921734628,
+          "name": "iPostal1",
+          "publisher": "USZoom, LLC",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c0/a3/1f/c0a31fd8-fa68-3c36-1700-f6f1e52fb408/AppIcon-1x_U007emarketing-0-8-0-0-85-220-0.png/180x180bb.png",
+          "rating": 3.6,
+          "ratingCount": 812,
+          "price": "0.00",
+          "rank": 495,
+          "category": "6007"
+        },
+        {
+          "appId": 1268078389,
+          "name": "Case Status",
+          "publisher": "https://casestatus.com",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/dc/cd/19/dccd190c-443d-beb8-423c-e645ea1ae0b2/AppIcon-0-0-1x_U007emarketing-0-5-0-sRGB-85-220.png/180x180bb.png",
+          "rating": 4.9,
+          "ratingCount": 26400,
+          "price": "0.00",
+          "rank": 497,
+          "category": "6007"
+        },
+        {
+          "appId": 6739747450,
+          "name": "BeFreed: Learn Anything",
+          "publisher": "beFreed, Inc",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/42/d3/3f/42d33f78-9353-5af1-d409-895436a6ba53/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/180x180bb.png",
+          "rating": 4.9,
+          "ratingCount": 119,
+          "price": "0.00",
+          "rank": 499,
+          "category": "6007"
+        }
+      ]
+    }
+  }
+}
