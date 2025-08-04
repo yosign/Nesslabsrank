@@ -1,0 +1,539 @@
+{
+  "date": "2025-08-04",
+  "changes": {
+    "6012": {
+      "added": [
+        {
+          "appId": 1299313149,
+          "name": "PNM Companion",
+          "publisher": "TechniPhi, Inc",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/da/3a/91/da3a9128-d19c-5588-ec1a-2b9d25cdf355/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/180x180bb.png",
+          "rating": 1.6,
+          "ratingCount": 27,
+          "price": "0.00",
+          "rank": 285,
+          "category": "6012"
+        },
+        {
+          "appId": 487739314,
+          "name": "Bunk1",
+          "publisher": "Bunk1.com",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/58/68/60/5868605f-377a-dd6a-91f7-fcd34afc52ab/AppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.png/180x180bb.png",
+          "rating": 4.3,
+          "ratingCount": 427,
+          "price": "0.00",
+          "rank": 361,
+          "category": "6012"
+        },
+        {
+          "appId": 6745099009,
+          "name": "ThinQ Remote: Home Control",
+          "publisher": "Almared Wards",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/11/92/d3/1192d316-8321-a9bd-87c0-f6520375b34f/AppIcon-1x_U007epad-0-1-0-85-220-0.jpeg/180x180bb.png",
+          "rating": 4.2,
+          "ratingCount": 225,
+          "price": "0.00",
+          "rank": 401,
+          "category": "6012"
+        },
+        {
+          "appId": 1014635777,
+          "name": "Life.Church",
+          "publisher": "Life.Church",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/dd/3e/51/dd3e51c8-8e76-2dfc-0632-d6fb34651707/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/180x180bb.png",
+          "rating": 4.7,
+          "ratingCount": 522,
+          "price": "0.00",
+          "rank": 420,
+          "category": "6012"
+        },
+        {
+          "appId": 1572344751,
+          "name": "Pray First – Prayer Life Plans",
+          "publisher": "Church of the Highlands",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3f/25/98/3f25986f-86ee-8227-20f9-d7bd341c328e/AppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.png/180x180bb.png",
+          "rating": 4.9,
+          "ratingCount": 373,
+          "price": "0.00",
+          "rank": 428,
+          "category": "6012"
+        },
+        {
+          "appId": 1483974820,
+          "name": "Lectio 365",
+          "publisher": "24-7 prayer",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a2/e4/9d/a2e49d42-0db9-a445-bcd8-13c1e8f75765/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/180x180bb.png",
+          "rating": 4.7,
+          "ratingCount": 859,
+          "price": "0.00",
+          "rank": 441,
+          "category": "6012"
+        },
+        {
+          "appId": 6744707747,
+          "name": "BuyBye - Savings Tracker",
+          "publisher": "Aris Tyros",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f3/4e/6e/f34e6e17-0b6d-caa3-f2d7-3647209afe3e/AppIcon-0-0-1x_U007epad-0-1-85-220.png/180x180bb.png",
+          "rating": 4.5,
+          "ratingCount": 574,
+          "price": "0.00",
+          "rank": 442,
+          "category": "6012"
+        },
+        {
+          "appId": 6741482027,
+          "name": "Find my Friends, Phone: Findi",
+          "publisher": "PROTEUS",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e3/43/fe/e343fe76-8c81-8ec6-3091-69fe9969900d/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/180x180bb.png",
+          "rating": 3.5,
+          "ratingCount": 135,
+          "price": "0.00",
+          "rank": 445,
+          "category": "6012"
+        },
+        {
+          "appId": 565301194,
+          "name": "Church App - Tithe.ly",
+          "publisher": "Your Giving, Inc.",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7b/5f/d0/7b5fd02b-58d2-742b-41f1-1e5b87f8cc6d/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/180x180bb.png",
+          "rating": 4.4,
+          "ratingCount": 886,
+          "price": "0.00",
+          "rank": 447,
+          "category": "6012"
+        },
+        {
+          "appId": 1278816909,
+          "name": "Toshiba AC NA",
+          "publisher": "GD Midea Air-Conditioning Equipment Co., Ltd.",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b5/86/38/b58638b3-c53a-973a-b580-d06331ad4820/AppIcon-1x_U007emarketing-0-11-0-0-85-220-0.png/180x180bb.png",
+          "rating": 2.4,
+          "ratingCount": 787,
+          "price": "0.00",
+          "rank": 449,
+          "category": "6012"
+        },
+        {
+          "appId": 6744969717,
+          "name": "Watchio Faces",
+          "publisher": "RANO CAR s.r.o",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/92/8c/45/928c4574-3156-0c51-f608-e1e92c853d55/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/180x180bb.png",
+          "rating": 3,
+          "ratingCount": 97,
+          "price": "0.00",
+          "rank": 454,
+          "category": "6012"
+        },
+        {
+          "appId": 6447664832,
+          "name": "Outfit Formulas: Closet Maker",
+          "publisher": "GYPO LLC.",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b5/84/96/b58496a8-a074-843b-89be-2bdddd053fa2/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/180x180bb.png",
+          "rating": 4.6,
+          "ratingCount": 1008,
+          "price": "0.00",
+          "rank": 460,
+          "category": "6012"
+        },
+        {
+          "appId": 1477030154,
+          "name": "Winix Smart",
+          "publisher": "WINIX INC.",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f1/2e/b2/f12eb2a5-f3a7-932b-6a30-f02149635a99/AppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.png/180x180bb.png",
+          "rating": 4.6,
+          "ratingCount": 27599.999999999996,
+          "price": "0.00",
+          "rank": 467,
+          "category": "6012"
+        },
+        {
+          "appId": 6670338377,
+          "name": "Aria: Black Singles Dating App",
+          "publisher": "Ringle Dating LTD",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/eb/92/73/eb927384-b5d9-a814-5321-69cf05cf94b9/AppIcon-0-0-1x_U007epad-0-1-85-220.png/180x180bb.png",
+          "rating": 4.7,
+          "ratingCount": 869,
+          "price": "0.00",
+          "rank": 469,
+          "category": "6012"
+        },
+        {
+          "appId": 6449988091,
+          "name": "Any Trans-Photo,Voice,Text",
+          "publisher": "SPEEDING FLASH NETWORK TECHNOLOGY LIMITED",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/dd/54/81/dd54817c-8500-2e10-1b3b-25e20828c047/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/180x180bb.png",
+          "rating": 4.6,
+          "ratingCount": 929,
+          "price": "0.00",
+          "rank": 470,
+          "category": "6012"
+        },
+        {
+          "appId": 6741842262,
+          "name": "Jonna",
+          "publisher": "Dating with friends company Limited",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/55/b4/98/55b498c6-4a03-948c-d3ad-cd3b804f52ab/AppIcon-1x_U007ephone-0-1-0-85-220-0.png/180x180bb.png",
+          "rating": 4.5,
+          "ratingCount": 500,
+          "price": "0.00",
+          "rank": 471,
+          "category": "6012"
+        },
+        {
+          "appId": 6741476642,
+          "name": "Flirt AI: Texting Assistant",
+          "publisher": "Kazik Labs, LLC",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9c/2d/35/9c2d35e5-9294-3e98-2d95-423e9c883511/AppIcon-0-0-1x_U007ephone-0-1-85-220.jpeg/180x180bb.png",
+          "rating": 4.8,
+          "ratingCount": 4337,
+          "price": "0.00",
+          "rank": 475,
+          "category": "6012"
+        },
+        {
+          "appId": 6502498724,
+          "name": "Bytech",
+          "publisher": "BYTECH NY, INC.",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/84/18/34/84183416-3747-8ad3-4c09-28127514463e/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/180x180bb.png",
+          "rating": 2.6,
+          "ratingCount": 40,
+          "price": "0.00",
+          "rank": 479,
+          "category": "6012"
+        },
+        {
+          "appId": 1248669703,
+          "name": "Aqara Home",
+          "publisher": "Aqara Software Service Co.,Ltd.",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/27/2e/5a/272e5aa3-2f1e-3f10-a243-91daf2d2b111/AppIcon-0-0-1x_U007emarketing-0-8-0-0-sRGB-85-220.png/180x180bb.png",
+          "rating": 4.5,
+          "ratingCount": 2348,
+          "price": "0.00",
+          "rank": 481,
+          "category": "6012"
+        },
+        {
+          "appId": 338887129,
+          "name": "RV Trader: Shop RVs",
+          "publisher": "Trader Interactive, LLC",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/99/c8/c6/99c8c6a4-7d6d-c24a-e690-e08e31fb773b/AppIcon-0-0-1x_U007emarketing-0-8-0-sRGB-85-220.png/180x180bb.png",
+          "rating": 4.7,
+          "ratingCount": 19400,
+          "price": "0.00",
+          "rank": 487,
+          "category": "6012"
+        },
+        {
+          "appId": 1418410758,
+          "name": "Globe Suite",
+          "publisher": "Globe Electric Company Inc.",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/48/96/a1/4896a1be-4c57-b0fe-0c82-db8b1d4101d0/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/180x180bb.png",
+          "rating": 4.4,
+          "ratingCount": 4888,
+          "price": "0.00",
+          "rank": 492,
+          "category": "6012"
+        },
+        {
+          "appId": 1348097043,
+          "name": "T-Mobile FamilyMode",
+          "publisher": "T-Mobile",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e6/b6/08/e6b6087a-370d-fca9-325a-375d325f2934/AppIcon-0-1x_U007emarketing-0-7-0-0-85-220-0.png/180x180bb.png",
+          "rating": 4.5,
+          "ratingCount": 14100,
+          "price": "0.00",
+          "rank": 497,
+          "category": "6012"
+        },
+        {
+          "appId": 1154082222,
+          "name": "YouGov",
+          "publisher": "YouGov plc",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6f/5a/46/6f5a4679-7793-00ce-d55c-1afa9c992979/AppIcon-0-0-1x_U007emarketing-0-8-0-sRGB-85-220.png/180x180bb.png",
+          "rating": 4.6,
+          "ratingCount": 4870,
+          "price": "0.00",
+          "rank": 499,
+          "category": "6012"
+        },
+        {
+          "appId": 657758311,
+          "name": "LIFX",
+          "publisher": "LIFX",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/14/0b/24/140b24bb-cd2f-a233-eff3-457900ad2d87/AppIcon-0-1x_U007emarketing-0-8-0-85-220-0.png/180x180bb.png",
+          "rating": 3.7,
+          "ratingCount": 6429,
+          "price": "0.00",
+          "rank": 500,
+          "category": "6012"
+        }
+      ],
+      "removed": [
+        {
+          "appId": 1576005531,
+          "name": "RAISE365",
+          "publisher": "RAISE365 Develoment LLC",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6d/4a/d5/6d4ad5d1-55d3-44a2-cc89-871fa986b52c/AppIcon-0-0-1x_U007epad-0-1-85-220.png/180x180bb.png",
+          "rating": 2.8,
+          "ratingCount": 1345,
+          "price": "0.00",
+          "rank": 334,
+          "category": "6012"
+        },
+        {
+          "appId": 6446644082,
+          "name": "BH Life",
+          "publisher": "BH Management Services, LLC",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ff/fa/c5/fffac5c9-16a2-baf1-4525-d17b8bb9e252/AppIcon-0-0-1x_U007epad-0-1-85-220.png/180x180bb.png",
+          "rating": 4.8,
+          "ratingCount": 831,
+          "price": "0.00",
+          "rank": 363,
+          "category": "6012"
+        },
+        {
+          "appId": 1126712318,
+          "name": "Rently Smart Home",
+          "publisher": "Consumer 2.0 Inc",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6d/a6/c9/6da6c9c2-cf27-c04b-f1ab-1375e7429b60/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/180x180bb.png",
+          "rating": 4.8,
+          "ratingCount": 6624,
+          "price": "0.00",
+          "rank": 370,
+          "category": "6012"
+        },
+        {
+          "appId": 6738053432,
+          "name": "Smoothcomp",
+          "publisher": "Smoothcomp AB",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3f/c7/38/3fc73839-fefe-dd7e-cf99-9020eb221dc2/AppIcon-1x_U007epad-0-1-85-220-0.png/180x180bb.png",
+          "rating": 3,
+          "ratingCount": 10,
+          "price": "0.00",
+          "rank": 377,
+          "category": "6012"
+        },
+        {
+          "appId": 365208471,
+          "name": "Camp Bow Wow",
+          "publisher": "Camp Bow Wow Franchising, Inc.",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e5/c1/db/e5c1dbf0-c872-cb48-cd2b-660eee262342/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/180x180bb.png",
+          "rating": 3,
+          "ratingCount": 371,
+          "price": "0.00",
+          "rank": 392,
+          "category": "6012"
+        },
+        {
+          "appId": 1633459819,
+          "name": "The Pack by Zoetis",
+          "publisher": "Zoetis Inc",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f0/96/c0/f096c067-e844-68d6-105b-93b348149906/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/180x180bb.png",
+          "rating": 4.8,
+          "ratingCount": 1684,
+          "price": "0.00",
+          "rank": 398,
+          "category": "6012"
+        },
+        {
+          "appId": 6459996442,
+          "name": "The Way: Guided Meditation",
+          "publisher": "The Way App Inc",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/64/6b/cd/646bcd90-668d-3ad2-202f-22116686b582/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/180x180bb.png",
+          "rating": 4.9,
+          "ratingCount": 291,
+          "price": "0.00",
+          "rank": 404,
+          "category": "6012"
+        },
+        {
+          "appId": 6747375030,
+          "name": "Soulink：Connect by Vibe",
+          "publisher": "Lucia Perez",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8f/51/08/8f510865-86d5-f038-a86b-990bbe6b0309/AppIcon-1x_U007ephone-0-1-85-220-0.jpeg/180x180bb.png",
+          "rating": 2.3,
+          "ratingCount": 22,
+          "price": "0.00",
+          "rank": 423,
+          "category": "6012"
+        },
+        {
+          "appId": 6743434502,
+          "name": "Desire AI",
+          "publisher": "Andrey Tutaev",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d5/35/81/d535818d-555b-9edd-fda5-18e396034c25/AppIcon-0-0-1x_U007ephone-0-1-P3-85-220.png/180x180bb.png",
+          "rating": 4.4,
+          "ratingCount": 214,
+          "price": "0.00",
+          "rank": 425,
+          "category": "6012"
+        },
+        {
+          "appId": 6473794045,
+          "name": "Luna: Your Moon Phase Calendar",
+          "publisher": "Iurii Filin",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f0/e6/1f/f0e61f7d-0470-9b65-341e-6d812be33e5b/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.jpeg/180x180bb.png",
+          "rating": 4.5,
+          "ratingCount": 871,
+          "price": "0.00",
+          "rank": 435,
+          "category": "6012"
+        },
+        {
+          "appId": 1078293068,
+          "name": "Bambino: Babysitting made easy",
+          "publisher": "Bambino Technologies, Inc.",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b7/f6/f1/b7f6f1e9-4b86-b149-8402-b1e55ac25806/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/180x180bb.png",
+          "rating": 4.9,
+          "ratingCount": 24200,
+          "price": "0.00",
+          "rank": 444,
+          "category": "6012"
+        },
+        {
+          "appId": 6736533244,
+          "name": "Astra Soulmate Drawing: Stela",
+          "publisher": "Clyfar Tech",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/44/21/ad/4421ad97-1886-b3ee-0580-62753caa7e68/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/180x180bb.png",
+          "rating": 4.7,
+          "ratingCount": 525,
+          "price": "0.00",
+          "rank": 447,
+          "category": "6012"
+        },
+        {
+          "appId": 565859420,
+          "name": "Everbridge",
+          "publisher": "Everbridge, Inc.",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5f/8c/8d/5f8c8db4-2000-1edd-6bf0-24c558121bc5/AppIcon-0-1x_U007emarketing-0-7-0-0-sRGB-85-220-0.png/180x180bb.png",
+          "rating": 2,
+          "ratingCount": 1232,
+          "price": "0.00",
+          "rank": 469,
+          "category": "6012"
+        },
+        {
+          "appId": 1673592071,
+          "name": "Hallmark Cards Now",
+          "publisher": "Hallmark Marketing Company, LLC",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e4/ac/a1/e4aca13f-fa32-1786-73fc-892ae53c95ff/AppIcon-Prod-0-0-1x_U007emarketing-0-6-0-85-220.png/180x180bb.png",
+          "rating": 4.9,
+          "ratingCount": 3389,
+          "price": "0.00",
+          "rank": 470,
+          "category": "6012"
+        },
+        {
+          "appId": 6593690945,
+          "name": "Mofid - مفید",
+          "publisher": "EL-NUKHBA ENGINEERING COMPANY FOR CONTRACTING, GENERAL TRADING, L.L.C.",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f1/91/23/f1912362-08a6-d0e6-7163-df6b989923b6/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/180x180bb.png",
+          "rating": 0,
+          "ratingCount": 0,
+          "price": "0.00",
+          "rank": 475,
+          "category": "6012"
+        },
+        {
+          "appId": 1672660475,
+          "name": "Kale - Creator Rewards",
+          "publisher": "Palette Technologies Inc",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ca/d5/bc/cad5bcf7-0500-c35f-738d-e649aff4f6bd/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/180x180bb.png",
+          "rating": 4.8,
+          "ratingCount": 2300,
+          "price": "0.00",
+          "rank": 477,
+          "category": "6012"
+        },
+        {
+          "appId": 985954901,
+          "name": "iSearching",
+          "publisher": "ShenZhen Lenze Technology Co,.Ltd.",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d2/20/ab/d220ab41-75ce-7205-1bd3-357b6cd90e72/AppIcon-1x_U007emarketing-0-8-0-0-85-220-0.png/180x180bb.png",
+          "rating": 1.8,
+          "ratingCount": 525,
+          "price": "0.00",
+          "rank": 478,
+          "category": "6012"
+        },
+        {
+          "appId": 6746181320,
+          "name": "Katch: Recent Follow Tracker",
+          "publisher": "Singulabs",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ea/39/3a/ea393a2e-9a54-8af2-3cf5-e6b31f825c12/AppIcon-0-0-1x_U007epad-0-1-85-220.png/180x180bb.png",
+          "rating": 0,
+          "ratingCount": 0,
+          "price": "0.00",
+          "rank": 482,
+          "category": "6012"
+        },
+        {
+          "appId": 1614301164,
+          "name": "Ollie - Human Grade Dog Food",
+          "publisher": "Ollie Pets, Inc.",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8f/53/49/8f53494f-a5ee-39fd-d8c8-15d7e8e12482/AppIcon-0-0-1x_U007epad-0-1-85-220.png/180x180bb.png",
+          "rating": 4.9,
+          "ratingCount": 14400,
+          "price": "0.00",
+          "rank": 486,
+          "category": "6012"
+        },
+        {
+          "appId": 691246562,
+          "name": "Rave Guardian",
+          "publisher": "Rave Mobile Safety",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4b/8a/0f/4b8a0fc3-dd4b-cf12-6423-3f6cbd515826/AppIcon-0-0-1x_U007emarketing-0-6-0-sRGB-85-220.png/180x180bb.png",
+          "rating": 4.6,
+          "ratingCount": 2756,
+          "price": "0.00",
+          "rank": 491,
+          "category": "6012"
+        },
+        {
+          "appId": 1635288083,
+          "name": "Greystar Living",
+          "publisher": "Greystar Real Estate Partners LLC",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ef/84/c0/ef84c0eb-37b9-2e92-0109-618ca4a61ac4/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/180x180bb.png",
+          "rating": 4.6,
+          "ratingCount": 3242,
+          "price": "0.00",
+          "rank": 492,
+          "category": "6012"
+        },
+        {
+          "appId": 1495094343,
+          "name": "Moen Smart Water Network",
+          "publisher": "Moen Incorporated",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/63/79/3a/63793ad3-d169-a27e-cad7-3e91cad88b3f/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/180x180bb.png",
+          "rating": 3.8,
+          "ratingCount": 943,
+          "price": "0.00",
+          "rank": 493,
+          "category": "6012"
+        },
+        {
+          "appId": 6451412538,
+          "name": "Homebody: Better Renting",
+          "publisher": "Entrata, Inc.",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2c/c5/ce/2cc5ceac-0670-7e27-fbb4-18306be143a5/AppIcon-0-0-1x_U007ephone-0-1-0-sRGB-85-220.png/180x180bb.png",
+          "rating": 3.4,
+          "ratingCount": 27,
+          "price": "0.00",
+          "rank": 495,
+          "category": "6012"
+        },
+        {
+          "appId": 1311568445,
+          "name": "Valet Living Resident",
+          "publisher": "Valet Living LLC",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/84/a6/48/84a648e2-112d-9f08-3bbf-8eeef6af233c/AppIcon-0-1x_U007emarketing-0-8-0-0-85-220-0.png/180x180bb.png",
+          "rating": 1.9,
+          "ratingCount": 140,
+          "price": "0.00",
+          "rank": 498,
+          "category": "6012"
+        }
+      ]
+    }
+  }
+}
