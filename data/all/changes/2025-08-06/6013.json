@@ -5,8 +5,8 @@
     {
       "appId": 6739143347,
       "previous_rank": 393,
-      "current_rank": 72,
-      "rank_change": 321,
+      "current_rank": 117,
+      "rank_change": 276,
       "category": "6013",
       "date": "2025-08-06",
       "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/fb/ac/39/fbac3952-b87a-68d3-6bd3-095342a3775c/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/180x180bb.png",
@@ -16,8 +16,8 @@
     {
       "appId": 6740759484,
       "previous_rank": 498,
-      "current_rank": 185,
-      "rank_change": 313,
+      "current_rank": 239,
+      "rank_change": 259,
       "category": "6013",
       "date": "2025-08-06",
       "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/27/6a/68/276a68ed-4179-31d0-8ae4-c5d1ce839184/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/180x180bb.png",
@@ -25,10 +25,21 @@
       "publisher": "Cracked Labs, LLC"
     },
     {
+      "appId": 6471596320,
+      "previous_rank": 445,
+      "current_rank": 243,
+      "rank_change": 202,
+      "category": "6013",
+      "date": "2025-08-06",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ee/02/10/ee02105c-bb6a-a8b9-f118-b8d8610eaa10/AppIconLimberV3-0-0-1x_U007emarketing-0-7-0-85-220.png/180x180bb.png",
+      "app_name": "Limber Health Home Exercise",
+      "publisher": "Limber Health, Inc."
+    },
+    {
       "appId": 6473672621,
       "previous_rank": 328,
-      "current_rank": 191,
-      "rank_change": 137,
+      "current_rank": 175,
+      "rank_change": 153,
       "category": "6013",
       "date": "2025-08-06",
       "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/37/ef/4d/37ef4d6a-3fe4-fa72-648f-9008999fa431/AppIcon-0-0-1x_U007emarketing-0-11-0-0-85-220.png/180x180bb.png",
@@ -36,37 +47,26 @@
       "publisher": "Shenzhen Qingcheng Wireless Technology Co., Ltd."
     },
     {
-      "appId": 1458144032,
-      "previous_rank": 483,
-      "current_rank": 356,
-      "rank_change": 127,
+      "appId": 1182030612,
+      "previous_rank": 375,
+      "current_rank": 226,
+      "rank_change": 149,
       "category": "6013",
       "date": "2025-08-06",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c2/44/69/c24469c4-6165-a08e-db6f-66270d8d7216/appicon-1x_U007emarketing-0-8-0-85-220-0.png/180x180bb.png",
-      "app_name": "In-Shape Fitness",
-      "publisher": "InShape Health Clubs LLC"
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3a/bc/dc/3abcdc9d-494c-0271-cee9-609283ee08aa/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/180x180bb.png",
+      "app_name": "HOTWORX",
+      "publisher": "Planet Beach"
     },
     {
-      "appId": 920161006,
-      "previous_rank": 433,
-      "current_rank": 310,
-      "rank_change": 123,
+      "appId": 1331001591,
+      "previous_rank": 487,
+      "current_rank": 354,
+      "rank_change": 133,
       "category": "6013",
       "date": "2025-08-06",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/20/f4/38/20f438f6-a235-172c-96ae-1f1519b091ca/AppIcon-0-1x_U007emarketing-0-8-0-0-0-85-220-0.png/180x180bb.png",
-      "app_name": "Breethe: Sleep & Meditation",
-      "publisher": "OMG. I Can Meditate! Inc."
-    },
-    {
-      "appId": 1486665906,
-      "previous_rank": 345,
-      "current_rank": 237,
-      "rank_change": 108,
-      "category": "6013",
-      "date": "2025-08-06",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/98/fd/21/98fd21b3-6263-9c91-ddb0-7a461052d57b/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/180x180bb.png",
-      "app_name": "VASA Fitness Mobile",
-      "publisher": "VASA Fitness"
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d9/c3/f0/d9c3f0d1-3bd3-d4f0-69ad-dc864c93493c/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/180x180bb.png",
+      "app_name": "The iClassPro App",
+      "publisher": "iClassPro Inc"
     }
   ]
 }
