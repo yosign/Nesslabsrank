@@ -3,21 +3,10 @@
   "genre": "6012",
   "topRisers": [
     {
-      "appId": 6740349199,
-      "previous_rank": 475,
-      "current_rank": 179,
-      "rank_change": 296,
-      "category": "6012",
-      "date": "2025-08-07",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/71/d5/b9/71d5b9e5-0619-8ab0-fcfb-ecab3c056494/AppIcon-0-1x_U007epad-0-1-85-220-0.png/180x180bb.png",
-      "app_name": "MD Outdoors",
-      "publisher": "Maryland Department of Natural Resources"
-    },
-    {
       "appId": 1672660475,
       "previous_rank": 472,
-      "current_rank": 267,
-      "rank_change": 205,
+      "current_rank": 247,
+      "rank_change": 225,
       "category": "6012",
       "date": "2025-08-07",
       "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ca/d5/bc/cad5bcf7-0500-c35f-738d-e649aff4f6bd/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/180x180bb.png",
@@ -25,10 +14,32 @@
       "publisher": "Palette Technologies Inc"
     },
     {
+      "appId": 6740349199,
+      "previous_rank": 475,
+      "current_rank": 294,
+      "rank_change": 181,
+      "category": "6012",
+      "date": "2025-08-07",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/71/d5/b9/71d5b9e5-0619-8ab0-fcfb-ecab3c056494/AppIcon-0-1x_U007epad-0-1-85-220-0.png/180x180bb.png",
+      "app_name": "MD Outdoors",
+      "publisher": "Maryland Department of Natural Resources"
+    },
+    {
+      "appId": 395563123,
+      "previous_rank": 474,
+      "current_rank": 323,
+      "rank_change": 151,
+      "category": "6012",
+      "date": "2025-08-07",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e3/52/e4/e352e460-571c-b52f-ecf1-73ddedff8cdf/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/180x180bb.png",
+      "app_name": "dscout",
+      "publisher": "dscout"
+    },
+    {
       "appId": 990655529,
       "previous_rank": 401,
-      "current_rank": 211,
-      "rank_change": 190,
+      "current_rank": 256,
+      "rank_change": 145,
       "category": "6012",
       "date": "2025-08-07",
       "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/27/c8/9b/27c89be8-1a8e-f556-2603-ecd36a2e218b/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/180x180bb.png",
@@ -36,21 +47,10 @@
       "publisher": "Global Poverty Project, Inc"
     },
     {
-      "appId": 6748411764,
-      "previous_rank": 497,
-      "current_rank": 332,
-      "rank_change": 165,
-      "category": "6012",
-      "date": "2025-08-07",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a3/a8/6c/a3a86c5d-941f-9dcc-e11f-b9d0ff5443e8/AppIcon-0-0-1x_U007emarketing-0-11-0-0-85-220.png/180x180bb.png",
-      "app_name": "Таngo livе: Manage app",
-      "publisher": "POM TANGO LIVE FRUCTPROD STREAM VIDEO CHAT SRL"
-    },
-    {
       "appId": 6740919592,
       "previous_rank": 392,
-      "current_rank": 236,
-      "rank_change": 156,
+      "current_rank": 248,
+      "rank_change": 144,
       "category": "6012",
       "date": "2025-08-07",
       "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/74/02/2a/74022a5d-1cb1-3f45-f8d2-517cccb43e34/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/180x180bb.png",
@@ -58,15 +58,15 @@
       "publisher": "XLABS DIJITAL HIZMETLER ANONIM SIRKETI"
     },
     {
-      "appId": 1299313149,
-      "previous_rank": 280,
-      "current_rank": 140,
-      "rank_change": 140,
+      "appId": 6748411764,
+      "previous_rank": 497,
+      "current_rank": 359,
+      "rank_change": 138,
       "category": "6012",
       "date": "2025-08-07",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/da/3a/91/da3a9128-d19c-5588-ec1a-2b9d25cdf355/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/180x180bb.png",
-      "app_name": "PNM Companion",
-      "publisher": "TechniPhi, Inc"
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a3/a8/6c/a3a86c5d-941f-9dcc-e11f-b9d0ff5443e8/AppIcon-0-0-1x_U007emarketing-0-11-0-0-85-220.png/180x180bb.png",
+      "app_name": "Таngo livе: Manage app",
+      "publisher": "POM TANGO LIVE FRUCTPROD STREAM VIDEO CHAT SRL"
     }
   ]
 }
