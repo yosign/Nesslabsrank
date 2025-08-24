@@ -3,10 +3,21 @@
   "genre": "6002",
   "topRisers": [
     {
+      "appId": 1275945156,
+      "previous_rank": 456,
+      "current_rank": 137,
+      "rank_change": 319,
+      "category": "6002",
+      "date": "2025-08-24",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/63/4b/1e/634b1eae-7f2d-9c1a-28ca-510f809c6879/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/180x180bb.png",
+      "app_name": "Chooser!",
+      "publisher": "Bon App & T"
+    },
+    {
       "appId": 1370312616,
       "previous_rank": 367,
-      "current_rank": 89,
-      "rank_change": 278,
+      "current_rank": 86,
+      "rank_change": 281,
       "category": "6002",
       "date": "2025-08-24",
       "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e6/5b/22/e65b22ec-f772-ba91-6dff-9096f8801292/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/180x180bb.png",
@@ -14,32 +25,10 @@
       "publisher": "Guangzhou Ziipin Network Co., Ltd."
     },
     {
-      "appId": 6478119018,
-      "previous_rank": 472,
-      "current_rank": 260,
-      "rank_change": 212,
-      "category": "6002",
-      "date": "2025-08-24",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/07/80/b1/0780b13d-02b7-5db1-06a9-061552f8f82d/AppIcon-0-1x_U007ephone-0-1-0-85-220-0.jpeg/180x180bb.png",
-      "app_name": "Remote TV Universal Control #1",
-      "publisher": "Cody Soto"
-    },
-    {
-      "appId": 6467123156,
-      "previous_rank": 465,
-      "current_rank": 258,
-      "rank_change": 207,
-      "category": "6002",
-      "date": "2025-08-24",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/37/a2/9f/37a29f7c-0517-97fa-83e2-68100f56d080/AppIcon-0-1x_U007ephone-0-1-0-85-220-0.jpeg/180x180bb.png",
-      "app_name": "Universal TV Remote Control ◦",
-      "publisher": "Brandy Henry"
-    },
-    {
       "appId": 6745496179,
       "previous_rank": 368,
-      "current_rank": 165,
-      "rank_change": 203,
+      "current_rank": 120,
+      "rank_change": 248,
       "category": "6002",
       "date": "2025-08-24",
       "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/33/f7/20/33f72019-70d0-6f54-9924-db2ca8555316/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.jpeg/180x180bb.png",
@@ -47,26 +36,37 @@
       "publisher": "HAHA TECHNOLOGY LIMITED"
     },
     {
-      "appId": 6667116438,
-      "previous_rank": 404,
-      "current_rank": 212,
-      "rank_change": 192,
+      "appId": 6450250043,
+      "previous_rank": 370,
+      "current_rank": 182,
+      "rank_change": 188,
       "category": "6002",
       "date": "2025-08-24",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5d/28/5e/5d285e00-a24d-83dd-6dcf-1d22dbfa9566/AppIcon-1x_U007ephone-0-0-85-220-0.jpeg/180x180bb.png",
-      "app_name": "Firestick・Remote Fire TV Stick",
-      "publisher": "Brandy Henry"
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4a/2a/39/4a2a3920-c85a-c99d-fc72-48dc86987cb1/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/180x180bb.png",
+      "app_name": "ZEN PDF PRO",
+      "publisher": "EINMOB LIMITED"
     },
     {
-      "appId": 960998088,
-      "previous_rank": 489,
-      "current_rank": 302,
-      "rank_change": 187,
+      "appId": 1460130689,
+      "previous_rank": 398,
+      "current_rank": 216,
+      "rank_change": 182,
       "category": "6002",
       "date": "2025-08-24",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/eb/de/4e/ebde4e95-1260-161e-dd3d-c51657846a69/AppIcon-0-1x_U007emarketing-0-7-0-0-85-220-0.png/180x180bb.png",
-      "app_name": "JustIN Mobile",
-      "publisher": "Salto Systems"
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/45/9a/77/459a778d-6b53-4f64-1d4c-a7625b1b8628/AppIcon-1x_U007epad-0-11-0-85-220-0.png/180x180bb.png",
+      "app_name": "Cool *** Pro-Secure Proxy ***",
+      "publisher": "CTECH GLOBAL PTE LTD"
+    },
+    {
+      "appId": 6749595381,
+      "previous_rank": 287,
+      "current_rank": 117,
+      "rank_change": 170,
+      "category": "6002",
+      "date": "2025-08-24",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3f/09/3f/3f093f9c-3d6d-f6c4-643a-a7b7ac4fb5a6/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/180x180bb.png",
+      "app_name": "Screen Mirroring • Smart TV",
+      "publisher": "Mihkel Pikk"
     }
   ]
 }
