@@ -3,21 +3,10 @@
   "genre": "6012",
   "topRisers": [
     {
-      "appId": 1299313149,
-      "previous_rank": 304,
-      "current_rank": 63,
-      "rank_change": 241,
-      "category": "6012",
-      "date": "2025-08-29",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/60/8a/ca/608acaf8-f02f-f458-16f8-c2dfcb8d6806/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/180x180bb.png",
-      "app_name": "PNM Companion",
-      "publisher": "TechniPhi, Inc"
-    },
-    {
       "appId": 6449464256,
       "previous_rank": 373,
-      "current_rank": 153,
-      "rank_change": 220,
+      "current_rank": 171,
+      "rank_change": 202,
       "category": "6012",
       "date": "2025-08-29",
       "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/99/d9/77/99d9772c-5be7-80a9-738c-4df482f92875/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/180x180bb.png",
@@ -25,10 +14,21 @@
       "publisher": "Techlead Limited"
     },
     {
+      "appId": 1299313149,
+      "previous_rank": 304,
+      "current_rank": 123,
+      "rank_change": 181,
+      "category": "6012",
+      "date": "2025-08-29",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/60/8a/ca/608acaf8-f02f-f458-16f8-c2dfcb8d6806/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/180x180bb.png",
+      "app_name": "PNM Companion",
+      "publisher": "TechniPhi, Inc"
+    },
+    {
       "appId": 1222730617,
       "previous_rank": 429,
-      "current_rank": 318,
-      "rank_change": 111,
+      "current_rank": 305,
+      "rank_change": 124,
       "category": "6012",
       "date": "2025-08-29",
       "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/a6/a5/2c/a6a52c76-5a5d-cffc-a8a9-520776fb8daa/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-85-220.png/180x180bb.png",
@@ -36,21 +36,10 @@
       "publisher": "City of Portland"
     },
     {
-      "appId": 6466275286,
-      "previous_rank": 384,
-      "current_rank": 286,
-      "rank_change": 98,
-      "category": "6012",
-      "date": "2025-08-29",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1e/25/2b/1e252b94-1504-b683-1993-f8e0b85a57ef/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/180x180bb.png",
-      "app_name": "Vicont",
-      "publisher": "深圳市伟创高科电子有限公司"
-    },
-    {
       "appId": 6499107303,
       "previous_rank": 490,
-      "current_rank": 394,
-      "rank_change": 96,
+      "current_rank": 368,
+      "rank_change": 122,
       "category": "6012",
       "date": "2025-08-29",
       "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4a/5d/47/4a5d47e9-07cf-c9fb-77d2-d200044077e9/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/180x180bb.png",
@@ -58,15 +47,26 @@
       "publisher": "Cue"
     },
     {
-      "appId": 1292398843,
-      "previous_rank": 470,
-      "current_rank": 379,
-      "rank_change": 91,
+      "appId": 899058806,
+      "previous_rank": 464,
+      "current_rank": 347,
+      "rank_change": 117,
       "category": "6012",
       "date": "2025-08-29",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/1d/be/9b/1dbe9bd8-9891-71be-d39c-39312e31e613/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/180x180bb.png",
-      "app_name": "Gottman Card Decks",
-      "publisher": "The Gottman Institute"
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a9/65/25/a9652563-0fdc-c1bf-c233-6c069a66ce79/AppIcon-0-0-1x_U007emarketing-0-6-0-sRGB-85-220.png/180x180bb.png",
+      "app_name": "Rave Panic Button",
+      "publisher": "Rave Mobile Safety"
+    },
+    {
+      "appId": 1495094343,
+      "previous_rank": 458,
+      "current_rank": 361,
+      "rank_change": 97,
+      "category": "6012",
+      "date": "2025-08-29",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/25/b9/2a/25b92aa8-cfe4-e3d3-e406-2758f28cbe1d/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/180x180bb.png",
+      "app_name": "Moen Smart Water Network",
+      "publisher": "Moen Incorporated"
     }
   ]
 }
