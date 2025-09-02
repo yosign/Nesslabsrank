@@ -3,21 +3,10 @@
   "genre": "6007",
   "topRisers": [
     {
-      "appId": 6471319917,
-      "previous_rank": 430,
-      "current_rank": 250,
-      "rank_change": 180,
-      "category": "6007",
-      "date": "2025-09-02",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/10/fc/9c/10fc9cec-9693-1fc3-64d7-2cf300433307/AppIcon-1x_U007emarketing-0-11-0-85-220-0.png/180x180bb.png",
-      "app_name": "Gem.AI - Ask AI Chat Anything",
-      "publisher": "Photo Collage Maker Inc."
-    },
-    {
       "appId": 6449031894,
       "previous_rank": 499,
-      "current_rank": 331,
-      "rank_change": 168,
+      "current_rank": 236,
+      "rank_change": 263,
       "category": "6007",
       "date": "2025-09-02",
       "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/ae/b9/cf/aeb9cf2d-c001-2cd8-25a8-6029d31f1b0a/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/180x180bb.png",
@@ -25,21 +14,10 @@
       "publisher": "Enumerate Holding Company, LLC"
     },
     {
-      "appId": 6746355916,
-      "previous_rank": 448,
-      "current_rank": 291,
-      "rank_change": 157,
-      "category": "6007",
-      "date": "2025-09-02",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/76/3e/cd/763ecd9b-7cac-7397-494a-a8b8fcb78918/AppIcon-1x_U007epad-0-1-0-85-220-0.jpeg/180x180bb.png",
-      "app_name": "Bluetooth Finder - Scanner",
-      "publisher": "Sangeen Shabbir"
-    },
-    {
       "appId": 1444781716,
       "previous_rank": 495,
-      "current_rank": 347,
-      "rank_change": 148,
+      "current_rank": 296,
+      "rank_change": 199,
       "category": "6007",
       "date": "2025-09-02",
       "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ad/6c/b5/ad6cb5d1-7fab-eef4-f3c5-699e8c7f397f/AppIcon-85-220-0-5-0-0-2x-0-0.png/180x180bb.png",
@@ -47,10 +25,21 @@
       "publisher": "Artful, LLC"
     },
     {
+      "appId": 6501961836,
+      "previous_rank": 486,
+      "current_rank": 318,
+      "rank_change": 168,
+      "category": "6007",
+      "date": "2025-09-02",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d3/a3/b3/d3a3b301-b8ad-6a60-4b30-9ee374f54867/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/180x180bb.png",
+      "app_name": "Flownote AI Meeting Note Taker",
+      "publisher": "Dent Labs, LLC"
+    },
+    {
       "appId": 6743264294,
       "previous_rank": 296,
-      "current_rank": 166,
-      "rank_change": 130,
+      "current_rank": 129,
+      "rank_change": 167,
       "category": "6007",
       "date": "2025-09-02",
       "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e6/88/cb/e688cbc1-9812-80d2-bf56-98f50be06072/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/180x180bb.png",
@@ -58,15 +47,26 @@
       "publisher": "BRILLIANT BRASS LIMITED"
     },
     {
-      "appId": 6746713669,
-      "previous_rank": 245,
-      "current_rank": 153,
-      "rank_change": 92,
+      "appId": 6471319917,
+      "previous_rank": 430,
+      "current_rank": 269,
+      "rank_change": 161,
       "category": "6007",
       "date": "2025-09-02",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/11/52/3a/11523a4a-3b22-ef33-7675-93177667a077/AppIcon-1x_U007ephone-0-1-85-220-0.png/180x180bb.png",
-      "app_name": "Darato Player",
-      "publisher": "Salome Astrevaux"
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/10/fc/9c/10fc9cec-9693-1fc3-64d7-2cf300433307/AppIcon-1x_U007emarketing-0-11-0-85-220-0.png/180x180bb.png",
+      "app_name": "Gem.AI - Ask AI Chat Anything",
+      "publisher": "Photo Collage Maker Inc."
+    },
+    {
+      "appId": 1590868801,
+      "previous_rank": 380,
+      "current_rank": 225,
+      "rank_change": 155,
+      "category": "6007",
+      "date": "2025-09-02",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/cf/72/0d/cf720d55-6cd8-ffd6-8690-83a281af2092/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/180x180bb.png",
+      "app_name": "DoorLoop",
+      "publisher": "DoorLoop Inc"
     }
   ]
 }
