@@ -3,10 +3,21 @@
   "genre": "6013",
   "topRisers": [
     {
+      "appId": 6477849675,
+      "previous_rank": 468,
+      "current_rank": 45,
+      "rank_change": 423,
+      "category": "6013",
+      "date": "2025-09-03",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9a/56/33/9a5633e1-0286-a4eb-13a2-67b84eb4a6f6/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/180x180bb.png",
+      "app_name": "Stompers: Step Counter Friends",
+      "publisher": "Stompers, LLC"
+    },
+    {
       "appId": 6448191724,
       "previous_rank": 467,
-      "current_rank": 39,
-      "rank_change": 428,
+      "current_rank": 102,
+      "rank_change": 365,
       "category": "6013",
       "date": "2025-09-03",
       "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b7/d9/54/b7d95424-9323-6545-ac89-ab9ae8e3f281/AppIcon-0-0-1x_U007ephone-0-0-0-1-0-0-85-220.png/180x180bb.png",
@@ -16,8 +27,8 @@
     {
       "appId": 1588729407,
       "previous_rank": 408,
-      "current_rank": 114,
-      "rank_change": 294,
+      "current_rank": 118,
+      "rank_change": 290,
       "category": "6013",
       "date": "2025-09-03",
       "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1e/05/34/1e0534bb-a224-cb13-eb28-79be0fbfb990/AppIcon-Production-0-0-1x_U007emarketing-0-11-0-85-220.png/180x180bb.png",
@@ -27,8 +38,8 @@
     {
       "appId": 6479940325,
       "previous_rank": 269,
-      "current_rank": 16,
-      "rank_change": 253,
+      "current_rank": 28,
+      "rank_change": 241,
       "category": "6013",
       "date": "2025-09-03",
       "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/98/fe/28/98fe2859-45db-bcdd-23ed-7e36785c7f67/AppIcon-0-0-1x_U007ephone-0-0-0-1-0-0-85-220.png/180x180bb.png",
@@ -36,21 +47,10 @@
       "publisher": "2001 Ventures AS"
     },
     {
-      "appId": 793322895,
-      "previous_rank": 382,
-      "current_rank": 160,
-      "rank_change": 222,
-      "category": "6013",
-      "date": "2025-09-03",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/20/57/ee/2057eeda-5aff-9db7-e0cf-f4645da4781c/AppIcon-0-0-1x_U007emarketing-0-8-0-sRGB-85-220.png/180x180bb.png",
-      "app_name": "Personify Health",
-      "publisher": "Personify Health, Inc."
-    },
-    {
       "appId": 965396894,
       "previous_rank": 488,
-      "current_rank": 269,
-      "rank_change": 219,
+      "current_rank": 252,
+      "rank_change": 236,
       "category": "6013",
       "date": "2025-09-03",
       "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d0/c8/96/d0c896ac-4cf3-6392-fa58-66212451fc76/AppIcon-1x_U007emarketing-0-7-0-0-85-220-0.png/180x180bb.png",
@@ -58,15 +58,15 @@
       "publisher": "Water Walkers Inc"
     },
     {
-      "appId": 433457624,
-      "previous_rank": 497,
-      "current_rank": 299,
-      "rank_change": 198,
+      "appId": 6745459647,
+      "previous_rank": 353,
+      "current_rank": 132,
+      "rank_change": 221,
       "category": "6013",
       "date": "2025-09-03",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/65/9b/25/659b25bb-10b2-299a-f7b4-17e55d2ee4dd/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/180x180bb.png",
-      "app_name": "Florida Blue",
-      "publisher": "Blue Cross and Blue Shield of Florida, Inc."
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f7/ef/44/f7ef44af-7488-db68-f750-21ea85300965/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/180x180bb.png",
+      "app_name": "Taller AI",
+      "publisher": "Leadimize"
     }
   ]
 }
