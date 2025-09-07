@@ -3,10 +3,54 @@
   "genre": "6002",
   "topRisers": [
     {
+      "appId": 1096545820,
+      "previous_rank": 491,
+      "current_rank": 218,
+      "rank_change": 273,
+      "category": "6002",
+      "date": "2025-09-07",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/1e/17/9b/1e179b2d-a642-af2b-f2ec-e36db1fe8563/AppIcon-0-0-1x_U007emarketing-0-0-0-5-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/180x180bb.png",
+      "app_name": "NIOSH Sound Level Meter",
+      "publisher": "EA LAB"
+    },
+    {
+      "appId": 6745728288,
+      "previous_rank": 380,
+      "current_rank": 202,
+      "rank_change": 178,
+      "category": "6002",
+      "date": "2025-09-07",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/99/e3/e1/99e3e14a-c2d9-47e9-40ee-be38a3bfce71/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/180x180bb.png",
+      "app_name": "Smart Cleaner - Pro Security",
+      "publisher": "海英 李"
+    },
+    {
+      "appId": 1502012385,
+      "previous_rank": 409,
+      "current_rank": 233,
+      "rank_change": 176,
+      "category": "6002",
+      "date": "2025-09-07",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/64/d5/ff/64d5ff0a-daff-7b09-ff86-c360d76703d6/AppIcon-Vivitar-iStorage-0-1x_U007emarketing-0-7-0-0-85-220.png/180x180bb.png",
+      "app_name": "Vivitar Mobile Reader",
+      "publisher": "振峰 皮"
+    },
+    {
+      "appId": 6740096971,
+      "previous_rank": 395,
+      "current_rank": 226,
+      "rank_change": 169,
+      "category": "6002",
+      "date": "2025-09-07",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e1/c2/5e/e1c25e9f-18bf-25a8-4c6f-d6130cf6d85f/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/180x180bb.png",
+      "app_name": "Lottery Ticket Scanner - Lotto",
+      "publisher": "Syed Sahib Sultan"
+    },
+    {
       "appId": 6474973418,
       "previous_rank": 447,
-      "current_rank": 175,
-      "rank_change": 272,
+      "current_rank": 281,
+      "rank_change": 166,
       "category": "6002",
       "date": "2025-09-07",
       "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/69/ed/b7/69edb742-6c67-d066-a0b9-1fa031d7c6fa/AppIcon-1x_U007ephone-0-1-0-85-220-0.jpeg/180x180bb.png",
@@ -14,59 +58,15 @@
       "publisher": "Nørregaard Viktor"
     },
     {
-      "appId": 6749024086,
-      "previous_rank": 365,
-      "current_rank": 177,
-      "rank_change": 188,
+      "appId": 6550911475,
+      "previous_rank": 448,
+      "current_rank": 291,
+      "rank_change": 157,
       "category": "6002",
       "date": "2025-09-07",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3a/7c/9d/3a7c9d8a-209b-708d-79a1-272f0e827f1f/AppIcon-1x_U007ephone-0-1-0-85-220-0.jpeg/180x180bb.png",
-      "app_name": "Resume Maker, CV Job Builder",
-      "publisher": "Oleg Yuriev"
-    },
-    {
-      "appId": 1529823668,
-      "previous_rank": 431,
-      "current_rank": 264,
-      "rank_change": 167,
-      "category": "6002",
-      "date": "2025-09-07",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/bf/cc/fc/bfccfcc2-5a7b-69ec-435f-e4f686602d2e/AppIcon-0-1x_U007emarketing-0-11-0-85-220-0.png/180x180bb.png",
-      "app_name": "CaptionCall",
-      "publisher": "MachineGenius"
-    },
-    {
-      "appId": 6504796378,
-      "previous_rank": 392,
-      "current_rank": 226,
-      "rank_change": 166,
-      "category": "6002",
-      "date": "2025-09-07",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/08/2c/df/082cdff5-3bc9-4f6c-e1b6-b1f45786477f/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/180x180bb.png",
-      "app_name": "QR Code Reader, Scan Barcode",
-      "publisher": "Tung To Dinh"
-    },
-    {
-      "appId": 6737427002,
-      "previous_rank": 351,
-      "current_rank": 192,
-      "rank_change": 159,
-      "category": "6002",
-      "date": "2025-09-07",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/93/c1/19/93c11900-f7b9-5366-b716-7f4ca818b51b/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/180x180bb.png",
-      "app_name": "Car Play Connect: Sync Auto",
-      "publisher": "Liquid Apps Bilgi ve Operasyonel Teknolojileri Limited Sirketi"
-    },
-    {
-      "appId": 6745728288,
-      "previous_rank": 380,
-      "current_rank": 239,
-      "rank_change": 141,
-      "category": "6002",
-      "date": "2025-09-07",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/99/e3/e1/99e3e14a-c2d9-47e9-40ee-be38a3bfce71/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/180x180bb.png",
-      "app_name": "Smart Cleaner - Pro Security",
-      "publisher": "海英 李"
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ed/46/b4/ed46b417-d669-a5ea-a4e5-16e69cbe38ac/AppIcon-1x_U007ephone-0-1-0-85-220-0.png/180x180bb.png",
+      "app_name": "Vizo - Remote for Vizio TV",
+      "publisher": "Huy Hoang"
     }
   ]
 }
