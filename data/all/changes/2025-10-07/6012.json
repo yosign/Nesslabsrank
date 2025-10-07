@@ -3,10 +3,32 @@
   "genre": "6012",
   "topRisers": [
     {
+      "appId": 1542743354,
+      "previous_rank": 449,
+      "current_rank": 147,
+      "rank_change": 302,
+      "category": "6012",
+      "date": "2025-10-07",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/67/71/17/6771178e-7247-b438-deb6-319de991501e/default-0-0-1x_U007ephone-0-1-0-85-220.png/180x180bb.png",
+      "app_name": "My Porsche",
+      "publisher": "Porsche Cars North America, Inc."
+    },
+    {
+      "appId": 6746407452,
+      "previous_rank": 430,
+      "current_rank": 189,
+      "rank_change": 241,
+      "category": "6012",
+      "date": "2025-10-07",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/32/a5/fa/32a5fabc-10b6-869f-972a-4f3f245db9c7/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/180x180bb.png",
+      "app_name": "PicMi - Wallpaper & Widgets",
+      "publisher": "BUD INTERACTIVE PTE. LTD."
+    },
+    {
       "appId": 6468093061,
       "previous_rank": 460,
-      "current_rank": 216,
-      "rank_change": 244,
+      "current_rank": 234,
+      "rank_change": 226,
       "category": "6012",
       "date": "2025-10-07",
       "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b7/24/c7/b724c7a9-fc6a-4e6c-f44f-f682f87c9189/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/180x180bb.png",
@@ -16,8 +38,8 @@
     {
       "appId": 6752329694,
       "previous_rank": 369,
-      "current_rank": 166,
-      "rank_change": 203,
+      "current_rank": 174,
+      "rank_change": 195,
       "category": "6012",
       "date": "2025-10-07",
       "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/8a/26/7b/8a267bcf-f478-5a72-09da-d43bd10deaf3/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/180x180bb.png",
@@ -25,48 +47,26 @@
       "publisher": "婷婷 蒋"
     },
     {
-      "appId": 6746407452,
-      "previous_rank": 430,
-      "current_rank": 253,
-      "rank_change": 177,
+      "appId": 1138970986,
+      "previous_rank": 289,
+      "current_rank": 156,
+      "rank_change": 133,
       "category": "6012",
       "date": "2025-10-07",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/32/a5/fa/32a5fabc-10b6-869f-972a-4f3f245db9c7/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/180x180bb.png",
-      "app_name": "PicMi - Wallpaper & Widgets",
-      "publisher": "BUD INTERACTIVE PTE. LTD."
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/cb/5a/08/cb5a0823-41b7-31d9-8ec1-9f1d4add2df3/AppIcon-1x_U007emarketing-0-11-0-85-220-0.png/180x180bb.png",
+      "app_name": "MyChoice Benefits",
+      "publisher": "Businessolver"
     },
     {
-      "appId": 6474518292,
-      "previous_rank": 477,
-      "current_rank": 373,
-      "rank_change": 104,
+      "appId": 945419466,
+      "previous_rank": 448,
+      "current_rank": 336,
+      "rank_change": 112,
       "category": "6012",
       "date": "2025-10-07",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f6/52/2f/f6522f9a-0319-2557-a1f7-5e754593ad58/AppIcon-0-0-1x_U007ephone-0-85-220.png/180x180bb.png",
-      "app_name": "LooksMax AI",
-      "publisher": "Mnkybrain Labs"
-    },
-    {
-      "appId": 6443812921,
-      "previous_rank": 498,
-      "current_rank": 396,
-      "rank_change": 102,
-      "category": "6012",
-      "date": "2025-10-07",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d5/9d/d4/d59dd44a-f4ee-3250-96e8-ffbeaab3f34e/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/180x180bb.png",
-      "app_name": "Cubbily Shared Family Calendar",
-      "publisher": "DISCOVERY BAY PTE. LTD."
-    },
-    {
-      "appId": 6476193842,
-      "previous_rank": 446,
-      "current_rank": 359,
-      "rank_change": 87,
-      "category": "6012",
-      "date": "2025-10-07",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/93/67/d6/9367d6ce-2618-8c95-de11-fe064b25e573/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/180x180bb.png",
-      "app_name": "Amata: Matchmaking Club",
-      "publisher": "Amata"
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f6/d3/78/f6d378f3-0d1d-664c-bac3-db6bf07556b8/AppIcon-0-1x_U007emarketing-0-8-0-85-220-0.png/180x180bb.png",
+      "app_name": "TownSq Community",
+      "publisher": "SocialCondo"
     }
   ]
 }
