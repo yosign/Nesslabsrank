@@ -3,10 +3,32 @@
   "genre": "6007",
   "topRisers": [
     {
+      "appId": 1616886311,
+      "previous_rank": 485,
+      "current_rank": 346,
+      "rank_change": 139,
+      "category": "6007",
+      "date": "2025-11-08",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/89/d5/3a/89d53a6d-bd17-fca5-dcef-3b95e233dbef/AppIcon-0-1x_U007epad-0-85-220-0.png/180x180bb.png",
+      "app_name": "RealVNC Server",
+      "publisher": "RealVNC"
+    },
+    {
+      "appId": 575775114,
+      "previous_rank": 335,
+      "current_rank": 201,
+      "rank_change": 134,
+      "category": "6007",
+      "date": "2025-11-08",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/78/b4/02/78b40298-2f23-f4e2-3fd1-86c379a791af/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
+      "app_name": "CellGate Mobile Connect",
+      "publisher": "Gouldin Technologies LLC"
+    },
+    {
       "appId": 6447277040,
       "previous_rank": 490,
-      "current_rank": 336,
-      "rank_change": 154,
+      "current_rank": 360,
+      "rank_change": 130,
       "category": "6007",
       "date": "2025-11-08",
       "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/50/59/27/5059277e-a7d5-c255-a0a0-faeb1f3cb445/AppIcon-0-0-1x_U007epad-0-1-85-220.png/180x180bb.png",
@@ -14,59 +36,37 @@
       "publisher": "Johnathan Riemerspeters"
     },
     {
-      "appId": 6743002311,
-      "previous_rank": 324,
-      "current_rank": 193,
-      "rank_change": 131,
+      "appId": 1529442180,
+      "previous_rank": 466,
+      "current_rank": 338,
+      "rank_change": 128,
       "category": "6007",
       "date": "2025-11-08",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/bb/eb/db/bbebdb49-aecb-7b08-1e12-451871be4063/AppIcon-1x_U007epad-0-1-85-220-0.jpeg/180x180bb.png",
-      "app_name": "MaxProtection *** PRO",
-      "publisher": "Senwo Technology Co., Limited"
-    },
-    {
-      "appId": 6471563037,
-      "previous_rank": 464,
-      "current_rank": 339,
-      "rank_change": 125,
-      "category": "6007",
-      "date": "2025-11-08",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/8e/27/ad/8e27ade0-7c7e-5fab-8c15-bfb53995b216/grammar_composer-0-0-1x_U007ephone-0-1-0-85-220.png/180x180bb.png",
-      "app_name": "Grammar Check Corrector by AI",
-      "publisher": "Tiny Leo Co., Ltd"
-    },
-    {
-      "appId": 6474421906,
-      "previous_rank": 489,
-      "current_rank": 381,
-      "rank_change": 108,
-      "category": "6007",
-      "date": "2025-11-08",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/66/94/3f/66943fcb-1d2f-0f07-1e7a-06c8af74ad7f/AppIcon-0-1x_U007ephone-0-1-85-220-0.png/180x180bb.png",
-      "app_name": "Atoms - from Atomic Habits",
-      "publisher": "Atomic Development Inc."
-    },
-    {
-      "appId": 6740541272,
-      "previous_rank": 443,
-      "current_rank": 341,
-      "rank_change": 102,
-      "category": "6007",
-      "date": "2025-11-08",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/56/ba/0e/56ba0ec4-1aaf-2156-e9b8-ef7c1a933ce8/AppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.png/180x180bb.png",
-      "app_name": "Humanify AI - Detect AI Easily",
-      "publisher": "AI Solutions & Apps"
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/74/9f/05/749f0574-a539-611e-ad7e-b34118f13595/AppIcon-0-0-1x_U007emarketing-0-8-0-sRGB-85-220.png/180x180bb.png",
+      "app_name": "HelpDesk Host",
+      "publisher": "IDrive Incorporated"
     },
     {
       "appId": 6751185513,
       "previous_rank": 408,
-      "current_rank": 308,
-      "rank_change": 100,
+      "current_rank": 299,
+      "rank_change": 109,
       "category": "6007",
       "date": "2025-11-08",
       "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9f/f5/6a/9ff56af5-6980-214c-9bff-784ee2326aba/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/180x180bb.png",
       "app_name": "InstaWrite AI - Notes taker",
       "publisher": "Stilwell Limited"
+    },
+    {
+      "appId": 6740541272,
+      "previous_rank": 443,
+      "current_rank": 354,
+      "rank_change": 89,
+      "category": "6007",
+      "date": "2025-11-08",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/56/ba/0e/56ba0ec4-1aaf-2156-e9b8-ef7c1a933ce8/AppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.png/180x180bb.png",
+      "app_name": "Humanify AI - Detect AI Easily",
+      "publisher": "AI Solutions & Apps"
     }
   ]
 }
