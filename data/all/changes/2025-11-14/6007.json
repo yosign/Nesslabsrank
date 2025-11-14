@@ -3,10 +3,21 @@
   "genre": "6007",
   "topRisers": [
     {
+      "appId": 1032930471,
+      "previous_rank": 469,
+      "current_rank": 236,
+      "rank_change": 233,
+      "category": "6007",
+      "date": "2025-11-14",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/81/ae/95/81ae95e4-a924-8aef-e1a9-edd37afa1f68/AppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.png/180x180bb.png",
+      "app_name": "Off The Record: Ticket Lawyer",
+      "publisher": "Off the Record, Inc."
+    },
+    {
       "appId": 1269788228,
       "previous_rank": 456,
-      "current_rank": 261,
-      "rank_change": 195,
+      "current_rank": 258,
+      "rank_change": 198,
       "category": "6007",
       "date": "2025-11-14",
       "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/96/e4/e0/96e4e04d-bc75-df02-2c19-8d862e4eae00/AppIcon-0-0-1x_U007emarketing-0-11-0-P3-85-220.png/180x180bb.png",
@@ -16,8 +27,8 @@
     {
       "appId": 1538115894,
       "previous_rank": 493,
-      "current_rank": 309,
-      "rank_change": 184,
+      "current_rank": 357,
+      "rank_change": 136,
       "category": "6007",
       "date": "2025-11-14",
       "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d1/0d/15/d10d1514-59b3-4c15-6e1c-5a9169968ce9/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/180x180bb.png",
@@ -25,48 +36,37 @@
       "publisher": "Haikou Chengfa Technology Co., Ltd."
     },
     {
-      "appId": 1032930471,
-      "previous_rank": 469,
-      "current_rank": 302,
-      "rank_change": 167,
+      "appId": 1669354741,
+      "previous_rank": 429,
+      "current_rank": 319,
+      "rank_change": 110,
       "category": "6007",
       "date": "2025-11-14",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/81/ae/95/81ae95e4-a924-8aef-e1a9-edd37afa1f68/AppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.png/180x180bb.png",
-      "app_name": "Off The Record: Ticket Lawyer",
-      "publisher": "Off the Record, Inc."
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3f/f6/0f/3ff60f2d-5260-5f93-16f0-d7885126cdc0/AppIcon-0-1x_U007emarketing-0-8-0-85-220-0.png/180x180bb.png",
+      "app_name": "AWS WickrGov",
+      "publisher": "Wickr, LLC"
+    },
+    {
+      "appId": 689516635,
+      "previous_rank": 472,
+      "current_rank": 370,
+      "rank_change": 102,
+      "category": "6007",
+      "date": "2025-11-14",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9d/f6/d8/9df6d87e-66ad-d6ab-aad9-d030ef4aa9cb/AppIcons-1x_U007emarketing-0-7-0-85-220-0.png/180x180bb.png",
+      "app_name": "Azure Information Protection",
+      "publisher": "Microsoft Corporation"
     },
     {
       "appId": 6450830763,
       "previous_rank": 406,
-      "current_rank": 275,
-      "rank_change": 131,
+      "current_rank": 313,
+      "rank_change": 93,
       "category": "6007",
       "date": "2025-11-14",
       "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/47/d5/62/47d56229-d9d9-6859-94d2-d3e69aefb9ca/AppIcon-0-0-1x_U007ephone-0-1-0-sRGB-85-220.png/180x180bb.png",
       "app_name": "AI Detector | Text Humanizer",
       "publisher": "Laraun"
-    },
-    {
-      "appId": 6751485203,
-      "previous_rank": 425,
-      "current_rank": 297,
-      "rank_change": 128,
-      "category": "6007",
-      "date": "2025-11-14",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7c/8d/46/7c8d462d-2088-b247-6e55-85fb7ddc2a94/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/180x180bb.png",
-      "app_name": "AI QR Code Scan-QR Create",
-      "publisher": "INTERNATIONAL ASSOCIATION OF MANAGEMENT SCIENCE AND ENGINEERING TECHNOLOGY LIMITED"
-    },
-    {
-      "appId": 6749888645,
-      "previous_rank": 273,
-      "current_rank": 182,
-      "rank_change": 91,
-      "category": "6007",
-      "date": "2025-11-14",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/61/5b/8b/615b8b4c-c9f6-66e2-3a53-3d5bdf8b0ffb/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/180x180bb.png",
-      "app_name": "Tidyfoto: Clean Up Storage",
-      "publisher": "Unbing Ltd"
     }
   ]
 }
