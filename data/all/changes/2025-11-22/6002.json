@@ -5,8 +5,8 @@
     {
       "appId": 1561954125,
       "previous_rank": 450,
-      "current_rank": 218,
-      "rank_change": 232,
+      "current_rank": 173,
+      "rank_change": 277,
       "category": "6002",
       "date": "2025-11-22",
       "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7e/d8/50/7ed85068-7705-f65d-da71-44842ca5f244/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/180x180bb.png",
@@ -14,43 +14,21 @@
       "publisher": "EVOLLY.APP"
     },
     {
-      "appId": 6448098057,
-      "previous_rank": 482,
-      "current_rank": 292,
-      "rank_change": 190,
+      "appId": 6747411315,
+      "previous_rank": 278,
+      "current_rank": 80,
+      "rank_change": 198,
       "category": "6002",
       "date": "2025-11-22",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a6/37/ee/a637ee47-52e0-fc5f-4546-8a0a3d86ec8b/AppIcon-0-0-1x_U007ephone-0-9-0-85-220.png/180x180bb.png",
-      "app_name": "Sennheiser Smart Control Plus",
-      "publisher": "Sonova Consumer Hearing GmbH"
-    },
-    {
-      "appId": 1534593376,
-      "previous_rank": 488,
-      "current_rank": 314,
-      "rank_change": 174,
-      "category": "6002",
-      "date": "2025-11-22",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/23/dd/fb/23ddfb5e-5e91-9afa-1813-31ef0e0b899d/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/180x180bb.png",
-      "app_name": "BedrockTogether",
-      "publisher": "Jedrzej Racibor"
-    },
-    {
-      "appId": 6502297763,
-      "previous_rank": 451,
-      "current_rank": 296,
-      "rank_change": 155,
-      "category": "6002",
-      "date": "2025-11-22",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d5/06/60/d5066048-c42f-e66c-455f-ed4d9226389a/AppIcon-0-1x_U007ephone-0-1-0-85-220-0.png/180x180bb.png",
-      "app_name": "SteelSeries Arctis Companion",
-      "publisher": "GN Audio AS"
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6a/32/82/6a32825c-b78e-3657-d7b1-d70da5804333/AppIcon-1x_U007ephone-0-1-0-85-220-0.png/180x180bb.png",
+      "app_name": "Translate All - Text&Photo",
+      "publisher": "Fuzhou Jiange Technology Co., Ltd."
     },
     {
       "appId": 6670310164,
       "previous_rank": 394,
-      "current_rank": 244,
-      "rank_change": 150,
+      "current_rank": 199,
+      "rank_change": 195,
       "category": "6002",
       "date": "2025-11-22",
       "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/de/8a/ca/de8aca4b-b9fb-273b-73a9-28bdaaa110a8/AppIcon-0-0-1x_U007epad-0-11-0-85-220.png/180x180bb.png",
@@ -58,15 +36,37 @@
       "publisher": "Delta Software"
     },
     {
-      "appId": 1529383058,
-      "previous_rank": 362,
-      "current_rank": 226,
-      "rank_change": 136,
+      "appId": 1534593376,
+      "previous_rank": 488,
+      "current_rank": 310,
+      "rank_change": 178,
       "category": "6002",
       "date": "2025-11-22",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/8c/e0/8b/8ce08bc0-7894-c07b-f102-25b56e289769/AppIcon-1x_U007emarketing-0-8-0-0-sRGB-85-220-0.png/180x180bb.png",
-      "app_name": "illumiHome",
-      "publisher": "Shenzhen Jianjiaweidu Technology Co., Ltd"
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/23/dd/fb/23ddfb5e-5e91-9afa-1813-31ef0e0b899d/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/180x180bb.png",
+      "app_name": "BedrockTogether",
+      "publisher": "Jedrzej Racibor"
+    },
+    {
+      "appId": 6448098057,
+      "previous_rank": 482,
+      "current_rank": 317,
+      "rank_change": 165,
+      "category": "6002",
+      "date": "2025-11-22",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a6/37/ee/a637ee47-52e0-fc5f-4546-8a0a3d86ec8b/AppIcon-0-0-1x_U007ephone-0-9-0-85-220.png/180x180bb.png",
+      "app_name": "Sennheiser Smart Control Plus",
+      "publisher": "Sonova Consumer Hearing GmbH"
+    },
+    {
+      "appId": 6499024248,
+      "previous_rank": 376,
+      "current_rank": 218,
+      "rank_change": 158,
+      "category": "6002",
+      "date": "2025-11-22",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e0/70/d1/e070d10a-cb39-93b7-4d06-d498dbaa0830/AppIcon-0-0-1x_U007ephone-0-11-0-85-220.png/180x180bb.png",
+      "app_name": "PDFCreateWhiz",
+      "publisher": "FIVE OCEANS"
     }
   ]
 }
