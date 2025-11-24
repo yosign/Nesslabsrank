@@ -5,8 +5,8 @@
     {
       "appId": 6751707385,
       "previous_rank": 322,
-      "current_rank": 167,
-      "rank_change": 155,
+      "current_rank": 164,
+      "rank_change": 158,
       "category": "6027",
       "date": "2025-11-24",
       "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9e/cf/b5/9ecfb5d8-fd76-7f6e-ecd9-701ef85e95ac/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/180x180bb.png",
@@ -14,26 +14,15 @@
       "publisher": "Jack Brown"
     },
     {
-      "appId": 6502945736,
-      "previous_rank": 445,
-      "current_rank": 320,
-      "rank_change": 125,
+      "appId": 6748008472,
+      "previous_rank": 367,
+      "current_rank": 261,
+      "rank_change": 106,
       "category": "6027",
       "date": "2025-11-24",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/14/61/7d/14617dfa-30fd-b469-8227-84046f15120c/AppIcon-0-0-1x_U007ephone-0-1-0-sRGB-85-220.png/180x180bb.png",
-      "app_name": "Zaps: Collage, Photo Editor",
-      "publisher": "Turnip Media"
-    },
-    {
-      "appId": 1567655347,
-      "previous_rank": 496,
-      "current_rank": 396,
-      "rank_change": 100,
-      "category": "6027",
-      "date": "2025-11-24",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0e/bb/d5/0ebbd50d-8937-cde2-f843-e78458afa536/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/180x180bb.png",
-      "app_name": "Calca app",
-      "publisher": "Francisco Mateo Marquez"
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/db/5f/70/db5f707a-2eea-fc02-4d82-b8155ef6fd3b/AppIcon-0-0-1x_U007emarketing-0-11-0-0-85-220.png/180x180bb.png",
+      "app_name": "Doozy AI: Video Generator",
+      "publisher": "Ekin Dursun"
     },
     {
       "appId": 1524913415,
@@ -49,8 +38,8 @@
     {
       "appId": 6745781406,
       "previous_rank": 309,
-      "current_rank": 222,
-      "rank_change": 87,
+      "current_rank": 215,
+      "rank_change": 94,
       "category": "6027",
       "date": "2025-11-24",
       "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7e/a2/91/7ea2911d-103e-a5aa-9581-4d99925a2b73/AppIcon-0-0-1x_U007emarketing-0-3-85-220.png/180x180bb.png",
@@ -58,15 +47,26 @@
       "publisher": "Apero Technologies Group"
     },
     {
-      "appId": 6748008472,
-      "previous_rank": 367,
-      "current_rank": 282,
-      "rank_change": 85,
+      "appId": 6747794879,
+      "previous_rank": 173,
+      "current_rank": 83,
+      "rank_change": 90,
       "category": "6027",
       "date": "2025-11-24",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/db/5f/70/db5f707a-2eea-fc02-4d82-b8155ef6fd3b/AppIcon-0-0-1x_U007emarketing-0-11-0-0-85-220.png/180x180bb.png",
-      "app_name": "Doozy AI: Video Generator",
-      "publisher": "Ekin Dursun"
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/bc/17/8d/bc178df9-68e4-70b4-f257-8894291d19a1/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/180x180bb.png",
+      "app_name": "Glow Finger Spinner Art App",
+      "publisher": "Braly"
+    },
+    {
+      "appId": 6502945736,
+      "previous_rank": 445,
+      "current_rank": 355,
+      "rank_change": 90,
+      "category": "6027",
+      "date": "2025-11-24",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/14/61/7d/14617dfa-30fd-b469-8227-84046f15120c/AppIcon-0-0-1x_U007ephone-0-1-0-sRGB-85-220.png/180x180bb.png",
+      "app_name": "Zaps: Collage, Photo Editor",
+      "publisher": "Turnip Media"
     }
   ]
 }
