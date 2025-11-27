@@ -3,21 +3,10 @@
   "genre": "6002",
   "topRisers": [
     {
-      "appId": 1490517668,
-      "previous_rank": 310,
-      "current_rank": 45,
-      "rank_change": 265,
-      "category": "6002",
-      "date": "2025-11-27",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3f/d3/03/3fd30391-d672-e34b-3f81-b1a95628f9de/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/180x180bb.png",
-      "app_name": "ThermoPro BBQ",
-      "publisher": "iTronics Co., Limited"
-    },
-    {
       "appId": 6754447167,
       "previous_rank": 500,
-      "current_rank": 278,
-      "rank_change": 222,
+      "current_rank": 219,
+      "rank_change": 281,
       "category": "6002",
       "date": "2025-11-27",
       "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2b/62/75/2b627534-ee52-33d0-4180-a3daffb07fa7/AppIcon-0-0-1x_U007ephone-0-11-0-85-220.png/180x180bb.png",
@@ -25,10 +14,32 @@
       "publisher": "晓婷 郝"
     },
     {
+      "appId": 1490517668,
+      "previous_rank": 310,
+      "current_rank": 41,
+      "rank_change": 269,
+      "category": "6002",
+      "date": "2025-11-27",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3f/d3/03/3fd30391-d672-e34b-3f81-b1a95628f9de/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/180x180bb.png",
+      "app_name": "ThermoPro BBQ",
+      "publisher": "iTronics Co., Limited"
+    },
+    {
+      "appId": 6751813503,
+      "previous_rank": 455,
+      "current_rank": 236,
+      "rank_change": 219,
+      "category": "6002",
+      "date": "2025-11-27",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5a/01/b5/5a01b568-8c41-e7c5-b069-e06cfae8e3ee/AppIcon-Default-0-0-1x_U007ephone-0-1-0-85-220.png/180x180bb.png",
+      "app_name": "ScanX Pro: Scan PDF, Document",
+      "publisher": "SUPERNOVA MEDIA JOINT STOCK COMPANY"
+    },
+    {
       "appId": 6743130633,
       "previous_rank": 295,
-      "current_rank": 109,
-      "rank_change": 186,
+      "current_rank": 91,
+      "rank_change": 204,
       "category": "6002",
       "date": "2025-11-27",
       "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7c/10/db/7c10db81-148e-7ea2-fdd5-7e958c33476b/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/180x180bb.png",
@@ -38,8 +49,8 @@
     {
       "appId": 6692621275,
       "previous_rank": 236,
-      "current_rank": 53,
-      "rank_change": 183,
+      "current_rank": 46,
+      "rank_change": 190,
       "category": "6002",
       "date": "2025-11-27",
       "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3a/8c/d0/3a8cd0f1-6657-211a-3a4e-d9fa40abe3cc/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/180x180bb.png",
@@ -47,26 +58,15 @@
       "publisher": "RoadPass Trading LTD"
     },
     {
-      "appId": 6443807626,
-      "previous_rank": 491,
-      "current_rank": 351,
-      "rank_change": 140,
+      "appId": 6736361418,
+      "previous_rank": 390,
+      "current_rank": 227,
+      "rank_change": 163,
       "category": "6002",
       "date": "2025-11-27",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/45/cf/47/45cf4742-ca5b-acea-033b-249d04dbee5d/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.jpeg/180x180bb.png",
-      "app_name": "Lepro",
-      "publisher": "Lepro Innovation Inc"
-    },
-    {
-      "appId": 1458993689,
-      "previous_rank": 494,
-      "current_rank": 354,
-      "rank_change": 140,
-      "category": "6002",
-      "date": "2025-11-27",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/4d/05/f9/4d05f9ca-d9f2-2c05-476c-d0a8a89a5280/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/180x180bb.png",
-      "app_name": "Remote control for Sony",
-      "publisher": "Oz Shabbatth"
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4f/d5/02/4fd5025b-0232-be39-1588-370221470d16/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/180x180bb.png",
+      "app_name": "Star Gazer: Night Sky View Map",
+      "publisher": "LeoStudio Global"
     }
   ]
 }
