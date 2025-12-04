@@ -1,0 +1,539 @@
+{
+  "date": "2025-12-04",
+  "changes": {
+    "6012": {
+      "added": [
+        {
+          "appId": 6755793711,
+          "name": "2025 Wrapped - Year in Focus",
+          "publisher": "Leila Nasri",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/76/3a/2e/763a2e8a-12be-fc96-f535-97bbd637a2b7/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/180x180bb.png",
+          "rating": 4.8,
+          "ratingCount": 6,
+          "price": "0.00",
+          "rank": 230,
+          "category": "6012"
+        },
+        {
+          "appId": 6670232884,
+          "name": "SFC Plus",
+          "publisher": "BayaniPay",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/59/c7/14/59c71464-43b6-df8a-6cb6-738c0c6f7ecb/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/180x180bb.png",
+          "rating": 4.3,
+          "ratingCount": 236,
+          "price": "0.00",
+          "rank": 278,
+          "category": "6012"
+        },
+        {
+          "appId": 1178656034,
+          "name": "Peanut App: Find Mom Friends",
+          "publisher": "Peanut App Limited",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/bc/78/2d/bc782daf-92a3-0890-2ae9-50a55ca0565d/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220-0.png/180x180bb.png",
+          "rating": 4.4,
+          "ratingCount": 10800,
+          "price": "0.00",
+          "rank": 354,
+          "category": "6012"
+        },
+        {
+          "appId": 1631789876,
+          "name": "Fast QR Barcode Scan & Create",
+          "publisher": "Xian YuanChuangYouPin Network Tech Limited",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/24/2b/3b/242b3b95-2934-41a3-5d47-deb320d0dd64/AppIcon-0-0-1x_U007emarketing-0-6-0-0-85-220.png/180x180bb.png",
+          "rating": 4.7,
+          "ratingCount": 3652,
+          "price": "0.00",
+          "rank": 391,
+          "category": "6012"
+        },
+        {
+          "appId": 1561625018,
+          "name": "TurnSignl App",
+          "publisher": "TurnSignl, Inc.",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a9/0b/61/a90b61bb-3eb6-fc16-6821-d6e975930d55/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/180x180bb.png",
+          "rating": 4.6,
+          "ratingCount": 125,
+          "price": "0.00",
+          "rank": 396,
+          "category": "6012"
+        },
+        {
+          "appId": 6751872784,
+          "name": "Dih App - Maximize Yourself",
+          "publisher": "Nicolas Silva",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4a/95/56/4a955669-8f12-cba8-0102-d02f2a33dd62/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/180x180bb.png",
+          "rating": 4.7,
+          "ratingCount": 132,
+          "price": "0.00",
+          "rank": 406,
+          "category": "6012"
+        },
+        {
+          "appId": 1568551599,
+          "name": "1000 Hours Outside",
+          "publisher": "Team Yurich LLC",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3a/ec/32/3aec32b8-d96a-02a1-7a3c-c421925e6cc2/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/180x180bb.png",
+          "rating": 4.8,
+          "ratingCount": 6541,
+          "price": "0.00",
+          "rank": 413,
+          "category": "6012"
+        },
+        {
+          "appId": 6755016171,
+          "name": "Xouk",
+          "publisher": "奇志 龙",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ef/69/b0/ef69b0fb-5459-3988-ed3d-f8b9e2dbe06f/AppIcon-1x_U007ephone-0-1-85-220-0.png/180x180bb.png",
+          "rating": 5,
+          "ratingCount": 8,
+          "price": "0.00",
+          "rank": 417,
+          "category": "6012"
+        },
+        {
+          "appId": 1599179405,
+          "name": "Indyx: Wardrobe & Outfit App",
+          "publisher": "Indyx Inc.",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/79/c7/60/79c76017-5c7b-306e-2478-9ecfc66b56b9/AppIcon-1x_U007epad-0-1-85-220-0.png/180x180bb.png",
+          "rating": 4.8,
+          "ratingCount": 926,
+          "price": "0.00",
+          "rank": 421,
+          "category": "6012"
+        },
+        {
+          "appId": 6747520141,
+          "name": "Snoozers: The End of Snoozing",
+          "publisher": "Syed Kazmi",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/42/6d/ed/426ded9f-7a43-1f48-1666-23b5e0401d37/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/180x180bb.png",
+          "rating": 4.8,
+          "ratingCount": 38,
+          "price": "0.00",
+          "rank": 430,
+          "category": "6012"
+        },
+        {
+          "appId": 1601861377,
+          "name": "Home Security Camera - Visory",
+          "publisher": "Tapnetic LLC",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/62/4a/c9/624ac964-2a72-8df6-39fa-5797a357b793/AppIcon-prod-0-0-1x_U007emarketing-0-11-0-85-220.png/180x180bb.png",
+          "rating": 4.6,
+          "ratingCount": 2774,
+          "price": "0.00",
+          "rank": 443,
+          "category": "6012"
+        },
+        {
+          "appId": 6478093653,
+          "name": "Scentiment",
+          "publisher": "Scentiment, LLC",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6f/a9/a1/6fa9a100-b114-bd24-ef7c-61c9f811e2b7/AppIcon-1x_U007emarketing-0-11-0-85-220-0.png/180x180bb.png",
+          "rating": 1.3,
+          "ratingCount": 82,
+          "price": "0.00",
+          "rank": 444,
+          "category": "6012"
+        },
+        {
+          "appId": 380549030,
+          "name": "DroneMobile",
+          "publisher": "Firstech, LLC",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/1a/75/0a/1a750aa6-0191-8c51-127c-291fb6d4b47e/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/180x180bb.png",
+          "rating": 4.8,
+          "ratingCount": 24600,
+          "price": "0.00",
+          "rank": 448,
+          "category": "6012"
+        },
+        {
+          "appId": 1153481724,
+          "name": "eufy Life",
+          "publisher": "Power Mobile Life LLC",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d1/9a/d6/d19ad6ae-a189-4710-406e-de5ef316e10b/AppIcon-0-0-1x_U007emarketing-0-5-0-0-85-220.png/180x180bb.png",
+          "rating": 4.8,
+          "ratingCount": 17100,
+          "price": "0.00",
+          "rank": 462,
+          "category": "6012"
+        },
+        {
+          "appId": 1448665466,
+          "name": "Pentair Pool",
+          "publisher": "Pentair, Inc.",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0b/bb/16/0bbb16ca-ade6-7a4a-ed39-2323ba9f7376/AppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.png/180x180bb.png",
+          "rating": 4.6,
+          "ratingCount": 19300,
+          "price": "0.00",
+          "rank": 471,
+          "category": "6012"
+        },
+        {
+          "appId": 365208471,
+          "name": "Camp Bow Wow",
+          "publisher": "Camp Bow Wow Franchising, Inc.",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6e/41/9d/6e419d91-2ef2-c410-99eb-afdebb3f1e90/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/180x180bb.png",
+          "rating": 3.1,
+          "ratingCount": 391,
+          "price": "0.00",
+          "rank": 475,
+          "category": "6012"
+        },
+        {
+          "appId": 955013601,
+          "name": "European Wax Center",
+          "publisher": "EWC Franchise, LLC",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/00/03/ec/0003ecbf-1685-4c0e-2322-ad4d758a0195/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/180x180bb.png",
+          "rating": 4.4,
+          "ratingCount": 8803,
+          "price": "0.00",
+          "rank": 481,
+          "category": "6012"
+        },
+        {
+          "appId": 1453788142,
+          "name": "Tineco Life",
+          "publisher": "Tineco Appliances Co,.Ltd.",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/89/bb/bc/89bbbc8a-dfdc-7e26-f00c-bfadfae5bed7/AppIcon-0-0-1x_U007emarketing-0-5-0-sRGB-85-220.png/180x180bb.png",
+          "rating": 4.6,
+          "ratingCount": 12300,
+          "price": "0.00",
+          "rank": 482,
+          "category": "6012"
+        },
+        {
+          "appId": 6480463426,
+          "name": "SuperAlarm - Alarm Clock",
+          "publisher": "Jiseop Han",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/79/fa/a4/79faa4b6-63b6-af6c-16c6-4c5efbf72f64/AppIconNewLight-0-0-1x_U007ephone-0-1-0-0-85-220.png/180x180bb.png",
+          "rating": 4.7,
+          "ratingCount": 334,
+          "price": "0.00",
+          "rank": 483,
+          "category": "6012"
+        },
+        {
+          "appId": 6503929019,
+          "name": "HUNTVISION",
+          "publisher": "IVYIOT H.K. LIMITED",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f4/26/16/f4261678-a70d-0dcb-f40f-1254027489da/AppIcon-0-1x_U007emarketing-0-8-0-85-220-0.png/180x180bb.png",
+          "rating": 4.1,
+          "ratingCount": 176,
+          "price": "0.00",
+          "rank": 485,
+          "category": "6012"
+        },
+        {
+          "appId": 407814405,
+          "name": "NissanConnect® EV & Services",
+          "publisher": "Nissan North America Inc.",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ce/9e/e0/ce9ee020-f68b-34da-bea2-e83304183ab3/AppIcon-0-0-1x_U007emarketing-0-6-0-sRGB-85-220.jpeg/180x180bb.png",
+          "rating": 4.4,
+          "ratingCount": 3973,
+          "price": "0.00",
+          "rank": 495,
+          "category": "6012"
+        },
+        {
+          "appId": 6590628973,
+          "name": "qitaf",
+          "publisher": "STC",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/68/de/88/68de8855-6440-0743-d205-134955c7875b/AppIcon-production-0-0-1x_U007emarketing-0-8-0-85-220.png/180x180bb.png",
+          "rating": 4,
+          "ratingCount": 18,
+          "price": "0.00",
+          "rank": 498,
+          "category": "6012"
+        },
+        {
+          "appId": 1594311931,
+          "name": "Sasquatch Chronicles",
+          "publisher": "Iconic Solutions, LLC",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/3a/b5/02/3ab50276-6fb7-742f-a08f-758aeb5fc24a/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/180x180bb.png",
+          "rating": 4.3,
+          "ratingCount": 157,
+          "price": "0.00",
+          "rank": 499,
+          "category": "6012"
+        },
+        {
+          "appId": 6738165831,
+          "name": "Smart Alexa : Voice Control",
+          "publisher": "Jennette Hurt",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f3/23/ef/f323efa7-2bf7-6ef0-0be0-078fa26bbde3/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/180x180bb.png",
+          "rating": 4.8,
+          "ratingCount": 27,
+          "price": "0.00",
+          "rank": 500,
+          "category": "6012"
+        }
+      ],
+      "removed": [
+        {
+          "appId": 6754963443,
+          "name": "Tea App for Women: TeaForHis",
+          "publisher": "MLT Mobile LLC",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f7/4f/34/f74f3421-d196-1294-7a37-9d0bd66a15ef/AppIcon3-0-0-1x_U007emarketing-0-11-0-85-220.png/180x180bb.png",
+          "rating": 4.3,
+          "ratingCount": 12,
+          "price": "0.00",
+          "rank": 163,
+          "category": "6012"
+        },
+        {
+          "appId": 493092475,
+          "name": "The Snowday App",
+          "publisher": "Joe Crozier Software",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple115/v4/1f/1d/a1/1f1da173-69aa-f7ab-3582-f6831886153e/AppIcon-1x_U007emarketing-0-10-0-85-220.png/180x180bb.png",
+          "rating": 1.6,
+          "ratingCount": 96,
+          "price": "0.00",
+          "rank": 334,
+          "category": "6012"
+        },
+        {
+          "appId": 666884058,
+          "name": "Zego Living",
+          "publisher": "Paragon Mobile, Inc",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5a/04/36/5a043636-67ba-fd9a-2dd7-cb2670f22d9d/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/180x180bb.png",
+          "rating": 4.4,
+          "ratingCount": 3940,
+          "price": "0.00",
+          "rank": 393,
+          "category": "6012"
+        },
+        {
+          "appId": 6748758870,
+          "name": "Gloss Nail Art",
+          "publisher": "Newo Devs LLC",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/fc/c1/5a/fcc15a3c-54c6-7451-a9b0-61f586c3d9d3/AppIcon-0-0-1x_U007ephone-0-1-sRGB-85-220.png/180x180bb.png",
+          "rating": 4.8,
+          "ratingCount": 24,
+          "price": "0.00",
+          "rank": 402,
+          "category": "6012"
+        },
+        {
+          "appId": 1627607046,
+          "name": "Reclaimwell by Aro",
+          "publisher": "Aro",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3e/31/1a/3e311af4-335e-c9c2-b6fc-0fa2263c9539/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/180x180bb.png",
+          "rating": 4.7,
+          "ratingCount": 254,
+          "price": "0.00",
+          "rank": 403,
+          "category": "6012"
+        },
+        {
+          "appId": 1031604839,
+          "name": "Grunt Style",
+          "publisher": "Grunt Style LLC",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6c/1f/80/6c1f8028-b9c0-9787-12ec-a8df20d01da2/AppIcon-0-0-1x_U007epad-0-1-85-220.png/180x180bb.png",
+          "rating": 4.9,
+          "ratingCount": 18000,
+          "price": "0.00",
+          "rank": 418,
+          "category": "6012"
+        },
+        {
+          "appId": 691246562,
+          "name": "Rave Guardian",
+          "publisher": "Rave Mobile Safety",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/cf/dd/cc/cfddcc0a-ec99-f9db-ab17-7b2a1ef69f6a/AppIcon-0-0-1x_U007emarketing-0-6-0-sRGB-85-220.png/180x180bb.png",
+          "rating": 4.6,
+          "ratingCount": 2824,
+          "price": "0.00",
+          "rank": 432,
+          "category": "6012"
+        },
+        {
+          "appId": 6754447316,
+          "name": "EnergAI",
+          "publisher": "慧 阳",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/da/93/63/da936354-288b-f552-225a-383f59fc2102/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/180x180bb.png",
+          "rating": 4.6,
+          "ratingCount": 264,
+          "price": "0.00",
+          "rank": 438,
+          "category": "6012"
+        },
+        {
+          "appId": 6752465587,
+          "name": "Lovely Mind:Chat&Create AI Art",
+          "publisher": "师臣 明",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c4/45/44/c4454493-670c-f587-c062-ede4077cf8ad/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/180x180bb.png",
+          "rating": 4.5,
+          "ratingCount": 17,
+          "price": "0.00",
+          "rank": 439,
+          "category": "6012"
+        },
+        {
+          "appId": 1609475671,
+          "name": "Wishlist Maker - Moonsift",
+          "publisher": "Moonsift Limited",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/80/dc/e6/80dce6b9-372f-afa6-247c-c07a69f97a95/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/180x180bb.png",
+          "rating": 4.8,
+          "ratingCount": 1417,
+          "price": "0.00",
+          "rank": 447,
+          "category": "6012"
+        },
+        {
+          "appId": 6744884776,
+          "name": "Cata: Live Chat, Online Call",
+          "publisher": "cata",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4a/74/e9/4a74e96e-f148-3204-e1ab-033e5113c509/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/180x180bb.png",
+          "rating": 3.7,
+          "ratingCount": 9,
+          "price": "0.00",
+          "rank": 459,
+          "category": "6012"
+        },
+        {
+          "appId": 1049333656,
+          "name": "Nanoleaf",
+          "publisher": "Nanoleaf",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b9/b7/f8/b9b7f81a-32de-a73a-bbab-54022d0e01c0/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/180x180bb.png",
+          "rating": 4.2,
+          "ratingCount": 43800,
+          "price": "0.00",
+          "rank": 463,
+          "category": "6012"
+        },
+        {
+          "appId": 6470207811,
+          "name": "EIQ connect",
+          "publisher": "EntranceIQ, LLC",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2a/c4/ec/2ac4ec1c-2d70-723f-c487-02b06273f144/AppIcon-0-0-1x_U007epad-0-1-85-220.png/180x180bb.png",
+          "rating": 3.4,
+          "ratingCount": 14,
+          "price": "0.00",
+          "rank": 466,
+          "category": "6012"
+        },
+        {
+          "appId": 1460848195,
+          "name": "Merryfield Everyday Rewards",
+          "publisher": "Klover Holdings, Inc.",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8d/4b/70/8d4b70f3-38af-3f4e-25d1-a7f397d32819/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/180x180bb.png",
+          "rating": 4.8,
+          "ratingCount": 12100,
+          "price": "0.00",
+          "rank": 470,
+          "category": "6012"
+        },
+        {
+          "appId": 355921355,
+          "name": "BuildingLink Resident App",
+          "publisher": "BuildingLink.com",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a4/40/e3/a440e323-0f50-471e-2fc5-dee39769fe74/ResidentAppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/180x180bb.png",
+          "rating": 1.9,
+          "ratingCount": 69,
+          "price": "0.00",
+          "rank": 472,
+          "category": "6012"
+        },
+        {
+          "appId": 1542573749,
+          "name": "ThermoPro Sensor",
+          "publisher": "iTronics Co., Limited",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d3/44/da/d344da25-7ac9-5197-464a-3aac8dd82c5d/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/180x180bb.png",
+          "rating": 4.7,
+          "ratingCount": 7114,
+          "price": "0.00",
+          "rank": 475,
+          "category": "6012"
+        },
+        {
+          "appId": 1413223852,
+          "name": "Smart911",
+          "publisher": "Rave Mobile Safety",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/11/45/0c/11450c3a-83ea-e37d-917e-92d2bdcf709e/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/180x180bb.png",
+          "rating": 4.7,
+          "ratingCount": 4800,
+          "price": "0.00",
+          "rank": 479,
+          "category": "6012"
+        },
+        {
+          "appId": 6736836276,
+          "name": "GiftList – Wishlist & Registry",
+          "publisher": "Malibu Vista Ventures, Inc.",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e2/fa/84/e2fa84c2-5fe8-344d-1e51-a8e0b121a19d/AppIcon-0-0-1x_U007epad-0-9-0-85-220.png/180x180bb.png",
+          "rating": 4.8,
+          "ratingCount": 458,
+          "price": "0.00",
+          "rank": 480,
+          "category": "6012"
+        },
+        {
+          "appId": 6745916209,
+          "name": "Whisper Link",
+          "publisher": "杭州俪居智品智能科技有限公司",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b7/ea/17/b7ea178f-776b-bfdc-a832-2b12389b5826/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/180x180bb.png",
+          "rating": 4.7,
+          "ratingCount": 139,
+          "price": "0.00",
+          "rank": 485,
+          "category": "6012"
+        },
+        {
+          "appId": 888523615,
+          "name": "Sun Tan City",
+          "publisher": "STC MANAGEMENT GROUP, LLC",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0c/b2/c3/0cb2c38d-e5e9-fa0a-6de8-0c6fbf94e851/AppIcon-prod-0-0-1x_U007emarketing-0-11-0-85-220.png/180x180bb.png",
+          "rating": 4.4,
+          "ratingCount": 3304,
+          "price": "0.00",
+          "rank": 489,
+          "category": "6012"
+        },
+        {
+          "appId": 1389951990,
+          "name": "CESCO Digital",
+          "publisher": "Office of the Governor of Puerto Rico",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ef/4e/6e/ef4e6e96-5c60-2769-0ac9-7e1ce06e6a74/AppIcon-1x_U007emarketing-0-6-0-85-220-0.png/180x180bb.png",
+          "rating": 3.5,
+          "ratingCount": 4787,
+          "price": "0.00",
+          "rank": 491,
+          "category": "6012"
+        },
+        {
+          "appId": 1222730617,
+          "name": "Parking Kitty",
+          "publisher": "City of Portland",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/57/d6/02/57d602dd-1866-679a-2f44-9f06eafa084f/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/180x180bb.png",
+          "rating": 4.9,
+          "ratingCount": 8903,
+          "price": "0.00",
+          "rank": 493,
+          "category": "6012"
+        },
+        {
+          "appId": 1449568531,
+          "name": "Maytag",
+          "publisher": "Whirlpool Corporation",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d3/88/d7/d388d7ec-10c2-3ad9-f2ed-04afe3c44de3/AppIcon-0-0-1x_U007emarketing-0-8-0-sRGB-85-220.png/180x180bb.png",
+          "rating": 4.7,
+          "ratingCount": 40599.99999999999,
+          "price": "0.00",
+          "rank": 496,
+          "category": "6012"
+        },
+        {
+          "appId": 1445578410,
+          "name": "The Daily Grace Co.",
+          "publisher": "The Daily Grace Co.",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9c/a4/55/9ca45564-d4cf-a3cd-e15d-6f273add196b/AppIcon-0-0-1x_U007emarketing-0-11-0-0-0-85-220.png/180x180bb.png",
+          "rating": 4,
+          "ratingCount": 256,
+          "price": "0.00",
+          "rank": 497,
+          "category": "6012"
+        }
+      ]
+    }
+  }
+}
