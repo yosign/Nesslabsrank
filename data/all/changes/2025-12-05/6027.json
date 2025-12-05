@@ -5,8 +5,8 @@
     {
       "appId": 6753308581,
       "previous_rank": 429,
-      "current_rank": 187,
-      "rank_change": 242,
+      "current_rank": 262,
+      "rank_change": 167,
       "category": "6027",
       "date": "2025-12-05",
       "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4a/53/ed/4a53ed7b-ea3d-1511-88e0-a717ec61ff4a/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/180x180bb.png",
@@ -14,10 +14,21 @@
       "publisher": "Yuliia Sukhomodrenko"
     },
     {
+      "appId": 6670245726,
+      "previous_rank": 303,
+      "current_rank": 138,
+      "rank_change": 165,
+      "category": "6027",
+      "date": "2025-12-05",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/fb/3c/5e/fb3c5e8f-16a1-dda8-6620-4ab5d390c46b/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/180x180bb.png",
+      "app_name": "Corly: Color Picker Relax",
+      "publisher": "VOLIO VIET NAM COMPANY LIMITED"
+    },
+    {
       "appId": 6755125539,
       "previous_rank": 466,
-      "current_rank": 328,
-      "rank_change": 138,
+      "current_rank": 313,
+      "rank_change": 153,
       "category": "6027",
       "date": "2025-12-05",
       "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/39/0b/eb/390beb7a-9050-4280-6009-a8f5e57598ba/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/180x180bb.png",
@@ -25,48 +36,37 @@
       "publisher": "PixelPort LLC"
     },
     {
-      "appId": 1582861796,
-      "previous_rank": 381,
-      "current_rank": 267,
-      "rank_change": 114,
-      "category": "6027",
-      "date": "2025-12-05",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/15/17/55/15175572-01df-a72a-1b10-fddb509bf651/AppIcon-0-0-1x_U007emarketing-0-0-0-8-0-0-sRGB-85-220.png/180x180bb.png",
-      "app_name": "OpenSea: NFT marketplace",
-      "publisher": "Ozone Networks, Inc."
-    },
-    {
-      "appId": 1597052877,
-      "previous_rank": 265,
-      "current_rank": 163,
-      "rank_change": 102,
-      "category": "6027",
-      "date": "2025-12-05",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/33/4d/68/334d68a0-e1e0-f41e-b12a-c63c90cec0b8/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/180x180bb.png",
-      "app_name": "Motion Blur Photo Editor",
-      "publisher": "Daria Khalitova"
-    },
-    {
-      "appId": 6752631485,
-      "previous_rank": 226,
-      "current_rank": 141,
-      "rank_change": 85,
-      "category": "6027",
-      "date": "2025-12-05",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a1/74/dd/a174dd0c-b240-cc42-88a6-070ebc0e16f0/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/180x180bb.png",
-      "app_name": "SayHi: Chat Now",
-      "publisher": "艺霖 王"
-    },
-    {
       "appId": 6748637703,
       "previous_rank": 233,
-      "current_rank": 151,
-      "rank_change": 82,
+      "current_rank": 116,
+      "rank_change": 117,
       "category": "6027",
       "date": "2025-12-05",
       "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/80/8b/a6/808ba6a7-be73-ac62-73e4-64e22e502252/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/180x180bb.png",
       "app_name": "Emoji Battery Widget-BunnyWath",
       "publisher": "Kien Phan tat"
+    },
+    {
+      "appId": 1573555217,
+      "previous_rank": 248,
+      "current_rank": 134,
+      "rank_change": 114,
+      "category": "6027",
+      "date": "2025-12-05",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e1/6a/60/e16a60de-18ff-7bdd-2148-17979ebd6a8b/AppIcon-1x_U007emarketing-0-10-0-sRGB-85-220.png/100x100bb.jpg",
+      "app_name": "Themes: Fancy Widgets, Icons",
+      "publisher": "晓夏 卢"
+    },
+    {
+      "appId": 1582861796,
+      "previous_rank": 381,
+      "current_rank": 280,
+      "rank_change": 101,
+      "category": "6027",
+      "date": "2025-12-05",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/15/17/55/15175572-01df-a72a-1b10-fddb509bf651/AppIcon-0-0-1x_U007emarketing-0-0-0-8-0-0-sRGB-85-220.png/180x180bb.png",
+      "app_name": "OpenSea: NFT marketplace",
+      "publisher": "Ozone Networks, Inc."
     }
   ]
 }
