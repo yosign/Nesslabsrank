@@ -3,10 +3,21 @@
   "genre": "6027",
   "topRisers": [
     {
+      "appId": 1662218807,
+      "previous_rank": 396,
+      "current_rank": 159,
+      "rank_change": 237,
+      "category": "6027",
+      "date": "2025-12-10",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/be/44/de/be44de0f-7904-bf55-658e-bb43d6bc1ae9/AppIcon-0-0-1x_U007epad-0-1-85-220.png/180x180bb.png",
+      "app_name": "Bristles AI: Paint & Design",
+      "publisher": "Bristles, Inc"
+    },
+    {
       "appId": 6754965592,
       "previous_rank": 354,
-      "current_rank": 115,
-      "rank_change": 239,
+      "current_rank": 146,
+      "rank_change": 208,
       "category": "6027",
       "date": "2025-12-10",
       "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/25/3f/28/253f286b-bc1b-6343-eeb3-34083abe995b/AppIcon-1x_U007epad-0-1-0-85-220-0.png/180x180bb.png",
@@ -16,8 +27,8 @@
     {
       "appId": 6744722843,
       "previous_rank": 363,
-      "current_rank": 177,
-      "rank_change": 186,
+      "current_rank": 195,
+      "rank_change": 168,
       "category": "6027",
       "date": "2025-12-10",
       "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0e/e4/c9/0ee4c984-8855-e88a-ff4a-02a8e3bf5459/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/180x180bb.png",
@@ -25,32 +36,10 @@
       "publisher": "ProxGlobal Inc"
     },
     {
-      "appId": 6499104105,
-      "previous_rank": 475,
-      "current_rank": 362,
-      "rank_change": 113,
-      "category": "6027",
-      "date": "2025-12-10",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/68/a7/d4/68a7d4e1-5833-79fb-930c-00270c2ec1bb/AppIcon-0-1x_U007emarketing-0-7-0-85-220-0.png/180x180bb.png",
-      "app_name": "Photo pea: 3D Motion Animator",
-      "publisher": "Mohammad Mahmudul Hasan"
-    },
-    {
-      "appId": 6747615328,
-      "previous_rank": 499,
-      "current_rank": 401,
-      "rank_change": 98,
-      "category": "6027",
-      "date": "2025-12-10",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/75/cc/3e/75cc3efa-d90c-6134-5da5-a8bc48de52bb/AppIcon3-0-0-1x_U007epad-0-1-85-220.png/180x180bb.png",
-      "app_name": "Yard AI: Backyard Design",
-      "publisher": "Maiia Soloveva"
-    },
-    {
       "appId": 6737960820,
       "previous_rank": 312,
-      "current_rank": 223,
-      "rank_change": 89,
+      "current_rank": 193,
+      "rank_change": 119,
       "category": "6027",
       "date": "2025-12-10",
       "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3f/fd/3a/3ffd3a9a-e45c-1056-7cd9-6c5bed3a1146/AppIcon-0-0-1x_U007ephone-0-11-0-85-220.png/180x180bb.png",
@@ -58,15 +47,26 @@
       "publisher": "APPINNOVATORS LIMITED"
     },
     {
-      "appId": 6744433353,
-      "previous_rank": 417,
-      "current_rank": 330,
-      "rank_change": 87,
+      "appId": 6499104105,
+      "previous_rank": 475,
+      "current_rank": 361,
+      "rank_change": 114,
       "category": "6027",
       "date": "2025-12-10",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/84/31/f0/8431f0f1-2065-1cb9-b55a-e6bdbd9f942c/AppIcon-0-0-1x_U007epad-0-1-85-220.png/180x180bb.png",
-      "app_name": "Home AI & 3D Room Planner",
-      "publisher": "Bucketplace Inc."
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/68/a7/d4/68a7d4e1-5833-79fb-930c-00270c2ec1bb/AppIcon-0-1x_U007emarketing-0-7-0-85-220-0.png/180x180bb.png",
+      "app_name": "Photo pea: 3D Motion Animator",
+      "publisher": "Mohammad Mahmudul Hasan"
+    },
+    {
+      "appId": 6751650661,
+      "previous_rank": 485,
+      "current_rank": 377,
+      "rank_change": 108,
+      "category": "6027",
+      "date": "2025-12-10",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a7/f2/01/a7f20197-0229-85e4-8628-9f271cdb1441/AppIcon-0-0-1x_U007epad-0-1-85-220.png/180x180bb.png",
+      "app_name": "CBOs",
+      "publisher": "MICHELE FAGGION"
     }
   ]
 }
