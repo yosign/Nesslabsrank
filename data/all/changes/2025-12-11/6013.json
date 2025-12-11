@@ -3,21 +3,10 @@
   "genre": "6013",
   "topRisers": [
     {
-      "appId": 6754346785,
-      "previous_rank": 281,
-      "current_rank": 1,
-      "rank_change": 280,
-      "category": "6013",
-      "date": "2025-12-11",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/85/05/fa/8505fa4f-c9a0-adf9-6a4a-4ac7673d4aa8/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/180x180bb.png",
-      "app_name": "Buy\\'r",
-      "publisher": "Buy'r LLC"
-    },
-    {
       "appId": 6748829805,
       "previous_rank": 313,
-      "current_rank": 46,
-      "rank_change": 267,
+      "current_rank": 29,
+      "rank_change": 284,
       "category": "6013",
       "date": "2025-12-11",
       "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/84/be/5b/84be5b7c-ea19-8a46-2fb5-b0a4438dea7f/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/180x180bb.png",
@@ -25,15 +14,48 @@
       "publisher": "CommonSpirit Health"
     },
     {
-      "appId": 6745748411,
-      "previous_rank": 301,
-      "current_rank": 166,
-      "rank_change": 135,
+      "appId": 6754346785,
+      "previous_rank": 281,
+      "current_rank": 2,
+      "rank_change": 279,
       "category": "6013",
       "date": "2025-12-11",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/91/56/a0/9156a024-932e-c6dc-7660-00d9838ea5a4/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/180x180bb.png",
-      "app_name": "Intermittent Fasting Tracker ‧",
-      "publisher": "William Sims"
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/85/05/fa/8505fa4f-c9a0-adf9-6a4a-4ac7673d4aa8/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/180x180bb.png",
+      "app_name": "Buy\\'r",
+      "publisher": "Buy'r LLC"
+    },
+    {
+      "appId": 6739602668,
+      "previous_rank": 384,
+      "current_rank": 223,
+      "rank_change": 161,
+      "category": "6013",
+      "date": "2025-12-11",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/95/6a/75/956a75b2-e31e-fa28-1129-9ea7cbb17a35/AppIcon-0-1x_U007ephone-0-1-0-85-220-0.png/180x180bb.png",
+      "app_name": "HeartFit - BP Health Tracker",
+      "publisher": "Hopenebula Technology CO., Limited"
+    },
+    {
+      "appId": 6737430665,
+      "previous_rank": 500,
+      "current_rank": 359,
+      "rank_change": 141,
+      "category": "6013",
+      "date": "2025-12-11",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4a/78/5d/4a785d87-dd91-936f-1d43-d9a2749c98f4/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/180x180bb.png",
+      "app_name": "Cravr - Quit Overeating Now",
+      "publisher": "Salus Tech, Inc"
+    },
+    {
+      "appId": 6754075317,
+      "previous_rank": 449,
+      "current_rank": 315,
+      "rank_change": 134,
+      "category": "6013",
+      "date": "2025-12-11",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8d/97/f0/8d97f04e-e443-e964-0363-2be4b04b87a0/AppIcon-0-0-1x_U007emarketing-0-4-0-85-220.png/180x180bb.png",
+      "app_name": "ChillFit: Home Workout Planner",
+      "publisher": "Core AI"
     },
     {
       "appId": 1548577496,
@@ -45,28 +67,6 @@
       "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ee/4a/30/ee4a3075-7060-d3d4-63c0-c449ab383ca7/AppIcon-0-0-1x_U007ephone-0-0-0-1-0-0-85-220.png/180x180bb.png",
       "app_name": "Train Fitness Workout Tracker",
       "publisher": "Train Fitness Inc."
-    },
-    {
-      "appId": 6739602668,
-      "previous_rank": 384,
-      "current_rank": 265,
-      "rank_change": 119,
-      "category": "6013",
-      "date": "2025-12-11",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/95/6a/75/956a75b2-e31e-fa28-1129-9ea7cbb17a35/AppIcon-0-1x_U007ephone-0-1-0-85-220-0.png/180x180bb.png",
-      "app_name": "HeartFit - BP Health Tracker",
-      "publisher": "Hopenebula Technology CO., Limited"
-    },
-    {
-      "appId": 1464792066,
-      "previous_rank": 447,
-      "current_rank": 340,
-      "rank_change": 107,
-      "category": "6013",
-      "date": "2025-12-11",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/14/d9/ab/14d9ab21-61d5-9715-174d-de84aac18524/AppIcon-0-0-1x_U007epad-0-4-0-85-220.png/180x180bb.png",
-      "app_name": "Healthfirst NY",
-      "publisher": "HF Management Services LLC"
     }
   ]
 }
