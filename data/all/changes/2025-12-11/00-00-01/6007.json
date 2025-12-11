@@ -1,0 +1,363 @@
+{
+  "date": "2025-12-11",
+  "changes": {
+    "6007": {
+      "added": [
+        {
+          "appId": 6739763723,
+          "name": "Informa Connect Tech Events",
+          "publisher": "Informa Market Events",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d4/8d/8d/d48d8d19-6e24-8542-f212-e682818d8e08/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/180x180bb.png",
+          "rating": 4.5,
+          "ratingCount": 130,
+          "price": "0.00",
+          "rank": 146,
+          "category": "6007"
+        },
+        {
+          "appId": 6755965583,
+          "name": "Sniffiеs-Kit Vault",
+          "publisher": "REINA RACQUEL JACKSON",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/fe/92/61/fe926190-4c33-d47f-c84f-b30142544bfd/AppIcon-0-0-1x_U007ephone-0-1-85-220.jpeg/180x180bb.png",
+          "rating": 0,
+          "ratingCount": 0,
+          "price": "0.00",
+          "rank": 199,
+          "category": "6007"
+        },
+        {
+          "appId": 1439454209,
+          "name": "MyNavia App",
+          "publisher": "Navia Benefit Solutions, Inc.",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b7/a7/4a/b7a74ac3-374e-98d1-e5a7-61115d021cb4/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/180x180bb.png",
+          "rating": 1.6,
+          "ratingCount": 294,
+          "price": "0.00",
+          "rank": 336,
+          "category": "6007"
+        },
+        {
+          "appId": 6496866939,
+          "name": "Easy2Success",
+          "publisher": "Hein Ko Ko",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/85/0c/57/850c57b1-41d8-6e9c-e29e-72724cd3427f/AppIcon-0-0-1x_U007epad-0-1-85-220.png/180x180bb.png",
+          "rating": 4.7,
+          "ratingCount": 52,
+          "price": "0.00",
+          "rank": 343,
+          "category": "6007"
+        },
+        {
+          "appId": 6755670463,
+          "name": "AI Privacy Safe",
+          "publisher": "Safe Group",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/43/b7/b0/43b7b042-9374-e384-04a7-5af8297f410f/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/180x180bb.png",
+          "rating": 0,
+          "ratingCount": 0,
+          "price": "0.00",
+          "rank": 362,
+          "category": "6007"
+        },
+        {
+          "appId": 6751630276,
+          "name": "Daily Planner: AI EchoDay",
+          "publisher": "Alexandre Neves de Barros",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/48/76/11/48761123-b69d-bc5f-173b-df5ca72318a3/AppIcon-0-0-1x_U007epad-0-1-85-220.jpeg/180x180bb.png",
+          "rating": 0,
+          "ratingCount": 0,
+          "price": "0.00",
+          "rank": 363,
+          "category": "6007"
+        },
+        {
+          "appId": 6752027746,
+          "name": "Qwen: AI Image Bot Assistant",
+          "publisher": "Axel Nee",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b0/5b/cb/b05bcb0d-b7e3-02f5-3922-f1b262ea4883/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.jpeg/180x180bb.png",
+          "rating": 0,
+          "ratingCount": 0,
+          "price": "0.00",
+          "rank": 415,
+          "category": "6007"
+        },
+        {
+          "appId": 1595774070,
+          "name": "Digilink-Protect your privacy",
+          "publisher": "RIPWALL, LLC",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/66/92/51/669251cf-3318-1400-ef58-6f220ddd4f98/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
+          "rating": 4.8,
+          "ratingCount": 10700,
+          "price": "0.00",
+          "rank": 459,
+          "category": "6007"
+        },
+        {
+          "appId": 707452888,
+          "name": "Spike: AI Email & Team Chat",
+          "publisher": "SpikeNow Ltd.",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/41/af/f8/41aff891-4e49-a652-394a-16a14db13918/AppIcon-0-1x_U007epad-0-1-0-85-220-0.png/180x180bb.png",
+          "rating": 4.5,
+          "ratingCount": 4020,
+          "price": "0.00",
+          "rank": 472,
+          "category": "6007"
+        },
+        {
+          "appId": 779592978,
+          "name": "Google Admin",
+          "publisher": "Google",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ee/52/9f/ee529f6e-0ae4-a206-3ec2-2b6d525b0f83/logo_admin_2020q4_color-0-1x_U007emarketing-0-6-0-85-220-0.png/180x180bb.png",
+          "rating": 1.7,
+          "ratingCount": 492,
+          "price": "0.00",
+          "rank": 474,
+          "category": "6007"
+        },
+        {
+          "appId": 1015059570,
+          "name": "My CenturyLink",
+          "publisher": "CenturyLink, Inc",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/17/2b/2b/172b2bc2-343c-8b4c-c57d-3525d57bba5f/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/180x180bb.png",
+          "rating": 4.4,
+          "ratingCount": 135000,
+          "price": "0.00",
+          "rank": 475,
+          "category": "6007"
+        },
+        {
+          "appId": 661649585,
+          "name": "TeamViewer QuickSupport",
+          "publisher": "TeamViewer Germany GmbH",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fe/94/eb/fe94ebc9-feb3-b408-7d49-d832adb1755c/AppIcon-0-0-1x_U007epad-0-1-85-220.png/180x180bb.png",
+          "rating": 2.8,
+          "ratingCount": 4926,
+          "price": "0.00",
+          "rank": 481,
+          "category": "6007"
+        },
+        {
+          "appId": 1579080789,
+          "name": "ConstructionClock Time Tracker",
+          "publisher": "ConstructionClock Incorporated",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/68/dc/3a/68dc3acb-4b21-f5fb-0132-8b01bd6e1f8e/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/180x180bb.png",
+          "rating": 4.2,
+          "ratingCount": 26,
+          "price": "0.00",
+          "rank": 488,
+          "category": "6007"
+        },
+        {
+          "appId": 6753803952,
+          "name": "Descript AI: Audio & Video",
+          "publisher": "Basem Nabil Mohamed Aly Kasem",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/52/cf/f5/52cff515-fe05-dcd2-dc60-355d8dabda3d/AppIcon-0-0-1x_U007ephone-0-1-85-220.jpeg/180x180bb.png",
+          "rating": 3.8,
+          "ratingCount": 64,
+          "price": "0.00",
+          "rank": 490,
+          "category": "6007"
+        },
+        {
+          "appId": 6615083315,
+          "name": "Xtreme Connected Simple Home",
+          "publisher": "Jem Accessories, Inc",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9f/ca/1e/9fca1ebf-0d97-93b9-3d50-294248cd8008/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/180x180bb.png",
+          "rating": 3.7,
+          "ratingCount": 339,
+          "price": "0.00",
+          "rank": 492,
+          "category": "6007"
+        },
+        {
+          "appId": 1516182072,
+          "name": "Find Bluetooth Device Tracker",
+          "publisher": "Wergames OU",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/94/7d/f4/947df45e-b54c-c6b5-cb4c-1b3ec36db36e/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/180x180bb.png",
+          "rating": 4.4,
+          "ratingCount": 1656,
+          "price": "0.00",
+          "rank": 494,
+          "category": "6007"
+        }
+      ],
+      "removed": [
+        {
+          "appId": 1585852507,
+          "name": "SwiftConnect Mobile",
+          "publisher": "Technologies Ipseite Inc",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e3/29/38/e3293875-ffed-e6d2-c1c7-69a2bc4a35f2/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/180x180bb.png",
+          "rating": 0,
+          "ratingCount": 0,
+          "price": "0.00",
+          "rank": 381,
+          "category": "6007"
+        },
+        {
+          "appId": 1537845384,
+          "name": "Essayist: Academic Writing App",
+          "publisher": "Essayist Software Inc.",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7f/d8/2e/7fd82eab-4829-e9fd-7925-513e31e62fb4/EssayistRounded-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/180x180bb.png",
+          "rating": 4.5,
+          "ratingCount": 368,
+          "price": "0.00",
+          "rank": 386,
+          "category": "6007"
+        },
+        {
+          "appId": 6738047270,
+          "name": "Voice Recorder・Audio Recording",
+          "publisher": "UXGROUP L.L.C-FZ",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2b/08/04/2b0804b6-2e89-2d05-bab1-1827fee06b18/AppIcon-0-0-1x_U007epad-0-1-0-85-220.jpeg/180x180bb.png",
+          "rating": 4.5,
+          "ratingCount": 114,
+          "price": "0.00",
+          "rank": 425,
+          "category": "6007"
+        },
+        {
+          "appId": 1201534974,
+          "name": "Reach: Fast SMS Text and Email",
+          "publisher": "SR Apps, Inc.",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/03/64/a0/0364a0fc-a681-cedf-8528-05fea78f8458/AppIcon-0-0-1x_U007emarketing-0-11-0-0-85-220.png/180x180bb.png",
+          "rating": 4.8,
+          "ratingCount": 6596,
+          "price": "0.00",
+          "rank": 454,
+          "category": "6007"
+        },
+        {
+          "appId": 867941329,
+          "name": "Genesis Intelligent Assistant",
+          "publisher": "Hyundai Motor America",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f3/3c/80/f33c807a-5c8d-ef5c-1bba-5945b2254567/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/180x180bb.png",
+          "rating": 4.7,
+          "ratingCount": 49100,
+          "price": "0.00",
+          "rank": 460,
+          "category": "6007"
+        },
+        {
+          "appId": 1559538995,
+          "name": "Pikmykid Parent",
+          "publisher": "PikMyKid",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8a/15/e8/8a15e8ae-7f3d-8593-7dbb-2789019ceab6/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/180x180bb.png",
+          "rating": 3.8,
+          "ratingCount": 859,
+          "price": "0.00",
+          "rank": 463,
+          "category": "6007"
+        },
+        {
+          "appId": 1593231160,
+          "name": "Crisis24 Horizon Mobile",
+          "publisher": "Crisis24 Inc",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/10/48/9d/10489da5-0345-52f6-dadf-f62ef2401b56/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/180x180bb.png",
+          "rating": 3.3,
+          "ratingCount": 27,
+          "price": "0.00",
+          "rank": 468,
+          "category": "6007"
+        },
+        {
+          "appId": 456697646,
+          "name": "Vonage Business Communications",
+          "publisher": "Vonage",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/03/d2/8b/03d28b21-e8c3-4273-b67d-52c70a755324/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/180x180bb.png",
+          "rating": 4.7,
+          "ratingCount": 20500,
+          "price": "0.00",
+          "rank": 473,
+          "category": "6007"
+        },
+        {
+          "appId": 1545174683,
+          "name": "Choice Home Warranty",
+          "publisher": "Choice Home Warranty Group, Inc.",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/96/71/fe/9671fed6-82cc-75dc-0020-181fd2e0b36b/AppIcon-0-0-1x_U007emarketing-0-11-0-0-85-220.png/180x180bb.png",
+          "rating": 2,
+          "ratingCount": 120,
+          "price": "0.00",
+          "rank": 477,
+          "category": "6007"
+        },
+        {
+          "appId": 1028871868,
+          "name": "Adblock Plus for Safari (ABP)",
+          "publisher": "Eyeo GmbH",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8f/68/95/8f689512-90ca-0011-3c2d-2ac7d9f04bd3/abp_appicon-0-1x_U007epad-0-1-0-85-220-0.png/180x180bb.png",
+          "rating": 4.4,
+          "ratingCount": 17700,
+          "price": "0.00",
+          "rank": 478,
+          "category": "6007"
+        },
+        {
+          "appId": 6749366382,
+          "name": "EarthPath",
+          "publisher": "Said Bati Al Dashisha",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ed/6a/14/ed6a14a5-6230-4825-53b6-4c9c6b1521a8/AppIcon-0-0-1x_U007ephone-0-11-0-85-220.png/180x180bb.png",
+          "rating": 0,
+          "ratingCount": 0,
+          "price": "0.00",
+          "rank": 480,
+          "category": "6007"
+        },
+        {
+          "appId": 391093033,
+          "name": "Member Tools",
+          "publisher": "The Church of Jesus Christ of Latter-day Saints",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fa/89/f8/fa89f853-abb7-4d1c-8a5a-17bed5fc2aaa/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-85-220.png/180x180bb.png",
+          "rating": 3.1,
+          "ratingCount": 5981,
+          "price": "0.00",
+          "rank": 483,
+          "category": "6007"
+        },
+        {
+          "appId": 6754754104,
+          "name": "My Cinemastik",
+          "publisher": "Prasad Padhi",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3d/0b/c2/3d0bc200-f749-9a59-f63c-88e1c2f64d41/AppIcon-0-0-1x_U007ephone-0-11-0-85-220.png/180x180bb.png",
+          "rating": 0,
+          "ratingCount": 0,
+          "price": "0.00",
+          "rank": 488,
+          "category": "6007"
+        },
+        {
+          "appId": 1032930471,
+          "name": "Off The Record: Ticket Lawyer",
+          "publisher": "Off the Record, Inc.",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/81/ae/95/81ae95e4-a924-8aef-e1a9-edd37afa1f68/AppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.png/180x180bb.png",
+          "rating": 4.6,
+          "ratingCount": 9482,
+          "price": "0.00",
+          "rank": 489,
+          "category": "6007"
+        },
+        {
+          "appId": 1228669675,
+          "name": "UScellular™ – My Account",
+          "publisher": "U.S. Cellular",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/71/fa/9f/71fa9f41-dc68-3681-a94b-822faa667fb5/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/180x180bb.png",
+          "rating": 4.5,
+          "ratingCount": 66800,
+          "price": "0.00",
+          "rank": 495,
+          "category": "6007"
+        },
+        {
+          "appId": 1554760348,
+          "name": "Authy Authenticator",
+          "publisher": "Secgin LLC",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/91/b1/a5/91b1a5fa-2659-0808-f141-057046ae4ca7/AppIcon-0-0-1x_U007epad-0-8-0-85-220.png/180x180bb.png",
+          "rating": 4.8,
+          "ratingCount": 26,
+          "price": "0.00",
+          "rank": 498,
+          "category": "6007"
+        }
+      ]
+    }
+  }
+}
