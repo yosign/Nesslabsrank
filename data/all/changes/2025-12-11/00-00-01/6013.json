@@ -1,0 +1,407 @@
+{
+  "date": "2025-12-11",
+  "changes": {
+    "6013": {
+      "added": [
+        {
+          "appId": 1445397411,
+          "name": "TASC app for iPhone",
+          "publisher": "TASC Mobile",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/fa/f0/42/faf042a8-4282-ac09-0f8c-936dd084b26c/AppIcon-0-1x_U007emarketing-0-8-0-85-220-0.png/180x180bb.png",
+          "rating": 4.5,
+          "ratingCount": 13100,
+          "price": "0.00",
+          "rank": 258,
+          "category": "6013"
+        },
+        {
+          "appId": 6746488495,
+          "name": "Blood Pressure- Health Monitor",
+          "publisher": "GREEN CODE NETWORK TECHNOLOGY LIMITED",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/1a/12/82/1a128259-6be9-f407-0ac6-6dff57d283ac/AppIcon-0-0-1x_U007ephone-0-11-0-85-220.png/180x180bb.png",
+          "rating": 4.2,
+          "ratingCount": 96,
+          "price": "0.00",
+          "rank": 261,
+          "category": "6013"
+        },
+        {
+          "appId": 1670191542,
+          "name": "WP2: Holistic Health & Fitness",
+          "publisher": "VIRTUVIA, llc",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/56/e8/8b/56e88b87-db97-3aaf-4596-72731a1f7913/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/180x180bb.png",
+          "rating": 0,
+          "ratingCount": 0,
+          "price": "0.00",
+          "rank": 315,
+          "category": "6013"
+        },
+        {
+          "appId": 6748850215,
+          "name": "CalmWatch-实时压力&心率监测",
+          "publisher": "Shanxi Jinshangxing Technology Co., Ltd",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/58/78/71/587871d1-1ab7-3d28-ff63-da0d3cb038b4/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/180x180bb.png",
+          "rating": 5,
+          "ratingCount": 7,
+          "price": "0.00",
+          "rank": 351,
+          "category": "6013"
+        },
+        {
+          "appId": 6723891071,
+          "name": "SleepTracker: Record & Improve",
+          "publisher": "APPSKY HONG KONG LIMITED",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0e/f1/c2/0ef1c292-b757-7677-43dd-7ca6936ae2be/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/180x180bb.png",
+          "rating": 4.8,
+          "ratingCount": 347,
+          "price": "0.00",
+          "rank": 355,
+          "category": "6013"
+        },
+        {
+          "appId": 6746586837,
+          "name": "Lock In - Reset Your Life",
+          "publisher": "Omega Labs, LLC",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7b/9b/cb/7b9bcbc9-9939-9e73-6b91-c1ade0274b5e/AppIcon-0-0-1x_U007epad-0-1-85-220.png/180x180bb.png",
+          "rating": 4.8,
+          "ratingCount": 7664,
+          "price": "0.00",
+          "rank": 387,
+          "category": "6013"
+        },
+        {
+          "appId": 6755186556,
+          "name": "Vital Arc",
+          "publisher": "ATHENE GROUP",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5f/f7/bd/5ff7bd01-0edc-13e5-4c98-8820fc011641/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.jpeg/180x180bb.png",
+          "rating": 0,
+          "ratingCount": 0,
+          "price": "0.00",
+          "rank": 388,
+          "category": "6013"
+        },
+        {
+          "appId": 1566398156,
+          "name": "IHSS EVV Mobile App",
+          "publisher": "California Health and Human Services office of Technology and Solutions Integration (CalHHS OTSI)",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1d/d3/a8/1dd3a830-f027-1f62-853a-7c207ebd9b3f/AppIcon-0-0-1x_U007epad-0-1-85-220.png/180x180bb.png",
+          "rating": 2,
+          "ratingCount": 816,
+          "price": "0.00",
+          "rank": 393,
+          "category": "6013"
+        },
+        {
+          "appId": 6478134595,
+          "name": "ARBloodPressure:Health record",
+          "publisher": "NUMBER THREE TECH LIMITED",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6a/23/e5/6a23e5fa-4e5a-772d-cae8-fab64cbf452a/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/180x180bb.png",
+          "rating": 0,
+          "ratingCount": 0,
+          "price": "0.00",
+          "rank": 407,
+          "category": "6013"
+        },
+        {
+          "appId": 1546156891,
+          "name": "Heartify: Heart Health Monitor",
+          "publisher": "HEARTIFY HEALTH, INC.",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ce/ee/51/ceee51b7-a979-693c-cc76-9089c40b0050/AppIcon-1x_U007ephone-0-10-0-0-sRGB-GLES2_U002c0-85-220-0.png/180x180bb.png",
+          "rating": 4.7,
+          "ratingCount": 118000,
+          "price": "0.00",
+          "rank": 410,
+          "category": "6013"
+        },
+        {
+          "appId": 1461517107,
+          "name": "Mesmerize - Visual Meditation",
+          "publisher": "Rockwell Ventures",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2c/a0/5c/2ca05c33-fee6-65b4-a2e1-0b0c1a6ebfcc/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/180x180bb.png",
+          "rating": 4.7,
+          "ratingCount": 51300,
+          "price": "0.00",
+          "rank": 418,
+          "category": "6013"
+        },
+        {
+          "appId": 6740305565,
+          "name": "VitalWalk",
+          "publisher": "耀龙 林",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/84/c5/a7/84c5a7fb-ea6d-7dd4-aa98-3b733b485d74/AppIcon-1x_U007emarketing-0-6-0-P3-85-220-0.png/180x180bb.png",
+          "rating": 4.3,
+          "ratingCount": 4266,
+          "price": "0.00",
+          "rank": 449,
+          "category": "6013"
+        },
+        {
+          "appId": 1106903800,
+          "name": "AccessPass",
+          "publisher": "Money Movers",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7a/08/c8/7a08c802-fafa-dfb5-7eae-025af6d88c67/homelogo-0-0-1x_U007emarketing-0-8-0-85-220.png/180x180bb.png",
+          "rating": 2.9,
+          "ratingCount": 21,
+          "price": "0.00",
+          "rank": 450,
+          "category": "6013"
+        },
+        {
+          "appId": 6756081330,
+          "name": "North Ray Yoga",
+          "publisher": "North Ray Yoga",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/88/e6/89/88e68905-9b03-81fe-8140-adb95591d651/AppIcon-0-0-1x_U007emarketing-0-0-0-8-0-0-85-220.png/180x180bb.png",
+          "rating": 0,
+          "ratingCount": 0,
+          "price": "0.00",
+          "rank": 458,
+          "category": "6013"
+        },
+        {
+          "appId": 6448043832,
+          "name": "OneLabel: Product Scanner",
+          "publisher": "OneLabel Inc.",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c9/75/a3/c975a37e-7c8d-2121-dc2c-94c68916367b/AppIcon-0-0-1x_U007emarketing-0-3-0-85-220.png/180x180bb.png",
+          "rating": 4.7,
+          "ratingCount": 2976,
+          "price": "0.00",
+          "rank": 469,
+          "category": "6013"
+        },
+        {
+          "appId": 6702020365,
+          "name": "Healthy Food Scanner - OnFork",
+          "publisher": "AIBY",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/99/48/38/994838f5-e8db-6505-45de-3b075814223d/AppIcon-0-0-1x_U007ephone-0-1-0-sRGB-85-220.png/180x180bb.png",
+          "rating": 4.8,
+          "ratingCount": 1576,
+          "price": "0.00",
+          "rank": 476,
+          "category": "6013"
+        },
+        {
+          "appId": 1551099110,
+          "name": "FaceYogi - Face Yoga, Massage",
+          "publisher": "Lollitech Ltd",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/57/72/a2/5772a29b-b5e9-2b66-4842-873f862423f3/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/180x180bb.png",
+          "rating": 4.8,
+          "ratingCount": 15900,
+          "price": "0.00",
+          "rank": 490,
+          "category": "6013"
+        },
+        {
+          "appId": 6748291044,
+          "name": "Death Clock:a Date With Death",
+          "publisher": "ryo mishima",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/50/cf/3a/50cf3a6b-58ef-9513-aaed-70d070688205/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/180x180bb.png",
+          "rating": 4.6,
+          "ratingCount": 56,
+          "price": "0.00",
+          "rank": 500,
+          "category": "6013"
+        }
+      ],
+      "removed": [
+        {
+          "appId": 1389503012,
+          "name": "Barry’s",
+          "publisher": "Barry's Bootcamp, LLC",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f3/b2/8d/f3b28d81-6181-815d-ada0-4178007d099e/BarrysAppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/180x180bb.png",
+          "rating": 5,
+          "ratingCount": 32500,
+          "price": "0.00",
+          "rank": 440,
+          "category": "6013"
+        },
+        {
+          "appId": 1190643586,
+          "name": "UCHealth",
+          "publisher": "UCHealth",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e0/3c/92/e03c92cb-d2bd-05b1-410b-8885d6205852/AppIcon-1x_U007emarketing-0-8-0-0-GLES2_U002c0-85-220-0.jpeg/180x180bb.png",
+          "rating": 3.1,
+          "ratingCount": 585,
+          "price": "0.00",
+          "rank": 441,
+          "category": "6013"
+        },
+        {
+          "appId": 6739284444,
+          "name": "Health Life - BloodSugar & BP",
+          "publisher": "CosmicLight Limited",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d2/c9/09/d2c90972-b1e6-aaa9-6ffe-8013befb74cc/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/180x180bb.png",
+          "rating": 3.8,
+          "ratingCount": 964,
+          "price": "0.00",
+          "rank": 450,
+          "category": "6013"
+        },
+        {
+          "appId": 687176839,
+          "name": "Think Dirty – Shop Clean",
+          "publisher": "Think Dirty Inc.",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7d/c3/b8/7dc3b805-82c4-774a-4a3f-c5e97ae614b6/AppIconDefault-0-0-1x_U007emarketing-0-8-0-85-220.png/180x180bb.png",
+          "rating": 4.8,
+          "ratingCount": 53300,
+          "price": "0.00",
+          "rank": 472,
+          "category": "6013"
+        },
+        {
+          "appId": 950562312,
+          "name": "BabyName - find it together",
+          "publisher": "Do Something Good",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b5/27/7e/b5277e16-07be-e7f3-0807-3616c64ee5d7/AppIcon-0-0-1x_U007emarketing-0-6-85-220.png/180x180bb.png",
+          "rating": 4.1,
+          "ratingCount": 20700,
+          "price": "0.00",
+          "rank": 476,
+          "category": "6013"
+        },
+        {
+          "appId": 6479329206,
+          "name": "WISEcode: Decode Your Food",
+          "publisher": "WISEcode",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/76/84/37/7684373c-c2d5-fdf6-465a-e41e059d5a59/AppIcon-production-0-0-1x_U007emarketing-0-11-0-85-220.png/180x180bb.png",
+          "rating": 4.7,
+          "ratingCount": 600,
+          "price": "0.00",
+          "rank": 480,
+          "category": "6013"
+        },
+        {
+          "appId": 6752903467,
+          "name": "Deep: Sleep, Meditation Sounds",
+          "publisher": "44pixels",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2b/f5/ec/2bf5ec2f-ece7-1c04-5e61-c35bdf47bfe3/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/180x180bb.png",
+          "rating": 4.8,
+          "ratingCount": 567,
+          "price": "0.00",
+          "rank": 482,
+          "category": "6013"
+        },
+        {
+          "appId": 6499447981,
+          "name": "One Pass™",
+          "publisher": "AAPTIV INC.",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/97/2d/37/972d37a2-c321-ed49-e9db-1385d9c9c674/AppIconOnePass-0-0-1x_U007ephone-0-1-0-85-220.png/180x180bb.png",
+          "rating": 3.7,
+          "ratingCount": 860,
+          "price": "0.00",
+          "rank": 483,
+          "category": "6013"
+        },
+        {
+          "appId": 6502704037,
+          "name": "Homedics SereneScent",
+          "publisher": "HoMedics",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/fb/2c/23/fb2c23db-b526-1820-478b-bd7cf80a4e9b/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/180x180bb.png",
+          "rating": 1.4,
+          "ratingCount": 61,
+          "price": "0.00",
+          "rank": 485,
+          "category": "6013"
+        },
+        {
+          "appId": 6754946402,
+          "name": "FITWORKS: 24/7 FITNESS",
+          "publisher": "Fitworks",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8e/8c/96/8e8c9619-c077-49e1-77af-51fcc04122c9/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/180x180bb.png",
+          "rating": 0,
+          "ratingCount": 0,
+          "price": "0.00",
+          "rank": 490,
+          "category": "6013"
+        },
+        {
+          "appId": 6745506007,
+          "name": "Home Workout - Easyfit AI",
+          "publisher": "Appediet Information PTE. LTD",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0e/2f/de/0e2fde76-b19d-0a28-b2ca-1771cec151de/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/180x180bb.png",
+          "rating": 4.8,
+          "ratingCount": 3419,
+          "price": "0.00",
+          "rank": 491,
+          "category": "6013"
+        },
+        {
+          "appId": 1147074917,
+          "name": "H Band",
+          "publisher": "家福 张",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fa/54/79/fa5479fd-52e0-2099-3491-b0fa9f1d015e/AppIcon-0-0-1x_U007emarketing-0-5-0-0-85-220.png/180x180bb.png",
+          "rating": 3.4,
+          "ratingCount": 661,
+          "price": "0.00",
+          "rank": 492,
+          "category": "6013"
+        },
+        {
+          "appId": 6749258218,
+          "name": "Shredder - Ski & Snowboard",
+          "publisher": "Shredder Inc.",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4b/81/b1/4b81b172-6fc6-29a1-269d-b9eafba305cc/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/180x180bb.png",
+          "rating": 4,
+          "ratingCount": 179,
+          "price": "0.00",
+          "rank": 493,
+          "category": "6013"
+        },
+        {
+          "appId": 1479615245,
+          "name": "Quit Vaping",
+          "publisher": "Jonathan Kopp",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2b/39/af/2b39af61-3bcd-25cf-09e3-d6d033d81e1e/AppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.png/180x180bb.png",
+          "rating": 4.9,
+          "ratingCount": 11200.000000000002,
+          "price": "0.00",
+          "rank": 495,
+          "category": "6013"
+        },
+        {
+          "appId": 6636516894,
+          "name": "Seed: Gamify No Nut Quit Porn",
+          "publisher": "Nora Studios Inc",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/95/b0/27/95b027d0-1309-4d09-4081-249a399b6f03/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/180x180bb.png",
+          "rating": 4.7,
+          "ratingCount": 6223,
+          "price": "0.00",
+          "rank": 496,
+          "category": "6013"
+        },
+        {
+          "appId": 1564999613,
+          "name": "QuitBot: Quit Smoking Coach",
+          "publisher": "Fred Hutch Cancer Research Center",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/34/e6/bf/34e6bfaa-3a14-5bc9-dc85-1c36982a7509/AppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.png/180x180bb.png",
+          "rating": 4.4,
+          "ratingCount": 5,
+          "price": "0.00",
+          "rank": 497,
+          "category": "6013"
+        },
+        {
+          "appId": 1362085228,
+          "name": "FOREO For You",
+          "publisher": "FOREO",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6b/f5/9e/6bf59ea2-dac2-a05f-acbd-8d1daca419bc/AppIcon-true-1x_U007emarketing-0-8-0-85-220-0.png/180x180bb.png",
+          "rating": 4.9,
+          "ratingCount": 1696,
+          "price": "0.00",
+          "rank": 499,
+          "category": "6013"
+        },
+        {
+          "appId": 6737430665,
+          "name": "Cravr - Quit Overeating Now",
+          "publisher": "Salus Tech, Inc",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4a/78/5d/4a785d87-dd91-936f-1d43-d9a2749c98f4/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/180x180bb.png",
+          "rating": 4.5,
+          "ratingCount": 188,
+          "price": "0.00",
+          "rank": 500,
+          "category": "6013"
+        }
+      ]
+    }
+  }
+}
