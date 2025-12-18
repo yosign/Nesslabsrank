@@ -1,0 +1,462 @@
+{
+  "date": "2025-12-18",
+  "changes": {
+    "6012": {
+      "added": [
+        {
+          "appId": 6747402265,
+          "name": "Driza",
+          "publisher": "Bui Thanh Binh",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/72/29/a3/7229a32d-10f9-51a3-75e8-9d9926f5455f/AppIcon-0-1x_U007ephone-0-1-85-220-0.jpeg/180x180bb.png",
+          "rating": 0,
+          "ratingCount": 0,
+          "price": "0.00",
+          "rank": 201,
+          "category": "6012"
+        },
+        {
+          "appId": 1520070391,
+          "name": "GHOST Lifestyle",
+          "publisher": "GHOST Lifestyle",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/33/1f/06/331f0640-02f1-0cc0-b5cc-27b93f0fec3a/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/180x180bb.png",
+          "rating": 4.7,
+          "ratingCount": 361,
+          "price": "0.00",
+          "rank": 249,
+          "category": "6012"
+        },
+        {
+          "appId": 1621725230,
+          "name": "PassPlay for Memberships",
+          "publisher": "Speak Creative, LLC",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/06/52/a7/0652a7e6-b1bc-9270-2adc-1b53275e9a87/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/180x180bb.png",
+          "rating": 0,
+          "ratingCount": 0,
+          "price": "0.00",
+          "rank": 274,
+          "category": "6012"
+        },
+        {
+          "appId": 6754365296,
+          "name": "Levvy - Video Chat & Live Call",
+          "publisher": "建国 任",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/af/d7/6e/afd76e88-dc3a-dfb6-5354-b34029bab81c/AppIcon-0-0-1x_U007ephone-0-11-0-85-220.png/180x180bb.png",
+          "rating": 0,
+          "ratingCount": 0,
+          "price": "0.00",
+          "rank": 370,
+          "category": "6012"
+        },
+        {
+          "appId": 6477912796,
+          "name": "myBozzuto",
+          "publisher": "Venn city",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ac/5e/ed/ac5eed91-d379-e5fa-0ce4-e33353152f5a/AppIcon-Bozzuto-0-0-1x_U007emarketing-0-8-0-85-220.png/180x180bb.png",
+          "rating": 2.6,
+          "ratingCount": 18,
+          "price": "0.00",
+          "rank": 372,
+          "category": "6012"
+        },
+        {
+          "appId": 6739350749,
+          "name": "Dream Mate: AI Roleplay Chat",
+          "publisher": "BOBY AI YAZILIM ANONIM SIRKETI",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4b/85/33/4b85336a-3855-66d6-eb3a-977d4c6f7c30/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/180x180bb.png",
+          "rating": 4.5,
+          "ratingCount": 472,
+          "price": "0.00",
+          "rank": 375,
+          "category": "6012"
+        },
+        {
+          "appId": 1489889871,
+          "name": "Moonly: Moon Phases & Calendar",
+          "publisher": "Cosmic Vibrations, Inc.",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/79/33/0e/79330eb5-ad0d-9eca-bd4f-2d0fc0b96338/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/180x180bb.png",
+          "rating": 4.7,
+          "ratingCount": 31300,
+          "price": "0.00",
+          "rank": 426,
+          "category": "6012"
+        },
+        {
+          "appId": 6744707747,
+          "name": "BuyBye - Save Money",
+          "publisher": "BuyBye Inc.",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/74/76/9c/74769ca8-9dbd-1cce-0279-8cfcc91e2c4d/AppIcon-0-0-1x_U007epad-0-1-85-220.png/180x180bb.png",
+          "rating": 4.5,
+          "ratingCount": 1234,
+          "price": "0.00",
+          "rank": 436,
+          "category": "6012"
+        },
+        {
+          "appId": 6755863314,
+          "name": "Immersive Interactive Warm Up",
+          "publisher": "Huong Hoang",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/03/ee/79/03ee7988-a700-1249-64f4-c06e616d33b9/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/180x180bb.png",
+          "rating": 0,
+          "ratingCount": 0,
+          "price": "0.00",
+          "rank": 448,
+          "category": "6012"
+        },
+        {
+          "appId": 6474966491,
+          "name": "Gooroo: Ethnicity, AI Fortune",
+          "publisher": "Spark Dynamic",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e7/4b/6b/e74b6baf-9e8d-67b5-de13-64768b07aa06/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/180x180bb.png",
+          "rating": 4.5,
+          "ratingCount": 3232,
+          "price": "0.00",
+          "rank": 456,
+          "category": "6012"
+        },
+        {
+          "appId": 6670599784,
+          "name": "Mela QR Code",
+          "publisher": "HONGKONG HYCONVEY CO. ,LIMITED",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/38/69/f9/3869f9ab-3ba7-9b76-8339-a9de4437b7fb/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/180x180bb.png",
+          "rating": 3.6,
+          "ratingCount": 33,
+          "price": "0.00",
+          "rank": 459,
+          "category": "6012"
+        },
+        {
+          "appId": 6756005708,
+          "name": "Tea App for Men: TeaOnHer",
+          "publisher": "NUR FARHANAH IRDINA BINTI ISHAI",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/79/2f/f2/792ff25b-8ecd-499c-9464-97b3a7da02a9/AppIcon2-0-0-1x_U007emarketing-0-11-0-85-220.png/180x180bb.png",
+          "rating": 0,
+          "ratingCount": 0,
+          "price": "0.00",
+          "rank": 462,
+          "category": "6012"
+        },
+        {
+          "appId": 1532694353,
+          "name": "Aura MENA",
+          "publisher": "M.H. Alshaya Co. W.L.L.",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/99/f6/3b/99f63b65-a325-266b-9491-e71dfdf89ad2/AppIcon-1x_U007emarketing-0-11-0-85-220-0.png/180x180bb.png",
+          "rating": 4.8,
+          "ratingCount": 5863,
+          "price": "0.00",
+          "rank": 476,
+          "category": "6012"
+        },
+        {
+          "appId": 1292398843,
+          "name": "Gottman Card Decks",
+          "publisher": "The Gottman Institute",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ef/61/a4/ef61a415-bd6b-26e7-4d53-8e2caaeb44cf/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/180x180bb.png",
+          "rating": 4.8,
+          "ratingCount": 1591,
+          "price": "0.00",
+          "rank": 477,
+          "category": "6012"
+        },
+        {
+          "appId": 6754931040,
+          "name": "SmartCart: Property Management",
+          "publisher": "Dabukke Raditya",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/cc/8b/cc/cc8bccef-cea1-f428-f4ac-4070daae3d1d/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/180x180bb.png",
+          "rating": 0,
+          "ratingCount": 0,
+          "price": "0.00",
+          "rank": 479,
+          "category": "6012"
+        },
+        {
+          "appId": 1129907996,
+          "name": "Roomie - Find a Roommate",
+          "publisher": "Ample Software LLC",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/54/30/21/5430219e-dfd0-e746-d6bc-3d2613a03436/AppIconGradient-1x_U007emarketing-0-8-0-85-220-0.png/180x180bb.png",
+          "rating": 4.6,
+          "ratingCount": 8070,
+          "price": "0.00",
+          "rank": 487,
+          "category": "6012"
+        },
+        {
+          "appId": 6752892094,
+          "name": "FunSteps–Track Daily Movement",
+          "publisher": "Guangzhou Hi Le Information Technology Co., Ltd",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/da/02/bf/da02bff2-a1ac-b9ce-13a6-7029f31114f5/AppIcon-0-1x_U007ephone-0-1-0-85-220-0.png/180x180bb.png",
+          "rating": 4.4,
+          "ratingCount": 85,
+          "price": "0.00",
+          "rank": 489,
+          "category": "6012"
+        },
+        {
+          "appId": 6748978881,
+          "name": "Blurb - Enjoy Life & Chat",
+          "publisher": "锋 杨",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2f/87/c8/2f87c8ae-76cb-52cd-c7f4-3e992bc4d557/AppIcon-0-0-1x_U007ephone-0-11-0-85-220.png/180x180bb.png",
+          "rating": 4.3,
+          "ratingCount": 90,
+          "price": "0.00",
+          "rank": 497,
+          "category": "6012"
+        },
+        {
+          "appId": 6747422706,
+          "name": "Crewd：Video, Chat, Discover",
+          "publisher": "志臣 仝",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/36/68/20/366820ca-4540-f951-0268-0808de85c99e/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.jpeg/180x180bb.png",
+          "rating": 4.9,
+          "ratingCount": 189,
+          "price": "0.00",
+          "rank": 498,
+          "category": "6012"
+        },
+        {
+          "appId": 6739844438,
+          "name": "Starzen - Astrology & Tarot",
+          "publisher": "SEVITA s.r.o",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/64/76/df/6476df62-f3d3-67cd-4d21-fbee0db4768f/AppIcon-0-0-1x_U007epad-0-1-0-85-220.jpeg/180x180bb.png",
+          "rating": 4.5,
+          "ratingCount": 100,
+          "price": "0.00",
+          "rank": 499,
+          "category": "6012"
+        },
+        {
+          "appId": 6745916209,
+          "name": "Whisper Link",
+          "publisher": "杭州俪居智品智能科技有限公司",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b7/ea/17/b7ea178f-776b-bfdc-a832-2b12389b5826/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/180x180bb.png",
+          "rating": 4.6,
+          "ratingCount": 235,
+          "price": "0.00",
+          "rank": 500,
+          "category": "6012"
+        }
+      ],
+      "removed": [
+        {
+          "appId": 6755050414,
+          "name": "ΌnlуFаns:Delay Pad",
+          "publisher": "Onlyfans Original CLOSAN GmbH",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7e/7b/94/7e7b94cc-92a6-6e8a-117d-268a071db6bf/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/180x180bb.png",
+          "rating": 4.5,
+          "ratingCount": 414,
+          "price": "0.00",
+          "rank": 46,
+          "category": "6012"
+        },
+        {
+          "appId": 6747106361,
+          "name": "RenBudg",
+          "publisher": "保欢 赵",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c6/4e/e8/c64ee852-9e58-877c-4e49-2ab977c871fc/AppIcon-0-1x_U007epad-0-1-0-85-220-0.png/180x180bb.png",
+          "rating": 3.4,
+          "ratingCount": 88,
+          "price": "0.00",
+          "rank": 325,
+          "category": "6012"
+        },
+        {
+          "appId": 6751961487,
+          "name": "DK Spоrtsbооk: Football World",
+          "publisher": "sportsbook draftking betting app bet draft king on football sports draftkings online sport sportybet",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3b/6d/95/3b6d950e-363f-6f85-38e6-5c18483d3d00/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/180x180bb.png",
+          "rating": 0,
+          "ratingCount": 0,
+          "price": "0.00",
+          "rank": 349,
+          "category": "6012"
+        },
+        {
+          "appId": 6746577113,
+          "name": "INNI",
+          "publisher": "Dimensional Interactive Inc.",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/05/c0/9e/05c09e0e-25e5-e120-1887-7119dbc32372/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/180x180bb.png",
+          "rating": 0,
+          "ratingCount": 0,
+          "price": "0.00",
+          "rank": 399,
+          "category": "6012"
+        },
+        {
+          "appId": 6446283316,
+          "name": "Daily Stickers & Gif",
+          "publisher": "俊珲 候",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/73/97/da/7397daee-396e-ddf9-4a97-5d4c34f7e886/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/180x180bb.png",
+          "rating": 4.6,
+          "ratingCount": 1837,
+          "price": "0.00",
+          "rank": 405,
+          "category": "6012"
+        },
+        {
+          "appId": 1635288083,
+          "name": "Living by GS",
+          "publisher": "Greystar Real Estate Partners LLC",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9d/f8/a5/9df8a588-81e2-c55e-a334-450a1cf1475f/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/180x180bb.png",
+          "rating": 4.6,
+          "ratingCount": 3259,
+          "price": "0.00",
+          "rank": 409,
+          "category": "6012"
+        },
+        {
+          "appId": 6754533470,
+          "name": "ОnlуFаns:DecisionApp",
+          "publisher": "NOISE DOO",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c2/eb/0b/c2eb0be9-5408-7878-e9a0-4e72dae562e8/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/180x180bb.png",
+          "rating": 0,
+          "ratingCount": 0,
+          "price": "0.00",
+          "rank": 416,
+          "category": "6012"
+        },
+        {
+          "appId": 6479535474,
+          "name": "ECCO: Find Movies & TV Shows",
+          "publisher": "Ecco, Inc",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e1/cc/ae/e1ccaeb5-d736-6112-479a-dc2d477e4ddc/AppIcon-0-0-1x_U007epad-0-1-85-220.png/180x180bb.png",
+          "rating": 4.7,
+          "ratingCount": 282,
+          "price": "0.00",
+          "rank": 452,
+          "category": "6012"
+        },
+        {
+          "appId": 6753863312,
+          "name": "Couple360-Relationship App",
+          "publisher": "Wuhan DiDi Technology Co.,Ltd.",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/af/dd/03/afdd03d4-4e60-69f4-daa1-2c0353194be9/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/180x180bb.png",
+          "rating": 4.7,
+          "ratingCount": 34,
+          "price": "0.00",
+          "rank": 458,
+          "category": "6012"
+        },
+        {
+          "appId": 366525182,
+          "name": "MyRegistry Universal Registry",
+          "publisher": "MyRegistry.com",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/94/c0/ba/94c0ba0b-c0f3-ff43-93ba-1af79b2ec114/AppIconLive-0-0-1x_U007emarketing-0-11-0-85-220.png/180x180bb.png",
+          "rating": 4.8,
+          "ratingCount": 5096,
+          "price": "0.00",
+          "rank": 460,
+          "category": "6012"
+        },
+        {
+          "appId": 1187363846,
+          "name": "Kansas Lottery PlayOn®",
+          "publisher": "Kansas Lottery",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0f/f3/ee/0ff3ee7b-3972-09fc-9aa2-2af985e44ebc/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/180x180bb.png",
+          "rating": 4.7,
+          "ratingCount": 1347,
+          "price": "0.00",
+          "rank": 466,
+          "category": "6012"
+        },
+        {
+          "appId": 919765207,
+          "name": "Lugg - Moving & Delivery",
+          "publisher": "Lugg",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/35/95/b5/3595b512-db11-62b3-9c12-b8a1fb9e05a8/icon.production-0-0-1x_U007epad-0-1-sRGB-85-220.png/180x180bb.png",
+          "rating": 4.9,
+          "ratingCount": 41200,
+          "price": "0.00",
+          "rank": 470,
+          "category": "6012"
+        },
+        {
+          "appId": 431904233,
+          "name": "Trane® Home",
+          "publisher": "TRANE U.S. INC",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4c/ff/45/4cff452f-3522-ebb8-0f21-80b8881d9956/traneAppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/180x180bb.png",
+          "rating": 4.8,
+          "ratingCount": 141000,
+          "price": "0.00",
+          "rank": 475,
+          "category": "6012"
+        },
+        {
+          "appId": 6753213477,
+          "name": "Keeyo",
+          "publisher": "昇光 陈",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ed/7a/3c/ed7a3c4d-d030-7d3a-f79a-8ef51d0fc9aa/AppIcon-1x_U007ephone-0-1-0-85-220-0.png/180x180bb.png",
+          "rating": 0,
+          "ratingCount": 0,
+          "price": "0.00",
+          "rank": 477,
+          "category": "6012"
+        },
+        {
+          "appId": 691246562,
+          "name": "Rave Guardian",
+          "publisher": "Rave Mobile Safety",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/cf/dd/cc/cfddcc0a-ec99-f9db-ab17-7b2a1ef69f6a/AppIcon-0-0-1x_U007emarketing-0-6-0-sRGB-85-220.png/180x180bb.png",
+          "rating": 4.6,
+          "ratingCount": 2832,
+          "price": "0.00",
+          "rank": 483,
+          "category": "6012"
+        },
+        {
+          "appId": 407814405,
+          "name": "NissanConnect® EV & Services",
+          "publisher": "Nissan North America Inc.",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ce/9e/e0/ce9ee020-f68b-34da-bea2-e83304183ab3/AppIcon-0-0-1x_U007emarketing-0-6-0-sRGB-85-220.jpeg/180x180bb.png",
+          "rating": 4.4,
+          "ratingCount": 3995,
+          "price": "0.00",
+          "rank": 484,
+          "category": "6012"
+        },
+        {
+          "appId": 6754037152,
+          "name": "Wristra Wallpapers",
+          "publisher": "MiKa Software s.r.o.",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/60/8d/a6/608da6cb-62f5-501e-59fd-db61dcb2d039/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.jpeg/180x180bb.png",
+          "rating": 2.2,
+          "ratingCount": 1235,
+          "price": "0.00",
+          "rank": 490,
+          "category": "6012"
+        },
+        {
+          "appId": 6755179703,
+          "name": "Dialux - Face Gallery",
+          "publisher": "FOILAIN & COMPAGNIE",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/8d/8d/8b/8d8d8b0a-6163-8a96-ae77-6ae08319446f/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.jpeg/180x180bb.png",
+          "rating": 2.3,
+          "ratingCount": 69,
+          "price": "0.00",
+          "rank": 493,
+          "category": "6012"
+        },
+        {
+          "appId": 6736712385,
+          "name": "Hair Snap Health & Style Scan",
+          "publisher": "Fulminare Holdings",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ff/e0/f5/ffe0f59d-2fb5-856f-1d3e-ef60b1a815af/AppIcon-0-0-1x_U007epad-0-1-85-220.png/180x180bb.png",
+          "rating": 4.7,
+          "ratingCount": 7902,
+          "price": "0.00",
+          "rank": 495,
+          "category": "6012"
+        },
+        {
+          "appId": 6751218911,
+          "name": "Swivc: Discover, Connect, Chat",
+          "publisher": "有为 戴",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/76/17/10/7617100f-3583-b882-4240-0a989d3f35be/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.jpeg/180x180bb.png",
+          "rating": 4.4,
+          "ratingCount": 27,
+          "price": "0.00",
+          "rank": 496,
+          "category": "6012"
+        }
+      ]
+    }
+  }
+}
