@@ -5,8 +5,8 @@
     {
       "appId": 6741784236,
       "previous_rank": 432,
-      "current_rank": 87,
-      "rank_change": 345,
+      "current_rank": 88,
+      "rank_change": 344,
       "category": "6002",
       "date": "2025-12-25",
       "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ac/bb/4d/acbb4d63-8ba0-936e-a7e6-2c830495dcb2/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/180x180bb.png",
@@ -14,32 +14,10 @@
       "publisher": "Shenzhen Yihengke Electronic Technology Co.,Ltd."
     },
     {
-      "appId": 6504139702,
-      "previous_rank": 480,
-      "current_rank": 153,
-      "rank_change": 327,
-      "category": "6002",
-      "date": "2025-12-25",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3e/42/1b/3e421b39-3085-d164-0f38-172fe84c33ac/AppIcon-0-0-1x_U007epad-0-11-0-85-220.png/180x180bb.png",
-      "app_name": "ThermoPro",
-      "publisher": "iTronics Co., Limited"
-    },
-    {
-      "appId": 6450258039,
-      "previous_rank": 477,
-      "current_rank": 166,
-      "rank_change": 311,
-      "category": "6002",
-      "date": "2025-12-25",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c0/d7/c4/c0d7c462-9267-5263-8d98-ed5af846f269/AppIcon-0-0-1x_U007emarketing-0-8-0-sRGB-85-220.png/180x180bb.png",
-      "app_name": "Labelnize",
-      "publisher": "E-z Ink Technology Co., Ltd"
-    },
-    {
       "appId": 1585952175,
       "previous_rank": 449,
-      "current_rank": 176,
-      "rank_change": 273,
+      "current_rank": 128,
+      "rank_change": 321,
       "category": "6002",
       "date": "2025-12-25",
       "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ec/8d/87/ec8d879f-88c7-8dcc-fd46-f91f6c8ebf01/AppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.png/180x180bb.png",
@@ -47,26 +25,48 @@
       "publisher": "Shenzhen Bainiu Technology Co., LTD."
     },
     {
-      "appId": 6739829512,
-      "previous_rank": 456,
-      "current_rank": 184,
-      "rank_change": 272,
+      "appId": 6450258039,
+      "previous_rank": 477,
+      "current_rank": 168,
+      "rank_change": 309,
       "category": "6002",
       "date": "2025-12-25",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/73/d5/4b/73d54b6a-1675-a797-f9f9-159b6b49c3fa/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/180x180bb.png",
-      "app_name": "Nada Print",
-      "publisher": "珠海久印科技有限公司"
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c0/d7/c4/c0d7c462-9267-5263-8d98-ed5af846f269/AppIcon-0-0-1x_U007emarketing-0-8-0-sRGB-85-220.png/180x180bb.png",
+      "app_name": "Labelnize",
+      "publisher": "E-z Ink Technology Co., Ltd"
     },
     {
       "appId": 1621716933,
       "previous_rank": 399,
-      "current_rank": 134,
-      "rank_change": 265,
+      "current_rank": 102,
+      "rank_change": 297,
       "category": "6002",
       "date": "2025-12-25",
       "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/23/58/e2/2358e2d1-0a14-e930-fe00-a8e927e105a5/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/180x180bb.png",
       "app_name": "KY UFO",
       "publisher": "shenzhen cooingdv technology co.,ltd."
+    },
+    {
+      "appId": 6504139702,
+      "previous_rank": 480,
+      "current_rank": 189,
+      "rank_change": 291,
+      "category": "6002",
+      "date": "2025-12-25",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3e/42/1b/3e421b39-3085-d164-0f38-172fe84c33ac/AppIcon-0-0-1x_U007epad-0-11-0-85-220.png/180x180bb.png",
+      "app_name": "ThermoPro",
+      "publisher": "iTronics Co., Limited"
+    },
+    {
+      "appId": 6739829512,
+      "previous_rank": 456,
+      "current_rank": 176,
+      "rank_change": 280,
+      "category": "6002",
+      "date": "2025-12-25",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/73/d5/4b/73d54b6a-1675-a797-f9f9-159b6b49c3fa/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/180x180bb.png",
+      "app_name": "Nada Print",
+      "publisher": "珠海久印科技有限公司"
     }
   ]
 }
