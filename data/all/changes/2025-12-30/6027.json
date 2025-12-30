@@ -3,32 +3,10 @@
   "genre": "6027",
   "topRisers": [
     {
-      "appId": 1570033450,
-      "previous_rank": 391,
-      "current_rank": 237,
-      "rank_change": 154,
-      "category": "6027",
-      "date": "2025-12-30",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a7/fe/35/a7fe35dd-ecf7-96dd-6215-dba486995eec/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/180x180bb.png",
-      "app_name": "Background Eraser AI",
-      "publisher": "Yalex FZC LLC"
-    },
-    {
-      "appId": 6578449420,
-      "previous_rank": 349,
-      "current_rank": 201,
-      "rank_change": 148,
-      "category": "6027",
-      "date": "2025-12-30",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/31/57/23/315723eb-49d0-eda1-2adf-62925216ef19/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/180x180bb.png",
-      "app_name": "Cat Language Keyboard DIY",
-      "publisher": "Nguyen Quy Son"
-    },
-    {
       "appId": 6751650661,
       "previous_rank": 480,
-      "current_rank": 334,
-      "rank_change": 146,
+      "current_rank": 305,
+      "rank_change": 175,
       "category": "6027",
       "date": "2025-12-30",
       "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a7/f2/01/a7f20197-0229-85e4-8628-9f271cdb1441/AppIcon-0-0-1x_U007epad-0-1-85-220.png/180x180bb.png",
@@ -38,8 +16,8 @@
     {
       "appId": 6670479357,
       "previous_rank": 409,
-      "current_rank": 300,
-      "rank_change": 109,
+      "current_rank": 236,
+      "rank_change": 173,
       "category": "6027",
       "date": "2025-12-30",
       "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3e/75/17/3e7517ee-5e47-9473-3ded-a1d9ef0e0f25/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/180x180bb.png",
@@ -47,26 +25,48 @@
       "publisher": "AvnTech Inc."
     },
     {
-      "appId": 6744131143,
-      "previous_rank": 424,
-      "current_rank": 327,
-      "rank_change": 97,
+      "appId": 6738633971,
+      "previous_rank": 487,
+      "current_rank": 359,
+      "rank_change": 128,
       "category": "6027",
       "date": "2025-12-30",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/84/5f/6f/845f6fa2-3415-eb0e-e502-0b7f8bd7bb4d/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/180x180bb.png",
-      "app_name": "AR Drawing: Draw Sketch, Paint",
-      "publisher": "HUYNH DUONG VAN"
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5e/12/0e/5e120e22-c15a-cf34-c8bb-57915622432a/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/180x180bb.png",
+      "app_name": "Paint App: Trace & AR Draw",
+      "publisher": "QUYEN NGUYEN"
     },
     {
-      "appId": 6448269610,
-      "previous_rank": 452,
-      "current_rank": 360,
-      "rank_change": 92,
+      "appId": 1240936933,
+      "previous_rank": 404,
+      "current_rank": 287,
+      "rank_change": 117,
       "category": "6027",
       "date": "2025-12-30",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/f5/ea/f5/f5eaf585-f4e7-3f4f-da77-58cbbadf3691/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/100x100bb.jpg",
-      "app_name": "Sexy AI Art Generator",
-      "publisher": "Pornima Kulkarni"
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/af/fe/74/affe7466-77e3-c052-eb54-8bb65f349294/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/180x180bb.png",
+      "app_name": "Invitation Maker - Flyer Maker",
+      "publisher": "Essential Apps LLC"
+    },
+    {
+      "appId": 1570033450,
+      "previous_rank": 391,
+      "current_rank": 281,
+      "rank_change": 110,
+      "category": "6027",
+      "date": "2025-12-30",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a7/fe/35/a7fe35dd-ecf7-96dd-6215-dba486995eec/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/180x180bb.png",
+      "app_name": "Background Eraser AI",
+      "publisher": "Yalex FZC LLC"
+    },
+    {
+      "appId": 6459306125,
+      "previous_rank": 319,
+      "current_rank": 212,
+      "rank_change": 107,
+      "category": "6027",
+      "date": "2025-12-30",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e9/74/a5/e974a520-d399-05a8-59f0-37c58ffce5b4/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/180x180bb.png",
+      "app_name": "Click Image",
+      "publisher": "LOBSTER BABY PTE.LTD."
     }
   ]
 }
