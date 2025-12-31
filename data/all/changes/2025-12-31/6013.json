@@ -5,8 +5,8 @@
     {
       "appId": 6471374567,
       "previous_rank": 448,
-      "current_rank": 180,
-      "rank_change": 268,
+      "current_rank": 206,
+      "rank_change": 242,
       "category": "6013",
       "date": "2025-12-31",
       "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5c/05/10/5c051056-415c-2208-4c40-4b551972f603/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/180x180bb.png",
@@ -16,8 +16,8 @@
     {
       "appId": 6499478532,
       "previous_rank": 254,
-      "current_rank": 22,
-      "rank_change": 232,
+      "current_rank": 19,
+      "rank_change": 235,
       "category": "6013",
       "date": "2025-12-31",
       "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/02/4d/b6/024db6fb-c4f5-901f-bfe7-984c1ef54956/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/180x180bb.png",
@@ -25,10 +25,32 @@
       "publisher": "Cormac Hayden"
     },
     {
+      "appId": 6751428380,
+      "previous_rank": 329,
+      "current_rank": 126,
+      "rank_change": 203,
+      "category": "6013",
+      "date": "2025-12-31",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f7/fa/19/f7fa1961-379e-3b38-9d32-bd56834c9f5d/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/180x180bb.png",
+      "app_name": "Erly: Wake Up Early",
+      "publisher": "Jake Glacer"
+    },
+    {
+      "appId": 6743036247,
+      "previous_rank": 489,
+      "current_rank": 286,
+      "rank_change": 203,
+      "category": "6013",
+      "date": "2025-12-31",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2f/13/a0/2f13a0d5-b002-692e-3f5b-9ec70150c2f7/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/180x180bb.png",
+      "app_name": "Arise: Level Up In Real Life",
+      "publisher": "STEALTHCOMPANY, LLC"
+    },
+    {
       "appId": 6754281962,
       "previous_rank": 248,
-      "current_rank": 74,
-      "rank_change": 174,
+      "current_rank": 60,
+      "rank_change": 188,
       "category": "6013",
       "date": "2025-12-31",
       "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/15/fa/09/15fa09a5-a294-67c1-1b88-c4a3a0a4ff66/AppIcon-1x_U007ephone-0-1-85-220-0.png/180x180bb.png",
@@ -36,37 +58,15 @@
       "publisher": "Lit Apps LLC (Mobile)"
     },
     {
-      "appId": 920161006,
-      "previous_rank": 437,
-      "current_rank": 263,
-      "rank_change": 174,
+      "appId": 1658257567,
+      "previous_rank": 407,
+      "current_rank": 224,
+      "rank_change": 183,
       "category": "6013",
       "date": "2025-12-31",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/89/60/4f/89604fde-f4e2-c2f6-a0f9-56755ad72ac6/AppIcon-0-0-1x_U007emarketing-0-8-0-0-0-85-220-0.png/180x180bb.png",
-      "app_name": "Breethe: Sleep & Meditation",
-      "publisher": "OMG. I Can Meditate! Inc."
-    },
-    {
-      "appId": 6471596320,
-      "previous_rank": 394,
-      "current_rank": 233,
-      "rank_change": 161,
-      "category": "6013",
-      "date": "2025-12-31",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/1d/81/04/1d81044b-6b52-b7ae-6cd6-f7fccc42d744/AppIconLimberV3-0-0-1x_U007emarketing-0-7-0-85-220.png/180x180bb.png",
-      "app_name": "Limber Health Home Exercise",
-      "publisher": "Limber Health, Inc."
-    },
-    {
-      "appId": 6751428380,
-      "previous_rank": 329,
-      "current_rank": 171,
-      "rank_change": 158,
-      "category": "6013",
-      "date": "2025-12-31",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f7/fa/19/f7fa1961-379e-3b38-9d32-bd56834c9f5d/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/180x180bb.png",
-      "app_name": "Erly: Wake Up Early",
-      "publisher": "Jake Glacer"
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d8/26/a0/d826a07b-116d-f47f-91cb-46d6d2381cd9/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/180x180bb.png",
+      "app_name": "Green Noise Calm Sleep Sounds",
+      "publisher": "EaseHere Limited"
     }
   ]
 }
