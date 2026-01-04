@@ -5,8 +5,8 @@
     {
       "appId": 1361619409,
       "previous_rank": 375,
-      "current_rank": 219,
-      "rank_change": 156,
+      "current_rank": 213,
+      "rank_change": 162,
       "category": "6013",
       "date": "2026-01-04",
       "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e3/86/7f/e3867f3c-774a-01f0-a4a2-68a19b152b92/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.jpeg/180x180bb.png",
@@ -16,8 +16,8 @@
     {
       "appId": 1371187280,
       "previous_rank": 397,
-      "current_rank": 281,
-      "rank_change": 116,
+      "current_rank": 267,
+      "rank_change": 130,
       "category": "6013",
       "date": "2026-01-04",
       "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/98/3e/c2/983ec214-6258-e359-3df6-c9e1be8dbd5c/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/180x180bb.png",
@@ -25,10 +25,32 @@
       "publisher": "GymStreak Ltd"
     },
     {
+      "appId": 1562132169,
+      "previous_rank": 481,
+      "current_rank": 351,
+      "rank_change": 130,
+      "category": "6013",
+      "date": "2026-01-04",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ea/ee/c8/eaeec899-03dd-e0b3-1330-9bed628e864f/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/180x180bb.png",
+      "app_name": "Happiest Baby, makers of SNOO",
+      "publisher": "The Happiest Baby, Inc."
+    },
+    {
+      "appId": 6615069676,
+      "previous_rank": 408,
+      "current_rank": 281,
+      "rank_change": 127,
+      "category": "6013",
+      "date": "2026-01-04",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ab/53/11/ab5311a4-4478-7844-5ae2-06029b1caba9/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-0-85-220.jpeg/180x180bb.png",
+      "app_name": "Well Up-Level Up Your Wellness",
+      "publisher": "ILLUMEOS"
+    },
+    {
       "appId": 1533264837,
       "previous_rank": 430,
-      "current_rank": 321,
-      "rank_change": 109,
+      "current_rank": 307,
+      "rank_change": 123,
       "category": "6013",
       "date": "2026-01-04",
       "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4e/18/d3/4e18d3b4-f7f8-a514-871b-c2fec651e8d0/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/180x180bb.png",
@@ -36,37 +58,15 @@
       "publisher": "Gym Management Services, Inc."
     },
     {
-      "appId": 6745748411,
-      "previous_rank": 291,
-      "current_rank": 185,
-      "rank_change": 106,
+      "appId": 6478076952,
+      "previous_rank": 340,
+      "current_rank": 221,
+      "rank_change": 119,
       "category": "6013",
       "date": "2026-01-04",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/91/56/a0/9156a024-932e-c6dc-7660-00d9838ea5a4/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/180x180bb.png",
-      "app_name": "Intermittent Fasting Tracker ‧",
-      "publisher": "William Sims"
-    },
-    {
-      "appId": 6744044308,
-      "previous_rank": 471,
-      "current_rank": 377,
-      "rank_change": 94,
-      "category": "6013",
-      "date": "2026-01-04",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/35/78/03/35780388-a0e8-612c-758f-bec1a1851e7a/AppIcon-0-1x_U007ephone-0-1-0-85-220-0.png/180x180bb.png",
-      "app_name": "PulseMate: Heart Rate Monitor",
-      "publisher": "Hopenebula Technology CO., Limited"
-    },
-    {
-      "appId": 6673909624,
-      "previous_rank": 388,
-      "current_rank": 295,
-      "rank_change": 93,
-      "category": "6013",
-      "date": "2026-01-04",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0d/53/94/0d5394ad-9742-492f-4aee-e2bd107b31cb/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/180x180bb.png",
-      "app_name": "Health Mate Pro - Heart Rate",
-      "publisher": "Hainan shiqu network technology co. LTD"
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/eb/76/34/eb76346e-22c4-e627-12f0-883669dda4eb/AppIconEato-1x_U007emarketing-0-0-0-8-0-0-85-220-0.png/180x180bb.png",
+      "app_name": "Eato®: Calorie Counter",
+      "publisher": "Enerjoy Pte. Ltd."
     }
   ]
 }
