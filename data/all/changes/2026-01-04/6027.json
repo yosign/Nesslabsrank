@@ -3,10 +3,21 @@
   "genre": "6027",
   "topRisers": [
     {
+      "appId": 6752310101,
+      "previous_rank": 442,
+      "current_rank": 226,
+      "rank_change": 216,
+      "category": "6027",
+      "date": "2026-01-04",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7e/49/a8/7e49a8c4-4126-d37f-51d9-f5a7d260d5d3/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.jpeg/180x180bb.png",
+      "app_name": "Rezona: AI Game Maker",
+      "publisher": "Stratava Ltd"
+    },
+    {
       "appId": 6756484937,
       "previous_rank": 373,
-      "current_rank": 194,
-      "rank_change": 179,
+      "current_rank": 161,
+      "rank_change": 212,
       "category": "6027",
       "date": "2026-01-04",
       "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b5/ef/19/b5ef1911-76b3-c7e1-8072-2c179b3a3424/AppIcon-0-1x_U007ephone-0-1-85-220-0.png/180x180bb.png",
@@ -14,21 +25,21 @@
       "publisher": "Herman AZMAN"
     },
     {
-      "appId": 6756324985,
-      "previous_rank": 288,
-      "current_rank": 134,
-      "rank_change": 154,
+      "appId": 6742681015,
+      "previous_rank": 497,
+      "current_rank": 363,
+      "rank_change": 134,
       "category": "6027",
       "date": "2026-01-04",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ca/78/2e/ca782e1a-dbd0-e250-be30-d86defe21fbc/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/180x180bb.png",
-      "app_name": "Rainbet Palette",
-      "publisher": "Joep Willems"
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e5/40/9d/e5409dfc-152b-6f2e-480e-3335809f0b05/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/180x180bb.png",
+      "app_name": "BrushBrawl Group Coloring Game",
+      "publisher": "MM Apps, Inc."
     },
     {
       "appId": 1501803589,
       "previous_rank": 468,
-      "current_rank": 335,
-      "rank_change": 133,
+      "current_rank": 347,
+      "rank_change": 121,
       "category": "6027",
       "date": "2026-01-04",
       "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5d/62/d0/5d62d0c4-bbba-a016-b11a-500ad718ee5d/AppIcon-0-1x_U007emarketing-0-8-0-0-85-220-0.png/180x180bb.png",
@@ -36,37 +47,26 @@
       "publisher": "SILHOUETTE RESEARCH & TECHNOLOGY LIMITED"
     },
     {
-      "appId": 6449216766,
-      "previous_rank": 406,
-      "current_rank": 282,
-      "rank_change": 124,
+      "appId": 6756324985,
+      "previous_rank": 288,
+      "current_rank": 172,
+      "rank_change": 116,
       "category": "6027",
       "date": "2026-01-04",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/38/73/32/387332e7-01f9-e0de-e426-80986063fa3e/AppIcon1-0-0-1x_U007ephone-0-1-85-220.jpeg/180x180bb.png",
-      "app_name": "AI Headshot Photo Generator",
-      "publisher": "Bouzou Studio LLC"
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ca/78/2e/ca782e1a-dbd0-e250-be30-d86defe21fbc/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/180x180bb.png",
+      "app_name": "Rainbet Palette",
+      "publisher": "Joep Willems"
     },
     {
-      "appId": 6747393098,
-      "previous_rank": 323,
-      "current_rank": 200,
-      "rank_change": 123,
+      "appId": 6743840259,
+      "previous_rank": 489,
+      "current_rank": 388,
+      "rank_change": 101,
       "category": "6027",
       "date": "2026-01-04",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/90/d9/38/90d938c6-4533-fd3b-1597-d3801c07b17f/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/180x180bb.png",
-      "app_name": "Design Maker For Cricut Space",
-      "publisher": "Muhammad Awais"
-    },
-    {
-      "appId": 6468676714,
-      "previous_rank": 490,
-      "current_rank": 375,
-      "rank_change": 115,
-      "category": "6027",
-      "date": "2026-01-04",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3e/bc/57/3ebc5728-f096-307d-e81a-28ec0b3736c6/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/180x180bb.png",
-      "app_name": "ImaginAI - AI Art & Video",
-      "publisher": "Scate"
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c0/0b/e2/c00be26d-8b96-8c4f-9d01-7def0da749cb/SivuAppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/180x180bb.png",
+      "app_name": "Sivu AI Video Photo Generator",
+      "publisher": "MIOPS TEKNOLOJI ANONIM SIRKETI"
     }
   ]
 }
