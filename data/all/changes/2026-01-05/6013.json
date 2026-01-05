@@ -5,8 +5,8 @@
     {
       "appId": 1056175729,
       "previous_rank": 474,
-      "current_rank": 285,
-      "rank_change": 189,
+      "current_rank": 284,
+      "rank_change": 190,
       "category": "6013",
       "date": "2026-01-05",
       "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7e/d2/83/7ed28341-74a7-57fd-68fc-46962a4c277d/AppIconProduction-0-0-1x_U007emarketing-0-6-0-85-220.png/180x180bb.png",
@@ -16,8 +16,8 @@
     {
       "appId": 1617445144,
       "previous_rank": 374,
-      "current_rank": 202,
-      "rank_change": 172,
+      "current_rank": 207,
+      "rank_change": 167,
       "category": "6013",
       "date": "2026-01-05",
       "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/fc/42/c2/fc42c2a8-3143-87e1-e53c-f1e00e6297b7/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/180x180bb.png",
@@ -25,32 +25,10 @@
       "publisher": "Melba"
     },
     {
-      "appId": 1448447862,
-      "previous_rank": 445,
-      "current_rank": 326,
-      "rank_change": 119,
-      "category": "6013",
-      "date": "2026-01-05",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4b/03/44/4b0344d7-1584-1f16-4b02-0730f78fa7dd/AppIcon-0-0-1x_U007emarketing-0-11-0-0-85-220.png/180x180bb.png",
-      "app_name": "Keep Health",
-      "publisher": "晓青 蔡"
-    },
-    {
-      "appId": 1438926364,
-      "previous_rank": 364,
-      "current_rank": 254,
-      "rank_change": 110,
-      "category": "6013",
-      "date": "2026-01-05",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/07/2d/ca/072dcaca-600a-57e0-a253-c56453d3ca68/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/180x180bb.png",
-      "app_name": "Everfit - Train smart",
-      "publisher": "Everfit Technologies Inc."
-    },
-    {
       "appId": 6478431075,
       "previous_rank": 327,
-      "current_rank": 221,
-      "rank_change": 106,
+      "current_rank": 211,
+      "rank_change": 116,
       "category": "6013",
       "date": "2026-01-05",
       "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9b/aa/55/9baa555a-56e9-d1cc-c828-97e93b32ddab/AppIcon-0-0-1x_U007ephone-0-1-0-sRGB-85-220.png/180x180bb.png",
@@ -58,15 +36,37 @@
       "publisher": "Future Artifact Labs"
     },
     {
+      "appId": 878691772,
+      "previous_rank": 398,
+      "current_rank": 283,
+      "rank_change": 115,
+      "category": "6013",
+      "date": "2026-01-05",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a4/3e/9e/a43e9ec3-6105-89be-279f-cdefe6ab14ec/AppIcon-v5-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-85-220.png/180x180bb.png",
+      "app_name": "Pillow: Sleep Tracker",
+      "publisher": "Neybox Digital Ltd."
+    },
+    {
       "appId": 6670955917,
       "previous_rank": 471,
-      "current_rank": 371,
-      "rank_change": 100,
+      "current_rank": 356,
+      "rank_change": 115,
       "category": "6013",
       "date": "2026-01-05",
       "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6f/62/9e/6f629e18-6c13-536b-5202-c4e1e54159ed/75soft-0-0-1x_U007ephone-0-1-sRGB-85-220.png/180x180bb.png",
       "app_name": "75 Soft Challenge Tracker",
       "publisher": "Inkolab"
+    },
+    {
+      "appId": 6753134136,
+      "previous_rank": 479,
+      "current_rank": 378,
+      "rank_change": 101,
+      "category": "6013",
+      "date": "2026-01-05",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2c/63/37/2c6337a4-9166-4876-1992-0fd366084dc4/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/180x180bb.png",
+      "app_name": "MySleep: Health Tracker",
+      "publisher": "洋洋 杨"
     }
   ]
 }
