@@ -5,8 +5,8 @@
     {
       "appId": 1448364002,
       "previous_rank": 482,
-      "current_rank": 237,
-      "rank_change": 245,
+      "current_rank": 286,
+      "rank_change": 196,
       "category": "6012",
       "date": "2026-01-05",
       "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6c/bd/33/6cbd33f2-04c0-c5c8-ee04-0de0e860bfe9/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/180x180bb.png",
@@ -14,43 +14,21 @@
       "publisher": "Appsella LTD"
     },
     {
-      "appId": 6755420166,
-      "previous_rank": 261,
-      "current_rank": 110,
-      "rank_change": 151,
+      "appId": 994098803,
+      "previous_rank": 375,
+      "current_rank": 197,
+      "rank_change": 178,
       "category": "6012",
       "date": "2026-01-05",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/69/e6/0b/69e60b47-1b5f-cdaa-8d02-391c88686c55/AppIcon-0-0-1x_U007epad-0-1-85-220.png/180x180bb.png",
-      "app_name": "ASBC SEEK",
-      "publisher": "Alfred Street Baptist Church"
-    },
-    {
-      "appId": 1357742931,
-      "previous_rank": 154,
-      "current_rank": 18,
-      "rank_change": 136,
-      "category": "6012",
-      "date": "2026-01-05",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4a/76/14/4a7614d7-7f48-750e-92ab-aa806c993267/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/180x180bb.png",
-      "app_name": "Church Center App",
-      "publisher": "Ministry Centered Technologies"
-    },
-    {
-      "appId": 1536584047,
-      "previous_rank": 418,
-      "current_rank": 291,
-      "rank_change": 127,
-      "category": "6012",
-      "date": "2026-01-05",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ac/5f/86/ac5f8624-fcd5-d939-5d4c-a041e617564f/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/180x180bb.png",
-      "app_name": "Branded Surveys: Paid rewards",
-      "publisher": "brandedSURVEYS"
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fa/83/38/fa83383a-0492-025c-58f8-42caafa52ff3/AppIcon-Kids-0-0-1x_U007emarketing-0-7-0-sRGB-0-85-220.png/180x180bb.png",
+      "app_name": "Findmykids: GPS Phone Tracker",
+      "publisher": "LETEM LTD"
     },
     {
       "appId": 6744707747,
       "previous_rank": 462,
-      "current_rank": 338,
-      "rank_change": 124,
+      "current_rank": 290,
+      "rank_change": 172,
       "category": "6012",
       "date": "2026-01-05",
       "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/74/76/9c/74769ca8-9dbd-1cce-0279-8cfcc91e2c4d/AppIcon-0-0-1x_U007epad-0-1-85-220.png/180x180bb.png",
@@ -58,15 +36,37 @@
       "publisher": "BuyBye Inc."
     },
     {
-      "appId": 994098803,
-      "previous_rank": 375,
-      "current_rank": 269,
-      "rank_change": 106,
+      "appId": 969997496,
+      "previous_rank": 360,
+      "current_rank": 194,
+      "rank_change": 166,
       "category": "6012",
       "date": "2026-01-05",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fa/83/38/fa83383a-0492-025c-58f8-42caafa52ff3/AppIcon-Kids-0-0-1x_U007emarketing-0-7-0-sRGB-0-85-220.png/180x180bb.png",
-      "app_name": "Findmykids: GPS Phone Tracker",
-      "publisher": "LETEM LTD"
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/38/73/f1/3873f149-54e2-38f6-705d-d905b52dc176/AppIcon_Muzz-1x_U007ephone-0-1-0-0-sRGB-85-220-0.png/180x180bb.png",
+      "app_name": "Muzz: Where Muslims Marry",
+      "publisher": "MUZZ LTD"
+    },
+    {
+      "appId": 1536584047,
+      "previous_rank": 418,
+      "current_rank": 274,
+      "rank_change": 144,
+      "category": "6012",
+      "date": "2026-01-05",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ac/5f/86/ac5f8624-fcd5-d939-5d4c-a041e617564f/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/180x180bb.png",
+      "app_name": "Branded Surveys: Paid rewards",
+      "publisher": "brandedSURVEYS"
+    },
+    {
+      "appId": 6755420166,
+      "previous_rank": 261,
+      "current_rank": 125,
+      "rank_change": 136,
+      "category": "6012",
+      "date": "2026-01-05",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/69/e6/0b/69e60b47-1b5f-cdaa-8d02-391c88686c55/AppIcon-0-0-1x_U007epad-0-1-85-220.png/180x180bb.png",
+      "app_name": "ASBC SEEK",
+      "publisher": "Alfred Street Baptist Church"
     }
   ]
 }
