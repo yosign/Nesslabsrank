@@ -5,8 +5,8 @@
     {
       "appId": 6739583340,
       "previous_rank": 392,
-      "current_rank": 95,
-      "rank_change": 297,
+      "current_rank": 115,
+      "rank_change": 277,
       "category": "6013",
       "date": "2026-01-13",
       "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/fd/6e/7b/fd6e7b5d-2871-ccf8-6d1a-f23995524af5/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/180x180bb.png",
@@ -14,10 +14,21 @@
       "publisher": "Optum Inc."
     },
     {
+      "appId": 6723891071,
+      "previous_rank": 479,
+      "current_rank": 266,
+      "rank_change": 213,
+      "category": "6013",
+      "date": "2026-01-13",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/14/16/ef/1416ef1a-518d-1fec-6626-55a54f4a84a3/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/180x180bb.png",
+      "app_name": "SleepTracker: Record & Improve",
+      "publisher": "APPSKY HONG KONG LIMITED"
+    },
+    {
       "appId": 6471596320,
       "previous_rank": 437,
-      "current_rank": 234,
-      "rank_change": 203,
+      "current_rank": 273,
+      "rank_change": 164,
       "category": "6013",
       "date": "2026-01-13",
       "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/1d/81/04/1d81044b-6b52-b7ae-6cd6-f7fccc42d744/AppIconLimberV3-0-0-1x_U007emarketing-0-7-0-85-220.png/180x180bb.png",
@@ -25,48 +36,37 @@
       "publisher": "Limber Health, Inc."
     },
     {
-      "appId": 1453444814,
-      "previous_rank": 498,
-      "current_rank": 348,
-      "rank_change": 150,
-      "category": "6013",
-      "date": "2026-01-13",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/12/dd/7f/12dd7fd6-221a-4dac-6ae3-98b8e1e7f526/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/180x180bb.png",
-      "app_name": "GymRats · Fitness challenge",
-      "publisher": "Avocado Apps, LLC"
-    },
-    {
-      "appId": 6444772659,
-      "previous_rank": 388,
-      "current_rank": 239,
-      "rank_change": 149,
-      "category": "6013",
-      "date": "2026-01-13",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/75/63/8a/75638abd-3b32-0e7d-0cec-8a3774a86925/AppIcon-production-1x_U007ephone-0-1-85-220-0.png/180x180bb.png",
-      "app_name": "Power of Vitality",
-      "publisher": "The Vitality Group Inc"
-    },
-    {
-      "appId": 955074569,
-      "previous_rank": 476,
-      "current_rank": 327,
-      "rank_change": 149,
-      "category": "6013",
-      "date": "2026-01-13",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/99/82/b7/9982b7bc-f1ff-8b50-8eb0-f261b06cdf6b/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/180x180bb.png",
-      "app_name": "TrainHeroic: Strength Training",
-      "publisher": "TrainHeroic, LLC"
-    },
-    {
       "appId": 1637680531,
       "previous_rank": 350,
-      "current_rank": 202,
-      "rank_change": 148,
+      "current_rank": 229,
+      "rank_change": 121,
       "category": "6013",
       "date": "2026-01-13",
       "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9a/6d/66/9a6d660b-de8d-1aad-acb8-2c00e6d0fb74/AppIcon-0-0-1x_U007epad-0-1-85-220.png/180x180bb.png",
       "app_name": "Quantum Health",
       "publisher": "Quantum Health Inc."
+    },
+    {
+      "appId": 1309909578,
+      "previous_rank": 402,
+      "current_rank": 288,
+      "rank_change": 114,
+      "category": "6013",
+      "date": "2026-01-13",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/24/13/b8/2413b810-9885-7a10-117d-8a5d3e2e8030/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/180x180bb.png",
+      "app_name": "PushPress Members",
+      "publisher": "PushPress, Inc."
+    },
+    {
+      "appId": 1244690083,
+      "previous_rank": 422,
+      "current_rank": 308,
+      "rank_change": 114,
+      "category": "6013",
+      "date": "2026-01-13",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b5/4e/8c/b54e8ce6-c934-4983-1475-50a2f938bf8d/ZZZV2-0-0-1x_U007epad-0-0-0-1-0-0-85-220.png/180x180bb.png",
+      "app_name": "Sleepiest: Sleep Meditations",
+      "publisher": "Happiest LTD"
     }
   ]
 }
