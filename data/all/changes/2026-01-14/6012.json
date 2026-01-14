@@ -5,8 +5,8 @@
     {
       "appId": 6740797755,
       "previous_rank": 422,
-      "current_rank": 231,
-      "rank_change": 191,
+      "current_rank": 239,
+      "rank_change": 183,
       "category": "6012",
       "date": "2026-01-14",
       "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/da/8f/7a/da8f7a85-f5f7-7f55-15ea-c0f028b79186/AppIcon-0-0-1x_U007epad-0-1-0-P3-0-85-220.png/180x180bb.png",
@@ -16,8 +16,8 @@
     {
       "appId": 1668143506,
       "previous_rank": 209,
-      "current_rank": 74,
-      "rank_change": 135,
+      "current_rank": 40,
+      "rank_change": 169,
       "category": "6012",
       "date": "2026-01-14",
       "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e0/9f/76/e09f76b9-32f2-c34d-2598-16108dcc917d/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/180x180bb.png",
@@ -25,10 +25,21 @@
       "publisher": "Volato, Inc"
     },
     {
+      "appId": 6745674137,
+      "previous_rank": 342,
+      "current_rank": 184,
+      "rank_change": 158,
+      "category": "6012",
+      "date": "2026-01-14",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/67/ac/2e/67ac2e19-4e1f-17b0-cd54-4660850eb7ec/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/180x180bb.png",
+      "app_name": "Ceerly - Astrology & Horoscope",
+      "publisher": "AI Mystic Labs"
+    },
+    {
       "appId": 1636176641,
       "previous_rank": 337,
-      "current_rank": 207,
-      "rank_change": 130,
+      "current_rank": 211,
+      "rank_change": 126,
       "category": "6012",
       "date": "2026-01-14",
       "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/be/bd/a1/bebda181-ba98-7ec0-f544-83c422132374/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/180x180bb.png",
@@ -36,37 +47,26 @@
       "publisher": "UAB Pulsetto"
     },
     {
-      "appId": 1433915149,
-      "previous_rank": 496,
-      "current_rank": 368,
-      "rank_change": 128,
+      "appId": 1494091060,
+      "previous_rank": 289,
+      "current_rank": 168,
+      "rank_change": 121,
       "category": "6012",
       "date": "2026-01-14",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f5/45/07/f5450752-0b16-6d41-24be-9e28f6e069bf/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.jpg",
-      "app_name": "Home by ShowingTime",
-      "publisher": "ShowingTime.com, LLC"
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4e/7a/e2/4e7ae201-66ff-1ea2-1e89-37efc5eae2a9/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/180x180bb.png",
+      "app_name": "D8ER – Dating and Chat",
+      "publisher": "Rencontre Gratuit App Ltd"
     },
     {
-      "appId": 1299313149,
-      "previous_rank": 295,
-      "current_rank": 179,
-      "rank_change": 116,
+      "appId": 994098803,
+      "previous_rank": 305,
+      "current_rank": 185,
+      "rank_change": 120,
       "category": "6012",
       "date": "2026-01-14",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/03/49/fe/0349fe77-c86f-4951-2021-e5a732c2acc0/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/180x180bb.png",
-      "app_name": "PNM Companion",
-      "publisher": "TechniPhi, Inc"
-    },
-    {
-      "appId": 1544489323,
-      "previous_rank": 352,
-      "current_rank": 236,
-      "rank_change": 116,
-      "category": "6012",
-      "date": "2026-01-14",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/50/45/a0/5045a0b0-a080-20e5-b1d1-d3fdd0b31635/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/180x180bb.png",
-      "app_name": "PadSplit: Rooms for rent",
-      "publisher": "Padsplit"
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3c/b8/3c/3cb83ca6-5a4d-3d72-e8ad-20a40304a28f/AppIcon-Kids-0-0-1x_U007emarketing-0-7-0-sRGB-0-85-220.png/180x180bb.png",
+      "app_name": "Findmykids: GPS Phone Tracker",
+      "publisher": "LETEM LTD"
     }
   ]
 }
