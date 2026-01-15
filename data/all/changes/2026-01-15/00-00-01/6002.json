@@ -1,0 +1,572 @@
+{
+  "date": "2026-01-15",
+  "changes": {
+    "6002": {
+      "added": [
+        {
+          "appId": 1152066360,
+          "name": "Google Smart Lock",
+          "publisher": "Google",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a4/2c/12/a42c12b3-0d95-acd6-3646-dd2277f09f85/logo_smart_lock_color-0-0-1x_U007emarketing-0-0-0-7-0-0-0-85-220.png/180x180bb.png",
+          "rating": 2.5,
+          "ratingCount": 583,
+          "price": "0.00",
+          "rank": 283,
+          "category": "6002"
+        },
+        {
+          "appId": 1034612629,
+          "name": "Driver Partner",
+          "publisher": "N & E DELIVERY, LLC",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/74/50/11/745011b1-a6c1-ea31-0245-de818f5629eb/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/180x180bb.png",
+          "rating": 3,
+          "ratingCount": 121,
+          "price": "0.00",
+          "rank": 317,
+          "category": "6002"
+        },
+        {
+          "appId": 6754907849,
+          "name": "CleanOne: AI Cleaning Master",
+          "publisher": "传桂 林",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ee/87/8f/ee878f6e-af70-746c-5dc7-93d20a949d9a/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/180x180bb.png",
+          "rating": 4.5,
+          "ratingCount": 42,
+          "price": "0.00",
+          "rank": 352,
+          "category": "6002"
+        },
+        {
+          "appId": 6756370038,
+          "name": "SweetDear:Motivate",
+          "publisher": "ORFEO MASTEL",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/03/66/fc/0366fc30-4169-e264-1abd-d8de25098904/AppIcon-0-0-1x_U007ephone-0-1-85-220.jpeg/180x180bb.png",
+          "rating": 0,
+          "ratingCount": 0,
+          "price": "0.00",
+          "rank": 362,
+          "category": "6002"
+        },
+        {
+          "appId": 6754825875,
+          "name": "Null AI - Detect AI Media",
+          "publisher": "Vastrel Inc.",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/52/0d/8b/520d8b44-84e0-4e75-d401-ff66a3e24a95/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/180x180bb.png",
+          "rating": 4.5,
+          "ratingCount": 47,
+          "price": "0.00",
+          "rank": 377,
+          "category": "6002"
+        },
+        {
+          "appId": 6753170494,
+          "name": "Wipely",
+          "publisher": "Material Age LLC",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/53/02/80/530280e4-70e8-3fbe-7f78-0411ae8324fe/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.jpeg/180x180bb.png",
+          "rating": 0,
+          "ratingCount": 0,
+          "price": "0.00",
+          "rank": 393,
+          "category": "6002"
+        },
+        {
+          "appId": 1615561965,
+          "name": "RealCall - Spam Call Blocker",
+          "publisher": "Second Phone Number Inc",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f1/4a/02/f14a02de-5408-67b7-5ef7-d1126a69e5cc/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/180x180bb.png",
+          "rating": 4.5,
+          "ratingCount": 23600,
+          "price": "0.00",
+          "rank": 412,
+          "category": "6002"
+        },
+        {
+          "appId": 1130411958,
+          "name": "TotalAV",
+          "publisher": "Total Security Limited",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ed/d8/9e/edd89ef9-c925-425e-c962-80e9a7c90e41/AppIcons-0-1x_U007emarketing-0-8-0-85-220-0.png/180x180bb.png",
+          "rating": 4.6,
+          "ratingCount": 69500,
+          "price": "0.00",
+          "rank": 418,
+          "category": "6002"
+        },
+        {
+          "appId": 1450443351,
+          "name": "COIN: Always Be Earning",
+          "publisher": "Xy Labs, Inc.",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4a/35/16/4a351679-34e0-d142-e363-d0b709e5ff63/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/180x180bb.png",
+          "rating": 4.5,
+          "ratingCount": 9139,
+          "price": "0.00",
+          "rank": 424,
+          "category": "6002"
+        },
+        {
+          "appId": 6443806453,
+          "name": "Sunrun",
+          "publisher": "Sunrun Inc.",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/57/0a/1f/570a1f0c-c976-a068-7912-6dd28d0038a3/AppIcon-0-0-1x_U007epad-0-11-0-85-220.png/180x180bb.png",
+          "rating": 4.4,
+          "ratingCount": 1952,
+          "price": "0.00",
+          "rank": 428,
+          "category": "6002"
+        },
+        {
+          "appId": 6757005696,
+          "name": "Cleaner AI - Clean Up Storage",
+          "publisher": "Yigit BERBEROGLU",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d6/b8/dd/d6b8dd88-5bbd-ec81-2d36-d7b4367768e6/AppIcon-0-0-1x_U007epad-0-1-85-220.png/180x180bb.png",
+          "rating": 5,
+          "ratingCount": 3,
+          "price": "0.00",
+          "rank": 432,
+          "category": "6002"
+        },
+        {
+          "appId": 6483862036,
+          "name": "SpamSafe - Spam Call Blocker",
+          "publisher": "Plekmin Trade, S.L.",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/37/1f/48/371f4834-e3b2-03f1-eaba-90ade8b36b3f/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.jpeg/180x180bb.png",
+          "rating": 4.5,
+          "ratingCount": 1851,
+          "price": "0.00",
+          "rank": 450,
+          "category": "6002"
+        },
+        {
+          "appId": 6755063086,
+          "name": "Powerful Clean: Phone Cleaner",
+          "publisher": "Matthew Lewis",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d6/55/44/d6554428-5067-e77a-2ed5-2a33371407a2/AppIcon-0-0-1x_U007ephone-0-11-0-85-220.png/180x180bb.png",
+          "rating": 2.8,
+          "ratingCount": 22,
+          "price": "0.00",
+          "rank": 452,
+          "category": "6002"
+        },
+        {
+          "appId": 1627670895,
+          "name": "The Free *** ™",
+          "publisher": "The Free VPN",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fc/3c/fa/fc3cfa28-6ea9-d658-53b8-3341df9aabc4/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/180x180bb.png",
+          "rating": 4.5,
+          "ratingCount": 10900,
+          "price": "0.00",
+          "rank": 466,
+          "category": "6002"
+        },
+        {
+          "appId": 6737540429,
+          "name": "Boost Cleaner: Freeup Storage",
+          "publisher": "NAICOO PTE. LTD.",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7a/58/59/7a5859ae-c44f-c793-c20c-f0a8e4618086/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/180x180bb.png",
+          "rating": 4.5,
+          "ratingCount": 1144,
+          "price": "0.00",
+          "rank": 470,
+          "category": "6002"
+        },
+        {
+          "appId": 1156890830,
+          "name": "Kindoo",
+          "publisher": "Code Gears Ltd",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/42/18/43/42184320-df76-a49e-f5d5-f1c1df740dfb/AppIcon-0-0-1x_U007epad-0-11-0-85-220.png/180x180bb.png",
+          "rating": 3.1,
+          "ratingCount": 14,
+          "price": "0.00",
+          "rank": 478,
+          "category": "6002"
+        },
+        {
+          "appId": 1598558834,
+          "name": "Smartcash PSB",
+          "publisher": "Airtel Africa",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/98/af/c2/98afc2b8-582a-9cdf-f2bb-9c0a3d645db6/SCAppIcon-0-1x_U007emarketing-0-0-0-6-0-0-sRGB-85-220-0.png/180x180bb.png",
+          "rating": 3.8,
+          "ratingCount": 1365,
+          "price": "0.00",
+          "rank": 480,
+          "category": "6002"
+        },
+        {
+          "appId": 1441971434,
+          "name": "BuildCores: Part Picker for PC",
+          "publisher": "Harshdeep Kahlon",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/60/17/ec/6017ec6f-f281-d97f-d2ea-2b10bf4db10b/AppIcon-0-0-1x_U007epad-0-1-85-220.png/180x180bb.png",
+          "rating": 4.7,
+          "ratingCount": 1510,
+          "price": "0.00",
+          "rank": 481,
+          "category": "6002"
+        },
+        {
+          "appId": 6504505434,
+          "name": "TransEase: Realtime Translator",
+          "publisher": "lunaadslimited",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f5/c5/cd/f5c5cd9d-fb32-ce8c-3303-f538c4e803a1/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/180x180bb.png",
+          "rating": 4.3,
+          "ratingCount": 306,
+          "price": "0.00",
+          "rank": 486,
+          "category": "6002"
+        },
+        {
+          "appId": 1527876391,
+          "name": "Thunderbolt *** & Cleaner",
+          "publisher": "Affiliate Networks Group",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/01/81/26/0181269c-523d-70e9-15a0-5a8480f3f90e/AppIcon-0-0-1x_U007ephone-0-11-0-85-220.png/180x180bb.png",
+          "rating": 4.2,
+          "ratingCount": 287,
+          "price": "0.00",
+          "rank": 488,
+          "category": "6002"
+        },
+        {
+          "appId": 1616533573,
+          "name": "tryCricket by Cricket Wireless",
+          "publisher": "Cricket Wireless, LLC",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/87/c5/6a/87c56a73-015a-ad90-2601-d28aa9d9c8bc/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/180x180bb.png",
+          "rating": 4.8,
+          "ratingCount": 20000,
+          "price": "0.00",
+          "rank": 489,
+          "category": "6002"
+        },
+        {
+          "appId": 1489389802,
+          "name": "Keyboard Fonts++ | Kibik",
+          "publisher": "Cosmic Taps SL",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/da/4c/56/da4c566b-d32d-f111-a465-4cfb79b54d65/AppIcon-0-1x_U007epad-0-1-0-85-220-0.png/180x180bb.png",
+          "rating": 4.5,
+          "ratingCount": 174000,
+          "price": "0.00",
+          "rank": 490,
+          "category": "6002"
+        },
+        {
+          "appId": 1639665809,
+          "name": "ZArchiver",
+          "publisher": "Angelina Rozvezeva",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e0/89/b9/e089b9b4-1761-1870-8b84-d61f7fd8c15b/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.jpeg/180x180bb.png",
+          "rating": 4.5,
+          "ratingCount": 2674,
+          "price": "0.00",
+          "rank": 492,
+          "category": "6002"
+        },
+        {
+          "appId": 1499313977,
+          "name": "Fonts for iPhones",
+          "publisher": "InnerGrow",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f5/e5/02/f5e50277-4457-5f5a-80a5-518689232a96/AppIcon_Default-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/180x180bb.png",
+          "rating": 4.5,
+          "ratingCount": 72300,
+          "price": "0.00",
+          "rank": 493,
+          "category": "6002"
+        },
+        {
+          "appId": 6744321968,
+          "name": "Clash Mi",
+          "publisher": "Supernova Nebula LLC",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9c/ae/65/9cae65f9-4085-7582-d2a9-91ff47ecc767/AppIcon-1x_U007emarketing-0-11-0-85-220-0.png/180x180bb.png",
+          "rating": 4.8,
+          "ratingCount": 194,
+          "price": "0.00",
+          "rank": 496,
+          "category": "6002"
+        },
+        {
+          "appId": 6749744044,
+          "name": "CleanerApp - ai clean storage",
+          "publisher": "Appfluo Ltd",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/48/c0/5b/48c05b53-e2d7-62d2-3eb4-c8f28e776412/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/180x180bb.png",
+          "rating": 3.4,
+          "ratingCount": 15,
+          "price": "0.00",
+          "rank": 497,
+          "category": "6002"
+        }
+      ],
+      "removed": [
+        {
+          "appId": 6743441242,
+          "name": "Clean Up Phone Storage Now",
+          "publisher": "Lead Dealer FZE LLC",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d2/97/ee/d297ee07-84bd-6392-ad7d-8c7f60dc71c2/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/180x180bb.png",
+          "rating": 4.4,
+          "ratingCount": 1124,
+          "price": "0.00",
+          "rank": 282,
+          "category": "6002"
+        },
+        {
+          "appId": 6746736688,
+          "name": "Similar Photo Clean - Contacts",
+          "publisher": "C-JM LIMITED",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5e/26/b7/5e26b782-6091-8378-dc7f-2870622186da/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/180x180bb.png",
+          "rating": 4.5,
+          "ratingCount": 963,
+          "price": "0.00",
+          "rank": 339,
+          "category": "6002"
+        },
+        {
+          "appId": 6444097535,
+          "name": "V Keyboard - DIY Themes, Fonts",
+          "publisher": "DIGITALLIFE TECHNOLOGY CO., LIMITED",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b2/c2/67/b2c2673d-fdae-8ccf-4818-fafefaac72b1/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/180x180bb.png",
+          "rating": 4.6,
+          "ratingCount": 36400,
+          "price": "0.00",
+          "rank": 340,
+          "category": "6002"
+        },
+        {
+          "appId": 6752232744,
+          "name": "QR Code Reader—Barcode Scanner",
+          "publisher": "My Thu Nguyen Thi",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a2/e5/05/a2e50540-fc10-6834-3d02-e15c944b1abf/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/180x180bb.png",
+          "rating": 3.8,
+          "ratingCount": 75,
+          "price": "0.00",
+          "rank": 344,
+          "category": "6002"
+        },
+        {
+          "appId": 6755037248,
+          "name": "CleanlyAI:Auto PhotoClean",
+          "publisher": "SAWOTIM PTE. LTD.",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/21/69/fd/2169fdc7-a920-f5c0-e72e-b623c2e6053f/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.jpeg/180x180bb.png",
+          "rating": 4.7,
+          "ratingCount": 137,
+          "price": "0.00",
+          "rank": 383,
+          "category": "6002"
+        },
+        {
+          "appId": 6502456017,
+          "name": "Cleaner AI: Photo Cleanup",
+          "publisher": "Codespace Dijital Hizmetler Anonim Şirketi",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a0/57/77/a05777b2-f6f3-dbb4-0961-8892b47e9fe3/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/180x180bb.png",
+          "rating": 4.6,
+          "ratingCount": 41700,
+          "price": "0.00",
+          "rank": 402,
+          "category": "6002"
+        },
+        {
+          "appId": 6454190738,
+          "name": "*** proxy - TipTop ***",
+          "publisher": "Free VPN Network",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/28/a2/fe/28a2fe20-dd51-70da-1055-3d3298663a1d/AppIcon-0-0-1x_U007ephone-0-0-85-220.png/100x100bb.jpg",
+          "rating": 4.7,
+          "ratingCount": 6975,
+          "price": "0.00",
+          "rank": 439,
+          "category": "6002"
+        },
+        {
+          "appId": 6742508073,
+          "name": "Clocks - A fun standby mode",
+          "publisher": "Daniel Destefanis",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5e/d2/a1/5ed2a120-ee01-0763-3ca5-79f08aebcfbc/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/180x180bb.png",
+          "rating": 4.6,
+          "ratingCount": 237,
+          "price": "0.00",
+          "rank": 440,
+          "category": "6002"
+        },
+        {
+          "appId": 1573902563,
+          "name": "Indian Visa Su-Swagatam",
+          "publisher": "NIC",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/dc/81/fc/dc81fc20-89de-f653-83b2-5892b78a2c3d/AppIcon-1x_U007emarketing-0-11-0-85-220-0.png/180x180bb.png",
+          "rating": 1.2,
+          "ratingCount": 354,
+          "price": "0.00",
+          "rank": 456,
+          "category": "6002"
+        },
+        {
+          "appId": 6498632440,
+          "name": "Nano Cleaner: Clean Up Storage",
+          "publisher": "Cherkago Apps",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7d/e7/53/7de753d4-edde-edfe-6ae2-a052871d5442/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/100x100bb.jpg",
+          "rating": 4.4,
+          "ratingCount": 3758,
+          "price": "0.00",
+          "rank": 474,
+          "category": "6002"
+        },
+        {
+          "appId": 6752988753,
+          "name": "Lumoly-VisionaryBox",
+          "publisher": "Magno-Humphries, Inc.",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1b/a8/85/1ba8851f-7985-0fb6-6124-7353142d8202/AppIcon-0-0-1x_U007ephone-0-1-P3-85-220.png/180x180bb.png",
+          "rating": 3.4,
+          "ratingCount": 17,
+          "price": "0.00",
+          "rank": 475,
+          "category": "6002"
+        },
+        {
+          "appId": 6473627334,
+          "name": "Photo Cleaner ®",
+          "publisher": "Luca Companjen",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0b/09/9c/0b099cc6-f684-0d78-f338-b27aa42b9dbd/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/180x180bb.png",
+          "rating": 4.8,
+          "ratingCount": 3162,
+          "price": "0.00",
+          "rank": 479,
+          "category": "6002"
+        },
+        {
+          "appId": 1631564230,
+          "name": "Universal Remote | Smart TV",
+          "publisher": "2020 Apps SIA",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9e/74/14/9e74147f-8dc7-a15a-8b19-adc5a08d2004/AppIcon-0-0-1x_U007ephone-0-1-0-sRGB-85-220.png/180x180bb.png",
+          "rating": 4.7,
+          "ratingCount": 11100.000000000002,
+          "price": "0.00",
+          "rank": 480,
+          "category": "6002"
+        },
+        {
+          "appId": 1557454007,
+          "name": "Smart TV Remote for Samsung",
+          "publisher": "Companjen Apps B.V.",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ed/8d/77/ed8d7743-9d5e-6896-2711-c75534521ca6/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/180x180bb.png",
+          "rating": 4.4,
+          "ratingCount": 7640,
+          "price": "0.00",
+          "rank": 482,
+          "category": "6002"
+        },
+        {
+          "appId": 6636483523,
+          "name": "Spy Camera Detector & Scanner",
+          "publisher": "Callum Rogers",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2f/f0/04/2ff004c0-bd7f-fb1e-086d-c852cce1fb30/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.jpeg/180x180bb.png",
+          "rating": 4.7,
+          "ratingCount": 1294,
+          "price": "0.00",
+          "rank": 483,
+          "category": "6002"
+        },
+        {
+          "appId": 1484302191,
+          "name": "Segway Mobility",
+          "publisher": "Ninebot (Beijing) Tech Co., Ltd.",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/39/08/36/390836b3-5607-0007-51f9-2d5e01709639/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/180x180bb.png",
+          "rating": 3.2,
+          "ratingCount": 339,
+          "price": "0.00",
+          "rank": 485,
+          "category": "6002"
+        },
+        {
+          "appId": 427276530,
+          "name": "AirPort Utility",
+          "publisher": "Apple",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/22/a6/da/22a6da4e-d64c-a768-2887-85b61d40d854/AppIcon-0-1x_U007emarketing-0-85-220-0-7.png/180x180bb.png",
+          "rating": 3,
+          "ratingCount": 1997,
+          "price": "0.00",
+          "rank": 488,
+          "category": "6002"
+        },
+        {
+          "appId": 1502012385,
+          "name": "Vivitar Mobile Reader",
+          "publisher": "振峰 皮",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/64/d5/ff/64d5ff0a-daff-7b09-ff86-c360d76703d6/AppIcon-Vivitar-iStorage-0-1x_U007emarketing-0-7-0-0-85-220.png/180x180bb.png",
+          "rating": 1.7,
+          "ratingCount": 883,
+          "price": "0.00",
+          "rank": 490,
+          "category": "6002"
+        },
+        {
+          "appId": 911813648,
+          "name": "Microsoft SwiftKey AI Keyboard",
+          "publisher": "SwiftKey",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/8f/41/b1/8f41b1a7-f132-982a-36f6-5f639cca06c8/AppIcon-0-0-1x_U007epad-0-1-0-0-0-0-85-220.png/180x180bb.png",
+          "rating": 4.6,
+          "ratingCount": 118000,
+          "price": "0.00",
+          "rank": 491,
+          "category": "6002"
+        },
+        {
+          "appId": 6451248050,
+          "name": "App Lock - Block Apps",
+          "publisher": "文忠 许",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/69/e9/b5/69e9b5ea-4196-ef56-a6f3-23fcdb9e34d2/AppIcon-0-0-1x_U007emarketing-0-11-0-sRGB-0-85-220.png/180x180bb.png",
+          "rating": 4.6,
+          "ratingCount": 6841,
+          "price": "0.00",
+          "rank": 492,
+          "category": "6002"
+        },
+        {
+          "appId": 6470302849,
+          "name": "Second Phone Number: 2nd eSIM",
+          "publisher": "Municorn Limited",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/88/3b/06/883b062a-13ec-ec5b-fb09-170539a375d3/AppIcon-0-1x_U007ephone-0-1-0-0-85-220-0.png/180x180bb.png",
+          "rating": 4.3,
+          "ratingCount": 634,
+          "price": "0.00",
+          "rank": 493,
+          "category": "6002"
+        },
+        {
+          "appId": 6737263668,
+          "name": "Phone Security: Privacy Shield",
+          "publisher": "晴 张",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ac/a6/23/aca62342-d652-bffb-d8cd-40012407de40/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/180x180bb.png",
+          "rating": 4.6,
+          "ratingCount": 1865,
+          "price": "0.00",
+          "rank": 495,
+          "category": "6002"
+        },
+        {
+          "appId": 6743992832,
+          "name": "Go Viral: AI Creator Assistant",
+          "publisher": "Solveware UG (haftungsbeschraenkt)",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/38/10/a1/3810a1e5-995b-f455-df03-48a904f4515a/appicon-0-1x_U007ephone-0-1-0-85-220-0.png/180x180bb.png",
+          "rating": 4.6,
+          "ratingCount": 1069,
+          "price": "0.00",
+          "rank": 496,
+          "category": "6002"
+        },
+        {
+          "appId": 1545867834,
+          "name": "Data Transfer - MobileTrans",
+          "publisher": "Wondershare Technology (Hunan) Co.,Ltd.",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/da/7b/e9/da7be934-ab5e-53fe-4c30-9a756cc13f35/AppIcon-1x_U007ephone-0-11-0-0-sRGB-0-85-220-0.png/180x180bb.png",
+          "rating": 3.9,
+          "ratingCount": 1019,
+          "price": "0.00",
+          "rank": 497,
+          "category": "6002"
+        },
+        {
+          "appId": 1596975756,
+          "name": "Atrium Campus Connect",
+          "publisher": "Atrium Campus, LLC",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/64/7a/b4/647ab4d4-710b-299f-a075-53db270af105/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/180x180bb.png",
+          "rating": 1.3,
+          "ratingCount": 91,
+          "price": "0.00",
+          "rank": 498,
+          "category": "6002"
+        }
+      ]
+    }
+  }
+}
