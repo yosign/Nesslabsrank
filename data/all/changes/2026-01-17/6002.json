@@ -3,43 +3,10 @@
   "genre": "6002",
   "topRisers": [
     {
-      "appId": 6736361418,
-      "previous_rank": 468,
-      "current_rank": 251,
-      "rank_change": 217,
-      "category": "6002",
-      "date": "2026-01-17",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4f/d5/02/4fd5025b-0232-be39-1588-370221470d16/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/180x180bb.png",
-      "app_name": "Star Gazer: Night Sky View Map",
-      "publisher": "LeoStudio Global"
-    },
-    {
-      "appId": 1586624313,
-      "previous_rank": 436,
-      "current_rank": 252,
-      "rank_change": 184,
-      "category": "6002",
-      "date": "2026-01-17",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/db/7b/5d/db7b5df8-fbe1-f3d4-25d2-842edebdff7c/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/180x180bb.png",
-      "app_name": "Screen Mirroring | Smart TV",
-      "publisher": "Appville Limited"
-    },
-    {
-      "appId": 6504182653,
-      "previous_rank": 466,
-      "current_rank": 299,
-      "rank_change": 167,
-      "category": "6002",
-      "date": "2026-01-17",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8e/44/a5/8e44a564-8858-bbbc-6078-256145415823/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/180x180bb.png",
-      "app_name": "UniRemote: Smart TV Control",
-      "publisher": "Kanatom Limited"
-    },
-    {
       "appId": 6756621434,
       "previous_rank": 439,
-      "current_rank": 276,
-      "rank_change": 163,
+      "current_rank": 174,
+      "rank_change": 265,
       "category": "6002",
       "date": "2026-01-17",
       "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/df/3a/57/df3a5794-bcfb-e990-eff4-8d17ca1c21f6/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.jpeg/180x180bb.png",
@@ -47,26 +14,59 @@
       "publisher": "Tobias Groth"
     },
     {
-      "appId": 6475598662,
-      "previous_rank": 483,
-      "current_rank": 344,
-      "rank_change": 139,
+      "appId": 6736361418,
+      "previous_rank": 468,
+      "current_rank": 207,
+      "rank_change": 261,
       "category": "6002",
       "date": "2026-01-17",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/12/10/0a/12100a34-d32a-e382-d180-883980990ea8/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/180x180bb.png",
-      "app_name": "Minifig Scan",
-      "publisher": "Francis Bonnin"
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4f/d5/02/4fd5025b-0232-be39-1588-370221470d16/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/180x180bb.png",
+      "app_name": "Star Gazer: Night Sky View Map",
+      "publisher": "LeoStudio Global"
     },
     {
-      "appId": 6566179234,
-      "previous_rank": 395,
-      "current_rank": 259,
-      "rank_change": 136,
+      "appId": 6504182653,
+      "previous_rank": 466,
+      "current_rank": 257,
+      "rank_change": 209,
       "category": "6002",
       "date": "2026-01-17",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/fd/1a/cc/fd1accfd-6644-f545-36a9-d8a9a3bf6e78/AppIcon-0-0-1x_U007ephone-0-1-0-sRGB-85-220.jpeg/180x180bb.png",
-      "app_name": "Dont Touch My Phone: Antitheft",
-      "publisher": "Fitness Training Global"
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8e/44/a5/8e44a564-8858-bbbc-6078-256145415823/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/180x180bb.png",
+      "app_name": "UniRemote: Smart TV Control",
+      "publisher": "Kanatom Limited"
+    },
+    {
+      "appId": 1586624313,
+      "previous_rank": 436,
+      "current_rank": 235,
+      "rank_change": 201,
+      "category": "6002",
+      "date": "2026-01-17",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/db/7b/5d/db7b5df8-fbe1-f3d4-25d2-842edebdff7c/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/180x180bb.png",
+      "app_name": "Screen Mirroring | Smart TV",
+      "publisher": "Appville Limited"
+    },
+    {
+      "appId": 6471257645,
+      "previous_rank": 342,
+      "current_rank": 173,
+      "rank_change": 169,
+      "category": "6002",
+      "date": "2026-01-17",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c9/1b/03/c91b03a9-01dc-42f5-975f-ab7c70e969f4/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/180x180bb.png",
+      "app_name": "Screen Mirroring App: Smart TV",
+      "publisher": "Desidari Holding Ltd."
+    },
+    {
+      "appId": 6502789855,
+      "previous_rank": 430,
+      "current_rank": 278,
+      "rank_change": 152,
+      "category": "6002",
+      "date": "2026-01-17",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ed/a2/85/eda2858b-1c05-191f-c22d-885583b47fb1/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.jpg",
+      "app_name": "Remote for FireStick : Fire TV",
+      "publisher": "LOOP MOBILE FZCO"
     }
   ]
 }
