@@ -3,54 +3,10 @@
   "genre": "6013",
   "topRisers": [
     {
-      "appId": 6739583340,
-      "previous_rank": 397,
-      "current_rank": 185,
-      "rank_change": 212,
-      "category": "6013",
-      "date": "2026-01-21",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/03/1a/ba/031aba20-f0ee-095b-b1ee-41a7b2459122/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/180x180bb.png",
-      "app_name": "Optum Engage",
-      "publisher": "Optum Inc."
-    },
-    {
-      "appId": 1049249827,
-      "previous_rank": 330,
-      "current_rank": 148,
-      "rank_change": 182,
-      "category": "6013",
-      "date": "2026-01-21",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/bc/a1/9c/bca19cb9-5f8e-dddf-e7dd-8255061660cb/AppIconProd-0-0-1x_U007emarketing-0-6-0-85-220.png/180x180bb.png",
-      "app_name": "Hello Heart • For heart health",
-      "publisher": "Hello Doctor Ltd."
-    },
-    {
-      "appId": 1669369516,
-      "previous_rank": 380,
-      "current_rank": 204,
-      "rank_change": 176,
-      "category": "6013",
-      "date": "2026-01-21",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b0/25/5f/b0255f40-1287-d92b-7b0d-12a55c9903af/AppIcon-0-1x_U007emarketing-0-8-0-85-220-0.png/180x180bb.png",
-      "app_name": "Calm Health",
-      "publisher": "Calm.com"
-    },
-    {
-      "appId": 6754346785,
-      "previous_rank": 403,
-      "current_rank": 235,
-      "rank_change": 168,
-      "category": "6013",
-      "date": "2026-01-21",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8b/a3/2e/8ba32e8e-52f8-35c2-0a5c-2a5b627967e5/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.jpg",
-      "app_name": "Buy\\'r",
-      "publisher": "Buy'r LLC"
-    },
-    {
       "appId": 6742472008,
       "previous_rank": 357,
-      "current_rank": 195,
-      "rank_change": 162,
+      "current_rank": 159,
+      "rank_change": 198,
       "category": "6013",
       "date": "2026-01-21",
       "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fa/d4/2c/fad42ca1-210f-8bbb-c431-5bc4ddac15fe/AppIcon-0-0-1x_U007epad-0-11-0-85-220.png/180x180bb.png",
@@ -58,15 +14,59 @@
       "publisher": "玲 罗"
     },
     {
-      "appId": 1521728956,
-      "previous_rank": 472,
-      "current_rank": 313,
-      "rank_change": 159,
+      "appId": 6748102679,
+      "previous_rank": 388,
+      "current_rank": 213,
+      "rank_change": 175,
       "category": "6013",
       "date": "2026-01-21",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/90/47/77/904777e8-1996-dc6f-f510-5255ee27d93c/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/180x180bb.png",
-      "app_name": "Wondr Health",
-      "publisher": "Naturally Slim, Inc."
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/11/eb/ee/11ebeebb-d04d-a558-1a18-1b2f0df2b63c/AppIcon-0-0-1x_U007epad-0-1-85-220.png/180x180bb.png",
+      "app_name": "Doorian Global",
+      "publisher": "Korea Certification Service Inc."
+    },
+    {
+      "appId": 6739583340,
+      "previous_rank": 397,
+      "current_rank": 224,
+      "rank_change": 173,
+      "category": "6013",
+      "date": "2026-01-21",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/03/1a/ba/031aba20-f0ee-095b-b1ee-41a7b2459122/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/180x180bb.png",
+      "app_name": "Optum Engage",
+      "publisher": "Optum Inc."
+    },
+    {
+      "appId": 1669369516,
+      "previous_rank": 380,
+      "current_rank": 214,
+      "rank_change": 166,
+      "category": "6013",
+      "date": "2026-01-21",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b0/25/5f/b0255f40-1287-d92b-7b0d-12a55c9903af/AppIcon-0-1x_U007emarketing-0-8-0-85-220-0.png/180x180bb.png",
+      "app_name": "Calm Health",
+      "publisher": "Calm.com"
+    },
+    {
+      "appId": 1049249827,
+      "previous_rank": 330,
+      "current_rank": 165,
+      "rank_change": 165,
+      "category": "6013",
+      "date": "2026-01-21",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/bf/2c/11/bf2c1189-5fe2-bb15-833f-4184f0ebe265/AppIconProd-0-0-1x_U007emarketing-0-6-0-85-220.png/180x180bb.png",
+      "app_name": "Hello Heart • For heart health",
+      "publisher": "Hello Doctor Ltd."
+    },
+    {
+      "appId": 6756597221,
+      "previous_rank": 443,
+      "current_rank": 285,
+      "rank_change": 158,
+      "category": "6013",
+      "date": "2026-01-21",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ab/e0/9f/abe09f72-d59d-10e3-aaa3-b38d410d875f/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/180x180bb.png",
+      "app_name": "Sleepmaxx AI",
+      "publisher": "nooro"
     }
   ]
 }
