@@ -5,8 +5,8 @@
     {
       "appId": 6755173621,
       "previous_rank": 427,
-      "current_rank": 196,
-      "rank_change": 231,
+      "current_rank": 136,
+      "rank_change": 291,
       "category": "6007",
       "date": "2026-01-22",
       "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/84/da/32/84da323f-b4b1-5a23-9a4d-13f4146fdb9f/AppIcon-0-1x_U007ephone-0-1-0-sRGB-85-220-0.jpeg/180x180bb.png",
@@ -14,32 +14,10 @@
       "publisher": "Enes Konay"
     },
     {
-      "appId": 1570856853,
-      "previous_rank": 231,
-      "current_rank": 36,
-      "rank_change": 195,
-      "category": "6007",
-      "date": "2026-01-22",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a6/7e/21/a67e21d8-146b-14be-cedb-b83e0a124649/AppIcon-0-0-1x_U007emarketing-0-8-0-sRGB-85-220.png/180x180bb.png",
-      "app_name": "Blank Spaces Launcher (-)",
-      "publisher": "Ecstasis LLC"
-    },
-    {
-      "appId": 6745245606,
-      "previous_rank": 467,
-      "current_rank": 314,
-      "rank_change": 153,
-      "category": "6007",
-      "date": "2026-01-22",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/38/53/80/3853809b-d1e7-01d1-abbf-99a3b8f5d5e5/AppIcon-0-1x_U007ephone-0-1-0-85-220-0.png/180x180bb.png",
-      "app_name": "ClearPico:Clean Up Storage",
-      "publisher": "Zenith Ai tech Limited"
-    },
-    {
       "appId": 6755424850,
       "previous_rank": 495,
-      "current_rank": 344,
-      "rank_change": 151,
+      "current_rank": 264,
+      "rank_change": 231,
       "category": "6007",
       "date": "2026-01-22",
       "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/28/c7/4f/28c74f12-5746-250a-93e1-730252dc4167/AppIcon-1x_U007ephone-0-11-0-0-85-220-0.png/180x180bb.png",
@@ -47,26 +25,48 @@
       "publisher": "哲晨熙 张"
     },
     {
-      "appId": 6739414192,
-      "previous_rank": 414,
-      "current_rank": 281,
-      "rank_change": 133,
+      "appId": 1570856853,
+      "previous_rank": 231,
+      "current_rank": 38,
+      "rank_change": 193,
       "category": "6007",
       "date": "2026-01-22",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6a/02/13/6a0213ff-c21f-7e80-1d4b-9a6e0d014138/AppIcon-1x_U007ephone-0-1-0-85-220-0.png/180x180bb.png",
-      "app_name": "ClearSnap-Clean Up Storage",
-      "publisher": "晨光 张"
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a6/7e/21/a67e21d8-146b-14be-cedb-b83e0a124649/AppIcon-0-0-1x_U007emarketing-0-8-0-sRGB-85-220.png/180x180bb.png",
+      "app_name": "Blank Spaces Launcher (-)",
+      "publisher": "Ecstasis LLC"
     },
     {
-      "appId": 6754165620,
-      "previous_rank": 234,
-      "current_rank": 117,
-      "rank_change": 117,
+      "appId": 6575345796,
+      "previous_rank": 473,
+      "current_rank": 300,
+      "rank_change": 173,
       "category": "6007",
       "date": "2026-01-22",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5d/a0/29/5da02927-8d82-e105-cfce-8a977316690e/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/180x180bb.png",
-      "app_name": "WoodSense: Craft & Identifier",
-      "publisher": "Next Vision Limited"
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b1/9e/7a/b19e7a13-b340-9f21-064e-ef91568a9767/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/180x180bb.png",
+      "app_name": "Read AI: Transcripts and Notes",
+      "publisher": "Read AI"
+    },
+    {
+      "appId": 1080871199,
+      "previous_rank": 322,
+      "current_rank": 193,
+      "rank_change": 129,
+      "category": "6007",
+      "date": "2026-01-22",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/96/b8/35/96b835dd-c787-00f6-9c6f-1d62a071eb42/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/100x100bb.jpg",
+      "app_name": "Gatewise Multifamily-Access",
+      "publisher": "Gatewise Incorporated"
+    },
+    {
+      "appId": 1439897444,
+      "previous_rank": 369,
+      "current_rank": 241,
+      "rank_change": 128,
+      "category": "6007",
+      "date": "2026-01-22",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fb/a7/83/fba78305-fd25-eece-86d0-25791e665a57/prodAppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/180x180bb.png",
+      "app_name": "TeamFunded",
+      "publisher": "TeamFunded"
     }
   ]
 }
