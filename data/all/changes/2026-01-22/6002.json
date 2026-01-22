@@ -5,8 +5,8 @@
     {
       "appId": 6741784236,
       "previous_rank": 488,
-      "current_rank": 44,
-      "rank_change": 444,
+      "current_rank": 84,
+      "rank_change": 404,
       "category": "6002",
       "date": "2026-01-22",
       "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ac/bb/4d/acbb4d63-8ba0-936e-a7e6-2c830495dcb2/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/180x180bb.png",
@@ -16,8 +16,8 @@
     {
       "appId": 6751736333,
       "previous_rank": 425,
-      "current_rank": 212,
-      "rank_change": 213,
+      "current_rank": 224,
+      "rank_change": 201,
       "category": "6002",
       "date": "2026-01-22",
       "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/70/52/21/7052219b-707e-b4a4-8cec-3bf9394275c6/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/180x180bb.png",
@@ -25,10 +25,21 @@
       "publisher": "TrustOneApps L.L.C-FZ"
     },
     {
+      "appId": 1635029057,
+      "previous_rank": 472,
+      "current_rank": 272,
+      "rank_change": 200,
+      "category": "6002",
+      "date": "2026-01-22",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/77/b1/94/77b194c8-255d-080f-a441-f3f741c93303/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/180x180bb.png",
+      "app_name": "Anker",
+      "publisher": "Power Mobile Life LLC"
+    },
+    {
       "appId": 1525917880,
       "previous_rank": 470,
-      "current_rank": 332,
-      "rank_change": 138,
+      "current_rank": 326,
+      "rank_change": 144,
       "category": "6002",
       "date": "2026-01-22",
       "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/cf/5b/b4/cf5bb48d-2240-3763-e5cc-f07fb2040c66/AppIcon-0-1x_U007emarketing-0-8-0-0-sRGB-85-220-0.png/180x180bb.png",
@@ -36,37 +47,26 @@
       "publisher": "Dominion"
     },
     {
-      "appId": 6756863250,
-      "previous_rank": 212,
-      "current_rank": 87,
-      "rank_change": 125,
+      "appId": 6443842645,
+      "previous_rank": 441,
+      "current_rank": 300,
+      "rank_change": 141,
       "category": "6002",
       "date": "2026-01-22",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/72/1e/d6/721ed6c3-3dec-8f79-562c-4964c435e0de/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/180x180bb.png",
-      "app_name": "GPS Geotag Photos & Camera Map",
-      "publisher": "truong nguyen xuan"
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/23/ce/a4/23cea451-1c41-b3df-dc58-58be8e50ab3b/AppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.png/180x180bb.png",
+      "app_name": "UseePlus",
+      "publisher": "亮 连"
     },
     {
-      "appId": 6737263668,
-      "previous_rank": 437,
-      "current_rank": 323,
-      "rank_change": 114,
+      "appId": 829129497,
+      "previous_rank": 372,
+      "current_rank": 233,
+      "rank_change": 139,
       "category": "6002",
       "date": "2026-01-22",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ac/a6/23/aca62342-d652-bffb-d8cd-40012407de40/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/180x180bb.png",
-      "app_name": "Phone Security: Privacy Shield",
-      "publisher": "晴 张"
-    },
-    {
-      "appId": 1667391175,
-      "previous_rank": 495,
-      "current_rank": 381,
-      "rank_change": 114,
-      "category": "6002",
-      "date": "2026-01-22",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d5/ad/66/d5ad66ee-9fd6-b341-479c-0ec950d9f991/AppIcon-1x_U007ephone-0-1-0-sRGB-85-220-0.png/180x180bb.png",
-      "app_name": "Shelf: music, books, movies",
-      "publisher": "Koodos, Inc."
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5a/f4/ca/5af4caa3-904a-e5f4-ccee-1dc4dbb966b3/AppIcon-1x_U007epad-0-8-0-85-220-0.png/180x180bb.png",
+      "app_name": "Mobile Link for Generators",
+      "publisher": "Generac Power Systems, Inc."
     }
   ]
 }
