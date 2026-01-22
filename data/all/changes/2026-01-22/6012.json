@@ -3,32 +3,10 @@
   "genre": "6012",
   "topRisers": [
     {
-      "appId": 1460848195,
-      "previous_rank": 367,
-      "current_rank": 103,
-      "rank_change": 264,
-      "category": "6012",
-      "date": "2026-01-22",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/30/80/8c/30808c1e-1548-7280-1201-f6d146718267/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/180x180bb.png",
-      "app_name": "Merryfield Everyday Rewards",
-      "publisher": "Klover Holdings, Inc."
-    },
-    {
-      "appId": 1299313149,
-      "previous_rank": 381,
-      "current_rank": 162,
-      "rank_change": 219,
-      "category": "6012",
-      "date": "2026-01-22",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/03/49/fe/0349fe77-c86f-4951-2021-e5a732c2acc0/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/180x180bb.png",
-      "app_name": "PNM Companion",
-      "publisher": "TechniPhi, Inc"
-    },
-    {
       "appId": 565859420,
       "previous_rank": 455,
-      "current_rank": 244,
-      "rank_change": 211,
+      "current_rank": 197,
+      "rank_change": 258,
       "category": "6012",
       "date": "2026-01-22",
       "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5f/8c/8d/5f8c8db4-2000-1edd-6bf0-24c558121bc5/AppIcon-0-1x_U007emarketing-0-7-0-0-sRGB-85-220-0.png/100x100bb.jpg",
@@ -36,10 +14,43 @@
       "publisher": "Everbridge, Inc."
     },
     {
+      "appId": 1299313149,
+      "previous_rank": 381,
+      "current_rank": 161,
+      "rank_change": 220,
+      "category": "6012",
+      "date": "2026-01-22",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/03/49/fe/0349fe77-c86f-4951-2021-e5a732c2acc0/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/180x180bb.png",
+      "app_name": "PNM Companion",
+      "publisher": "TechniPhi, Inc"
+    },
+    {
+      "appId": 1460848195,
+      "previous_rank": 367,
+      "current_rank": 152,
+      "rank_change": 215,
+      "category": "6012",
+      "date": "2026-01-22",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/30/80/8c/30808c1e-1548-7280-1201-f6d146718267/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/180x180bb.png",
+      "app_name": "Merryfield Everyday Rewards",
+      "publisher": "Klover Holdings, Inc."
+    },
+    {
+      "appId": 1413223852,
+      "previous_rank": 459,
+      "current_rank": 273,
+      "rank_change": 186,
+      "category": "6012",
+      "date": "2026-01-22",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e7/fa/03/e7fa0300-e0d1-22dc-2ebf-5cd9908f36a8/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/180x180bb.png",
+      "app_name": "Smart911",
+      "publisher": "Rave Mobile Safety"
+    },
+    {
       "appId": 1367606835,
       "previous_rank": 327,
-      "current_rank": 200,
-      "rank_change": 127,
+      "current_rank": 148,
+      "rank_change": 179,
       "category": "6012",
       "date": "2026-01-22",
       "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c9/17/ce/c917cebd-c303-10e7-25c4-e1a37c16cddf/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.jpg",
@@ -49,24 +60,13 @@
     {
       "appId": 6754355752,
       "previous_rank": 394,
-      "current_rank": 267,
-      "rank_change": 127,
+      "current_rank": 238,
+      "rank_change": 156,
       "category": "6012",
       "date": "2026-01-22",
       "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7c/ea/1a/7cea1a29-4e73-a181-638b-9f6352ab5215/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.jpg",
       "app_name": "VidBite-FreshSync",
       "publisher": "vidbite"
-    },
-    {
-      "appId": 1635913940,
-      "previous_rank": 416,
-      "current_rank": 289,
-      "rank_change": 127,
-      "category": "6012",
-      "date": "2026-01-22",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3a/a2/55/3aa25594-d2b8-fe40-3e9a-0c71ee9863a3/AppIcon-0-1x_U007emarketing-0-8-0-sRGB-85-220-0.png/180x180bb.png",
-      "app_name": "Resident Experience",
-      "publisher": "Greystar Real Estate Partners LLC"
     }
   ]
 }
