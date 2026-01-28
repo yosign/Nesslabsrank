@@ -5,8 +5,8 @@
     {
       "appId": 957943648,
       "previous_rank": 475,
-      "current_rank": 193,
-      "rank_change": 282,
+      "current_rank": 249,
+      "rank_change": 226,
       "category": "6013",
       "date": "2026-01-28",
       "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/71/62/a7/7162a755-4b43-15c1-fc46-5c1d9fec0123/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/180x180bb.png",
@@ -16,8 +16,8 @@
     {
       "appId": 1636906550,
       "previous_rank": 438,
-      "current_rank": 216,
-      "rank_change": 222,
+      "current_rank": 236,
+      "rank_change": 202,
       "category": "6013",
       "date": "2026-01-28",
       "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d5/7c/71/d57c716d-c5c4-2d49-118e-82d53c7ae5b5/AppIcon-0-0-1x_U007epad-0-1-85-220.png/180x180bb.png",
@@ -25,21 +25,10 @@
       "publisher": "AdaptHealth Corp"
     },
     {
-      "appId": 1588729407,
-      "previous_rank": 482,
-      "current_rank": 281,
-      "rank_change": 201,
-      "category": "6013",
-      "date": "2026-01-28",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/01/e3/c2/01e3c29d-9421-9126-740c-fadfee9b21c8/AppIcon-Production-0-0-1x_U007epad-0-1-85-220.png/180x180bb.png",
-      "app_name": "TeamBuildr Training",
-      "publisher": "TeamBuildr, LLC"
-    },
-    {
       "appId": 6471596320,
       "previous_rank": 381,
-      "current_rank": 214,
-      "rank_change": 167,
+      "current_rank": 186,
+      "rank_change": 195,
       "category": "6013",
       "date": "2026-01-28",
       "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/57/e4/d8/57e4d88e-aa5e-ee6f-c28b-71bfe15f3f7d/AppIconLimberV3-0-0-1x_U007emarketing-0-7-0-85-220.png/100x100bb.jpg",
@@ -47,26 +36,37 @@
       "publisher": "Limber Health, Inc."
     },
     {
-      "appId": 1182030612,
-      "previous_rank": 267,
-      "current_rank": 132,
-      "rank_change": 135,
+      "appId": 1588729407,
+      "previous_rank": 482,
+      "current_rank": 298,
+      "rank_change": 184,
       "category": "6013",
       "date": "2026-01-28",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b7/49/2b/b7492b93-a0bd-7adb-ab86-684c148a03a5/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/180x180bb.png",
-      "app_name": "HOTWORX",
-      "publisher": "Planet Beach"
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/01/e3/c2/01e3c29d-9421-9126-740c-fadfee9b21c8/AppIcon-Production-0-0-1x_U007epad-0-1-85-220.png/180x180bb.png",
+      "app_name": "TeamBuildr Training",
+      "publisher": "TeamBuildr, LLC"
     },
     {
       "appId": 1464632516,
       "previous_rank": 436,
-      "current_rank": 306,
-      "rank_change": 130,
+      "current_rank": 265,
+      "rank_change": 171,
       "category": "6013",
       "date": "2026-01-28",
       "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/57/e9/2d/57e92df1-c43d-0055-c2f3-5b37504a5d59/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/180x180bb.png",
       "app_name": "Evolt Active",
       "publisher": "Evolt Active"
+    },
+    {
+      "appId": 1182030612,
+      "previous_rank": 267,
+      "current_rank": 102,
+      "rank_change": 165,
+      "category": "6013",
+      "date": "2026-01-28",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b7/49/2b/b7492b93-a0bd-7adb-ab86-684c148a03a5/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/180x180bb.png",
+      "app_name": "HOTWORX",
+      "publisher": "Planet Beach"
     }
   ]
 }
