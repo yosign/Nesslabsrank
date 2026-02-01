@@ -3,10 +3,21 @@
   "genre": "6002",
   "topRisers": [
     {
+      "appId": 6746811872,
+      "previous_rank": 400,
+      "current_rank": 186,
+      "rank_change": 214,
+      "category": "6002",
+      "date": "2026-02-01",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/47/40/99/47409973-18fe-9699-f030-1fd73dc0d5c3/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/180x180bb.png",
+      "app_name": "Defyx",
+      "publisher": "UnboundTech UG (haftungsbeschraenkt)"
+    },
+    {
       "appId": 6504548974,
       "previous_rank": 445,
-      "current_rank": 193,
-      "rank_change": 252,
+      "current_rank": 233,
+      "rank_change": 212,
       "category": "6002",
       "date": "2026-02-01",
       "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/21/64/aa/2164aa14-c073-0482-6b08-0d6183ed4f9a/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/180x180bb.png",
@@ -14,10 +25,32 @@
       "publisher": "Shenzhen Yihengke Electronic Technology Co.,Ltd."
     },
     {
+      "appId": 6751850708,
+      "previous_rank": 495,
+      "current_rank": 286,
+      "rank_change": 209,
+      "category": "6002",
+      "date": "2026-02-01",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/29/80/ef/2980efab-76f2-2e51-8197-857400da13a9/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/180x180bb.png",
+      "app_name": "The Ick: Recent Follow Tracker",
+      "publisher": "Vaste Company"
+    },
+    {
+      "appId": 6752863449,
+      "previous_rank": 383,
+      "current_rank": 177,
+      "rank_change": 206,
+      "category": "6002",
+      "date": "2026-02-01",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/07/d7/67/07d76702-f966-f529-c204-ee690bef10d5/AppIcon-0-0-1x_U007ephone-0-1-0-sRGB-85-220.png/180x180bb.png",
+      "app_name": "TV Remote for Roku Devices",
+      "publisher": "Ozuna Limited"
+    },
+    {
       "appId": 1621229655,
       "previous_rank": 491,
-      "current_rank": 278,
-      "rank_change": 213,
+      "current_rank": 289,
+      "rank_change": 202,
       "category": "6002",
       "date": "2026-02-01",
       "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d4/c9/df/d4c9df2e-4354-5c80-cfbe-74cb97b62288/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/180x180bb.png",
@@ -27,46 +60,13 @@
     {
       "appId": 6444024544,
       "previous_rank": 420,
-      "current_rank": 240,
-      "rank_change": 180,
+      "current_rank": 241,
+      "rank_change": 179,
       "category": "6002",
       "date": "2026-02-01",
       "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/15/db/43/15db4357-de58-c86b-3d78-cd2b00bae301/AppIcon-1x_U007emarketing-0-6-0-sRGB-85-220-0.png/180x180bb.png",
       "app_name": "Auto Clicker - Auto Click App",
       "publisher": "qianduoalai"
-    },
-    {
-      "appId": 6752863449,
-      "previous_rank": 383,
-      "current_rank": 206,
-      "rank_change": 177,
-      "category": "6002",
-      "date": "2026-02-01",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/07/d7/67/07d76702-f966-f529-c204-ee690bef10d5/AppIcon-0-0-1x_U007ephone-0-1-0-sRGB-85-220.png/180x180bb.png",
-      "app_name": "TV Remote for Roku Devices",
-      "publisher": "Ozuna Limited"
-    },
-    {
-      "appId": 439635293,
-      "previous_rank": 494,
-      "current_rank": 323,
-      "rank_change": 171,
-      "category": "6002",
-      "date": "2026-02-01",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/77/81/93/77819342-74db-a5d2-af7b-1b4e59328b08/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/180x180bb.png",
-      "app_name": "Volvo Cars",
-      "publisher": "Volvo Car Corporation"
-    },
-    {
-      "appId": 6746811872,
-      "previous_rank": 400,
-      "current_rank": 234,
-      "rank_change": 166,
-      "category": "6002",
-      "date": "2026-02-01",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/47/40/99/47409973-18fe-9699-f030-1fd73dc0d5c3/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/180x180bb.png",
-      "app_name": "Defyx",
-      "publisher": "UnboundTech UG (haftungsbeschraenkt)"
     }
   ]
 }
