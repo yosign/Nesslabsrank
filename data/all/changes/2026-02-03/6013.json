@@ -3,10 +3,32 @@
   "genre": "6013",
   "topRisers": [
     {
+      "appId": 6746733696,
+      "previous_rank": 383,
+      "current_rank": 82,
+      "rank_change": 301,
+      "category": "6013",
+      "date": "2026-02-03",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/17/d7/20/17d72035-d01e-1124-d3ae-d3e1ff8a8f42/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/180x180bb.png",
+      "app_name": "Built Workout",
+      "publisher": "Natanim Abebe"
+    },
+    {
+      "appId": 6471596320,
+      "previous_rank": 391,
+      "current_rank": 206,
+      "rank_change": 185,
+      "category": "6013",
+      "date": "2026-02-03",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/57/e4/d8/57e4d88e-aa5e-ee6f-c28b-71bfe15f3f7d/AppIconLimberV3-0-0-1x_U007emarketing-0-7-0-85-220.png/100x100bb.jpg",
+      "app_name": "Limber Health Home Exercise",
+      "publisher": "Limber Health, Inc."
+    },
+    {
       "appId": 983693694,
       "previous_rank": 405,
-      "current_rank": 179,
-      "rank_change": 226,
+      "current_rank": 242,
+      "rank_change": 163,
       "category": "6013",
       "date": "2026-02-03",
       "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9c/9a/d7/9c9ad7c7-c3eb-983f-9773-f0e2d34ff8d6/Original-0-0-1x_U007emarketing-0-8-0-0-85-220.png/180x180bb.png",
@@ -16,8 +38,8 @@
     {
       "appId": 1104881108,
       "previous_rank": 500,
-      "current_rank": 326,
-      "rank_change": 174,
+      "current_rank": 350,
+      "rank_change": 150,
       "category": "6013",
       "date": "2026-02-03",
       "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/06/b8/96/06b896d2-1655-0f26-586e-4afaf1a2f71a/AppIcon-0-0-1x_U007epad-0-1-sRGB-85-220.png/180x180bb.png",
@@ -25,48 +47,26 @@
       "publisher": "HealthJoy, LLC"
     },
     {
-      "appId": 6746733696,
-      "previous_rank": 383,
-      "current_rank": 221,
-      "rank_change": 162,
+      "appId": 728293729,
+      "previous_rank": 238,
+      "current_rank": 106,
+      "rank_change": 132,
       "category": "6013",
       "date": "2026-02-03",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/17/d7/20/17d72035-d01e-1124-d3ae-d3e1ff8a8f42/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/180x180bb.png",
-      "app_name": "Built Workout",
-      "publisher": "Natanim Abebe"
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/99/8b/12/998b1236-11d9-b831-b360-b6f3f806c150/AppIcon-0-1x_U007emarketing-0-0-0-6-0-0-85-220-0.png/180x180bb.png",
+      "app_name": "Blue Shield of California",
+      "publisher": "Blue Shield of California"
     },
     {
       "appId": 793322895,
       "previous_rank": 241,
-      "current_rank": 100,
-      "rank_change": 141,
+      "current_rank": 109,
+      "rank_change": 132,
       "category": "6013",
       "date": "2026-02-03",
       "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/78/66/15/786615d0-f11e-766e-ecaa-de6b32c9b797/AppIcon-0-0-1x_U007emarketing-0-8-0-sRGB-85-220.png/180x180bb.png",
       "app_name": "Personify Health",
       "publisher": "Personify Health, Inc."
-    },
-    {
-      "appId": 1460664069,
-      "previous_rank": 489,
-      "current_rank": 351,
-      "rank_change": 138,
-      "category": "6013",
-      "date": "2026-02-03",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9c/ba/f8/9cbaf8cd-5900-d6db-9a4a-76ae83c47f72/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/180x180bb.png",
-      "app_name": "Music Alarm Clock for Spotify",
-      "publisher": "Make It Count LTD"
-    },
-    {
-      "appId": 6444772659,
-      "previous_rank": 476,
-      "current_rank": 341,
-      "rank_change": 135,
-      "category": "6013",
-      "date": "2026-02-03",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/15/09/e6/1509e6ba-268e-98a1-4aec-98bde948808e/AppIcon-production-1x_U007ephone-0-1-85-220-0.png/180x180bb.png",
-      "app_name": "Power of Vitality",
-      "publisher": "The Vitality Group Inc"
     }
   ]
 }
