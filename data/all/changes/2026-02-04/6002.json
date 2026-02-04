@@ -3,21 +3,10 @@
   "genre": "6002",
   "topRisers": [
     {
-      "appId": 6757434300,
-      "previous_rank": 443,
-      "current_rank": 193,
-      "rank_change": 250,
-      "category": "6002",
-      "date": "2026-02-04",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/60/39/0b/60390bcd-a79d-e804-3c88-8f94cf802b69/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.jpeg/180x180bb.png",
-      "app_name": "PixSweep Cleaner",
-      "publisher": "REDLINE PROJECTS OU"
-    },
-    {
       "appId": 6472891975,
       "previous_rank": 497,
-      "current_rank": 295,
-      "rank_change": 202,
+      "current_rank": 209,
+      "rank_change": 288,
       "category": "6002",
       "date": "2026-02-04",
       "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/23/f7/d8/23f7d8ce-f0b5-96d5-cd51-e2cf4c88d0c9/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/180x180bb.png",
@@ -25,10 +14,21 @@
       "publisher": "Shenzhen Coolwear Technology Co., LTD"
     },
     {
+      "appId": 6757434300,
+      "previous_rank": 443,
+      "current_rank": 175,
+      "rank_change": 268,
+      "category": "6002",
+      "date": "2026-02-04",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/60/39/0b/60390bcd-a79d-e804-3c88-8f94cf802b69/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.jpeg/180x180bb.png",
+      "app_name": "PixSweep Cleaner",
+      "publisher": "REDLINE PROJECTS OU"
+    },
+    {
       "appId": 6757603776,
       "previous_rank": 476,
-      "current_rank": 285,
-      "rank_change": 191,
+      "current_rank": 284,
+      "rank_change": 192,
       "category": "6002",
       "date": "2026-02-04",
       "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/93/ca/35/93ca35da-5fd4-ce6a-b024-f429eba9646b/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/180x180bb.png",
@@ -36,37 +36,37 @@
       "publisher": "Creative Trucking Logging"
     },
     {
-      "appId": 6758044836,
-      "previous_rank": 150,
-      "current_rank": 26,
-      "rank_change": 124,
-      "category": "6002",
-      "date": "2026-02-04",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a0/92/48/a0924894-4d76-d296-899f-4e63a026ac19/AppIcon-0-0-1x_U007ephone-0-1-85-220.jpeg/180x180bb.png",
-      "app_name": "OmeTV : Video Chat",
-      "publisher": "Nanko Kolkman"
-    },
-    {
-      "appId": 1506827551,
-      "previous_rank": 464,
-      "current_rank": 350,
-      "rank_change": 114,
-      "category": "6002",
-      "date": "2026-02-04",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/00/e7/82/00e782bc-7dfb-84f0-cba3-2d9a25e0cdc3/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/180x180bb.png",
-      "app_name": "gov.br",
-      "publisher": "Servicos e Informacoes do Brasil"
-    },
-    {
       "appId": 548389448,
       "previous_rank": 240,
-      "current_rank": 127,
-      "rank_change": 113,
+      "current_rank": 77,
+      "rank_change": 163,
       "category": "6002",
       "date": "2026-02-04",
       "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f6/f1/44/f6f144d5-53d4-9d58-1741-b9300e319291/AppIcon-0-0-1x_U007epad-0-1-85-220.png/180x180bb.png",
       "app_name": "AHA Schools",
       "publisher": "American Heart Association"
+    },
+    {
+      "appId": 6740606447,
+      "previous_rank": 290,
+      "current_rank": 127,
+      "rank_change": 163,
+      "category": "6002",
+      "date": "2026-02-04",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/62/3e/3c/623e3c86-72cb-28f0-9968-70038fcec03a/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/180x180bb.png",
+      "app_name": "AI Identifier: All-in-One Tool",
+      "publisher": "亚飞 陕"
+    },
+    {
+      "appId": 6504505434,
+      "previous_rank": 358,
+      "current_rank": 205,
+      "rank_change": 153,
+      "category": "6002",
+      "date": "2026-02-04",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f5/c5/cd/f5c5cd9d-fb32-ce8c-3303-f538c4e803a1/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/180x180bb.png",
+      "app_name": "TransEase: Realtime Translator",
+      "publisher": "lunaadslimited"
     }
   ]
 }
