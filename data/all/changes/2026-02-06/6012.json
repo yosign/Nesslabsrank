@@ -3,21 +3,10 @@
   "genre": "6012",
   "topRisers": [
     {
-      "appId": 1080102131,
-      "previous_rank": 432,
-      "current_rank": 279,
-      "rank_change": 153,
-      "category": "6012",
-      "date": "2026-02-06",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/74/99/b1/7499b191-dcb9-2d3b-b931-c183a764dd04/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/180x180bb.png",
-      "app_name": "Wild: Adult Casual Dating App",
-      "publisher": "Wild Limited"
-    },
-    {
       "appId": 1062006344,
       "previous_rank": 416,
-      "current_rank": 268,
-      "rank_change": 148,
+      "current_rank": 250,
+      "rank_change": 166,
       "category": "6012",
       "date": "2026-02-06",
       "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/24/2b/c2/242bc296-929e-4338-7c56-02478bef269d/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/180x180bb.png",
@@ -25,10 +14,21 @@
       "publisher": "Pixite Inc."
     },
     {
+      "appId": 1080102131,
+      "previous_rank": 432,
+      "current_rank": 270,
+      "rank_change": 162,
+      "category": "6012",
+      "date": "2026-02-06",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/74/99/b1/7499b191-dcb9-2d3b-b931-c183a764dd04/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/180x180bb.png",
+      "app_name": "Wild: Adult Casual Dating App",
+      "publisher": "Wild Limited"
+    },
+    {
       "appId": 1038856246,
       "previous_rank": 366,
-      "current_rank": 248,
-      "rank_change": 118,
+      "current_rank": 230,
+      "rank_change": 136,
       "category": "6012",
       "date": "2026-02-06",
       "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/31/8b/5a/318b5a4e-95a0-5244-43b1-c93a8b20f6f9/AppIcon-1x_U007emarketing-0-7-0-85-220.png/180x180bb.png",
@@ -38,8 +38,8 @@
     {
       "appId": 6739025871,
       "previous_rank": 400,
-      "current_rank": 286,
-      "rank_change": 114,
+      "current_rank": 278,
+      "rank_change": 122,
       "category": "6012",
       "date": "2026-02-06",
       "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a7/42/c5/a742c5d2-69b6-9345-7ff7-a7342d88d203/AppIcon-0-0-1x_U007emarketing-0-11-0-0-sRGB-85-220.png/180x180bb.png",
@@ -47,26 +47,26 @@
       "publisher": "Vertex Point Limited"
     },
     {
-      "appId": 921596283,
-      "previous_rank": 441,
-      "current_rank": 328,
-      "rank_change": 113,
-      "category": "6012",
-      "date": "2026-02-06",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/cb/13/f5/cb13f5ec-0794-d2bd-1a36-208aae2d9aaf/AppIcon-0-0-1x_U007emarketing-0-8-0-sRGB-85-220.png/180x180bb.png",
-      "app_name": "GizmoHub",
-      "publisher": "Verizon Wireless"
-    },
-    {
       "appId": 1099568401,
       "previous_rank": 329,
-      "current_rank": 221,
-      "rank_change": 108,
+      "current_rank": 222,
+      "rank_change": 107,
       "category": "6012",
       "date": "2026-02-06",
       "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9e/15/4e/9e154e4b-47dc-6c05-3099-521db885e903/AppIcon-0-0-1x_U007epad-0-0-0-1-0-85-220.png/180x180bb.png",
       "app_name": "Home Assistant",
       "publisher": "Nabu Casa, Inc"
+    },
+    {
+      "appId": 6748601088,
+      "previous_rank": 246,
+      "current_rank": 144,
+      "rank_change": 102,
+      "category": "6012",
+      "date": "2026-02-06",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9e/ba/2e/9eba2e14-a62b-d944-259c-33ab141273be/AppIcon-0-0-1x_U007epad-0-1-85-220.png/180x180bb.png",
+      "app_name": "Amora: A Hint of Your Soulmate",
+      "publisher": "Lit Apps LLC (Mobile)"
     }
   ]
 }
