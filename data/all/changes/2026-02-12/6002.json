@@ -3,10 +3,21 @@
   "genre": "6002",
   "topRisers": [
     {
+      "appId": 1156890830,
+      "previous_rank": 454,
+      "current_rank": 319,
+      "rank_change": 135,
+      "category": "6002",
+      "date": "2026-02-12",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/21/e6/0c/21e60c1e-66cc-8cba-6736-7ef370899cf9/AppIcon-0-0-1x_U007epad-0-11-0-85-220.png/180x180bb.png",
+      "app_name": "Kindoo",
+      "publisher": "Code Gears Ltd"
+    },
+    {
       "appId": 6445982828,
       "previous_rank": 479,
-      "current_rank": 323,
-      "rank_change": 156,
+      "current_rank": 348,
+      "rank_change": 131,
       "category": "6002",
       "date": "2026-02-12",
       "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/db/54/ba/db54ba06-15e7-e2b2-b622-b807d6b49147/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/180x180bb.png",
@@ -14,21 +25,21 @@
       "publisher": "POPLAR BROTHERS NETWORK TECHNOLOGY LIMITED"
     },
     {
-      "appId": 1524043705,
-      "previous_rank": 495,
-      "current_rank": 364,
-      "rank_change": 131,
+      "appId": 6472891975,
+      "previous_rank": 363,
+      "current_rank": 237,
+      "rank_change": 126,
       "category": "6002",
       "date": "2026-02-12",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/25/1d/64/251d64d3-b3c1-8774-6786-46df4703f6dc/AppIcon-1x_U007emarketing-0-10-0-85-220-0.png/180x180bb.png",
-      "app_name": "Straight Talk Cloud",
-      "publisher": "TracFone Wireless, Inc."
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/23/f7/d8/23f7d8ce-f0b5-96d5-cd51-e2cf4c88d0c9/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/180x180bb.png",
+      "app_name": "LuckRing",
+      "publisher": "Shenzhen Coolwear Technology Co., LTD"
     },
     {
       "appId": 6737266974,
       "previous_rank": 223,
-      "current_rank": 109,
-      "rank_change": 114,
+      "current_rank": 104,
+      "rank_change": 119,
       "category": "6002",
       "date": "2026-02-12",
       "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/05/47/db/0547db1e-565d-5ba5-562b-704182a95454/AppIcon_5-0-0-1x_U007ephone-0-0-85-220.png/180x180bb.png",
@@ -36,37 +47,26 @@
       "publisher": "Nebula App Development"
     },
     {
-      "appId": 1072241945,
-      "previous_rank": 462,
-      "current_rank": 358,
-      "rank_change": 104,
+      "appId": 1568005162,
+      "previous_rank": 398,
+      "current_rank": 283,
+      "rank_change": 115,
       "category": "6002",
       "date": "2026-02-12",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/62/ae/15/62ae1569-5c95-6d4e-2572-af8738327426/archcalcicon-0-0-1x_U007emarketing-0-8-0-85-220.png/180x180bb.png",
-      "app_name": "Feet and Inches Calculator",
-      "publisher": "Evan Winograd"
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6e/be/53/6ebe5366-934f-1698-a1b2-884da7118047/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/180x180bb.png",
+      "app_name": "Liene Photo",
+      "publisher": "Hannto Technology Co., Ltd."
     },
     {
-      "appId": 6753129634,
-      "previous_rank": 322,
-      "current_rank": 219,
-      "rank_change": 103,
+      "appId": 6738460983,
+      "previous_rank": 313,
+      "current_rank": 206,
+      "rank_change": 107,
       "category": "6002",
       "date": "2026-02-12",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/8d/ab/a1/8daba17f-91dd-dd67-3d9c-061789454c24/AppIcon-0-0-1x_U007ephone-0-11-0-85-220.png/180x180bb.png",
-      "app_name": "VideLyy",
-      "publisher": "晓君 邬"
-    },
-    {
-      "appId": 1502909594,
-      "previous_rank": 249,
-      "current_rank": 156,
-      "rank_change": 93,
-      "category": "6002",
-      "date": "2026-02-12",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d7/ad/5d/d7ad5db8-6baa-0c34-ddf6-634361c7b416/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/180x180bb.png",
-      "app_name": "Translator Keyboard - Language",
-      "publisher": "Air Apps Systems"
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4b/b1/ea/4bb1ead0-5bf6-879a-6424-53aa04946209/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/180x180bb.png",
+      "app_name": "LED Keyboard - RGB Theme",
+      "publisher": "Hieu Tran Thanh"
     }
   ]
 }
