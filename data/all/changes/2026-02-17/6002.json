@@ -3,10 +3,21 @@
   "genre": "6002",
   "topRisers": [
     {
+      "appId": 1605131517,
+      "previous_rank": 413,
+      "current_rank": 186,
+      "rank_change": 227,
+      "category": "6002",
+      "date": "2026-02-17",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/58/9a/e2/589ae2c9-a2ff-7bf8-8c4f-10b97382ea2b/AppIconFree-1x_U007emarketing-0-8-0-85-220-0.png/180x180bb.png",
+      "app_name": "Smart Alarm Clock - Waking Up",
+      "publisher": "Appenvision Ltd"
+    },
+    {
       "appId": 6748912522,
       "previous_rank": 433,
-      "current_rank": 264,
-      "rank_change": 169,
+      "current_rank": 275,
+      "rank_change": 158,
       "category": "6002",
       "date": "2026-02-17",
       "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2a/72/35/2a723594-b029-b20c-cba7-bc094acfbc87/AppIcon-0-0-1x_U007ephone-0-1-0-sRGB-85-220.png/180x180bb.png",
@@ -14,43 +25,32 @@
       "publisher": "LensAI - Sonic Purge"
     },
     {
-      "appId": 1602061522,
-      "previous_rank": 269,
-      "current_rank": 128,
-      "rank_change": 141,
+      "appId": 6751898008,
+      "previous_rank": 457,
+      "current_rank": 300,
+      "rank_change": 157,
       "category": "6002",
       "date": "2026-02-17",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/47/3a/5d/473a5d64-9e17-881d-0dea-1a64ce831be1/AppIcon-0-0-1x_U007epad-0-11-0-0-85-220.jpeg/180x180bb.png",
-      "app_name": "Authenticator ·",
-      "publisher": "SMM service, s.r.o."
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/8e/e2/9d/8ee29d65-07f5-6d94-675b-df985f431528/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/180x180bb.png",
+      "app_name": "Choco Kithen",
+      "publisher": "Graham John Bourton"
     },
     {
-      "appId": 1057745950,
-      "previous_rank": 479,
-      "current_rank": 338,
-      "rank_change": 141,
+      "appId": 6755078901,
+      "previous_rank": 382,
+      "current_rank": 240,
+      "rank_change": 142,
       "category": "6002",
       "date": "2026-02-17",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c7/2d/29/c72d292d-ce98-a343-64bb-231d309d7206/AppIcon-0-0-1x_U007emarketing-0-5-0-85-220.png/180x180bb.png",
-      "app_name": "LoJack",
-      "publisher": "Spireon, Inc"
-    },
-    {
-      "appId": 6756173103,
-      "previous_rank": 409,
-      "current_rank": 272,
-      "rank_change": 137,
-      "category": "6002",
-      "date": "2026-02-17",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/8b/30/48/8b3048a3-732f-9a4d-df0b-73aed54665dc/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/180x180bb.png",
-      "app_name": "Find Device & Bluetooth Track",
-      "publisher": "会敏 李"
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/bf/ee/4e/bfee4e06-9df8-edb5-065a-74a31a3d4f76/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/180x180bb.png",
+      "app_name": "UR Auth",
+      "publisher": "PMO"
     },
     {
       "appId": 6748721337,
       "previous_rank": 332,
-      "current_rank": 196,
-      "rank_change": 136,
+      "current_rank": 193,
+      "rank_change": 139,
       "category": "6002",
       "date": "2026-02-17",
       "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a9/91/4f/a9914f0e-d333-1de8-fe23-0bff78801908/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/180x180bb.png",
@@ -58,15 +58,15 @@
       "publisher": "Chu Son"
     },
     {
-      "appId": 548389448,
-      "previous_rank": 471,
-      "current_rank": 336,
-      "rank_change": 135,
+      "appId": 6756173103,
+      "previous_rank": 409,
+      "current_rank": 270,
+      "rank_change": 139,
       "category": "6002",
       "date": "2026-02-17",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f6/f1/44/f6f144d5-53d4-9d58-1741-b9300e319291/AppIcon-0-0-1x_U007epad-0-1-85-220.png/180x180bb.png",
-      "app_name": "AHA Schools",
-      "publisher": "American Heart Association"
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/8b/30/48/8b3048a3-732f-9a4d-df0b-73aed54665dc/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/180x180bb.png",
+      "app_name": "Find Device & Bluetooth Track",
+      "publisher": "会敏 李"
     }
   ]
 }
