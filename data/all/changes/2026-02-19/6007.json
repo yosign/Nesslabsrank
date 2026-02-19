@@ -5,8 +5,8 @@
     {
       "appId": 6751109423,
       "previous_rank": 401,
-      "current_rank": 180,
-      "rank_change": 221,
+      "current_rank": 166,
+      "rank_change": 235,
       "category": "6007",
       "date": "2026-02-19",
       "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/41/7f/14/417f1481-1295-317e-1df1-9765797b4198/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/180x180bb.png",
@@ -14,43 +14,21 @@
       "publisher": "Novago Global Solutions FZ-LLC"
     },
     {
-      "appId": 1572515807,
-      "previous_rank": 286,
-      "current_rank": 113,
-      "rank_change": 173,
+      "appId": 6444338628,
+      "previous_rank": 459,
+      "current_rank": 284,
+      "rank_change": 175,
       "category": "6007",
       "date": "2026-02-19",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6a/2e/8e/6a2e8e13-ba2e-e66d-2094-d3667cb516f0/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/180x180bb.png",
-      "app_name": "ClearSpace: Reduce Screen Time",
-      "publisher": "clearspace"
-    },
-    {
-      "appId": 1132751625,
-      "previous_rank": 423,
-      "current_rank": 261,
-      "rank_change": 162,
-      "category": "6007",
-      "date": "2026-02-19",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/57/8f/22/578f22d1-ff10-830a-730a-0f016d490c96/appIcon-0-1x_U007emarketing-0-11-0-85-220-0.png/180x180bb.png",
-      "app_name": "FSAFEDS",
-      "publisher": "HealthEquity"
-    },
-    {
-      "appId": 6736793117,
-      "previous_rank": 470,
-      "current_rank": 324,
-      "rank_change": 146,
-      "category": "6007",
-      "date": "2026-02-19",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ac/b5/5d/acb55d42-99e7-2cd8-63e6-22049b1d6008/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/180x180bb.png",
-      "app_name": "Foqos - Tap to Block",
-      "publisher": "Ali Waseem"
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fd/2d/96/fd2d96f4-56db-1082-8923-d9e416c31a78/AppIcon-0-0-1x_U007emarketing-0-7-0-sRGB-85-220.png/180x180bb.png",
+      "app_name": "Secure360 *** guard",
+      "publisher": "RODELIO LIMITED"
     },
     {
       "appId": 1672553988,
       "previous_rank": 391,
-      "current_rank": 252,
-      "rank_change": 139,
+      "current_rank": 229,
+      "rank_change": 162,
       "category": "6007",
       "date": "2026-02-19",
       "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/21/0c/db/210cdb62-83ab-a1ae-5f5d-f52c9882cc6d/AppIcon-0-0-1x_U007epad-0-1-0-85-220.jpeg/180x180bb.png",
@@ -58,15 +36,37 @@
       "publisher": "Rhophi Analytics LLP"
     },
     {
-      "appId": 919471395,
-      "previous_rank": 484,
-      "current_rank": 357,
-      "rank_change": 127,
+      "appId": 1572515807,
+      "previous_rank": 286,
+      "current_rank": 130,
+      "rank_change": 156,
       "category": "6007",
       "date": "2026-02-19",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3e/6d/b3/3e6db32d-7f57-e945-bc3c-25098bc5b783/AppIcon-0-0-1x_U007emarketing-0-8-0-0-sRGB-85-220.png/180x180bb.png",
-      "app_name": "OurHouse",
-      "publisher": "Ourhouse"
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6a/2e/8e/6a2e8e13-ba2e-e66d-2094-d3667cb516f0/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/180x180bb.png",
+      "app_name": "ClearSpace: Reduce Screen Time",
+      "publisher": "clearspace"
+    },
+    {
+      "appId": 6736793117,
+      "previous_rank": 470,
+      "current_rank": 332,
+      "rank_change": 138,
+      "category": "6007",
+      "date": "2026-02-19",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ac/b5/5d/acb55d42-99e7-2cd8-63e6-22049b1d6008/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/180x180bb.png",
+      "app_name": "Foqos - Tap to Block",
+      "publisher": "Ali Waseem"
+    },
+    {
+      "appId": 6743825595,
+      "previous_rank": 437,
+      "current_rank": 301,
+      "rank_change": 136,
+      "category": "6007",
+      "date": "2026-02-19",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9e/4f/d3/9e4fd35f-7c49-e5bf-dca4-746d269c156a/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/180x180bb.png",
+      "app_name": "TV Remote - Universal Pro",
+      "publisher": "Elegantique Network Limited"
     }
   ]
 }
