@@ -5,8 +5,8 @@
     {
       "appId": 6459306125,
       "previous_rank": 407,
-      "current_rank": 191,
-      "rank_change": 216,
+      "current_rank": 173,
+      "rank_change": 234,
       "category": "6027",
       "date": "2026-02-20",
       "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e9/74/a5/e974a520-d399-05a8-59f0-37c58ffce5b4/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/180x180bb.png",
@@ -14,21 +14,21 @@
       "publisher": "LOBSTER BABY PTE.LTD."
     },
     {
-      "appId": 6742218388,
-      "previous_rank": 417,
-      "current_rank": 241,
-      "rank_change": 176,
+      "appId": 6744178365,
+      "previous_rank": 482,
+      "current_rank": 327,
+      "rank_change": 155,
       "category": "6027",
       "date": "2026-02-20",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e8/c7/38/e8c7381c-eee7-8cef-4eb4-17a5bcb664f5/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/180x180bb.png",
-      "app_name": "PDF Cuno-Maker&Viewer",
-      "publisher": "ICE PEAK NETWORK TECHNOLOGY LIMITED"
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a3/e7/6e/a3e76e2e-5e8d-f1ee-404b-f50480d2d59b/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/180x180bb.png",
+      "app_name": "Rigel AI Film Generator",
+      "publisher": "Kata Technology Bilisim Yazilim Hizmetleri Limited Sirketi"
     },
     {
       "appId": 1663200797,
       "previous_rank": 499,
-      "current_rank": 368,
-      "rank_change": 131,
+      "current_rank": 360,
+      "rank_change": 139,
       "category": "6027",
       "date": "2026-02-20",
       "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/81/09/a8/8109a8ac-39b8-9ae1-dfb4-57772ad4e0d5/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/180x180bb.png",
@@ -36,21 +36,10 @@
       "publisher": "4Axis Technologies Pte Ltd"
     },
     {
-      "appId": 6744131143,
-      "previous_rank": 463,
-      "current_rank": 339,
-      "rank_change": 124,
-      "category": "6027",
-      "date": "2026-02-20",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/86/8e/86/868e8612-a6fa-ac7e-4d4a-ecc8089b8df3/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/180x180bb.png",
-      "app_name": "AR Drawing: Draw Sketch, Paint",
-      "publisher": "HUYNH DUONG VAN"
-    },
-    {
       "appId": 6477337725,
       "previous_rank": 217,
-      "current_rank": 101,
-      "rank_change": 116,
+      "current_rank": 80,
+      "rank_change": 137,
       "category": "6027",
       "date": "2026-02-20",
       "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/0c/f1/e8/0cf1e888-25ad-0282-1766-d91a174032db/AppIcon-1x_U007epad-0-85-220-0.png/180x180bb.png",
@@ -58,15 +47,26 @@
       "publisher": "Amine Moussaoui"
     },
     {
-      "appId": 6744178365,
-      "previous_rank": 482,
-      "current_rank": 371,
-      "rank_change": 111,
+      "appId": 6754236434,
+      "previous_rank": 361,
+      "current_rank": 227,
+      "rank_change": 134,
       "category": "6027",
       "date": "2026-02-20",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a3/e7/6e/a3e76e2e-5e8d-f1ee-404b-f50480d2d59b/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/180x180bb.png",
-      "app_name": "Rigel AI Film Generator",
-      "publisher": "Kata Technology Bilisim Yazilim Hizmetleri Limited Sirketi"
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e5/22/0d/e5220ddc-ca4a-ea8c-d0a3-d211a57b2db1/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/180x180bb.png",
+      "app_name": "AI Movie Generator - Muwi",
+      "publisher": "AI Maker"
+    },
+    {
+      "appId": 6670685694,
+      "previous_rank": 323,
+      "current_rank": 207,
+      "rank_change": 116,
+      "category": "6027",
+      "date": "2026-02-20",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ac/27/ca/ac27caf4-014f-7e64-f5b7-1f91dd5f4e8a/AppIcon-0-0-1x_U007epad-0-1-85-220.png/180x180bb.png",
+      "app_name": "HomeGen AI: Interior Decor",
+      "publisher": "Kaml Abdel-Kader"
     }
   ]
 }
