@@ -1,0 +1,407 @@
+{
+  "date": "2026-02-21",
+  "changes": {
+    "6002": {
+      "added": [
+        {
+          "appId": 6757768685,
+          "name": "MadPlay Pro",
+          "publisher": "adam sart",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9c/e3/b8/9ce3b877-e400-3a4c-d301-2f43b415fb4d/AppIcon-0-0-1x_U007ephone-0-1-85-220.jpeg/180x180bb.png",
+          "rating": 0,
+          "ratingCount": 0,
+          "price": "0.00",
+          "rank": 112,
+          "category": "6002"
+        },
+        {
+          "appId": 6754188956,
+          "name": "Blood Sugar Tracker Log",
+          "publisher": "Vu Tam",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6d/bc/1f/6dbc1fa7-4be8-5404-03af-38999004a38a/prodAppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/180x180bb.png",
+          "rating": 3.1,
+          "ratingCount": 18,
+          "price": "0.00",
+          "rank": 181,
+          "category": "6002"
+        },
+        {
+          "appId": 6745496179,
+          "name": "EasyQR Code Scan",
+          "publisher": "HAHA TECHNOLOGY LIMITED",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/13/1c/78/131c7818-1db1-b54a-7924-a044a7f1a2b7/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.jpeg/180x180bb.png",
+          "rating": 4.1,
+          "ratingCount": 28,
+          "price": "0.00",
+          "rank": 371,
+          "category": "6002"
+        },
+        {
+          "appId": 6471679598,
+          "name": "Opti Cleaner & Optimizer",
+          "publisher": "APPIKUR",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3a/38/4b/3a384bc0-51a4-85b5-007d-ec3b15e459c7/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/180x180bb.png",
+          "rating": 4.5,
+          "ratingCount": 4397,
+          "price": "0.00",
+          "rank": 373,
+          "category": "6002"
+        },
+        {
+          "appId": 1586862022,
+          "name": "Darksy: Smart Storage Cleaner",
+          "publisher": "Darksy OU",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/bb/fd/7c/bbfd7c87-3217-1197-9a60-56ac86208195/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/180x180bb.png",
+          "rating": 4.4,
+          "ratingCount": 6723,
+          "price": "0.00",
+          "rank": 381,
+          "category": "6002"
+        },
+        {
+          "appId": 1143920524,
+          "name": "Poke Genie -Remote Raid IV PvP",
+          "publisher": "Poke Genie Inc.",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/73/2b/d3/732bd321-cd4d-80ef-13c0-2b000b4930a6/AppIcon-0-0-1x_U007emarketing-0-5-85-220.png/180x180bb.png",
+          "rating": 4.8,
+          "ratingCount": 172000,
+          "price": "0.00",
+          "rank": 408,
+          "category": "6002"
+        },
+        {
+          "appId": 6749445755,
+          "name": "AI Cleaner-Clean Storage Space",
+          "publisher": "IntelliElement Tech",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/8a/db/06/8adb067c-4e45-6919-6a3e-80cdcbdb1048/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/180x180bb.png",
+          "rating": 4.6,
+          "ratingCount": 396,
+          "price": "0.00",
+          "rank": 459,
+          "category": "6002"
+        },
+        {
+          "appId": 583700738,
+          "name": "中国移动（手机营业厅）",
+          "publisher": "中移在线",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/23/d8/5c/23d85ce3-3de4-7cc9-7f73-e8e4ca8b4328/AppIcon-0-0-1x_U007emarketing-0-8-0-0-sRGB-85-220.png/180x180bb.png",
+          "rating": 4.5,
+          "ratingCount": 36000,
+          "price": "0.00",
+          "rank": 469,
+          "category": "6002"
+        },
+        {
+          "appId": 6753018053,
+          "name": "PPL Electric",
+          "publisher": "PPL Services Corporation",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1d/69/dd/1d69dd6f-dcd8-0e09-ccf9-f87092e0855a/AppIcon-PROD-1x_U007ephone-0-1-0-85-220-0.png/180x180bb.png",
+          "rating": 4.6,
+          "ratingCount": 32,
+          "price": "0.00",
+          "rank": 473,
+          "category": "6002"
+        },
+        {
+          "appId": 6464394828,
+          "name": "AI CyberFort",
+          "publisher": "Wellmon SIA",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/24/91/81/249181ac-f7ab-3327-e945-afb326c1e7db/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/180x180bb.png",
+          "rating": 4.3,
+          "ratingCount": 39,
+          "price": "0.00",
+          "rank": 480,
+          "category": "6002"
+        },
+        {
+          "appId": 6756683188,
+          "name": "Sherlock: AI Face Search",
+          "publisher": "Zachary Yudenfriend",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/27/e6/b3/27e6b351-b379-85ee-3b6e-52566dbb8e17/AppIcon-0-0-1x_U007ephone-0-1-sRGB-85-220.png/180x180bb.png",
+          "rating": 4.8,
+          "ratingCount": 29,
+          "price": "0.00",
+          "rank": 486,
+          "category": "6002"
+        },
+        {
+          "appId": 6757603776,
+          "name": "UpClean - AI Cleaner App",
+          "publisher": "Creative Trucking Logging",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/93/ca/35/93ca35da-5fd4-ce6a-b024-f429eba9646b/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/180x180bb.png",
+          "rating": 4.4,
+          "ratingCount": 147,
+          "price": "0.00",
+          "rank": 487,
+          "category": "6002"
+        },
+        {
+          "appId": 6740884542,
+          "name": "Sudowrite - AI Novel Writing",
+          "publisher": "Human Plus Plus, Inc.",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/45/e9/a8/45e9a8a1-55c5-d596-f98a-5e8adac84261/AppIcon-0-0-1x_U007epad-0-0-0-1-0-85-220.png/180x180bb.png",
+          "rating": 4.4,
+          "ratingCount": 119,
+          "price": "0.00",
+          "rank": 490,
+          "category": "6002"
+        },
+        {
+          "appId": 1367276365,
+          "name": "T-Mobile Scam Shield",
+          "publisher": "MetroPCS",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6d/f3/6e/6df36ea9-17b3-5442-4886-55a9422564b7/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/180x180bb.png",
+          "rating": 4.7,
+          "ratingCount": 208000,
+          "price": "0.00",
+          "rank": 492,
+          "category": "6002"
+        },
+        {
+          "appId": 6743716080,
+          "name": "QR & Barcode Scanner Max",
+          "publisher": "J.K. Mobile LLC",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8e/28/d6/8e28d60d-6920-82bd-d6b3-9c1b66843335/AppIcon-0-0-1x_U007ephone-0-1-0-P3-85-220.png/180x180bb.png",
+          "rating": 4.6,
+          "ratingCount": 1936,
+          "price": "0.00",
+          "rank": 494,
+          "category": "6002"
+        },
+        {
+          "appId": 892331870,
+          "name": "The Best Compass & GPS",
+          "publisher": "ZipoApps",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/82/2d/16/822d160d-2085-5761-6a37-e71c3d621d13/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/180x180bb.png",
+          "rating": 4.5,
+          "ratingCount": 2829,
+          "price": "0.00",
+          "rank": 496,
+          "category": "6002"
+        },
+        {
+          "appId": 368483462,
+          "name": "Private Browsing Web Browser",
+          "publisher": "SavySoda",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/27/f9/19/27f9198f-30ec-1598-99d2-16a111e71920/PrivateBrowsingAppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/180x180bb.png",
+          "rating": 4.7,
+          "ratingCount": 126000,
+          "price": "0.00",
+          "rank": 498,
+          "category": "6002"
+        },
+        {
+          "appId": 6756779331,
+          "name": "Caresweep Cleaner:phone clean",
+          "publisher": "娜 崔",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7f/74/59/7f7459da-8d79-ccbe-676d-19d1c3435aae/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/180x180bb.png",
+          "rating": 4.4,
+          "ratingCount": 30,
+          "price": "0.00",
+          "rank": 500,
+          "category": "6002"
+        }
+      ],
+      "removed": [
+        {
+          "appId": 6757840286,
+          "name": "Tieko - Evolve the Image",
+          "publisher": "Pannu Deep",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/70/19/3b/70193bf6-7558-62c0-1927-01bc9bad5b78/AppIcon-1x_U007ephone-0-1-0-85-220-0.png/180x180bb.png",
+          "rating": 0,
+          "ratingCount": 0,
+          "price": "0.00",
+          "rank": 272,
+          "category": "6002"
+        },
+        {
+          "appId": 6445917429,
+          "name": "Cleaner ・Phone Storage Cleanup",
+          "publisher": "Seven Mile Apps",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3c/5a/fb/3c5afb2d-db28-d4c7-5f4e-13432f938aff/AppIcon-0-0-1x_U007epad-0-1-0-85-220.jpeg/180x180bb.png",
+          "rating": 4.3,
+          "ratingCount": 9190,
+          "price": "0.00",
+          "rank": 287,
+          "category": "6002"
+        },
+        {
+          "appId": 6450983973,
+          "name": "Full Translate – AI Text Voice",
+          "publisher": "BITTER CARROT (HK) LIMITED",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/70/f0/1a/70f01a8b-794c-0fe5-0da1-86922f1f1f2a/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/180x180bb.png",
+          "rating": 4.6,
+          "ratingCount": 103,
+          "price": "0.00",
+          "rank": 365,
+          "category": "6002"
+        },
+        {
+          "appId": 1475828837,
+          "name": "Portland General Electric",
+          "publisher": "Portland General Electric Company",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1d/62/6f/1d626ff6-b41d-6eba-37ea-5b81ebe0fdc1/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/180x180bb.png",
+          "rating": 4.1,
+          "ratingCount": 508,
+          "price": "0.00",
+          "rank": 432,
+          "category": "6002"
+        },
+        {
+          "appId": 6756094117,
+          "name": "SwipeClean: Storage Cleanup",
+          "publisher": "DISAI TECHNOLOGY LIMITED",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8a/ce/75/8ace75cc-e456-874e-5eb5-1128acf96ad8/AppIcon-0-0-1x_U007ephone-0-1-0-sRGB-85-220.png/180x180bb.png",
+          "rating": 4.7,
+          "ratingCount": 21,
+          "price": "0.00",
+          "rank": 444,
+          "category": "6002"
+        },
+        {
+          "appId": 787415770,
+          "name": "Enphase Enlighten",
+          "publisher": "Enphase Energy, Inc.",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/36/83/0a/36830ab0-f914-ef3a-eac8-8ece64abfb4c/AppIcon-0-0-1x_U007emarketing-0-11-0-0-0-0-85-220.png/180x180bb.png",
+          "rating": 4.6,
+          "ratingCount": 87600,
+          "price": "0.00",
+          "rank": 449,
+          "category": "6002"
+        },
+        {
+          "appId": 529855219,
+          "name": "Entergy",
+          "publisher": "Entergy Services, LLC",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/15/e1/37/15e13777-262e-cd90-e7ca-13b62d174e2b/ic_app_prod-0-0-1x_U007emarketing-0-8-0-sRGB-85-220.png/180x180bb.png",
+          "rating": 2.7,
+          "ratingCount": 1358,
+          "price": "0.00",
+          "rank": 454,
+          "category": "6002"
+        },
+        {
+          "appId": 829129497,
+          "name": "Mobile Link for Generators",
+          "publisher": "Generac Power Systems, Inc.",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7c/91/44/7c9144e0-ca42-3ac5-349b-a50485fe7402/AppIcon-1x_U007epad-0-8-0-85-220-0.png/180x180bb.png",
+          "rating": 4.8,
+          "ratingCount": 71700,
+          "price": "0.00",
+          "rank": 462,
+          "category": "6002"
+        },
+        {
+          "appId": 1341100401,
+          "name": "Tasbih Counter Pro: Dhikr App",
+          "publisher": "Deniz Duzbasti",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/79/9e/55/799e558e-f994-dd76-1f4c-1a27e4402ccf/AppIcon-0-0-1x_U007epad-0-11-0-85-220.png/180x180bb.png",
+          "rating": 4.8,
+          "ratingCount": 3871,
+          "price": "0.00",
+          "rank": 465,
+          "category": "6002"
+        },
+        {
+          "appId": 1137509279,
+          "name": "إدارة الملفات (حمّل)",
+          "publisher": "Waraqat Group",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7d/4e/f8/7d4ef8fc-4129-ba8f-f46f-262e173031f3/AppIcon-0-1x_U007emarketing-0-8-0-85-220-0.png/180x180bb.png",
+          "rating": 4.7,
+          "ratingCount": 221000,
+          "price": "0.00",
+          "rank": 470,
+          "category": "6002"
+        },
+        {
+          "appId": 6477260713,
+          "name": "SVF PDF: OCR Scan Edit Reader",
+          "publisher": "TROT (HK) COMPANY LIMITED",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/92/4d/06/924d0682-4f2a-d9ab-b708-aa7f277a57b7/AppIcon-0-0-1x_U007ephone-0-1-0-0-85-220.png/180x180bb.png",
+          "rating": 4.3,
+          "ratingCount": 1557,
+          "price": "0.00",
+          "rank": 473,
+          "category": "6002"
+        },
+        {
+          "appId": 654677047,
+          "name": "Con Edison",
+          "publisher": "Con Edison",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7e/49/5e/7e495ef6-3496-5517-e531-fa0114eb7710/AppIcon-0-0-1x_U007emarketing-0-7-0-sRGB-85-220.png/180x180bb.png",
+          "rating": 4.8,
+          "ratingCount": 118000,
+          "price": "0.00",
+          "rank": 477,
+          "category": "6002"
+        },
+        {
+          "appId": 1633412853,
+          "name": "Sup-Anesok",
+          "publisher": "亮 连",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8c/29/2f/8c292fd3-1f94-50a7-70ca-0099e4454d77/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/180x180bb.png",
+          "rating": 2.4,
+          "ratingCount": 128,
+          "price": "0.00",
+          "rank": 478,
+          "category": "6002"
+        },
+        {
+          "appId": 876323966,
+          "name": "Pocket Bubble Level XXL",
+          "publisher": "ExaMobile S.A.",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/10/5c/15/105c1520-a6c3-b590-8aee-4ec94b129848/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/180x180bb.png",
+          "rating": 4.8,
+          "ratingCount": 14800,
+          "price": "0.00",
+          "rank": 483,
+          "category": "6002"
+        },
+        {
+          "appId": 6739811401,
+          "name": "Xfinity Call Guard",
+          "publisher": "Comcast",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/93/e3/60/93e360e7-ea68-a6e1-5a4c-00540b10073f/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/180x180bb.png",
+          "rating": 3,
+          "ratingCount": 73,
+          "price": "0.00",
+          "rank": 487,
+          "category": "6002"
+        },
+        {
+          "appId": 6753730543,
+          "name": "ДЕД ВПН - быстрый и безопасный",
+          "publisher": "Trusted Computing LTD.",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e3/8a/1c/e38a1cb3-344e-8ddf-6811-a3fcd2da5958/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/180x180bb.png",
+          "rating": 3.1,
+          "ratingCount": 85,
+          "price": "0.00",
+          "rank": 493,
+          "category": "6002"
+        },
+        {
+          "appId": 916819108,
+          "name": "Gumroad",
+          "publisher": "Gumroad",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/85/bc/73/85bc7306-d131-f9e0-f210-6361481ae053/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/180x180bb.png",
+          "rating": 4.7,
+          "ratingCount": 36400,
+          "price": "0.00",
+          "rank": 495,
+          "category": "6002"
+        },
+        {
+          "appId": 6470715364,
+          "name": "Music Player - Songs, Videos",
+          "publisher": "Brahim el khoulagui",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/60/ff/1d/60ff1d2a-48f0-169d-c1ef-49da43e98620/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/180x180bb.png",
+          "rating": 4.6,
+          "ratingCount": 16700,
+          "price": "0.00",
+          "rank": 498,
+          "category": "6002"
+        }
+      ]
+    }
+  }
+}
