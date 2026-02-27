@@ -3,10 +3,21 @@
   "genre": "6007",
   "topRisers": [
     {
+      "appId": 6756703231,
+      "previous_rank": 450,
+      "current_rank": 223,
+      "rank_change": 227,
+      "category": "6007",
+      "date": "2026-02-27",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/38/dd/3e/38dd3e19-5da8-32fb-ed21-5168d8021f1e/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.jpg",
+      "app_name": "PDF Reader - Smart Reader",
+      "publisher": "truong nguyen xuan"
+    },
+    {
       "appId": 6757520233,
       "previous_rank": 383,
-      "current_rank": 205,
-      "rank_change": 178,
+      "current_rank": 211,
+      "rank_change": 172,
       "category": "6007",
       "date": "2026-02-27",
       "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ad/47/55/ad4755e7-0d16-9091-084d-8e467c93abfe/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/180x180bb.png",
@@ -14,21 +25,10 @@
       "publisher": "传会 谢"
     },
     {
-      "appId": 6746713669,
-      "previous_rank": 425,
-      "current_rank": 287,
-      "rank_change": 138,
-      "category": "6007",
-      "date": "2026-02-27",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/11/52/3a/11523a4a-3b22-ef33-7675-93177667a077/AppIcon-1x_U007ephone-0-1-85-220-0.png/180x180bb.png",
-      "app_name": "Darato Player",
-      "publisher": "Salome Astrevaux"
-    },
-    {
       "appId": 6615083315,
       "previous_rank": 497,
-      "current_rank": 363,
-      "rank_change": 134,
+      "current_rank": 353,
+      "rank_change": 144,
       "category": "6007",
       "date": "2026-02-27",
       "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9f/ca/1e/9fca1ebf-0d97-93b9-3d50-294248cd8008/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/180x180bb.png",
@@ -36,37 +36,37 @@
       "publisher": "Jem Accessories, Inc"
     },
     {
-      "appId": 575775114,
-      "previous_rank": 476,
-      "current_rank": 369,
-      "rank_change": 107,
+      "appId": 6739414192,
+      "previous_rank": 402,
+      "current_rank": 282,
+      "rank_change": 120,
       "category": "6007",
       "date": "2026-02-27",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/82/3b/5b/823b5b84-a0f0-9580-f80a-d9b6f05a99ae/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/180x180bb.png",
-      "app_name": "CellGate Mobile Connect",
-      "publisher": "Gouldin Technologies LLC"
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c2/de/c3/c2dec372-0faf-72a9-51e0-988d1eb4557e/AppIcon-1x_U007ephone-0-1-0-85-220-0.png/180x180bb.png",
+      "app_name": "ClearSnap-Clean Up Storage",
+      "publisher": "晨光 张"
+    },
+    {
+      "appId": 6746713669,
+      "previous_rank": 425,
+      "current_rank": 308,
+      "rank_change": 117,
+      "category": "6007",
+      "date": "2026-02-27",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/11/52/3a/11523a4a-3b22-ef33-7675-93177667a077/AppIcon-1x_U007ephone-0-1-85-220-0.png/180x180bb.png",
+      "app_name": "Darato Player",
+      "publisher": "Salome Astrevaux"
     },
     {
       "appId": 1583175414,
       "previous_rank": 329,
-      "current_rank": 223,
-      "rank_change": 106,
+      "current_rank": 220,
+      "rank_change": 109,
       "category": "6007",
       "date": "2026-02-27",
       "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/74/80/fa/7480fab7-d484-8015-b2db-113ea832f1e8/AppIcon-0-1x_U007emarketing-0-8-0-85-220-0.png/180x180bb.png",
       "app_name": "*** Privacy Proxy: Mistero ***",
       "publisher": "Mistero VPN"
-    },
-    {
-      "appId": 391093033,
-      "previous_rank": 500,
-      "current_rank": 399,
-      "rank_change": 101,
-      "category": "6007",
-      "date": "2026-02-27",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6a/11/d4/6a11d4af-34e5-9254-1c2a-fcd225eba411/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-85-220.png/180x180bb.png",
-      "app_name": "Member Tools",
-      "publisher": "The Church of Jesus Christ of Latter-day Saints"
     }
   ]
 }
