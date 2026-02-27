@@ -1,0 +1,407 @@
+{
+  "date": "2026-02-27",
+  "changes": {
+    "6013": {
+      "added": [
+        {
+          "appId": 1521728956,
+          "name": "Wondr Health",
+          "publisher": "Naturally Slim, Inc.",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/39/62/0c/39620cbf-e1dd-17e5-2a43-b792d597c080/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/180x180bb.png",
+          "rating": 4.8,
+          "ratingCount": 6469,
+          "price": "0.00",
+          "rank": 387,
+          "category": "6013"
+        },
+        {
+          "appId": 825019869,
+          "name": "CrossFit",
+          "publisher": "CrossFit, Inc.",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a1/7b/d1/a17bd1ac-eb29-34f4-f8bb-77c8ccb427ec/AppIcon-0-0-1x_U007ephone-0-1-0-sRGB-85-220.png/180x180bb.png",
+          "rating": 4.7,
+          "ratingCount": 3780,
+          "price": "0.00",
+          "rank": 394,
+          "category": "6013"
+        },
+        {
+          "appId": 1606213765,
+          "name": "Club Studio",
+          "publisher": "Fitness International, LLC",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7d/ff/e1/7dffe1cb-d42f-d81a-2eca-e522c605b777/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/180x180bb.png",
+          "rating": 2.4,
+          "ratingCount": 26,
+          "price": "0.00",
+          "rank": 413,
+          "category": "6013"
+        },
+        {
+          "appId": 1189345596,
+          "name": "Volt: Gym & Home Workout Plans",
+          "publisher": "Volt Athletics, Inc.",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/23/6b/db/236bdbf6-43ae-372e-5ff0-4cc84831a148/AppIcon-0-0-1x_U007epad-0-6-0-85-220.png/180x180bb.png",
+          "rating": 4.7,
+          "ratingCount": 16700,
+          "price": "0.00",
+          "rank": 428,
+          "category": "6013"
+        },
+        {
+          "appId": 6523434295,
+          "name": "Thea - Start Your Glowup",
+          "publisher": "Thea Technology Inc",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/fd/b4/05/fdb40528-42cb-3ef3-ee59-9e810da98fdb/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/180x180bb.png",
+          "rating": 4.8,
+          "ratingCount": 11100.000000000002,
+          "price": "0.00",
+          "rank": 429,
+          "category": "6013"
+        },
+        {
+          "appId": 6756618396,
+          "name": "StepFit: Step Counter",
+          "publisher": "Vu Tam",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/93/0e/36/930e36c8-7a0f-a38f-2048-ae78c35a5bf7/prodAppIcon-0-0-1x_U007ephone-0-1-85-220.png/180x180bb.png",
+          "rating": 4.1,
+          "ratingCount": 54,
+          "price": "0.00",
+          "rank": 433,
+          "category": "6013"
+        },
+        {
+          "appId": 6474446718,
+          "name": "Symmetry: AI Gym Workout Log",
+          "publisher": "Symmetry Club LLC",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/af/6b/e2/af6be2fd-77b5-90f7-0142-771e582a73a3/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/180x180bb.png",
+          "rating": 4.8,
+          "ratingCount": 2491,
+          "price": "0.00",
+          "rank": 458,
+          "category": "6013"
+        },
+        {
+          "appId": 6749527794,
+          "name": "AI Calorie Counter & Meal Plan",
+          "publisher": "Cacao Mobile",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/63/eb/91/63eb9147-8e07-92b2-16a9-f1adb04e74e4/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.jpeg/180x180bb.png",
+          "rating": 4.6,
+          "ratingCount": 1250,
+          "price": "0.00",
+          "rank": 461,
+          "category": "6013"
+        },
+        {
+          "appId": 6737000089,
+          "name": "AllOne Health",
+          "publisher": "AllOne Health",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8d/81/19/8d811920-cf2c-c3dd-f3b8-6a18894525c5/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/180x180bb.png",
+          "rating": 0,
+          "ratingCount": 0,
+          "price": "0.00",
+          "rank": 465,
+          "category": "6013"
+        },
+        {
+          "appId": 577198251,
+          "name": "DrChrono OnPatient Portal",
+          "publisher": "drchrono Inc",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/59/2a/7e/592a7e87-a113-95fb-9eda-de902bd32cb6/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/180x180bb.png",
+          "rating": 1.8,
+          "ratingCount": 90,
+          "price": "0.00",
+          "rank": 470,
+          "category": "6013"
+        },
+        {
+          "appId": 6455785300,
+          "name": "Storia: Future-Self Coach",
+          "publisher": "Storia",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/92/b1/20/92b120a5-a5a9-370d-25a5-8bcfc4304576/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/180x180bb.png",
+          "rating": 4.6,
+          "ratingCount": 323,
+          "price": "0.00",
+          "rank": 473,
+          "category": "6013"
+        },
+        {
+          "appId": 1031651418,
+          "name": "Share My Health Data",
+          "publisher": "US Department of Veterans Affairs (VA)",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e9/1a/fa/e91afae9-ded0-5d55-47f0-969897c82c64/AppIcon-0-0-1x_U007emarketing-0-0-0-8-0-0-85-220.png/180x180bb.png",
+          "rating": 4.4,
+          "ratingCount": 700,
+          "price": "0.00",
+          "rank": 476,
+          "category": "6013"
+        },
+        {
+          "appId": 1563806777,
+          "name": "PDCheck AR",
+          "publisher": "EyeQue Corporation",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/44/34/a5/4434a5c7-9b97-1ff2-0201-9a7a081c32e1/AppIcon-0-1x_U007emarketing-0-4-0-85-220.png/180x180bb.png",
+          "rating": 4.9,
+          "ratingCount": 3592,
+          "price": "0.00",
+          "rank": 486,
+          "category": "6013"
+        },
+        {
+          "appId": 1532471390,
+          "name": "Aetna Vision℠ Preferred",
+          "publisher": "EyeMed Vision Care",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/38/a8/67/38a86769-2d2d-c014-3ec8-4c59ce206e85/AppIcon-0-0-1x_U007emarketing-0-2-0-85-220.png/180x180bb.png",
+          "rating": 4.8,
+          "ratingCount": 1740,
+          "price": "0.00",
+          "rank": 487,
+          "category": "6013"
+        },
+        {
+          "appId": 1556701665,
+          "name": "Allergy Plus by Pollen.com",
+          "publisher": "IQVIA Inc.",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/07/8e/7b/078e7b14-41ad-d498-bd65-852007659a76/AppIcon-0-0-1x_U007ephone-0-85-220.png/180x180bb.png",
+          "rating": 4.8,
+          "ratingCount": 20700,
+          "price": "0.00",
+          "rank": 488,
+          "category": "6013"
+        },
+        {
+          "appId": 1609482416,
+          "name": "JETSET Pilates",
+          "publisher": "Geisler Young",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b4/e3/40/b4e340f3-8d0b-b619-1cdc-a9123daab045/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/180x180bb.png",
+          "rating": 5,
+          "ratingCount": 3358,
+          "price": "0.00",
+          "rank": 492,
+          "category": "6013"
+        },
+        {
+          "appId": 596132953,
+          "name": "RaceJoy",
+          "publisher": "TriPerta LLC",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ad/a2/6c/ada26cf4-5f26-9b9c-321d-de032bfe6d1a/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/180x180bb.png",
+          "rating": 3.9,
+          "ratingCount": 1464,
+          "price": "0.00",
+          "rank": 494,
+          "category": "6013"
+        },
+        {
+          "appId": 650276551,
+          "name": "Seven: HIIT 7 Minute Workout",
+          "publisher": "Perigee",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3d/ef/59/3def5941-2786-7422-f50e-346ee13cdc6b/AppIcon-0-0-1x_U007epad-0-1-0-0-sRGB-0-GLES2_U002c0-85-220.png/180x180bb.png",
+          "rating": 4.8,
+          "ratingCount": 135000,
+          "price": "0.00",
+          "rank": 498,
+          "category": "6013"
+        }
+      ],
+      "removed": [
+        {
+          "appId": 6475650513,
+          "name": "GetBetter.",
+          "publisher": "GetBetterLLC",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/10/6f/54/106f54f1-f279-c54d-010a-840bd258b222/AppIcon-0-0-1x_U007epad-0-1-85-220.png/180x180bb.png",
+          "rating": 4.5,
+          "ratingCount": 24,
+          "price": "0.00",
+          "rank": 367,
+          "category": "6013"
+        },
+        {
+          "appId": 6464039357,
+          "name": "Blood Pressure Tracker - Ease",
+          "publisher": "ORBITAL TECH PTE. LTD.",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/88/13/29/88132904-f616-4a30-221d-81a9d1676b2e/AppIcon-0-0-1x_U007ephone-0-11-0-85-220.png/180x180bb.png",
+          "rating": 3.7,
+          "ratingCount": 837,
+          "price": "0.00",
+          "rank": 380,
+          "category": "6013"
+        },
+        {
+          "appId": 6740288836,
+          "name": "Prove It - Supplement Scanner",
+          "publisher": "Control. Alt. Delete. LLC",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c3/1c/c1/c31cc134-79b4-e9c1-fce9-bc5bcbea0252/AppIcon-0-0-1x_U007epad-0-1-85-220.png/180x180bb.png",
+          "rating": 4.4,
+          "ratingCount": 13100,
+          "price": "0.00",
+          "rank": 423,
+          "category": "6013"
+        },
+        {
+          "appId": 6744635674,
+          "name": "ZenFit: Tai Chi for Beginners",
+          "publisher": "Everblessed Technology Inc.",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c0/b1/6d/c0b16d68-b180-dff5-8351-c7fa98b28f31/AppIcon-0-0-1x_U007ephone-0-11-0-85-220.png/180x180bb.png",
+          "rating": 4.5,
+          "ratingCount": 86,
+          "price": "0.00",
+          "rank": 435,
+          "category": "6013"
+        },
+        {
+          "appId": 6756597221,
+          "name": "Sleepmaxx AI",
+          "publisher": "nooro",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/8f/ba/d3/8fbad30d-6844-39c7-d573-4f44e5e09679/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/180x180bb.png",
+          "rating": 4.7,
+          "ratingCount": 228,
+          "price": "0.00",
+          "rank": 449,
+          "category": "6013"
+        },
+        {
+          "appId": 6758164553,
+          "name": "The Ladies Edge",
+          "publisher": "Ladies Edge Enterprises LLC",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4d/80/9b/4d809b2d-a6a8-352f-9dec-5c25ab0689fe/AppIcon-0-0-1x_U007epad-0-1-85-220.png/180x180bb.png",
+          "rating": 0,
+          "ratingCount": 0,
+          "price": "0.00",
+          "rank": 466,
+          "category": "6013"
+        },
+        {
+          "appId": 1479461686,
+          "name": "Nutrition Tracker: Foodnoms",
+          "publisher": "Algebraic Labs, LLC",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/03/db/ad/03dbadc8-3024-d0f2-ae79-3222646a307f/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-85-220.png/180x180bb.png",
+          "rating": 4.8,
+          "ratingCount": 6445,
+          "price": "0.00",
+          "rank": 467,
+          "category": "6013"
+        },
+        {
+          "appId": 950562312,
+          "name": "BabyName - find it together",
+          "publisher": "Do Something Good",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b5/27/7e/b5277e16-07be-e7f3-0807-3616c64ee5d7/AppIcon-0-0-1x_U007emarketing-0-6-85-220.png/180x180bb.png",
+          "rating": 4.1,
+          "ratingCount": 20900,
+          "price": "0.00",
+          "rank": 474,
+          "category": "6013"
+        },
+        {
+          "appId": 983693694,
+          "name": "Yoga | Down Dog",
+          "publisher": "Yoga Buddhi Co.",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9c/9a/d7/9c9ad7c7-c3eb-983f-9773-f0e2d34ff8d6/Original-0-0-1x_U007emarketing-0-8-0-0-85-220.png/180x180bb.png",
+          "rating": 4.9,
+          "ratingCount": 323000,
+          "price": "0.00",
+          "rank": 482,
+          "category": "6013"
+        },
+        {
+          "appId": 6742367877,
+          "name": "Art And Shape",
+          "publisher": "Art & Shape Sports Consulting Company",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/79/27/41/79274168-0033-03e4-ed8f-082255ea862b/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/180x180bb.png",
+          "rating": 0,
+          "ratingCount": 0,
+          "price": "0.00",
+          "rank": 483,
+          "category": "6013"
+        },
+        {
+          "appId": 1510429086,
+          "name": "Stress Monitor for Watch",
+          "publisher": "ActiveAce",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fd/76/f4/fd76f4e7-6bcf-d795-603c-c26a87cdd599/AppIcon-0-0-1x_U007emarketing-0-11-0-sRGB-85-220.png/180x180bb.png",
+          "rating": 4.5,
+          "ratingCount": 8686,
+          "price": "0.00",
+          "rank": 486,
+          "category": "6013"
+        },
+        {
+          "appId": 6747166058,
+          "name": "Glow Diet - Weight Loss AI",
+          "publisher": "Endo Health, Inc.",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/86/38/45/863845e4-0bca-f25c-e459-7761f342c6a3/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/180x180bb.png",
+          "rating": 4.8,
+          "ratingCount": 1833,
+          "price": "0.00",
+          "rank": 489,
+          "category": "6013"
+        },
+        {
+          "appId": 6752903766,
+          "name": "Exposr - Food Product Scanner",
+          "publisher": "Nagia LLC",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4f/c7/a8/4fc7a809-96a4-dba6-32b8-b1c084f5eabd/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/180x180bb.png",
+          "rating": 4.6,
+          "ratingCount": 867,
+          "price": "0.00",
+          "rank": 490,
+          "category": "6013"
+        },
+        {
+          "appId": 1491340863,
+          "name": "Napper: Baby Sleep Tracker",
+          "publisher": "Napper AB",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9e/59/4a/9e594ae6-b4f1-4011-ccb8-68dfd7fee9b0/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/180x180bb.png",
+          "rating": 4.9,
+          "ratingCount": 3493,
+          "price": "0.00",
+          "rank": 493,
+          "category": "6013"
+        },
+        {
+          "appId": 6474730608,
+          "name": "PulsePro:heart&blood monitor",
+          "publisher": "XINGYUAN TECHNOLOGY PTE. LTD.",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ab/ea/c1/abeac137-6506-bca6-dad0-c47c3fb4dc30/AppIcon-1-0-0-1x_U007epad-0-1-0-85-220.png/180x180bb.png",
+          "rating": 4.3,
+          "ratingCount": 902,
+          "price": "0.00",
+          "rank": 495,
+          "category": "6013"
+        },
+        {
+          "appId": 1605495324,
+          "name": "Luna - Period Tracker",
+          "publisher": "Ashkan Hatef",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/df/94/6c/df946c55-e7eb-83a0-8223-10177d26d5e0/AppIcon-1x_U007emarketing-0-10-0-85-220-0.png/180x180bb.png",
+          "rating": 4.8,
+          "ratingCount": 3693,
+          "price": "0.00",
+          "rank": 497,
+          "category": "6013"
+        },
+        {
+          "appId": 1481596642,
+          "name": "BrainSpot: Mental Test Games",
+          "publisher": "Massiana",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4e/f6/97/4ef69791-2ac0-5d93-503d-1df9719ae30c/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/180x180bb.png",
+          "rating": 4.8,
+          "ratingCount": 2373,
+          "price": "0.00",
+          "rank": 498,
+          "category": "6013"
+        },
+        {
+          "appId": 1209781676,
+          "name": "Setgraph: Gym Workout Tracker",
+          "publisher": "Setgraph LLC",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/17/51/19/1751199a-68db-6c34-1c7f-888d3e54a24a/Setgraph-Liquid-App-Icon-0-0-1x_U007ephone-0-0-0-1-0-0-sRGB-85-220.png/180x180bb.png",
+          "rating": 4.7,
+          "ratingCount": 5314,
+          "price": "0.00",
+          "rank": 499,
+          "category": "6013"
+        }
+      ]
+    }
+  }
+}
