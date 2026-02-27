@@ -3,21 +3,10 @@
   "genre": "6002",
   "topRisers": [
     {
-      "appId": 1063844759,
-      "previous_rank": 387,
-      "current_rank": 214,
-      "rank_change": 173,
-      "category": "6002",
-      "date": "2026-02-27",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/16/1a/d8/161ad889-3ccf-7a6b-2f6a-30a04976ec0d/logo_google_fiber_color-0-0-1x_U007epad-0-11-0-85-220.png/180x180bb.png",
-      "app_name": "GFiber: The Google Fiber App",
-      "publisher": "Google"
-    },
-    {
       "appId": 1333553210,
       "previous_rank": 408,
-      "current_rank": 236,
-      "rank_change": 172,
+      "current_rank": 252,
+      "rank_change": 156,
       "category": "6002",
       "date": "2026-02-27",
       "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b1/a5/18/b1a5186e-7bc7-41e4-0f73-d38e1842cf10/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/180x180bb.png",
@@ -25,21 +14,10 @@
       "publisher": "Cardo Systems, Inc."
     },
     {
-      "appId": 6741686691,
-      "previous_rank": 275,
-      "current_rank": 104,
-      "rank_change": 171,
-      "category": "6002",
-      "date": "2026-02-27",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/73/91/6e/73916e0b-fbd9-6d6c-d2bf-d86cc669262c/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/180x180bb.png",
-      "app_name": "Tin Can - Companion App",
-      "publisher": "Tin Can"
-    },
-    {
       "appId": 6746176633,
       "previous_rank": 477,
-      "current_rank": 317,
-      "rank_change": 160,
+      "current_rank": 321,
+      "rank_change": 156,
       "category": "6002",
       "date": "2026-02-27",
       "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a4/8c/f9/a48cf9df-742f-f777-d83b-bbdc0d03aa26/AppIcon-0-0-1x_U007epad-0-11-0-85-220.png/180x180bb.png",
@@ -47,10 +25,32 @@
       "publisher": "巳瑶 管"
     },
     {
+      "appId": 6741686691,
+      "previous_rank": 275,
+      "current_rank": 139,
+      "rank_change": 136,
+      "category": "6002",
+      "date": "2026-02-27",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/73/91/6e/73916e0b-fbd9-6d6c-d2bf-d86cc669262c/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/180x180bb.png",
+      "app_name": "Tin Can - Companion App",
+      "publisher": "Tin Can"
+    },
+    {
+      "appId": 6446477593,
+      "previous_rank": 386,
+      "current_rank": 253,
+      "rank_change": 133,
+      "category": "6002",
+      "date": "2026-02-27",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/1b/81/d1/1b81d12b-c2d5-1521-9c64-2bfe2925060a/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/180x180bb.png",
+      "app_name": "Top Widgets⁺ Icons & Themes",
+      "publisher": "Chengdu Tiange Technology Co., Ltd"
+    },
+    {
       "appId": 1571506312,
       "previous_rank": 344,
-      "current_rank": 197,
-      "rank_change": 147,
+      "current_rank": 212,
+      "rank_change": 132,
       "category": "6002",
       "date": "2026-02-27",
       "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/79/50/b7/7950b743-e1d8-d953-c51f-5ab16f3403c0/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/180x180bb.png",
@@ -58,15 +58,15 @@
       "publisher": "Sociaaal LLC"
     },
     {
-      "appId": 6475598662,
-      "previous_rank": 323,
-      "current_rank": 182,
-      "rank_change": 141,
+      "appId": 1063844759,
+      "previous_rank": 387,
+      "current_rank": 258,
+      "rank_change": 129,
       "category": "6002",
       "date": "2026-02-27",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/66/7e/a0/667ea09d-7f10-6195-e6df-22dd90061396/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/180x180bb.png",
-      "app_name": "Minifig Scan",
-      "publisher": "Francis Bonnin"
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/16/1a/d8/161ad889-3ccf-7a6b-2f6a-30a04976ec0d/logo_google_fiber_color-0-0-1x_U007epad-0-11-0-85-220.png/180x180bb.png",
+      "app_name": "GFiber: The Google Fiber App",
+      "publisher": "Google"
     }
   ]
 }
