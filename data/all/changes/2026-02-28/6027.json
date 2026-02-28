@@ -5,8 +5,8 @@
     {
       "appId": 6742654016,
       "previous_rank": 430,
-      "current_rank": 193,
-      "rank_change": 237,
+      "current_rank": 181,
+      "rank_change": 249,
       "category": "6027",
       "date": "2026-02-28",
       "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6b/f2/86/6bf28615-0115-ccbc-0a95-392220a834bf/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/180x180bb.png",
@@ -16,8 +16,8 @@
     {
       "appId": 6450917549,
       "previous_rank": 392,
-      "current_rank": 211,
-      "rank_change": 181,
+      "current_rank": 186,
+      "rank_change": 206,
       "category": "6027",
       "date": "2026-02-28",
       "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/98/1b/29/981b2972-608e-fcdb-3e0d-1f0312760c78/AppIcon-0-0-1x_U007epad-0-11-0-85-220.png/180x180bb.png",
@@ -27,8 +27,8 @@
     {
       "appId": 6756092749,
       "previous_rank": 420,
-      "current_rank": 272,
-      "rank_change": 148,
+      "current_rank": 250,
+      "rank_change": 170,
       "category": "6027",
       "date": "2026-02-28",
       "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5c/ec/4e/5cec4e20-01d6-ba6e-a3fe-591094cba8cd/AppIcon-0-0-1x_U007epad-0-1-85-220.png/180x180bb.png",
@@ -36,21 +36,10 @@
       "publisher": "APEX BYTE TECHNOLOGIES LLC"
     },
     {
-      "appId": 6749193571,
-      "previous_rank": 475,
-      "current_rank": 347,
-      "rank_change": 128,
-      "category": "6027",
-      "date": "2026-02-28",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/92/ab/50/92ab500a-fb1a-eab3-5d0f-c8416f4fe4b3/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/180x180bb.png",
-      "app_name": "RoomFlow - Feng Shui Design",
-      "publisher": "New Monkey Labs LLC"
-    },
-    {
       "appId": 6523429762,
       "previous_rank": 412,
-      "current_rank": 285,
-      "rank_change": 127,
+      "current_rank": 243,
+      "rank_change": 169,
       "category": "6027",
       "date": "2026-02-28",
       "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/db/eb/c6/dbebc6d2-e3bd-0ada-f0a2-c611558f842f/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.jpeg/180x180bb.png",
@@ -58,15 +47,26 @@
       "publisher": "Pinal Goti"
     },
     {
-      "appId": 6744995861,
-      "previous_rank": 411,
-      "current_rank": 293,
-      "rank_change": 118,
+      "appId": 6446395373,
+      "previous_rank": 389,
+      "current_rank": 242,
+      "rank_change": 147,
       "category": "6027",
       "date": "2026-02-28",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9a/74/f4/9a74f47b-c200-6d61-d4d1-dfbb9f3dae45/AppIcon-1x_U007emarketing-0-11-0-85-220-0.png/180x180bb.png",
-      "app_name": "Emojito: Emoji&Sticker Maker",
-      "publisher": "Amila Mobile Limited"
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/cb/36/73/cb3673cd-a387-ba08-74a0-a42b262caac2/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/100x100bb.jpg",
+      "app_name": "AI Painting: Generate Art Girl",
+      "publisher": "BC LTD"
+    },
+    {
+      "appId": 6749193571,
+      "previous_rank": 475,
+      "current_rank": 351,
+      "rank_change": 124,
+      "category": "6027",
+      "date": "2026-02-28",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/92/ab/50/92ab500a-fb1a-eab3-5d0f-c8416f4fe4b3/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/180x180bb.png",
+      "app_name": "RoomFlow - Feng Shui Design",
+      "publisher": "New Monkey Labs LLC"
     }
   ]
 }
