@@ -5,8 +5,8 @@
     {
       "appId": 6739414192,
       "previous_rank": 443,
-      "current_rank": 230,
-      "rank_change": 213,
+      "current_rank": 251,
+      "rank_change": 192,
       "category": "6007",
       "date": "2026-03-06",
       "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c2/de/c3/c2dec372-0faf-72a9-51e0-988d1eb4557e/AppIcon-1x_U007ephone-0-1-0-85-220-0.png/180x180bb.png",
@@ -16,8 +16,8 @@
     {
       "appId": 6758149782,
       "previous_rank": 379,
-      "current_rank": 232,
-      "rank_change": 147,
+      "current_rank": 233,
+      "rank_change": 146,
       "category": "6007",
       "date": "2026-03-06",
       "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/86/15/b1/8615b174-4387-5cdb-27e5-1354e0844abb/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/180x180bb.png",
@@ -25,10 +25,21 @@
       "publisher": "SYNCWAVE LTD"
     },
     {
+      "appId": 1473562701,
+      "previous_rank": 336,
+      "current_rank": 220,
+      "rank_change": 116,
+      "category": "6007",
+      "date": "2026-03-06",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4b/7f/22/4b7f22b8-7658-8096-9f2d-c1821c034d7f/AppIcon_6-0-0-1x_U007ephone-0-1-0-85-220.png/180x180bb.png",
+      "app_name": "Sam Smart TV Remote- Things TV",
+      "publisher": "UNIVERSAL REMOTE LABS COMPANY LIMITED"
+    },
+    {
       "appId": 1561127070,
       "previous_rank": 476,
-      "current_rank": 337,
-      "rank_change": 139,
+      "current_rank": 368,
+      "rank_change": 108,
       "category": "6007",
       "date": "2026-03-06",
       "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/22/e9/ee/22e9ee8e-ca13-6760-ba2b-3b931b48ddb8/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/180x180bb.png",
@@ -38,8 +49,8 @@
     {
       "appId": 1640609657,
       "previous_rank": 488,
-      "current_rank": 365,
-      "rank_change": 123,
+      "current_rank": 384,
+      "rank_change": 104,
       "category": "6007",
       "date": "2026-03-06",
       "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d6/d4/7e/d6d47e4a-fd5f-5ff5-648c-f8fb0adf151e/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-85-220.png/180x180bb.png",
@@ -47,26 +58,15 @@
       "publisher": "BetterApp Tech Co., Limited"
     },
     {
-      "appId": 958525286,
-      "previous_rank": 469,
-      "current_rank": 347,
-      "rank_change": 122,
+      "appId": 6751109423,
+      "previous_rank": 436,
+      "current_rank": 336,
+      "rank_change": 100,
       "category": "6007",
       "date": "2026-03-06",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6f/a2/1c/6fa21c41-5547-f5fb-dc45-0b8c98dce3b5/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/180x180bb.png",
-      "app_name": "TYPE S LED",
-      "publisher": "Winplus North America Inc."
-    },
-    {
-      "appId": 1473562701,
-      "previous_rank": 336,
-      "current_rank": 221,
-      "rank_change": 115,
-      "category": "6007",
-      "date": "2026-03-06",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4b/7f/22/4b7f22b8-7658-8096-9f2d-c1821c034d7f/AppIcon_6-0-0-1x_U007ephone-0-1-0-85-220.png/180x180bb.png",
-      "app_name": "Sam Smart TV Remote- Things TV",
-      "publisher": "UNIVERSAL REMOTE LABS COMPANY LIMITED"
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f5/b9/65/f5b96523-9479-cc83-c8f9-4914934c5bbe/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/180x180bb.png",
+      "app_name": "Phone Cleanup: Storage Cleaner",
+      "publisher": "Novago Global Solutions FZ-LLC"
     }
   ]
 }
