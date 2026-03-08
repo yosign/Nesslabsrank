@@ -5,8 +5,8 @@
     {
       "appId": 6736361418,
       "previous_rank": 441,
-      "current_rank": 166,
-      "rank_change": 275,
+      "current_rank": 141,
+      "rank_change": 300,
       "category": "6002",
       "date": "2026-03-08",
       "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/cc/7b/e5/cc7be51e-75b5-8b1c-4559-132906b6fe23/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/180x180bb.png",
@@ -16,8 +16,8 @@
     {
       "appId": 6566179234,
       "previous_rank": 371,
-      "current_rank": 124,
-      "rank_change": 247,
+      "current_rank": 130,
+      "rank_change": 241,
       "category": "6002",
       "date": "2026-03-08",
       "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/fd/1a/cc/fd1accfd-6644-f545-36a9-d8a9a3bf6e78/AppIcon-0-0-1x_U007ephone-0-1-0-sRGB-85-220.jpeg/180x180bb.png",
@@ -27,8 +27,8 @@
     {
       "appId": 6742640091,
       "previous_rank": 484,
-      "current_rank": 287,
-      "rank_change": 197,
+      "current_rank": 272,
+      "rank_change": 212,
       "category": "6002",
       "date": "2026-03-08",
       "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6f/bf/54/6fbf542a-1cf0-ee86-afc2-c1ec46b0bd49/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/180x180bb.png",
@@ -36,10 +36,21 @@
       "publisher": "Xi'an Metaspeed Network Technology Limited"
     },
     {
+      "appId": 6463403383,
+      "previous_rank": 353,
+      "current_rank": 152,
+      "rank_change": 201,
+      "category": "6002",
+      "date": "2026-03-08",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ee/09/8e/ee098edf-af3e-706c-c9eb-7b523eaa3f1e/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/180x180bb.png",
+      "app_name": "Mix *** - Fast & Unlimited",
+      "publisher": "MixVpn"
+    },
+    {
       "appId": 1502012385,
       "previous_rank": 477,
-      "current_rank": 289,
-      "rank_change": 188,
+      "current_rank": 288,
+      "rank_change": 189,
       "category": "6002",
       "date": "2026-03-08",
       "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/64/d5/ff/64d5ff0a-daff-7b09-ff86-c360d76703d6/AppIcon-Vivitar-iStorage-0-1x_U007emarketing-0-7-0-0-85-220.png/180x180bb.png",
@@ -47,26 +58,15 @@
       "publisher": "振峰 皮"
     },
     {
-      "appId": 6756956211,
-      "previous_rank": 325,
-      "current_rank": 143,
-      "rank_change": 182,
+      "appId": 6461419341,
+      "previous_rank": 498,
+      "current_rank": 331,
+      "rank_change": 167,
       "category": "6002",
       "date": "2026-03-08",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/bd/de/82/bdde82ff-b493-1356-5018-0148356b3bf2/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/180x180bb.png",
-      "app_name": "AI Photo Generator - PicLab",
-      "publisher": "浩源 孙"
-    },
-    {
-      "appId": 1621229655,
-      "previous_rank": 478,
-      "current_rank": 301,
-      "rank_change": 177,
-      "category": "6002",
-      "date": "2026-03-08",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/86/d5/b7/86d5b728-a3ca-3604-3f42-576f2a17bb4f/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/180x180bb.png",
-      "app_name": "Sony | BRAVIA Connect",
-      "publisher": "Sony Corporation"
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/00/4c/98/004c98d4-d8f7-a912-2590-195c8180e7dc/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/180x180bb.png",
+      "app_name": "RemoTV: Universal TV Remote",
+      "publisher": "EpicScale Inc"
     }
   ]
 }
