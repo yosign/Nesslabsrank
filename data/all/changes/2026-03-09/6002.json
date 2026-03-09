@@ -5,8 +5,8 @@
     {
       "appId": 6757074938,
       "previous_rank": 500,
-      "current_rank": 259,
-      "rank_change": 241,
+      "current_rank": 232,
+      "rank_change": 268,
       "category": "6002",
       "date": "2026-03-09",
       "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/42/4d/52/424d52f0-24e3-0103-e871-f23c369d056f/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/180x180bb.png",
@@ -16,8 +16,8 @@
     {
       "appId": 6505038741,
       "previous_rank": 357,
-      "current_rank": 138,
-      "rank_change": 219,
+      "current_rank": 145,
+      "rank_change": 212,
       "category": "6002",
       "date": "2026-03-09",
       "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/70/1c/fb/701cfbb0-c8fd-442b-d738-192baeb17bdd/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/180x180bb.png",
@@ -36,10 +36,21 @@
       "publisher": "Nebula App Development"
     },
     {
+      "appId": 6755063086,
+      "previous_rank": 461,
+      "current_rank": 286,
+      "rank_change": 175,
+      "category": "6002",
+      "date": "2026-03-09",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/42/3f/8e/423f8e73-a993-77ce-5fbe-4ceacdc08582/AppIcon-0-0-1x_U007ephone-0-11-0-85-220.png/180x180bb.png",
+      "app_name": "Powerful Clean: Phone Cleaner",
+      "publisher": "Matthew Lewis"
+    },
+    {
       "appId": 6757940845,
       "previous_rank": 377,
-      "current_rank": 213,
-      "rank_change": 164,
+      "current_rank": 207,
+      "rank_change": 170,
       "category": "6002",
       "date": "2026-03-09",
       "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/46/aa/b1/46aab101-ede2-6bfb-3a85-f30277ba77e7/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/180x180bb.png",
@@ -47,26 +58,15 @@
       "publisher": "Weifang Shibo Information Technology Co., Ltd."
     },
     {
-      "appId": 6503116040,
-      "previous_rank": 409,
-      "current_rank": 295,
-      "rank_change": 114,
+      "appId": 1502012385,
+      "previous_rank": 406,
+      "current_rank": 241,
+      "rank_change": 165,
       "category": "6002",
       "date": "2026-03-09",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/03/ac/56/03ac56b8-ebc7-cc7a-0cd9-564333ed8057/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/180x180bb.png",
-      "app_name": "SmartRemote: TV Remote Control",
-      "publisher": "Truong Nguyen"
-    },
-    {
-      "appId": 6741784236,
-      "previous_rank": 493,
-      "current_rank": 382,
-      "rank_change": 111,
-      "category": "6002",
-      "date": "2026-03-09",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ac/bb/4d/acbb4d63-8ba0-936e-a7e6-2c830495dcb2/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/180x180bb.png",
-      "app_name": "Tattoo Maker Hello Blink",
-      "publisher": "Shenzhen Yihengke Electronic Technology Co.,Ltd."
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/64/d5/ff/64d5ff0a-daff-7b09-ff86-c360d76703d6/AppIcon-Vivitar-iStorage-0-1x_U007emarketing-0-7-0-0-85-220.png/180x180bb.png",
+      "app_name": "Vivitar Mobile Reader",
+      "publisher": "振峰 皮"
     }
   ]
 }
