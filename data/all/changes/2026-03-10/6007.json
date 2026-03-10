@@ -3,10 +3,21 @@
   "genre": "6007",
   "topRisers": [
     {
+      "appId": 6505046043,
+      "previous_rank": 462,
+      "current_rank": 252,
+      "rank_change": 210,
+      "category": "6007",
+      "date": "2026-03-10",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/40/3a/d6/403ad6e0-919a-a417-5103-13ec9c82c4ee/AppIcon-0-0-1x_U007ephone-0-1-0-0-85-220.png/180x180bb.png",
+      "app_name": "Tom *** - Fast & Secure ***",
+      "publisher": "Shanghai Chuangyi Automobile Service Co., Ltd."
+    },
+    {
       "appId": 6476165719,
       "previous_rank": 406,
-      "current_rank": 172,
-      "rank_change": 234,
+      "current_rank": 209,
+      "rank_change": 197,
       "category": "6007",
       "date": "2026-03-10",
       "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/aa/b0/06/aab00674-e232-f212-1b05-2939a113a69f/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/180x180bb.png",
@@ -14,32 +25,10 @@
       "publisher": "Informa Tech Holdings, LLC"
     },
     {
-      "appId": 1609286976,
-      "previous_rank": 403,
-      "current_rank": 201,
-      "rank_change": 202,
-      "category": "6007",
-      "date": "2026-03-10",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e6/fe/01/e6fe01f7-41b5-86d9-5b09-422a605718f7/AppIcon-1x_U007ephone-0-1-0-85-220-0.png/180x180bb.png",
-      "app_name": "Empower, by ISN",
-      "publisher": "ISNetworld"
-    },
-    {
-      "appId": 1515671684,
-      "previous_rank": 470,
-      "current_rank": 273,
-      "rank_change": 197,
-      "category": "6007",
-      "date": "2026-03-10",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/97/27/14/9727146c-bf7a-9704-fd80-37f502402e3f/AppIcon-0-0-1x_U007epad-0-0-0-1-0-85-220.png/180x180bb.png",
-      "app_name": "ArcGIS Field Maps",
-      "publisher": "ESRI"
-    },
-    {
       "appId": 6738845603,
       "previous_rank": 305,
-      "current_rank": 113,
-      "rank_change": 192,
+      "current_rank": 111,
+      "rank_change": 194,
       "category": "6007",
       "date": "2026-03-10",
       "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c6/ef/c9/c6efc9c0-e1fd-8193-7f1c-b81b13c3389a/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/180x180bb.png",
@@ -47,10 +36,21 @@
       "publisher": "Informa Support Services Inc"
     },
     {
+      "appId": 1609286976,
+      "previous_rank": 403,
+      "current_rank": 232,
+      "rank_change": 171,
+      "category": "6007",
+      "date": "2026-03-10",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e6/fe/01/e6fe01f7-41b5-86d9-5b09-422a605718f7/AppIcon-1x_U007ephone-0-1-0-85-220-0.png/180x180bb.png",
+      "app_name": "Empower, by ISN",
+      "publisher": "ISNetworld"
+    },
+    {
       "appId": 1564302502,
       "previous_rank": 454,
-      "current_rank": 276,
-      "rank_change": 178,
+      "current_rank": 286,
+      "rank_change": 168,
       "category": "6007",
       "date": "2026-03-10",
       "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/27/5a/73/275a73c0-3e7d-70ef-f3d4-31186aa21b2c/AppIcon-0-0-1x_U007emarketing-0-8-0-sRGB-85-220.png/180x180bb.png",
@@ -58,15 +58,15 @@
       "publisher": "LEADCONNECTOR LLC"
     },
     {
-      "appId": 1590868801,
-      "previous_rank": 474,
-      "current_rank": 305,
-      "rank_change": 169,
+      "appId": 6504410575,
+      "previous_rank": 485,
+      "current_rank": 319,
+      "rank_change": 166,
       "category": "6007",
       "date": "2026-03-10",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f6/2b/55/f62b5581-6a28-a308-47ca-19241c3f1021/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/180x180bb.png",
-      "app_name": "DoorLoop",
-      "publisher": "DoorLoop Inc"
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/91/d1/92/91d19215-a553-ab1f-16b7-e6df6daa66f6/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/100x100bb.jpg",
+      "app_name": "BypassGPT - AI Detector Check",
+      "publisher": "Warrance Tougas"
     }
   ]
 }
