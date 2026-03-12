@@ -5,8 +5,8 @@
     {
       "appId": 6757850568,
       "previous_rank": 442,
-      "current_rank": 263,
-      "rank_change": 179,
+      "current_rank": 237,
+      "rank_change": 205,
       "category": "6012",
       "date": "2026-03-12",
       "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1a/81/6e/1a816ed1-f6a4-3564-c44e-19f9d432c4f6/AppIcon-1x_U007ephone-0-1-85-220-0.png/180x180bb.png",
@@ -16,8 +16,8 @@
     {
       "appId": 6481705400,
       "previous_rank": 300,
-      "current_rank": 173,
-      "rank_change": 127,
+      "current_rank": 175,
+      "rank_change": 125,
       "category": "6012",
       "date": "2026-03-12",
       "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b9/96/e2/b996e2dc-e7de-2263-4d90-e3a4ca110357/AppIcon-0-0-1x_U007epad-0-1-85-220.png/180x180bb.png",
@@ -25,32 +25,10 @@
       "publisher": "Flagship AI, Inc"
     },
     {
-      "appId": 921596283,
-      "previous_rank": 405,
-      "current_rank": 293,
-      "rank_change": 112,
-      "category": "6012",
-      "date": "2026-03-12",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/cb/13/f5/cb13f5ec-0794-d2bd-1a36-208aae2d9aaf/AppIcon-0-0-1x_U007emarketing-0-8-0-sRGB-85-220.png/180x180bb.png",
-      "app_name": "GizmoHub",
-      "publisher": "Verizon Wireless"
-    },
-    {
-      "appId": 6737291521,
-      "previous_rank": 208,
-      "current_rank": 101,
-      "rank_change": 107,
-      "category": "6012",
-      "date": "2026-03-12",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/bb/84/08/bb840874-1e06-9343-4c4b-a7128eb47dc4/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/180x180bb.png",
-      "app_name": "PlayStation Family",
-      "publisher": "PlayStation Mobile Inc."
-    },
-    {
       "appId": 6448704223,
       "previous_rank": 406,
-      "current_rank": 300,
-      "rank_change": 106,
+      "current_rank": 298,
+      "rank_change": 108,
       "category": "6012",
       "date": "2026-03-12",
       "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ba/47/96/ba4796f5-bfd6-bf52-9db7-e9f829165dec/AppIcon-0-0-1x_U007epad-0-1-85-220.png/180x180bb.png",
@@ -60,13 +38,35 @@
     {
       "appId": 6670338377,
       "previous_rank": 444,
-      "current_rank": 348,
-      "rank_change": 96,
+      "current_rank": 342,
+      "rank_change": 102,
       "category": "6012",
       "date": "2026-03-12",
       "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/00/92/59/0092599d-0bef-dceb-e27b-f8c5650f2168/AriaAppIcon-0-0-1x_U007epad-0-1-85-220.png/180x180bb.png",
       "app_name": "Aria: Black Singles Dating App",
       "publisher": "Ringle Dating LTD"
+    },
+    {
+      "appId": 6737291521,
+      "previous_rank": 208,
+      "current_rank": 108,
+      "rank_change": 100,
+      "category": "6012",
+      "date": "2026-03-12",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/bb/84/08/bb840874-1e06-9343-4c4b-a7128eb47dc4/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/180x180bb.png",
+      "app_name": "PlayStation Family",
+      "publisher": "PlayStation Mobile Inc."
+    },
+    {
+      "appId": 921596283,
+      "previous_rank": 405,
+      "current_rank": 314,
+      "rank_change": 91,
+      "category": "6012",
+      "date": "2026-03-12",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/cb/13/f5/cb13f5ec-0794-d2bd-1a36-208aae2d9aaf/AppIcon-0-0-1x_U007emarketing-0-8-0-sRGB-85-220.png/180x180bb.png",
+      "app_name": "GizmoHub",
+      "publisher": "Verizon Wireless"
     }
   ]
 }
