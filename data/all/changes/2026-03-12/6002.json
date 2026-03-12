@@ -5,8 +5,8 @@
     {
       "appId": 6751850708,
       "previous_rank": 473,
-      "current_rank": 177,
-      "rank_change": 296,
+      "current_rank": 162,
+      "rank_change": 311,
       "category": "6002",
       "date": "2026-03-12",
       "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/03/c3/be/03c3be6d-eea7-e55b-8a47-b247041d509d/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/180x180bb.png",
@@ -16,8 +16,8 @@
     {
       "appId": 6757016336,
       "previous_rank": 434,
-      "current_rank": 237,
-      "rank_change": 197,
+      "current_rank": 255,
+      "rank_change": 179,
       "category": "6002",
       "date": "2026-03-12",
       "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b2/90/c2/b290c2ef-7e56-6939-3d7a-9b5fa737afc7/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/180x180bb.png",
@@ -27,8 +27,8 @@
     {
       "appId": 6748938414,
       "previous_rank": 432,
-      "current_rank": 269,
-      "rank_change": 163,
+      "current_rank": 266,
+      "rank_change": 166,
       "category": "6002",
       "date": "2026-03-12",
       "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6a/05/d3/6a05d39d-9f34-fabe-f8c8-89c5a6c14762/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.jpeg/180x180bb.png",
@@ -36,10 +36,21 @@
       "publisher": "EUZEN LTD"
     },
     {
+      "appId": 6756158601,
+      "previous_rank": 447,
+      "current_rank": 311,
+      "rank_change": 136,
+      "category": "6002",
+      "date": "2026-03-12",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e4/28/86/e4288659-bda8-19cc-735d-7122aff4dee4/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/180x180bb.png",
+      "app_name": "PhoneCleaner·AI ClearSpace",
+      "publisher": "HK MIDLAND INTERNATIONAL TRADE LIMITED"
+    },
+    {
       "appId": 6748596826,
       "previous_rank": 465,
-      "current_rank": 329,
-      "rank_change": 136,
+      "current_rank": 332,
+      "rank_change": 133,
       "category": "6002",
       "date": "2026-03-12",
       "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/26/74/7c/26747c9e-23b1-6fd0-a4fc-e23abb7d9103/AppIcon-0-0-1x_U007epad-0-11-0-85-220.png/180x180bb.png",
@@ -47,26 +58,15 @@
       "publisher": "Holymolly Limited"
     },
     {
-      "appId": 6744531647,
-      "previous_rank": 476,
-      "current_rank": 342,
-      "rank_change": 134,
+      "appId": 1333988644,
+      "previous_rank": 351,
+      "current_rank": 229,
+      "rank_change": 122,
       "category": "6002",
       "date": "2026-03-12",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5c/e9/73/5ce973cc-b721-7a14-d6f0-1dc37a07c9c8/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/180x180bb.png",
-      "app_name": "Toggle *** for Secure Internet",
-      "publisher": "Toggle"
-    },
-    {
-      "appId": 6756956211,
-      "previous_rank": 299,
-      "current_rank": 179,
-      "rank_change": 120,
-      "category": "6002",
-      "date": "2026-03-12",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/bd/de/82/bdde82ff-b493-1356-5018-0148356b3bf2/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/180x180bb.png",
-      "app_name": "AI Photo Generator - PicLab",
-      "publisher": "浩源 孙"
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/87/55/93/875593d3-5320-9f27-967f-c2e3ae603f92/AppIcon-0-1x_U007epad-0-1-85-220-0.png/180x180bb.png",
+      "app_name": "InnoCaption: Call Captioning",
+      "publisher": "Mezmo Corporation"
     }
   ]
 }
