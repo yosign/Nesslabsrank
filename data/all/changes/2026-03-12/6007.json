@@ -5,8 +5,8 @@
     {
       "appId": 1483965969,
       "previous_rank": 416,
-      "current_rank": 241,
-      "rank_change": 175,
+      "current_rank": 226,
+      "rank_change": 190,
       "category": "6007",
       "date": "2026-03-12",
       "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/96/b8/66/96b866ef-b696-7299-e0a2-a04e7bc35fb2/AppIcon-0-0-1x_U007emarketing-0-8-0-sRGB-85-220.png/180x180bb.png",
@@ -14,43 +14,10 @@
       "publisher": "TIMON SOFTWARE CO., LTD"
     },
     {
-      "appId": 1583175414,
-      "previous_rank": 339,
-      "current_rank": 178,
-      "rank_change": 161,
-      "category": "6007",
-      "date": "2026-03-12",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/74/80/fa/7480fab7-d484-8015-b2db-113ea832f1e8/AppIcon-0-1x_U007emarketing-0-8-0-85-220-0.png/180x180bb.png",
-      "app_name": "*** Privacy Proxy: Mistero ***",
-      "publisher": "Mistero VPN"
-    },
-    {
-      "appId": 6476824223,
-      "previous_rank": 466,
-      "current_rank": 323,
-      "rank_change": 143,
-      "category": "6007",
-      "date": "2026-03-12",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2e/a2/51/2ea2519c-be97-dbad-55e2-253e4b2c4374/AppIcon-0-0-1x_U007epad-0-1-85-220.png/180x180bb.png",
-      "app_name": "HelloHabit - Daily Planner",
-      "publisher": "RightLife, Inc."
-    },
-    {
-      "appId": 6746713669,
-      "previous_rank": 380,
-      "current_rank": 253,
-      "rank_change": 127,
-      "category": "6007",
-      "date": "2026-03-12",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/11/52/3a/11523a4a-3b22-ef33-7675-93177667a077/AppIcon-1x_U007ephone-0-1-85-220-0.png/180x180bb.png",
-      "app_name": "Darato Player",
-      "publisher": "Salome Astrevaux"
-    },
-    {
       "appId": 6736834691,
       "previous_rank": 497,
-      "current_rank": 372,
-      "rank_change": 125,
+      "current_rank": 346,
+      "rank_change": 151,
       "category": "6007",
       "date": "2026-03-12",
       "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/57/b3/11/57b31144-1565-f228-5ac5-83f4c9e7e0cf/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/180x180bb.png",
@@ -58,15 +25,48 @@
       "publisher": "HUBX"
     },
     {
+      "appId": 1583175414,
+      "previous_rank": 339,
+      "current_rank": 195,
+      "rank_change": 144,
+      "category": "6007",
+      "date": "2026-03-12",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/74/80/fa/7480fab7-d484-8015-b2db-113ea832f1e8/AppIcon-0-1x_U007emarketing-0-8-0-85-220-0.png/180x180bb.png",
+      "app_name": "*** Privacy Proxy: Mistero ***",
+      "publisher": "Mistero VPN"
+    },
+    {
       "appId": 1569880508,
       "previous_rank": 440,
-      "current_rank": 320,
-      "rank_change": 120,
+      "current_rank": 300,
+      "rank_change": 140,
       "category": "6007",
       "date": "2026-03-12",
       "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/8f/5a/b6/8f5ab642-28dd-b474-db1e-8eb868cd8867/AppIconPublic-0-0-1x_U007ephone-0-1-0-85-220.png/180x180bb.png",
       "app_name": "CodeRED Public Alerts",
       "publisher": "OnSolve"
+    },
+    {
+      "appId": 6476824223,
+      "previous_rank": 466,
+      "current_rank": 327,
+      "rank_change": 139,
+      "category": "6007",
+      "date": "2026-03-12",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2e/a2/51/2ea2519c-be97-dbad-55e2-253e4b2c4374/AppIcon-0-0-1x_U007epad-0-1-85-220.png/180x180bb.png",
+      "app_name": "HelloHabit - Daily Planner",
+      "publisher": "RightLife, Inc."
+    },
+    {
+      "appId": 1661969777,
+      "previous_rank": 448,
+      "current_rank": 330,
+      "rank_change": 118,
+      "category": "6007",
+      "date": "2026-03-12",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/20/f3/23/20f323af-7ded-b407-7171-4ff3eb1b8171/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/180x180bb.png",
+      "app_name": "Friday AI Email Writer",
+      "publisher": "Sekterra GmbH"
     }
   ]
 }
