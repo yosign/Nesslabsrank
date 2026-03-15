@@ -5,8 +5,8 @@
     {
       "appId": 6736361418,
       "previous_rank": 428,
-      "current_rank": 162,
-      "rank_change": 266,
+      "current_rank": 187,
+      "rank_change": 241,
       "category": "6002",
       "date": "2026-03-15",
       "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2f/5c/40/2f5c40b1-45a0-d3e3-affc-5dcb2954fe4b/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/180x180bb.png",
@@ -14,10 +14,43 @@
       "publisher": "LeoStudio Global"
     },
     {
+      "appId": 6756609448,
+      "previous_rank": 437,
+      "current_rank": 236,
+      "rank_change": 201,
+      "category": "6002",
+      "date": "2026-03-15",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2f/38/f1/2f38f1d0-0669-1731-af3e-7418c7b526b0/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/180x180bb.png",
+      "app_name": "Location Tracker – Find Phone",
+      "publisher": "Phone Finder"
+    },
+    {
+      "appId": 6737916371,
+      "previous_rank": 494,
+      "current_rank": 295,
+      "rank_change": 199,
+      "category": "6002",
+      "date": "2026-03-15",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a2/6e/d2/a26ed2ed-4a91-18ae-0743-5ead3e60e996/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/180x180bb.png",
+      "app_name": "QR Code Master: Scan & Maker",
+      "publisher": "Tiki Media LTS"
+    },
+    {
+      "appId": 6572304963,
+      "previous_rank": 312,
+      "current_rank": 122,
+      "rank_change": 190,
+      "category": "6002",
+      "date": "2026-03-15",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/01/f3/ed/01f3ed60-f141-0277-95e3-9b2801d2bf1b/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/180x180bb.png",
+      "app_name": "CastOn - Screen Mirror & Share",
+      "publisher": "EpicScale Inc"
+    },
+    {
       "appId": 6504548974,
       "previous_rank": 421,
-      "current_rank": 210,
-      "rank_change": 211,
+      "current_rank": 232,
+      "rank_change": 189,
       "category": "6002",
       "date": "2026-03-15",
       "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/21/64/aa/2164aa14-c073-0482-6b08-0d6183ed4f9a/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/180x180bb.png",
@@ -27,46 +60,13 @@
     {
       "appId": 6503116040,
       "previous_rank": 442,
-      "current_rank": 247,
-      "rank_change": 195,
+      "current_rank": 258,
+      "rank_change": 184,
       "category": "6002",
       "date": "2026-03-15",
       "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/03/ac/56/03ac56b8-ebc7-cc7a-0cd9-564333ed8057/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/180x180bb.png",
       "app_name": "SmartRemote: TV Remote Control",
       "publisher": "Truong Nguyen"
-    },
-    {
-      "appId": 1502012385,
-      "previous_rank": 404,
-      "current_rank": 211,
-      "rank_change": 193,
-      "category": "6002",
-      "date": "2026-03-15",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/64/d5/ff/64d5ff0a-daff-7b09-ff86-c360d76703d6/AppIcon-Vivitar-iStorage-0-1x_U007emarketing-0-7-0-0-85-220.png/180x180bb.png",
-      "app_name": "Vivitar Mobile Reader",
-      "publisher": "振峰 皮"
-    },
-    {
-      "appId": 6572304963,
-      "previous_rank": 312,
-      "current_rank": 126,
-      "rank_change": 186,
-      "category": "6002",
-      "date": "2026-03-15",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/01/f3/ed/01f3ed60-f141-0277-95e3-9b2801d2bf1b/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/180x180bb.png",
-      "app_name": "CastOn - Screen Mirror & Share",
-      "publisher": "EpicScale Inc"
-    },
-    {
-      "appId": 6756609448,
-      "previous_rank": 437,
-      "current_rank": 254,
-      "rank_change": 183,
-      "category": "6002",
-      "date": "2026-03-15",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2f/38/f1/2f38f1d0-0669-1731-af3e-7418c7b526b0/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/180x180bb.png",
-      "app_name": "Location Tracker – Find Phone",
-      "publisher": "Phone Finder"
     }
   ]
 }
