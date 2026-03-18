@@ -5,8 +5,8 @@
     {
       "appId": 6447277040,
       "previous_rank": 498,
-      "current_rank": 313,
-      "rank_change": 185,
+      "current_rank": 261,
+      "rank_change": 237,
       "category": "6007",
       "date": "2026-03-18",
       "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/50/59/27/5059277e-a7d5-c255-a0a0-faeb1f3cb445/AppIcon-0-0-1x_U007epad-0-1-85-220.png/180x180bb.png",
@@ -16,8 +16,8 @@
     {
       "appId": 1483965969,
       "previous_rank": 401,
-      "current_rank": 223,
-      "rank_change": 178,
+      "current_rank": 173,
+      "rank_change": 228,
       "category": "6007",
       "date": "2026-03-18",
       "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/96/b8/66/96b866ef-b696-7299-e0a2-a04e7bc35fb2/AppIcon-0-0-1x_U007emarketing-0-8-0-sRGB-85-220.png/180x180bb.png",
@@ -27,8 +27,8 @@
     {
       "appId": 6741380655,
       "previous_rank": 379,
-      "current_rank": 249,
-      "rank_change": 130,
+      "current_rank": 195,
+      "rank_change": 184,
       "category": "6007",
       "date": "2026-03-18",
       "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/fc/f0/f4/fcf0f497-791f-b04c-a34a-8d52bb640ca2/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/180x180bb.png",
@@ -36,10 +36,21 @@
       "publisher": "Reflexis Systems Inc"
     },
     {
+      "appId": 6758519111,
+      "previous_rank": 459,
+      "current_rank": 301,
+      "rank_change": 158,
+      "category": "6007",
+      "date": "2026-03-18",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/24/12/d9/2412d918-2c53-7617-da98-0172614902c8/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/180x180bb.png",
+      "app_name": "GoClaw - OpenClaw App",
+      "publisher": "Apphive Io"
+    },
+    {
       "appId": 1527395366,
       "previous_rank": 376,
-      "current_rank": 275,
-      "rank_change": 101,
+      "current_rank": 263,
+      "rank_change": 113,
       "category": "6007",
       "date": "2026-03-18",
       "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f5/b5/de/f5b5dee0-21d0-a354-eff5-5a3ea6491a18/MobiPDF_Glass-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-85-220.png/180x180bb.png",
@@ -47,26 +58,15 @@
       "publisher": "MobiSystems, Inc."
     },
     {
-      "appId": 6504545807,
-      "previous_rank": 349,
-      "current_rank": 263,
-      "rank_change": 86,
+      "appId": 6743782289,
+      "previous_rank": 496,
+      "current_rank": 387,
+      "rank_change": 109,
       "category": "6007",
       "date": "2026-03-18",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ec/51/c6/ec51c625-e30c-7a7b-7ff2-9993948d1554/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.jpg",
-      "app_name": "Plato*** Fast:Super *** Proxy",
-      "publisher": "MogoTech Inc."
-    },
-    {
-      "appId": 6741517781,
-      "previous_rank": 239,
-      "current_rank": 155,
-      "rank_change": 84,
-      "category": "6007",
-      "date": "2026-03-18",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/bb/b6/19/bbb61903-8fb3-3be7-fe7a-7301558edfdf/AppIcon-Waveform-Inverse-0-0-1x_U007ephone-0-1-85-220.png/180x180bb.png",
-      "app_name": "Cue - Smart AI Meeting Notes",
-      "publisher": "44pixels"
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7e/f5/ca/7ef5ca9a-0f05-49a8-c666-523fb3ce5510/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/180x180bb.png",
+      "app_name": "Todisk",
+      "publisher": "家乐 邓"
     }
   ]
 }
