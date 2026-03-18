@@ -5,8 +5,8 @@
     {
       "appId": 6753161422,
       "previous_rank": 499,
-      "current_rank": 353,
-      "rank_change": 146,
+      "current_rank": 317,
+      "rank_change": 182,
       "category": "6013",
       "date": "2026-03-18",
       "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9f/a4/df/9fa4df4e-ae4f-7357-ccff-3dd383b79309/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/180x180bb.png",
@@ -16,8 +16,8 @@
     {
       "appId": 1669369516,
       "previous_rank": 355,
-      "current_rank": 221,
-      "rank_change": 134,
+      "current_rank": 225,
+      "rank_change": 130,
       "category": "6013",
       "date": "2026-03-18",
       "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/57/a5/43/57a543fb-976b-f221-7efe-822cc53ea66b/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/180x180bb.png",
@@ -25,32 +25,10 @@
       "publisher": "Calm.com"
     },
     {
-      "appId": 468696158,
-      "previous_rank": 500,
-      "current_rank": 382,
-      "rank_change": 118,
-      "category": "6013",
-      "date": "2026-03-18",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3c/03/59/3c0359e2-3417-2366-390d-efac397664e6/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/180x180bb.png",
-      "app_name": "Fitness Connection",
-      "publisher": "Titan Fitness LLC"
-    },
-    {
-      "appId": 1541008525,
-      "previous_rank": 493,
-      "current_rank": 377,
-      "rank_change": 116,
-      "category": "6013",
-      "date": "2026-03-18",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5d/22/85/5d228590-2e55-8523-e725-7bd0b4cbc282/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/180x180bb.png",
-      "app_name": "The Edge Fitness",
-      "publisher": "Edge Fitness, LLC"
-    },
-    {
       "appId": 6745872964,
       "previous_rank": 186,
-      "current_rank": 77,
-      "rank_change": 109,
+      "current_rank": 69,
+      "rank_change": 117,
       "category": "6013",
       "date": "2026-03-18",
       "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/48/a5/e4/48a5e4cc-abc1-0d89-d856-e0411df94361/AppIcon-0-0-1x_U007ephone-0-11-0-85-220.png/100x100bb.jpg",
@@ -60,13 +38,35 @@
     {
       "appId": 1662980687,
       "previous_rank": 289,
-      "current_rank": 197,
-      "rank_change": 92,
+      "current_rank": 183,
+      "rank_change": 106,
       "category": "6013",
       "date": "2026-03-18",
       "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0a/e7/34/0ae7344c-6e85-81f8-12a5-9edaeb8630f4/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/180x180bb.png",
       "app_name": "Baby Milestone Tracker Sprouty",
       "publisher": "Sprouty ltd"
+    },
+    {
+      "appId": 1541008525,
+      "previous_rank": 493,
+      "current_rank": 389,
+      "rank_change": 104,
+      "category": "6013",
+      "date": "2026-03-18",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5d/22/85/5d228590-2e55-8523-e725-7bd0b4cbc282/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/180x180bb.png",
+      "app_name": "The Edge Fitness",
+      "publisher": "Edge Fitness, LLC"
+    },
+    {
+      "appId": 1244690083,
+      "previous_rank": 395,
+      "current_rank": 292,
+      "rank_change": 103,
+      "category": "6013",
+      "date": "2026-03-18",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/45/3a/ed/453aed12-2b99-6f42-f941-258769ff2340/ZZZV2-0-0-1x_U007epad-0-0-0-1-0-0-85-220.png/180x180bb.png",
+      "app_name": "Sleepiest: Sleep Sounds App",
+      "publisher": "Happiest LTD"
     }
   ]
 }
