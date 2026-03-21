@@ -5,8 +5,8 @@
     {
       "appId": 1533644988,
       "previous_rank": 432,
-      "current_rank": 146,
-      "rank_change": 286,
+      "current_rank": 123,
+      "rank_change": 309,
       "category": "6012",
       "date": "2026-03-21",
       "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/af/cd/91/afcd91eb-0683-ea81-70ae-bf9064fd974b/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/180x180bb.png",
@@ -16,8 +16,8 @@
     {
       "appId": 6474540777,
       "previous_rank": 463,
-      "current_rank": 254,
-      "rank_change": 209,
+      "current_rank": 268,
+      "rank_change": 195,
       "category": "6012",
       "date": "2026-03-21",
       "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/96/6e/1c/966e1c14-c99e-6549-6fad-6878d9cca17f/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/180x180bb.png",
@@ -27,8 +27,8 @@
     {
       "appId": 6758384130,
       "previous_rank": 500,
-      "current_rank": 321,
-      "rank_change": 179,
+      "current_rank": 337,
+      "rank_change": 163,
       "category": "6012",
       "date": "2026-03-21",
       "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/18/26/2f/18262fcb-ce2e-dd4c-815c-1b2fb9fe2c8a/AppIcon-0-1x_U007ephone-0-1-0-85-220-0.png/180x180bb.png",
@@ -36,21 +36,10 @@
       "publisher": "Kim Thanh Cao Thi"
     },
     {
-      "appId": 6754686704,
-      "previous_rank": 448,
-      "current_rank": 312,
-      "rank_change": 136,
-      "category": "6012",
-      "date": "2026-03-21",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/60/fd/af/60fdaf58-54af-71c5-9447-6f93eebe830d/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/180x180bb.png",
-      "app_name": "HotCanvas",
-      "publisher": "Yunxiao County Hongzhi Catering Co., Ltd."
-    },
-    {
       "appId": 6749118612,
       "previous_rank": 362,
-      "current_rank": 241,
-      "rank_change": 121,
+      "current_rank": 209,
+      "rank_change": 153,
       "category": "6012",
       "date": "2026-03-21",
       "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/1f/fd/92/1ffd9241-013b-ab21-5b54-fc2ea1d6c5a0/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/180x180bb.png",
@@ -58,15 +47,26 @@
       "publisher": "梓瑄 程"
     },
     {
-      "appId": 6749840554,
-      "previous_rank": 365,
-      "current_rank": 259,
-      "rank_change": 106,
+      "appId": 6754686704,
+      "previous_rank": 448,
+      "current_rank": 298,
+      "rank_change": 150,
       "category": "6012",
       "date": "2026-03-21",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/61/2a/f0/612af086-d036-5881-e0b7-b495a5fc8c01/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/180x180bb.png",
-      "app_name": "MUSE - Become Your Best Self",
-      "publisher": "Joinmuse"
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/60/fd/af/60fdaf58-54af-71c5-9447-6f93eebe830d/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/180x180bb.png",
+      "app_name": "HotCanvas",
+      "publisher": "Yunxiao County Hongzhi Catering Co., Ltd."
+    },
+    {
+      "appId": 1663417261,
+      "previous_rank": 423,
+      "current_rank": 289,
+      "rank_change": 134,
+      "category": "6012",
+      "date": "2026-03-21",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/15/5a/80/155a803f-da9a-656b-bd41-f63bb5353433/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/180x180bb.png",
+      "app_name": "Ravi: Video Chat, Meet Singles",
+      "publisher": "Dinh Thuan Nguyen"
     }
   ]
 }
