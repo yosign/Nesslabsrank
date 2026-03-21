@@ -1,0 +1,451 @@
+{
+  "date": "2026-03-21",
+  "changes": {
+    "6013": {
+      "added": [
+        {
+          "appId": 825019869,
+          "name": "CrossFit",
+          "publisher": "CrossFit, Inc.",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/45/19/9c/45199cf4-243e-a3c5-9368-b65a578c8074/AppIcon-0-0-1x_U007ephone-0-1-0-sRGB-85-220.png/180x180bb.png",
+          "rating": 4.7,
+          "ratingCount": 3783,
+          "price": "0.00",
+          "rank": 171,
+          "category": "6013"
+        },
+        {
+          "appId": 596132953,
+          "name": "RaceJoy",
+          "publisher": "TriPerta LLC",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ad/a2/6c/ada26cf4-5f26-9b9c-321d-de032bfe6d1a/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/180x180bb.png",
+          "rating": 3.9,
+          "ratingCount": 1478,
+          "price": "0.00",
+          "rank": 282,
+          "category": "6013"
+        },
+        {
+          "appId": 6463806153,
+          "name": "Evernorth",
+          "publisher": "Evernorth",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/43/92/a0/4392a02a-7c06-7e2f-8b79-b6d1b0cddc3c/AppIcon-1x_U007emarketing-0-11-0-85-220-0.png/180x180bb.png",
+          "rating": 4.6,
+          "ratingCount": 994,
+          "price": "0.00",
+          "rank": 342,
+          "category": "6013"
+        },
+        {
+          "appId": 6759469580,
+          "name": "Lower Your Gaze: Quit Porn",
+          "publisher": "Lower Your Gaze LLC",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/33/d0/23/33d0238b-eb49-653b-aa88-b2bcc3fb56e7/AppIcon-0-0-1x_U007epad-0-1-85-220.png/180x180bb.png",
+          "rating": 0,
+          "ratingCount": 0,
+          "price": "0.00",
+          "rank": 357,
+          "category": "6013"
+        },
+        {
+          "appId": 6756963067,
+          "name": "Capple",
+          "publisher": "Anh Thai Tuan",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a4/43/02/a4430233-8478-3daf-78cc-4a6aeea8d1f8/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/180x180bb.png",
+          "rating": 4.4,
+          "ratingCount": 10,
+          "price": "0.00",
+          "rank": 385,
+          "category": "6013"
+        },
+        {
+          "appId": 6746347927,
+          "name": "Color Sort: Brain Games",
+          "publisher": "SocialLoop LLC",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d1/ca/da/d1cadaef-5619-7a2f-5387-8b8377adadb1/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/180x180bb.png",
+          "rating": 4.8,
+          "ratingCount": 4473,
+          "price": "0.00",
+          "rank": 392,
+          "category": "6013"
+        },
+        {
+          "appId": 1439828095,
+          "name": "SHRED: Gym & Home Workouts",
+          "publisher": "Shred Labs, LLC",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c3/36/7f/c3367fa1-e652-a00a-1ce1-efc72f315cb3/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/180x180bb.png",
+          "rating": 4.8,
+          "ratingCount": 39900,
+          "price": "0.00",
+          "rank": 399,
+          "category": "6013"
+        },
+        {
+          "appId": 1352346712,
+          "name": "Urent: e-scooter rental",
+          "publisher": "Urent",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2d/a8/33/2da83377-2781-4c5e-f07f-e5b9c87486cd/UrentApplicationIcon-0-0-1x_U007ephone-0-0-0-1-0-0-sRGB-85-220.png/180x180bb.png",
+          "rating": 4.6,
+          "ratingCount": 6327,
+          "price": "0.00",
+          "rank": 416,
+          "category": "6013"
+        },
+        {
+          "appId": 6742134509,
+          "name": "QuickPulse: Blood Pressure",
+          "publisher": "Guangzhou Heqi Zhixiang Network Technology Co., Ltd.",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d6/f0/10/d6f0101b-f5f8-8328-4858-a06d088ec11d/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/180x180bb.png",
+          "rating": 4.2,
+          "ratingCount": 2421,
+          "price": "0.00",
+          "rank": 418,
+          "category": "6013"
+        },
+        {
+          "appId": 1556701665,
+          "name": "Allergy Plus by Pollen.com",
+          "publisher": "IQVIA Inc.",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/07/8e/7b/078e7b14-41ad-d498-bd65-852007659a76/AppIcon-0-0-1x_U007ephone-0-85-220.png/180x180bb.png",
+          "rating": 4.8,
+          "ratingCount": 21000,
+          "price": "0.00",
+          "rank": 425,
+          "category": "6013"
+        },
+        {
+          "appId": 890526071,
+          "name": "We-Vibe App",
+          "publisher": "We-Vibe",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f9/69/0b/f9690b05-3255-1f00-00bc-135b0c2e801a/Production-Icon-0-0-1x_U007emarketing-0-8-0-85-220.png/180x180bb.png",
+          "rating": 4,
+          "ratingCount": 30400,
+          "price": "0.00",
+          "rank": 453,
+          "category": "6013"
+        },
+        {
+          "appId": 6503193880,
+          "name": "Tap Fan Noise for Sleep",
+          "publisher": "AirByte Technology Co., Ltd.",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/27/21/8b/27218b57-d65d-7c12-03b5-2b809974a87a/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/180x180bb.png",
+          "rating": 4.9,
+          "ratingCount": 2441,
+          "price": "0.00",
+          "rank": 466,
+          "category": "6013"
+        },
+        {
+          "appId": 1464574522,
+          "name": "Engage - Your Club",
+          "publisher": "Herbalife International of America, Inc.",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/74/6b/cc/746bccc0-2cf4-6acb-c4ad-0bd13404f69b/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/180x180bb.png",
+          "rating": 3.5,
+          "ratingCount": 175,
+          "price": "0.00",
+          "rank": 475,
+          "category": "6013"
+        },
+        {
+          "appId": 636875425,
+          "name": "TrailLink: Bike, Run, Walk",
+          "publisher": "Rails to Trails Conservancy",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/60/92/2e/60922e58-aa46-cd55-3d1d-0ba6b86e4277/AppIcon-0-0-1x_U007emarketing-0-11-0-sRGB-85-220.png/100x100bb.jpg",
+          "rating": 4.6,
+          "ratingCount": 7694,
+          "price": "0.00",
+          "rank": 477,
+          "category": "6013"
+        },
+        {
+          "appId": 6599857869,
+          "name": "Brain Training: Logic puzzles",
+          "publisher": "SocialLoop LLC",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b4/df/b9/b4dfb982-a02d-65db-9eba-e0a1fae4d48b/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/180x180bb.png",
+          "rating": 4.7,
+          "ratingCount": 4861,
+          "price": "0.00",
+          "rank": 483,
+          "category": "6013"
+        },
+        {
+          "appId": 983693694,
+          "name": "Yoga | Down Dog",
+          "publisher": "Yoga Buddhi Co.",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9c/9a/d7/9c9ad7c7-c3eb-983f-9773-f0e2d34ff8d6/Original-0-0-1x_U007emarketing-0-8-0-0-85-220.png/180x180bb.png",
+          "rating": 4.9,
+          "ratingCount": 323000,
+          "price": "0.00",
+          "rank": 488,
+          "category": "6013"
+        },
+        {
+          "appId": 1609304497,
+          "name": "Workout Anytime Go",
+          "publisher": "Workout Anytime",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f8/70/54/f8705469-f183-fa29-47f3-3e665859497c/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/180x180bb.png",
+          "rating": 3.8,
+          "ratingCount": 305,
+          "price": "0.00",
+          "rank": 490,
+          "category": "6013"
+        },
+        {
+          "appId": 1561663276,
+          "name": "Vibrator - Strong Massage App",
+          "publisher": "Antony Starkov",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e2/98/de/e298deac-bd7e-7a19-2ca3-6f2d4b009f70/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/180x180bb.png",
+          "rating": 3.9,
+          "ratingCount": 6711,
+          "price": "0.00",
+          "rank": 491,
+          "category": "6013"
+        },
+        {
+          "appId": 6740344645,
+          "name": "Coherence - Breathwork",
+          "publisher": "John Sweeney",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/af/c0/2a/afc02a50-afcd-cd53-228b-d6fe23ba6097/AppIcon-0-0-1x_U007epad-0-1-85-220.png/180x180bb.png",
+          "rating": 4.8,
+          "ratingCount": 308,
+          "price": "0.00",
+          "rank": 492,
+          "category": "6013"
+        },
+        {
+          "appId": 6446165914,
+          "name": "Oregon One Mobile",
+          "publisher": "State of Oregon Health Authority",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/92/66/56/9266564f-206c-83cc-8986-fa6e767bde64/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/180x180bb.png",
+          "rating": 2.3,
+          "ratingCount": 194,
+          "price": "0.00",
+          "rank": 499,
+          "category": "6013"
+        }
+      ],
+      "removed": [
+        {
+          "appId": 1587218079,
+          "name": "Sleep Jar",
+          "publisher": "INVOKED APPS LLC DBA SLEEP JAR",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/13/46/72/13467211-0af4-f1be-032b-8af411c841cf/AppIcon-0-0-1x_U007emarketing-0-8-0-0-GLES2_U002c0-85-220.png/180x180bb.png",
+          "rating": 4.8,
+          "ratingCount": 547,
+          "price": "0.00",
+          "rank": 383,
+          "category": "6013"
+        },
+        {
+          "appId": 6749455368,
+          "name": "Juno: Chronic Illness Support",
+          "publisher": "Marshall Gould",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/de/89/3c/de893c83-d9e0-b301-1c83-d8064f2ac727/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/180x180bb.png",
+          "rating": 4.7,
+          "ratingCount": 721,
+          "price": "0.00",
+          "rank": 411,
+          "category": "6013"
+        },
+        {
+          "appId": 6468574624,
+          "name": "Xeela: Train, Fuel, Transform",
+          "publisher": "XEELA LLC",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/91/1b/38/911b385a-899e-619c-ade6-d37fbc14ce95/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/180x180bb.png",
+          "rating": 4.6,
+          "ratingCount": 1227,
+          "price": "0.00",
+          "rank": 426,
+          "category": "6013"
+        },
+        {
+          "appId": 6758682710,
+          "name": "Pep AI - Peptide Tracker",
+          "publisher": "Cedric Roberge",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a4/cc/80/a4cc8085-5600-35df-b2f4-61f832ef3b7c/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/180x180bb.png",
+          "rating": 4.6,
+          "ratingCount": 55,
+          "price": "0.00",
+          "rank": 428,
+          "category": "6013"
+        },
+        {
+          "appId": 1470065487,
+          "name": "Dr. Kegel: For Men’s Health",
+          "publisher": "ApperCut",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1a/9a/d4/1a9ad4ac-be84-0cfc-9b15-2f8527d2672d/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/180x180bb.png",
+          "rating": 4.8,
+          "ratingCount": 38900,
+          "price": "0.00",
+          "rank": 447,
+          "category": "6013"
+        },
+        {
+          "appId": 6747117100,
+          "name": "Military Workout: Muscle Max",
+          "publisher": "Fast Builder Limited",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/8c/89/23/8c8923fb-5a44-25c0-58c4-403501b78b0c/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/180x180bb.png",
+          "rating": 4.9,
+          "ratingCount": 664,
+          "price": "0.00",
+          "rank": 452,
+          "category": "6013"
+        },
+        {
+          "appId": 1317708557,
+          "name": "Modento",
+          "publisher": "Modento Inc.",
+          "icon": "https://is5-ssl.mzstatic.com/image/thumb/Purple124/v4/4b/9e/ec/4b9eec4b-1b09-00ac-b26d-eded10c8d377/AppIcon-0-0-1x_U007emarketing-0-0-0-5-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.jpeg/100x100bb.jpg",
+          "rating": 3.1,
+          "ratingCount": 56,
+          "price": "0.00",
+          "rank": 453,
+          "category": "6013"
+        },
+        {
+          "appId": 6476418203,
+          "name": "Clear30: Reset From Weed",
+          "publisher": "Clear 30 LLC",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/41/f1/63/41f163b3-c6fa-da26-3186-8e86c37ac0c5/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/180x180bb.png",
+          "rating": 4.7,
+          "ratingCount": 2738,
+          "price": "0.00",
+          "rank": 459,
+          "category": "6013"
+        },
+        {
+          "appId": 6746929680,
+          "name": "CardiaLink-Heart rate&Health",
+          "publisher": "Hunan Anpai Information Technology LTD.",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ae/f1/84/aef1844e-6334-06fb-32a7-a004315a8b20/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.jpeg/180x180bb.png",
+          "rating": 4.8,
+          "ratingCount": 7048,
+          "price": "0.00",
+          "rank": 463,
+          "category": "6013"
+        },
+        {
+          "appId": 6744065678,
+          "name": "Luminous - Rupert Spira",
+          "publisher": "Aware Presence Ltd",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/98/47/c9/9847c964-e715-e2fb-60c3-1fa11f0e6b6e/AppIcon-0-0-1x_U007epad-0-1-85-220.png/180x180bb.png",
+          "rating": 0,
+          "ratingCount": 0,
+          "price": "0.00",
+          "rank": 465,
+          "category": "6013"
+        },
+        {
+          "appId": 6529534878,
+          "name": "NoCarbsChallenge",
+          "publisher": "KETO DIETS UAB",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/17/96/eb/1796eb39-bae8-f5da-1cce-fe263f29ed6c/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/180x180bb.png",
+          "rating": 4.5,
+          "ratingCount": 3188,
+          "price": "0.00",
+          "rank": 475,
+          "category": "6013"
+        },
+        {
+          "appId": 1446224156,
+          "name": "Fitness AI Gym Workout Planner",
+          "publisher": "FitnessAI Inc.",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/68/96/ff/6896ffd4-cdd1-a8c4-e6c2-934bf382fc00/AppIcon-0-0-1x_U007ephone-0-1-0-sRGB-85-220.png/180x180bb.png",
+          "rating": 4.7,
+          "ratingCount": 55000,
+          "price": "0.00",
+          "rank": 478,
+          "category": "6013"
+        },
+        {
+          "appId": 901989849,
+          "name": "Mamava - Breastfeed on the Go",
+          "publisher": "Mamava, Inc.",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/75/57/d3/7557d376-a7a7-a732-9910-90e8988a4a26/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/180x180bb.png",
+          "rating": 4.7,
+          "ratingCount": 1966,
+          "price": "0.00",
+          "rank": 480,
+          "category": "6013"
+        },
+        {
+          "appId": 577198251,
+          "name": "DrChrono OnPatient Portal",
+          "publisher": "drchrono Inc",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/59/2a/7e/592a7e87-a113-95fb-9eda-de902bd32cb6/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/180x180bb.png",
+          "rating": 1.8,
+          "ratingCount": 96,
+          "price": "0.00",
+          "rank": 482,
+          "category": "6013"
+        },
+        {
+          "appId": 687176839,
+          "name": "Think Dirty – Shop Clean",
+          "publisher": "Think Dirty Inc.",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7c/4a/5e/7c4a5e3f-36de-8108-5dd3-508b452a41f1/AppIconDefault-0-0-1x_U007emarketing-0-8-0-85-220.png/180x180bb.png",
+          "rating": 4.8,
+          "ratingCount": 54300,
+          "price": "0.00",
+          "rank": 489,
+          "category": "6013"
+        },
+        {
+          "appId": 6754873268,
+          "name": "InnerFlo: Calm & Focus",
+          "publisher": "INNODIETS UAB",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5e/9f/05/5e9f05cc-a282-de63-5ee8-201151bac9b8/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/180x180bb.png",
+          "rating": 4.1,
+          "ratingCount": 60,
+          "price": "0.00",
+          "rank": 492,
+          "category": "6013"
+        },
+        {
+          "appId": 1214456782,
+          "name": "Club Life - Gym Membership",
+          "publisher": "Peak Payment",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/70/6f/47/706f47f9-0d89-30ba-571c-ed6c296e0e99/Club_Life-0-0-1x_U007emarketing-0-8-0-85-220.png/180x180bb.png",
+          "rating": 2.9,
+          "ratingCount": 10,
+          "price": "0.00",
+          "rank": 495,
+          "category": "6013"
+        },
+        {
+          "appId": 1626839977,
+          "name": "Prehab: Physical Therapy, Pain",
+          "publisher": "The Prehab Guys",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/fc/5f/f4/fc5ff4db-c530-def7-dd9e-f63c1b52737f/prodAppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/180x180bb.png",
+          "rating": 4.8,
+          "ratingCount": 1627,
+          "price": "0.00",
+          "rank": 497,
+          "category": "6013"
+        },
+        {
+          "appId": 1039656691,
+          "name": "Lotus Flow - Yoga & Workout",
+          "publisher": "HUBX",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ae/ac/9a/aeac9a1f-891a-5032-461b-874f79ef6f5f/AppIcon-0-0-1x_U007epad-0-1-85-220.png/180x180bb.png",
+          "rating": 4.7,
+          "ratingCount": 2817,
+          "price": "0.00",
+          "rank": 499,
+          "category": "6013"
+        },
+        {
+          "appId": 1579097649,
+          "name": "Fit19",
+          "publisher": "Endo Fitness LLC",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8e/1a/d0/8e1ad0ed-6613-1f69-b2d8-e383b125dcef/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/180x180bb.png",
+          "rating": 4.7,
+          "ratingCount": 909,
+          "price": "0.00",
+          "rank": 500,
+          "category": "6013"
+        }
+      ]
+    }
+  }
+}
