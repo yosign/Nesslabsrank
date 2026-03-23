@@ -3,10 +3,21 @@
   "genre": "6027",
   "topRisers": [
     {
+      "appId": 6758496067,
+      "previous_rank": 455,
+      "current_rank": 189,
+      "rank_change": 266,
+      "category": "6027",
+      "date": "2026-03-23",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/de/ca/9b/deca9bc6-74d8-af58-a1aa-018ed5e30ea7/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/180x180bb.png",
+      "app_name": "Spiral Art: Relax & Create",
+      "publisher": "Braly"
+    },
+    {
       "appId": 6748971366,
       "previous_rank": 479,
-      "current_rank": 305,
-      "rank_change": 174,
+      "current_rank": 345,
+      "rank_change": 134,
       "category": "6027",
       "date": "2026-03-23",
       "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/89/4a/b7/894ab7b0-8fc4-27e8-ac1f-59620daa879d/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/180x180bb.png",
@@ -14,21 +25,10 @@
       "publisher": "Voice Inc."
     },
     {
-      "appId": 6756230463,
-      "previous_rank": 461,
-      "current_rank": 328,
-      "rank_change": 133,
-      "category": "6027",
-      "date": "2026-03-23",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/07/c3/64/07c3640a-1555-364f-1e63-e7ea5853075a/AppIcon-0-0-1x_U007epad-0-1-85-220.png/180x180bb.png",
-      "app_name": "Mockup Clothing Design Tool",
-      "publisher": "Nikita Cheremisinov"
-    },
-    {
       "appId": 6743692917,
       "previous_rank": 446,
-      "current_rank": 338,
-      "rank_change": 108,
+      "current_rank": 315,
+      "rank_change": 131,
       "category": "6027",
       "date": "2026-03-23",
       "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/bc/e5/06/bce5068a-600b-3f86-784a-e2717de9972c/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/180x180bb.png",
@@ -36,37 +36,37 @@
       "publisher": "Shanghai Xingyue Materials Co., Ltd."
     },
     {
-      "appId": 6753702503,
-      "previous_rank": 467,
+      "appId": 1540481842,
+      "previous_rank": 482,
       "current_rank": 359,
-      "rank_change": 108,
+      "rank_change": 123,
       "category": "6027",
       "date": "2026-03-23",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/31/10/8b/31108b0e-9468-94f0-52e4-584b4ff5dc0c/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/180x180bb.png",
-      "app_name": "AI House Exterior Design",
-      "publisher": "蓉 张"
-    },
-    {
-      "appId": 1600636838,
-      "previous_rank": 325,
-      "current_rank": 222,
-      "rank_change": 103,
-      "category": "6027",
-      "date": "2026-03-23",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3e/69/91/3e699188-9354-eb15-5b13-adff4dde08b1/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/180x180bb.png",
-      "app_name": "Dazz Cam",
-      "publisher": "伟 刘"
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/36/42/6b/36426b45-83b0-c072-4516-fad4c7a74c08/AppIcon-1x_U007emarketing-0-8-0-0-85-220-0.png/180x180bb.png",
+      "app_name": "How Old Do I Look? Age Camera",
+      "publisher": "长金 胡"
     },
     {
       "appId": 6756092749,
       "previous_rank": 381,
-      "current_rank": 285,
-      "rank_change": 96,
+      "current_rank": 259,
+      "rank_change": 122,
       "category": "6027",
       "date": "2026-03-23",
       "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0a/01/b5/0a01b596-5c78-2577-bfa5-aad9be1865fc/AppIcon-0-0-1x_U007epad-0-1-85-220.png/180x180bb.png",
       "app_name": "House AI - Interior Design Pro",
       "publisher": "APEX BYTE TECHNOLOGIES LLC"
+    },
+    {
+      "appId": 1664391616,
+      "previous_rank": 459,
+      "current_rank": 343,
+      "rank_change": 116,
+      "category": "6027",
+      "date": "2026-03-23",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/11/fe/5f/11fe5f00-b767-deee-a7d8-d1f8e0418ebd/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/180x180bb.png",
+      "app_name": "HiPaint- Sketch & Paint",
+      "publisher": "艾戈科技(武汉)有限公司"
     }
   ]
 }
