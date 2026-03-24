@@ -5,8 +5,8 @@
     {
       "appId": 6759555389,
       "previous_rank": 442,
-      "current_rank": 109,
-      "rank_change": 333,
+      "current_rank": 111,
+      "rank_change": 331,
       "category": "6007",
       "date": "2026-03-24",
       "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ae/91/73/ae9173e9-7f4b-aec7-d666-6293e5e2e30b/AppIcon-0-0-1x_U007epad-0-8-0-85-220.png/180x180bb.png",
@@ -16,8 +16,8 @@
     {
       "appId": 287170072,
       "previous_rank": 366,
-      "current_rank": 138,
-      "rank_change": 228,
+      "current_rank": 151,
+      "rank_change": 215,
       "category": "6007",
       "date": "2026-03-24",
       "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/82/a2/5b/82a25bff-8947-2638-a7c4-c96488254338/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/180x180bb.png",
@@ -25,10 +25,21 @@
       "publisher": "Callpod Inc."
     },
     {
+      "appId": 6753937623,
+      "previous_rank": 247,
+      "current_rank": 72,
+      "rank_change": 175,
+      "category": "6007",
+      "date": "2026-03-24",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/1e/ed/31/1eed3159-b53f-9da5-ac08-a0e5a3341ecf/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/180x180bb.png",
+      "app_name": "*** Fly 2026",
+      "publisher": "VPN FREE CO., LIMITED"
+    },
+    {
       "appId": 1609286976,
       "previous_rank": 428,
-      "current_rank": 249,
-      "rank_change": 179,
+      "current_rank": 269,
+      "rank_change": 159,
       "category": "6007",
       "date": "2026-03-24",
       "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e6/fe/01/e6fe01f7-41b5-86d9-5b09-422a605718f7/AppIcon-1x_U007ephone-0-1-0-85-220-0.png/180x180bb.png",
@@ -38,8 +49,8 @@
     {
       "appId": 1564302502,
       "previous_rank": 462,
-      "current_rank": 285,
-      "rank_change": 177,
+      "current_rank": 321,
+      "rank_change": 141,
       "category": "6007",
       "date": "2026-03-24",
       "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b3/f7/19/b3f719f1-1eea-e049-9677-56ed92986552/AppIcon-0-0-1x_U007emarketing-0-8-0-sRGB-85-220.png/180x180bb.png",
@@ -47,26 +58,15 @@
       "publisher": "LEADCONNECTOR LLC"
     },
     {
-      "appId": 1006971684,
-      "previous_rank": 477,
-      "current_rank": 314,
-      "rank_change": 163,
+      "appId": 6748651078,
+      "previous_rank": 451,
+      "current_rank": 318,
+      "rank_change": 133,
       "category": "6007",
       "date": "2026-03-24",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/98/55/77/985577c8-d78a-5bc8-7dfb-7a829dfecaf4/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/180x180bb.png",
-      "app_name": "Confluence Cloud",
-      "publisher": "Atlassian"
-    },
-    {
-      "appId": 1515671684,
-      "previous_rank": 471,
-      "current_rank": 316,
-      "rank_change": 155,
-      "category": "6007",
-      "date": "2026-03-24",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4f/14/78/4f1478c2-dbec-9b0a-1ff3-619d391e42a2/AppIcon-0-0-1x_U007epad-0-0-0-1-0-85-220.png/180x180bb.png",
-      "app_name": "ArcGIS Field Maps",
-      "publisher": "ESRI"
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/bf/d4/e1/bfd4e153-59ab-f63d-0f5e-2d9cd04d9f59/AppIcon-0-0-1x_U007epad-0-11-0-85-220.jpeg/180x180bb.png",
+      "app_name": "Lens - PDF Scanner and Editor",
+      "publisher": "Theresa Jackson"
     }
   ]
 }
