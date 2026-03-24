@@ -3,21 +3,10 @@
   "genre": "6002",
   "topRisers": [
     {
-      "appId": 1605131517,
-      "previous_rank": 499,
-      "current_rank": 289,
-      "rank_change": 210,
-      "category": "6002",
-      "date": "2026-03-24",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e7/7a/71/e77a7108-a918-833f-f7f2-75197e47508d/AppIconFree-0-0-1x_U007epad-0-1-0-85-220.png/180x180bb.png",
-      "app_name": "Smart Alarm Clock - Waking Up",
-      "publisher": "Appenvision Ltd"
-    },
-    {
       "appId": 6742165758,
       "previous_rank": 315,
-      "current_rank": 106,
-      "rank_change": 209,
+      "current_rank": 74,
+      "rank_change": 241,
       "category": "6002",
       "date": "2026-03-24",
       "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0c/2b/8f/0c2b8f86-f632-35e5-0a36-550a907fe256/AppIcon-Default-0-0-1x_U007epad-0-1-0-85-220.png/180x180bb.png",
@@ -25,32 +14,21 @@
       "publisher": "thuy nguyen thi thu"
     },
     {
-      "appId": 6636543626,
-      "previous_rank": 370,
-      "current_rank": 173,
-      "rank_change": 197,
+      "appId": 1605131517,
+      "previous_rank": 499,
+      "current_rank": 278,
+      "rank_change": 221,
       "category": "6002",
       "date": "2026-03-24",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4c/26/4d/4c264dc1-3a1d-6315-5090-cc56392a4904/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/180x180bb.png",
-      "app_name": "Authenticator App－2FAS・MFA・OTP",
-      "publisher": "FLOOMIX LTD"
-    },
-    {
-      "appId": 6479176299,
-      "previous_rank": 472,
-      "current_rank": 282,
-      "rank_change": 190,
-      "category": "6002",
-      "date": "2026-03-24",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e3/91/17/e391178b-83df-7dc3-b3fc-d4b641108248/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/180x180bb.png",
-      "app_name": "DynamicDrive",
-      "publisher": "National General Insurance Company"
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e7/7a/71/e77a7108-a918-833f-f7f2-75197e47508d/AppIconFree-0-0-1x_U007epad-0-1-0-85-220.png/180x180bb.png",
+      "app_name": "Smart Alarm Clock - Waking Up",
+      "publisher": "Appenvision Ltd"
     },
     {
       "appId": 1468092377,
       "previous_rank": 477,
-      "current_rank": 297,
-      "rank_change": 180,
+      "current_rank": 277,
+      "rank_change": 200,
       "category": "6002",
       "date": "2026-03-24",
       "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/73/64/3d/73643d7a-9dea-18e2-d98c-319c2edcb973/AppIcon-1-0-0-1x_U007emarketing-0-7-0-85-220.png/180x180bb.png",
@@ -60,13 +38,35 @@
     {
       "appId": 6756350721,
       "previous_rank": 373,
-      "current_rank": 218,
-      "rank_change": 155,
+      "current_rank": 176,
+      "rank_change": 197,
       "category": "6002",
       "date": "2026-03-24",
       "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/93/27/94/932794f7-3c9f-cf14-2694-56fb9f93d8e3/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/180x180bb.png",
       "app_name": "Room AI : Interior Design",
       "publisher": "Frontier Creation HK Limited"
+    },
+    {
+      "appId": 6479176299,
+      "previous_rank": 472,
+      "current_rank": 287,
+      "rank_change": 185,
+      "category": "6002",
+      "date": "2026-03-24",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e3/91/17/e391178b-83df-7dc3-b3fc-d4b641108248/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/180x180bb.png",
+      "app_name": "DynamicDrive",
+      "publisher": "National General Insurance Company"
+    },
+    {
+      "appId": 6636543626,
+      "previous_rank": 370,
+      "current_rank": 195,
+      "rank_change": 175,
+      "category": "6002",
+      "date": "2026-03-24",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4c/26/4d/4c264dc1-3a1d-6315-5090-cc56392a4904/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/180x180bb.png",
+      "app_name": "Authenticator App－2FAS・MFA・OTP",
+      "publisher": "FLOOMIX LTD"
     }
   ]
 }
