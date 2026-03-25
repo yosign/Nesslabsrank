@@ -3,43 +3,10 @@
   "genre": "6013",
   "topRisers": [
     {
-      "appId": 6754256543,
-      "previous_rank": 381,
-      "current_rank": 244,
-      "rank_change": 137,
-      "category": "6013",
-      "date": "2026-03-25",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6c/04/e6/6c04e67f-3caa-7ae1-e90b-21f969c72b86/AppIcon-0-0-1x_U007epad-0-1-85-220.png/180x180bb.png",
-      "app_name": "Juula - Track Your Dolma",
-      "publisher": "AWNY HOLDINGS INC."
-    },
-    {
-      "appId": 6743873832,
-      "previous_rank": 474,
-      "current_rank": 347,
-      "rank_change": 127,
-      "category": "6013",
-      "date": "2026-03-25",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e0/38/98/e03898bf-db18-1041-d209-e88ae3f825fd/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/180x180bb.png",
-      "app_name": "Mindflow AI: Overcome ADHD",
-      "publisher": "Mindflow AI Inc."
-    },
-    {
-      "appId": 6464039357,
-      "previous_rank": 387,
-      "current_rank": 262,
-      "rank_change": 125,
-      "category": "6013",
-      "date": "2026-03-25",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/88/13/29/88132904-f616-4a30-221d-81a9d1676b2e/AppIcon-0-0-1x_U007ephone-0-11-0-85-220.png/180x180bb.png",
-      "app_name": "Blood Pressure Tracker - Ease",
-      "publisher": "ORBITAL TECH PTE. LTD."
-    },
-    {
       "appId": 6468574624,
       "previous_rank": 420,
-      "current_rank": 306,
-      "rank_change": 114,
+      "current_rank": 250,
+      "rank_change": 170,
       "category": "6013",
       "date": "2026-03-25",
       "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/91/1b/38/911b385a-899e-619c-ade6-d37fbc14ce95/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/180x180bb.png",
@@ -47,26 +14,59 @@
       "publisher": "XEELA LLC"
     },
     {
-      "appId": 957943648,
-      "previous_rank": 475,
-      "current_rank": 371,
-      "rank_change": 104,
+      "appId": 6743873832,
+      "previous_rank": 474,
+      "current_rank": 310,
+      "rank_change": 164,
       "category": "6013",
       "date": "2026-03-25",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4e/53/3d/4e533d84-7526-7262-7abf-d32ce625e6e9/AppIcon-0-1x_U007epad-0-1-0-85-220-0.png/180x180bb.png",
-      "app_name": "Wellness At Your Side",
-      "publisher": "WebMD Health Services"
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e0/38/98/e03898bf-db18-1041-d209-e88ae3f825fd/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/180x180bb.png",
+      "app_name": "Mindflow AI: Overcome ADHD",
+      "publisher": "Mindflow AI Inc."
     },
     {
-      "appId": 6748829805,
-      "previous_rank": 484,
-      "current_rank": 390,
-      "rank_change": 94,
+      "appId": 6754256543,
+      "previous_rank": 381,
+      "current_rank": 253,
+      "rank_change": 128,
       "category": "6013",
       "date": "2026-03-25",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/84/be/5b/84be5b7c-ea19-8a46-2fb5-b0a4438dea7f/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/180x180bb.png",
-      "app_name": "CommonSpirit - CO/KS/UT",
-      "publisher": "CommonSpirit Health"
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6c/04/e6/6c04e67f-3caa-7ae1-e90b-21f969c72b86/AppIcon-0-0-1x_U007epad-0-1-85-220.png/180x180bb.png",
+      "app_name": "Juula - Track Your Dolma",
+      "publisher": "AWNY HOLDINGS INC."
+    },
+    {
+      "appId": 1232718688,
+      "previous_rank": 455,
+      "current_rank": 331,
+      "rank_change": 124,
+      "category": "6013",
+      "date": "2026-03-25",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/29/02/0a/29020a86-14a8-1f61-edbc-ec772574b173/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/180x180bb.png",
+      "app_name": "CDC\\'s Milestone Tracker",
+      "publisher": "Centers For Disease Control and Prevention"
+    },
+    {
+      "appId": 1584405331,
+      "previous_rank": 449,
+      "current_rank": 330,
+      "rank_change": 119,
+      "category": "6013",
+      "date": "2026-03-25",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a8/eb/31/a8eb315b-8560-5058-f84a-c1e5686ca7ec/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/180x180bb.png",
+      "app_name": "Amped Fitness",
+      "publisher": "Amped Fitness, LLC"
+    },
+    {
+      "appId": 1541008525,
+      "previous_rank": 492,
+      "current_rank": 378,
+      "rank_change": 114,
+      "category": "6013",
+      "date": "2026-03-25",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5d/22/85/5d228590-2e55-8523-e725-7bd0b4cbc282/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/180x180bb.png",
+      "app_name": "The Edge Fitness",
+      "publisher": "Edge Fitness, LLC"
     }
   ]
 }
