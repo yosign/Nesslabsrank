@@ -1,0 +1,407 @@
+{
+  "date": "2026-04-02",
+  "changes": {
+    "6012": {
+      "added": [
+        {
+          "appId": 6759036480,
+          "name": "Накопи Фест",
+          "publisher": "BOSTJAN KASTELIC",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ae/e9/16/aee9162c-5675-f861-33b8-f4aa98c704f5/AppIcon-0-0-1x_U007epad-0-1-85-220.jpeg/180x180bb.png",
+          "rating": 0,
+          "ratingCount": 0,
+          "price": "0.00",
+          "rank": 112,
+          "category": "6012"
+        },
+        {
+          "appId": 469231040,
+          "name": "Vivint Classic",
+          "publisher": "Vivint",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple69/v4/5f/1b/c5/5f1bc501-9fc4-cb5a-4610-976f1b671b03/mzl.kxcokdwf.png/100x100bb.jpg",
+          "rating": 2.3,
+          "ratingCount": 750,
+          "price": "0.00",
+          "rank": 226,
+          "category": "6012"
+        },
+        {
+          "appId": 6446203952,
+          "name": "Cuffed: Dating & Relationships",
+          "publisher": "Eden Tech, Inc.",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c0/ba/46/c0ba46c8-cb1a-4b9c-17c4-dba24144339b/AppIcon3-0-1x_U007emarketing-0-8-0-85-220-0.png/180x180bb.png",
+          "rating": 4.8,
+          "ratingCount": 5710,
+          "price": "0.00",
+          "rank": 307,
+          "category": "6012"
+        },
+        {
+          "appId": 1635288083,
+          "name": "Living by GS",
+          "publisher": "Greystar Real Estate Partners LLC",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/10/b4/6b/10b46bdb-8e86-a903-c225-468490998a92/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/180x180bb.png",
+          "rating": 4.6,
+          "ratingCount": 3263,
+          "price": "0.00",
+          "rank": 362,
+          "category": "6012"
+        },
+        {
+          "appId": 1413223852,
+          "name": "Smart911",
+          "publisher": "Rave Mobile Safety",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e7/fa/03/e7fa0300-e0d1-22dc-2ebf-5cd9908f36a8/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/180x180bb.png",
+          "rating": 4.7,
+          "ratingCount": 5572,
+          "price": "0.00",
+          "rank": 370,
+          "category": "6012"
+        },
+        {
+          "appId": 6748967790,
+          "name": "Deepak Chopra",
+          "publisher": "Deepak Chopra, LLC",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f9/b8/4b/f9b84b72-f667-4740-d866-6cf5296b5c46/AppIcon-0-0-1x_U007emarketing-0-5-85-220.png/180x180bb.png",
+          "rating": 4.4,
+          "ratingCount": 48,
+          "price": "0.00",
+          "rank": 424,
+          "category": "6012"
+        },
+        {
+          "appId": 6451412538,
+          "name": "Homebody: Better Renting",
+          "publisher": "Entrata, Inc.",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a7/f7/5a/a7f75a4c-ad1c-975a-da45-592eba3d8f65/AppIcon-0-0-1x_U007ephone-0-1-0-sRGB-85-220.png/180x180bb.png",
+          "rating": 4.5,
+          "ratingCount": 623,
+          "price": "0.00",
+          "rank": 431,
+          "category": "6012"
+        },
+        {
+          "appId": 6475495211,
+          "name": "STAR/CHILD",
+          "publisher": "STAR/CHILD",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a4/98/db/a498dbc9-0fb0-3047-98b6-9bc72685d12e/AppIcon-0-0-1x_U007epad-0-1-85-220.png/180x180bb.png",
+          "rating": 4.5,
+          "ratingCount": 310,
+          "price": "0.00",
+          "rank": 435,
+          "category": "6012"
+        },
+        {
+          "appId": 1126712318,
+          "name": "Rently Smart Home",
+          "publisher": "Consumer 2.0 Inc",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f6/cd/11/f6cd119e-ea6d-4d30-7460-b597d2e1001a/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/180x180bb.png",
+          "rating": 4.8,
+          "ratingCount": 9157,
+          "price": "0.00",
+          "rank": 437,
+          "category": "6012"
+        },
+        {
+          "appId": 6446644082,
+          "name": "BH Life",
+          "publisher": "BH Management Services, LLC",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/86/87/45/868745ed-2487-af81-41b5-01f1ce5ac42a/AppIcon-0-0-1x_U007epad-0-1-85-220.png/180x180bb.png",
+          "rating": 4.8,
+          "ratingCount": 2559,
+          "price": "0.00",
+          "rank": 446,
+          "category": "6012"
+        },
+        {
+          "appId": 914825567,
+          "name": "Parental Control App - Kidslox",
+          "publisher": "Kidslox Trading Ltd",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4a/b0/8b/4ab08b4f-ce48-2fe8-639d-c2a9264d6d2a/AppIcon-0-0-1x_U007emarketing-0-11-0-0-85-220.png/180x180bb.png",
+          "rating": 4.3,
+          "ratingCount": 39100,
+          "price": "0.00",
+          "rank": 450,
+          "category": "6012"
+        },
+        {
+          "appId": 1673592071,
+          "name": "Hallmark Cards Now",
+          "publisher": "Hallmark Marketing Company, LLC",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/60/b7/01/60b7014a-ad5b-ec16-bafa-fc16732291a7/AppIcon-Prod-0-0-1x_U007emarketing-0-6-0-85-220.png/180x180bb.png",
+          "rating": 4.9,
+          "ratingCount": 7036,
+          "price": "0.00",
+          "rank": 466,
+          "category": "6012"
+        },
+        {
+          "appId": 353334746,
+          "name": "AT&T Secure Family® parent app",
+          "publisher": "AT&T Services, Inc.",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c8/29/93/c829931a-c673-90b7-55d5-4ff33ddeec5d/AppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.png/180x180bb.png",
+          "rating": 4.6,
+          "ratingCount": 20600,
+          "price": "0.00",
+          "rank": 478,
+          "category": "6012"
+        },
+        {
+          "appId": 6474955418,
+          "name": "Aiper",
+          "publisher": "AIPER GLOBAL PTE. LTD.",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/84/44/6c/84446c50-0fb5-87ba-b4aa-05a8fb79671e/AppIcon-0-0-1x_U007epad-0-1-0-0-sRGB-85-220.png/180x180bb.png",
+          "rating": 4.1,
+          "ratingCount": 148,
+          "price": "0.00",
+          "rank": 483,
+          "category": "6012"
+        },
+        {
+          "appId": 6761042634,
+          "name": "Unity - Beauty",
+          "publisher": "Andreas Kluge",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e4/08/8f/e4088fd4-faa9-bc84-f092-e563eb4a18c1/AppIcon-0-1x_U007ephone-0-1-85-220-0.png/180x180bb.png",
+          "rating": 0,
+          "ratingCount": 0,
+          "price": "0.00",
+          "rank": 485,
+          "category": "6012"
+        },
+        {
+          "appId": 1292723595,
+          "name": "Harley-Davidson",
+          "publisher": "Harley-Davidson Motor Company",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/46/f6/e4/46f6e465-c4da-d96e-19fd-99e8bee00d90/AppIcon-0-0-1x_U007emarketing-0-5-0-85-220.png/180x180bb.png",
+          "rating": 4.8,
+          "ratingCount": 37500,
+          "price": "0.00",
+          "rank": 490,
+          "category": "6012"
+        },
+        {
+          "appId": 1448364002,
+          "name": "Daily Astrology Horoscope",
+          "publisher": "Appsella LTD",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/aa/31/e5/aa31e519-c314-c49b-ca1d-cbef93f4d611/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/180x180bb.png",
+          "rating": 4.3,
+          "ratingCount": 42200,
+          "price": "0.00",
+          "rank": 493,
+          "category": "6012"
+        },
+        {
+          "appId": 977871324,
+          "name": "GoShare: Deliver, Move, LTL",
+          "publisher": "GoShare Inc.",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5b/26/12/5b261282-41f7-fb8b-dbed-c837d1ab5264/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/180x180bb.png",
+          "rating": 4.8,
+          "ratingCount": 13000,
+          "price": "0.00",
+          "rank": 500,
+          "category": "6012"
+        }
+      ],
+      "removed": [
+        {
+          "appId": 6744749997,
+          "name": "PixelPro Vision+",
+          "publisher": "Olivia Grace Curry",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/04/41/be/0441be48-5636-184c-a2d7-19f4335dbe72/AppIcon-0-0-1x_U007ephone-0-85-220.png/180x180bb.png",
+          "rating": 0,
+          "ratingCount": 0,
+          "price": "0.00",
+          "rank": 209,
+          "category": "6012"
+        },
+        {
+          "appId": 475976577,
+          "name": "Perfect365 Makeup Photo Editor",
+          "publisher": "Perfect365, Inc.",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ec/29/28/ec2928ae-76c5-7189-b6f1-62df4dd7c832/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/180x180bb.png",
+          "rating": 4.8,
+          "ratingCount": 181000,
+          "price": "0.00",
+          "rank": 461,
+          "category": "6012"
+        },
+        {
+          "appId": 6504721152,
+          "name": "130 Point",
+          "publisher": "130 Point",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9f/f7/93/9ff79383-9cf6-bc66-4646-f4bd8f3503bf/AppIcon-0-0-1x_U007epad-0-1-85-220.png/180x180bb.png",
+          "rating": 2.5,
+          "ratingCount": 18,
+          "price": "0.00",
+          "rank": 463,
+          "category": "6012"
+        },
+        {
+          "appId": 1542642210,
+          "name": "Planter: Garden Planner",
+          "publisher": "Percula",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e1/25/0c/e1250c75-d36e-27f2-af81-45ad9b3c08aa/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/180x180bb.png",
+          "rating": 4.7,
+          "ratingCount": 2255,
+          "price": "0.00",
+          "rank": 467,
+          "category": "6012"
+        },
+        {
+          "appId": 1327264569,
+          "name": "Rently Tours",
+          "publisher": "Consumer 2.0 Inc",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3c/52/66/3c5266af-93a7-3a4b-0cb5-6b6b411e12e1/AppIcon-0-0-1x_U007epad-0-1-85-220.png/180x180bb.png",
+          "rating": 4.8,
+          "ratingCount": 31200,
+          "price": "0.00",
+          "rank": 468,
+          "category": "6012"
+        },
+        {
+          "appId": 1158895079,
+          "name": "Sober Time - Sobriety Counter",
+          "publisher": "Sociosoftware LLC",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/51/2a/df/512adf0a-53c5-d2c1-5d5c-2faa0ae64c26/GlassAppIcon-0-0-1x_U007epad-0-1-sRGB-85-220.png/180x180bb.png",
+          "rating": 4.8,
+          "ratingCount": 36300,
+          "price": "0.00",
+          "rank": 477,
+          "category": "6012"
+        },
+        {
+          "appId": 985954901,
+          "name": "iSearching",
+          "publisher": "ShenZhen Lenze Technology Co,.Ltd.",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d2/20/ab/d220ab41-75ce-7205-1bd3-357b6cd90e72/AppIcon-1x_U007emarketing-0-8-0-0-85-220-0.png/180x180bb.png",
+          "rating": 1.9,
+          "ratingCount": 578,
+          "price": "0.00",
+          "rank": 478,
+          "category": "6012"
+        },
+        {
+          "appId": 1502311686,
+          "name": "Yard Mastery Lawn Care App",
+          "publisher": "Yard Mastery",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/39/9b/9b/399b9bff-d35a-7a63-2a40-b8b9e776ab36/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/180x180bb.png",
+          "rating": 4.8,
+          "ratingCount": 7334,
+          "price": "0.00",
+          "rank": 480,
+          "category": "6012"
+        },
+        {
+          "appId": 1449568531,
+          "name": "Maytag",
+          "publisher": "Whirlpool Corporation",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/93/4c/45/934c450e-d0e5-760f-f1d8-ffda8d0a63a6/AppIcon-0-0-1x_U007emarketing-0-8-0-sRGB-85-220.png/180x180bb.png",
+          "rating": 4.7,
+          "ratingCount": 42699.99999999999,
+          "price": "0.00",
+          "rank": 486,
+          "category": "6012"
+        },
+        {
+          "appId": 1490161691,
+          "name": "Color Portfolio",
+          "publisher": "Benjamin Moore & Co",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e5/bc/0e/e5bc0ebe-0f72-c04e-b8ff-ceb3e6823ab9/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/180x180bb.png",
+          "rating": 4.5,
+          "ratingCount": 11100.000000000002,
+          "price": "0.00",
+          "rank": 487,
+          "category": "6012"
+        },
+        {
+          "appId": 6751127924,
+          "name": "Ascension - Facial Analysis",
+          "publisher": "Ascension Tech LLC",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f9/a4/ea/f9a4ea55-a5e5-b2ae-affa-30482b520b9c/Icon-0-0-1x_U007epad-0-1-85-220.png/180x180bb.png",
+          "rating": 4.5,
+          "ratingCount": 337,
+          "price": "0.00",
+          "rank": 488,
+          "category": "6012"
+        },
+        {
+          "appId": 1562961996,
+          "name": "iPixel Color",
+          "publisher": "Shenzhen Heaton Technology Co., Ltd.",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ba/77/7c/ba777c2f-dbc9-a3b1-c732-85f3f07a9490/AppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.png/180x180bb.png",
+          "rating": 3.2,
+          "ratingCount": 312,
+          "price": "0.00",
+          "rank": 489,
+          "category": "6012"
+        },
+        {
+          "appId": 1557764033,
+          "name": "Cupla: Shared Couples Calendar",
+          "publisher": "Cupla Limited",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ff/49/4a/ff494a23-fac9-1bcb-a892-d366e83d8778/AppIcon-0-1x_U007emarketing-0-6-0-85-220-0.png/180x180bb.png",
+          "rating": 4.7,
+          "ratingCount": 1932,
+          "price": "0.00",
+          "rank": 493,
+          "category": "6012"
+        },
+        {
+          "appId": 529129647,
+          "name": "Supercuts Hair Salon Check-in",
+          "publisher": "Regis Corporation",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d8/33/cb/d833cb1c-9454-ad6e-abfa-ea5f30575c0d/AppIcon-0-0-1x_U007epad-0-1-85-220.png/180x180bb.png",
+          "rating": 4.7,
+          "ratingCount": 83900,
+          "price": "0.00",
+          "rank": 495,
+          "category": "6012"
+        },
+        {
+          "appId": 1100218563,
+          "name": "Skeepers Creators",
+          "publisher": "Skeepers",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ac/6b/39/ac6b39e7-459f-b409-df04-ba3861b7334d/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/180x180bb.png",
+          "rating": 3.5,
+          "ratingCount": 1956,
+          "price": "0.00",
+          "rank": 497,
+          "category": "6012"
+        },
+        {
+          "appId": 6738585299,
+          "name": "Aisle: Cash Back Every Aisle",
+          "publisher": "Textnology, Inc",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6f/a4/cb/6fa4cbd4-8014-add3-c439-750738bc00f1/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/180x180bb.png",
+          "rating": 4.8,
+          "ratingCount": 2085,
+          "price": "0.00",
+          "rank": 498,
+          "category": "6012"
+        },
+        {
+          "appId": 1222980795,
+          "name": "Meet5: Meet new people",
+          "publisher": "Meet5 GmbH",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/dc/e0/e4/dce0e4c5-a88d-2071-9f07-a0b0df493d8e/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/180x180bb.png",
+          "rating": 4.5,
+          "ratingCount": 386,
+          "price": "0.00",
+          "rank": 499,
+          "category": "6012"
+        },
+        {
+          "appId": 1582810683,
+          "name": "Дом с Алисой",
+          "publisher": "Direct Cursus Computer Systems Trading",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3e/1a/4d/3e1a4d92-ef88-b427-0a11-22ba4f4952c5/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/180x180bb.png",
+          "rating": 4.7,
+          "ratingCount": 1133,
+          "price": "0.00",
+          "rank": 500,
+          "category": "6012"
+        }
+      ]
+    }
+  }
+}
