@@ -3,10 +3,32 @@
   "genre": "6007",
   "topRisers": [
     {
+      "appId": 1569476289,
+      "previous_rank": 417,
+      "current_rank": 227,
+      "rank_change": 190,
+      "category": "6007",
+      "date": "2026-04-05",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f6/cc/4e/f6cc4ed8-d341-85f8-d541-7c9757eb3c3d/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/180x180bb.png",
+      "app_name": "Secure ***: Fast net locations",
+      "publisher": "Inspiritum"
+    },
+    {
+      "appId": 6743825595,
+      "previous_rank": 381,
+      "current_rank": 214,
+      "rank_change": 167,
+      "category": "6007",
+      "date": "2026-04-05",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2c/d5/a9/2cd5a9a9-3e11-f1f0-aa78-4027702da7cd/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/180x180bb.png",
+      "app_name": "TV Remote - Universal Pro",
+      "publisher": "Elegantique Network Limited"
+    },
+    {
       "appId": 958525286,
       "previous_rank": 474,
-      "current_rank": 274,
-      "rank_change": 200,
+      "current_rank": 324,
+      "rank_change": 150,
       "category": "6007",
       "date": "2026-04-05",
       "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/de/3d/b5/de3db533-8b4e-f939-59e4-abee8219d969/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/180x180bb.png",
@@ -14,32 +36,10 @@
       "publisher": "Winplus North America Inc."
     },
     {
-      "appId": 6758893858,
-      "previous_rank": 377,
-      "current_rank": 221,
-      "rank_change": 156,
-      "category": "6007",
-      "date": "2026-04-05",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e5/e4/bb/e5e4bb7c-c3a6-1321-2f01-9da0dd0ca32d/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/180x180bb.png",
-      "app_name": "Friction - Reduce Screen Time",
-      "publisher": "TalkUp LLC"
-    },
-    {
-      "appId": 6756765178,
-      "previous_rank": 421,
-      "current_rank": 271,
-      "rank_change": 150,
-      "category": "6007",
-      "date": "2026-04-05",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/22/c1/09/22c10934-5d86-cef4-efef-1661d1d9363a/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/180x180bb.png",
-      "app_name": "DataGuard *** Master",
-      "publisher": "Samal Konsult, TOO"
-    },
-    {
       "appId": 6737591745,
       "previous_rank": 473,
-      "current_rank": 336,
-      "rank_change": 137,
+      "current_rank": 326,
+      "rank_change": 147,
       "category": "6007",
       "date": "2026-04-05",
       "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/81/9e/2e/819e2e90-560f-09a0-1fdd-f4e0de60f9df/AppIcon-0-0-1x_U007ephone-0-11-0-85-220.png/180x180bb.png",
@@ -49,8 +49,8 @@
     {
       "appId": 6738732089,
       "previous_rank": 500,
-      "current_rank": 370,
-      "rank_change": 130,
+      "current_rank": 358,
+      "rank_change": 142,
       "category": "6007",
       "date": "2026-04-05",
       "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/66/75/c8/6675c896-df30-b108-0c48-f7d43f27bf48/AppIcon-0-1x_U007epad-0-1-0-P3-85-220-0.png/180x180bb.png",
@@ -58,15 +58,15 @@
       "publisher": "Tappz Labs"
     },
     {
-      "appId": 6743825595,
-      "previous_rank": 381,
-      "current_rank": 254,
-      "rank_change": 127,
+      "appId": 6756765178,
+      "previous_rank": 421,
+      "current_rank": 288,
+      "rank_change": 133,
       "category": "6007",
       "date": "2026-04-05",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2c/d5/a9/2cd5a9a9-3e11-f1f0-aa78-4027702da7cd/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/180x180bb.png",
-      "app_name": "TV Remote - Universal Pro",
-      "publisher": "Elegantique Network Limited"
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/22/c1/09/22c10934-5d86-cef4-efef-1661d1d9363a/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/180x180bb.png",
+      "app_name": "DataGuard *** Master",
+      "publisher": "Samal Konsult, TOO"
     }
   ]
 }
