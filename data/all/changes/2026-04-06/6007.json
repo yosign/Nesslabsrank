@@ -5,8 +5,8 @@
     {
       "appId": 6748310237,
       "previous_rank": 394,
-      "current_rank": 87,
-      "rank_change": 307,
+      "current_rank": 43,
+      "rank_change": 351,
       "category": "6007",
       "date": "2026-04-06",
       "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/22/d1/21/22d121f1-639c-9da1-b6e5-f1530319f594/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/180x180bb.png",
@@ -14,10 +14,21 @@
       "publisher": "Kagi Inc."
     },
     {
+      "appId": 6447003231,
+      "previous_rank": 431,
+      "current_rank": 240,
+      "rank_change": 191,
+      "category": "6007",
+      "date": "2026-04-06",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/30/e9/2a/30e92a3e-8342-83f2-5b28-57061ceee49f/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/180x180bb.png",
+      "app_name": "*** Squirrel *** Master Proxy",
+      "publisher": "VPN Beaver"
+    },
+    {
       "appId": 6504001312,
       "previous_rank": 492,
-      "current_rank": 295,
-      "rank_change": 197,
+      "current_rank": 306,
+      "rank_change": 186,
       "category": "6007",
       "date": "2026-04-06",
       "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/34/e8/94/34e89493-a5b7-0710-cca5-65bf8d89fec6/AppIcon3-0-0-1x_U007ephone-0-1-0-85-220.png/180x180bb.png",
@@ -36,21 +47,10 @@
       "publisher": "KCG Properties"
     },
     {
-      "appId": 6615083315,
-      "previous_rank": 438,
-      "current_rank": 291,
-      "rank_change": 147,
-      "category": "6007",
-      "date": "2026-04-06",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9f/ca/1e/9fca1ebf-0d97-93b9-3d50-294248cd8008/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/180x180bb.png",
-      "app_name": "Xtreme Connected Simple Home",
-      "publisher": "Jem Accessories, Inc"
-    },
-    {
       "appId": 1569476289,
       "previous_rank": 331,
-      "current_rank": 186,
-      "rank_change": 145,
+      "current_rank": 199,
+      "rank_change": 132,
       "category": "6007",
       "date": "2026-04-06",
       "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f6/cc/4e/f6cc4ed8-d341-85f8-d541-7c9757eb3c3d/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/180x180bb.png",
@@ -58,15 +58,15 @@
       "publisher": "Inspiritum"
     },
     {
-      "appId": 6447003231,
-      "previous_rank": 431,
-      "current_rank": 292,
-      "rank_change": 139,
+      "appId": 1450486923,
+      "previous_rank": 396,
+      "current_rank": 264,
+      "rank_change": 132,
       "category": "6007",
       "date": "2026-04-06",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/30/e9/2a/30e92a3e-8342-83f2-5b28-57061ceee49f/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/180x180bb.png",
-      "app_name": "*** Squirrel *** Master Proxy",
-      "publisher": "VPN Beaver"
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e7/67/b4/e767b47b-4bac-5df3-499a-afc1713d5b4b/Default-0-0-1x_U007emarketing-0-11-0-85-220.png/180x180bb.png",
+      "app_name": "Routine Planner, Habit Tracker",
+      "publisher": "Routinery Corp."
     }
   ]
 }
