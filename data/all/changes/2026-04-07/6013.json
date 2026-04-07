@@ -5,8 +5,8 @@
     {
       "appId": 6756597221,
       "previous_rank": 447,
-      "current_rank": 257,
-      "rank_change": 190,
+      "current_rank": 249,
+      "rank_change": 198,
       "category": "6013",
       "date": "2026-04-07",
       "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c5/09/28/c50928ee-f3fe-2669-37b8-2319ab08e705/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/180x180bb.png",
@@ -16,8 +16,8 @@
     {
       "appId": 1460664069,
       "previous_rank": 498,
-      "current_rank": 331,
-      "rank_change": 167,
+      "current_rank": 317,
+      "rank_change": 181,
       "category": "6013",
       "date": "2026-04-07",
       "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e4/60/40/e46040d5-5e0e-13fd-c085-72e2a09ce54f/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/180x180bb.png",
@@ -27,8 +27,8 @@
     {
       "appId": 793322895,
       "previous_rank": 358,
-      "current_rank": 216,
-      "rank_change": 142,
+      "current_rank": 220,
+      "rank_change": 138,
       "category": "6013",
       "date": "2026-04-07",
       "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5a/f1/15/5af115c9-f216-c278-aea2-f37fa34ee1a0/AppIcon-0-0-1x_U007emarketing-0-8-0-sRGB-85-220.png/180x180bb.png",
@@ -36,21 +36,10 @@
       "publisher": "Personify Health, Inc."
     },
     {
-      "appId": 6471596320,
-      "previous_rank": 316,
-      "current_rank": 180,
-      "rank_change": 136,
-      "category": "6013",
-      "date": "2026-04-07",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ac/a9/58/aca9582d-a381-00ad-585e-b85e7ad64e79/AppIconLimberV3-0-0-1x_U007emarketing-0-7-0-85-220.png/180x180bb.png",
-      "app_name": "Limber Health Home Exercise",
-      "publisher": "Limber Health, Inc."
-    },
-    {
       "appId": 1672878800,
       "previous_rank": 436,
-      "current_rank": 300,
-      "rank_change": 136,
+      "current_rank": 303,
+      "rank_change": 133,
       "category": "6013",
       "date": "2026-04-07",
       "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/61/30/54/61305452-9d3b-5b6d-9957-5f8f5abed352/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/180x180bb.png",
@@ -58,15 +47,26 @@
       "publisher": "Mind Blown Apps, LLC"
     },
     {
-      "appId": 1502228408,
-      "previous_rank": 328,
-      "current_rank": 204,
-      "rank_change": 124,
+      "appId": 6471596320,
+      "previous_rank": 316,
+      "current_rank": 184,
+      "rank_change": 132,
       "category": "6013",
       "date": "2026-04-07",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9a/15/87/9a158765-3613-0ad5-0689-a0356f75effb/AppIconProd-0-0-1x_U007ephone-0-1-85-220.png/180x180bb.png",
-      "app_name": "75 Hard",
-      "publisher": "44SEVEN MEDIA, LLC"
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ac/a9/58/aca9582d-a381-00ad-585e-b85e7ad64e79/AppIconLimberV3-0-0-1x_U007emarketing-0-7-0-85-220.png/180x180bb.png",
+      "app_name": "Limber Health Home Exercise",
+      "publisher": "Limber Health, Inc."
+    },
+    {
+      "appId": 1307736395,
+      "previous_rank": 344,
+      "current_rank": 214,
+      "rank_change": 130,
+      "category": "6013",
+      "date": "2026-04-07",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/95/fc/ec/95fcec7a-5d58-539d-7666-cfe2cdb33381/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/180x180bb.png",
+      "app_name": "Waking Up: Meditation & Wisdom",
+      "publisher": "Waking Up Course, LLC"
     }
   ]
 }
