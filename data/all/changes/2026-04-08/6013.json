@@ -3,43 +3,10 @@
   "genre": "6013",
   "topRisers": [
     {
-      "appId": 1609482416,
-      "previous_rank": 418,
-      "current_rank": 310,
-      "rank_change": 108,
-      "category": "6013",
-      "date": "2026-04-08",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b4/e3/40/b4e340f3-8d0b-b619-1cdc-a9123daab045/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/180x180bb.png",
-      "app_name": "JETSET Pilates",
-      "publisher": "Geisler Young"
-    },
-    {
-      "appId": 529160691,
-      "previous_rank": 377,
-      "current_rank": 270,
-      "rank_change": 107,
-      "category": "6013",
-      "date": "2026-04-08",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/34/9a/31/349a3183-95fa-ce90-d568-6d913ddfda29/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/180x180bb.png",
-      "app_name": "First Aid: American Red Cross",
-      "publisher": "American Red Cross"
-    },
-    {
-      "appId": 655918660,
-      "previous_rank": 483,
-      "current_rank": 383,
-      "rank_change": 100,
-      "category": "6013",
-      "date": "2026-04-08",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/bb/28/ab/bb28abe2-394d-5182-5828-3120e045fcca/standardAppIcon-0-0-1x_U007epad-0-1-0-85-220.png/180x180bb.png",
-      "app_name": "CBT-i Coach",
-      "publisher": "US Department of Veterans Affairs (VA)"
-    },
-    {
       "appId": 1049249827,
       "previous_rank": 430,
-      "current_rank": 335,
-      "rank_change": 95,
+      "current_rank": 293,
+      "rank_change": 137,
       "category": "6013",
       "date": "2026-04-08",
       "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c6/29/c7/c629c70c-03dd-023c-7c1d-28d69a67a821/AppIconProd-0-0-1x_U007emarketing-0-6-0-85-220.png/180x180bb.png",
@@ -49,8 +16,8 @@
     {
       "appId": 1584405331,
       "previous_rank": 458,
-      "current_rank": 371,
-      "rank_change": 87,
+      "current_rank": 331,
+      "rank_change": 127,
       "category": "6013",
       "date": "2026-04-08",
       "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a8/eb/31/a8eb315b-8560-5058-f84a-c1e5686ca7ec/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/180x180bb.png",
@@ -58,15 +25,48 @@
       "publisher": "Amped Fitness, LLC"
     },
     {
-      "appId": 1404183962,
-      "previous_rank": 410,
-      "current_rank": 326,
-      "rank_change": 84,
+      "appId": 6743308707,
+      "previous_rank": 332,
+      "current_rank": 231,
+      "rank_change": 101,
       "category": "6013",
       "date": "2026-04-08",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9c/1b/18/9c1b1807-c780-3fac-594d-ca89bfbb1e6a/AppIcon-0-0-1x_U007emarketing-0-11-0-0-85-220.png/180x180bb.png",
-      "app_name": "Practice Better",
-      "publisher": "Green Patch Inc."
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ad/e8/96/ade8967d-4e94-545a-d82e-08da8d34df92/AppIcon26-0-0-1x_U007ephone-0-1-0-85-220-0.png/180x180bb.png",
+      "app_name": "RelaxWatch: Stress&HRV Tracker",
+      "publisher": "Health Tech"
+    },
+    {
+      "appId": 1464632516,
+      "previous_rank": 342,
+      "current_rank": 243,
+      "rank_change": 99,
+      "category": "6013",
+      "date": "2026-04-08",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/26/09/99/260999c9-baf6-2a83-79d9-f1c27525525f/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/180x180bb.png",
+      "app_name": "Evolt Active",
+      "publisher": "Evolt Active"
+    },
+    {
+      "appId": 6753161422,
+      "previous_rank": 251,
+      "current_rank": 156,
+      "rank_change": 95,
+      "category": "6013",
+      "date": "2026-04-08",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/dd/f1/68/ddf168dd-d06b-874d-48d2-acf17c5a84a8/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/180x180bb.png",
+      "app_name": "Cardiora: Blood Pressure",
+      "publisher": "Tam Tran"
+    },
+    {
+      "appId": 529160691,
+      "previous_rank": 377,
+      "current_rank": 287,
+      "rank_change": 90,
+      "category": "6013",
+      "date": "2026-04-08",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/34/9a/31/349a3183-95fa-ce90-d568-6d913ddfda29/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/180x180bb.png",
+      "app_name": "First Aid: American Red Cross",
+      "publisher": "American Red Cross"
     }
   ]
 }
