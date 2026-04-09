@@ -5,8 +5,8 @@
     {
       "appId": 6746784659,
       "previous_rank": 441,
-      "current_rank": 254,
-      "rank_change": 187,
+      "current_rank": 271,
+      "rank_change": 170,
       "category": "6013",
       "date": "2026-04-09",
       "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a4/eb/66/a4eb660d-b4c2-06a1-1fab-14748285ae1b/AppIcon-0-0-1x_U007epad-0-1-85-220.png/180x180bb.png",
@@ -16,8 +16,8 @@
     {
       "appId": 6746720072,
       "previous_rank": 258,
-      "current_rank": 112,
-      "rank_change": 146,
+      "current_rank": 114,
+      "rank_change": 144,
       "category": "6013",
       "date": "2026-04-09",
       "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5e/5d/0e/5e5d0e9a-34c0-81d2-7cba-93ef78f1f4b8/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/180x180bb.png",
@@ -27,8 +27,8 @@
     {
       "appId": 6755553298,
       "previous_rank": 429,
-      "current_rank": 301,
-      "rank_change": 128,
+      "current_rank": 291,
+      "rank_change": 138,
       "category": "6013",
       "date": "2026-04-09",
       "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/85/45/77/85457785-da30-4f1c-db88-75ad5d296e5d/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/180x180bb.png",
@@ -36,10 +36,21 @@
       "publisher": "Wise Concepts LLC"
     },
     {
+      "appId": 1244690083,
+      "previous_rank": 445,
+      "current_rank": 313,
+      "rank_change": 132,
+      "category": "6013",
+      "date": "2026-04-09",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c1/ce/47/c1ce470b-1077-e9af-eafe-cefbbc84c7c3/ZZZV2-0-0-1x_U007epad-0-0-0-1-0-0-85-220.png/180x180bb.png",
+      "app_name": "Sleepiest: Sleep Meditation",
+      "publisher": "Happiest LTD"
+    },
+    {
       "appId": 6744723391,
       "previous_rank": 282,
-      "current_rank": 158,
-      "rank_change": 124,
+      "current_rank": 155,
+      "rank_change": 127,
       "category": "6013",
       "date": "2026-04-09",
       "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f3/59/59/f3595951-dbd0-40dc-cb96-92a9f8c737d6/AppIcon-0-0-1x_U007epad-0-1-0-P3-0-85-220.png/180x180bb.png",
@@ -47,26 +58,15 @@
       "publisher": "Southley"
     },
     {
-      "appId": 6755953205,
-      "previous_rank": 341,
-      "current_rank": 223,
-      "rank_change": 118,
+      "appId": 6756594504,
+      "previous_rank": 264,
+      "current_rank": 141,
+      "rank_change": 123,
       "category": "6013",
       "date": "2026-04-09",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/67/40/2f/67402f63-7a49-702f-83a8-7fe0e5021e1d/AppIcon-0-0-1x_U007epad-0-1-85-220.png/180x180bb.png",
-      "app_name": "Repscroll: Push Up Screen Time",
-      "publisher": "APPIKO LTD"
-    },
-    {
-      "appId": 1244690083,
-      "previous_rank": 445,
-      "current_rank": 329,
-      "rank_change": 116,
-      "category": "6013",
-      "date": "2026-04-09",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c1/ce/47/c1ce470b-1077-e9af-eafe-cefbbc84c7c3/ZZZV2-0-0-1x_U007epad-0-0-0-1-0-0-85-220.png/180x180bb.png",
-      "app_name": "Sleepiest: Sleep Meditation",
-      "publisher": "Happiest LTD"
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b5/26/d3/b526d3bc-b400-56d4-d8b5-270eb3946bd5/AppIcon-0-0-1x_U007ephone-0-11-0-85-220.png/180x180bb.png",
+      "app_name": "iFIT Personal Trainer (Alpha)",
+      "publisher": "ICON Health & Fitness, Inc."
     }
   ]
 }
