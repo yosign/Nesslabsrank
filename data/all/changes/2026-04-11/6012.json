@@ -5,8 +5,8 @@
     {
       "appId": 6752791763,
       "previous_rank": 324,
-      "current_rank": 52,
-      "rank_change": 272,
+      "current_rank": 64,
+      "rank_change": 260,
       "category": "6012",
       "date": "2026-04-11",
       "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a8/1f/6d/a81f6d9e-817c-3fd5-b3aa-c65c820ea040/app-icon-0-0-1x_U007epad-0-1-85-220.png/180x180bb.png",
@@ -14,32 +14,10 @@
       "publisher": "Sunday Lawn Care"
     },
     {
-      "appId": 6456569507,
-      "previous_rank": 488,
-      "current_rank": 288,
-      "rank_change": 200,
-      "category": "6012",
-      "date": "2026-04-11",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/aa/1c/a4/aa1ca454-ac51-9a0f-a33a-6a0297d6e58e/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/180x180bb.png",
-      "app_name": "DABBS",
-      "publisher": "Dabbs Cannabis Dispensary LLC"
-    },
-    {
-      "appId": 1453231181,
-      "previous_rank": 489,
-      "current_rank": 314,
-      "rank_change": 175,
-      "category": "6012",
-      "date": "2026-04-11",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/cc/2d/e5/cc2de57a-596e-cbcc-6cd7-b0cf6592f0fb/AppIcon-0-0-1x_U007emarketing-0-0-0-5-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/180x180bb.png",
-      "app_name": "Heartland Guest App",
-      "publisher": "Heartland Payment Systems, Inc."
-    },
-    {
       "appId": 6447049042,
       "previous_rank": 462,
-      "current_rank": 310,
-      "rank_change": 152,
+      "current_rank": 314,
+      "rank_change": 148,
       "category": "6012",
       "date": "2026-04-11",
       "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/1e/c0/fb/1ec0fb10-dcfe-532d-981f-dd6dabc285c3/AppIcon-1x_U007emarketing-0-7-0-85-220.png/100x100bb.jpg",
@@ -47,10 +25,32 @@
       "publisher": "Calm & Relax Zone"
     },
     {
+      "appId": 6456569507,
+      "previous_rank": 488,
+      "current_rank": 340,
+      "rank_change": 148,
+      "category": "6012",
+      "date": "2026-04-11",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/aa/1c/a4/aa1ca454-ac51-9a0f-a33a-6a0297d6e58e/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/180x180bb.png",
+      "app_name": "DABBS",
+      "publisher": "Dabbs Cannabis Dispensary LLC"
+    },
+    {
+      "appId": 6736725704,
+      "previous_rank": 340,
+      "current_rank": 204,
+      "rank_change": 136,
+      "category": "6012",
+      "date": "2026-04-11",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a6/77/4c/a6774c67-7afb-5962-9c08-06e4169fd58a/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/180x180bb.png",
+      "app_name": "Nintendo Today!",
+      "publisher": "Nintendo Co., Ltd."
+    },
+    {
       "appId": 1670269554,
       "previous_rank": 341,
-      "current_rank": 217,
-      "rank_change": 124,
+      "current_rank": 207,
+      "rank_change": 134,
       "category": "6012",
       "date": "2026-04-11",
       "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e0/49/ac/e049ac8a-33d7-e278-d859-93c16891cca6/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/180x180bb.png",
@@ -58,15 +58,15 @@
       "publisher": "Maple Labs Co., Ltd"
     },
     {
-      "appId": 6657978374,
-      "previous_rank": 464,
-      "current_rank": 354,
-      "rank_change": 110,
+      "appId": 1453231181,
+      "previous_rank": 489,
+      "current_rank": 364,
+      "rank_change": 125,
       "category": "6012",
       "date": "2026-04-11",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/cd/ac/4a/cdac4ad6-3eac-e41a-0b5b-97bcf4157863/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/180x180bb.png",
-      "app_name": "JARS Cannabis",
-      "publisher": "JARS Holdings LLC"
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/cc/2d/e5/cc2de57a-596e-cbcc-6cd7-b0cf6592f0fb/AppIcon-0-0-1x_U007emarketing-0-0-0-5-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/180x180bb.png",
+      "app_name": "Heartland Guest App",
+      "publisher": "Heartland Payment Systems, Inc."
     }
   ]
 }
