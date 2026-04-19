@@ -3,10 +3,21 @@
   "genre": "6007",
   "topRisers": [
     {
+      "appId": 6743825595,
+      "previous_rank": 434,
+      "current_rank": 173,
+      "rank_change": 261,
+      "category": "6007",
+      "date": "2026-04-19",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2c/d5/a9/2cd5a9a9-3e11-f1f0-aa78-4027702da7cd/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/180x180bb.png",
+      "app_name": "TV Remote - Universal Pro",
+      "publisher": "Elegantique Network Limited"
+    },
+    {
       "appId": 6756157273,
       "previous_rank": 479,
-      "current_rank": 297,
-      "rank_change": 182,
+      "current_rank": 259,
+      "rank_change": 220,
       "category": "6007",
       "date": "2026-04-19",
       "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/fc/fd/56/fcfd5621-391c-0774-1699-a60d6a897298/AppIcon-0-0-1x_U007epad-0-11-0-85-220.png/180x180bb.png",
@@ -14,43 +25,21 @@
       "publisher": "婷 张"
     },
     {
-      "appId": 6738811565,
-      "previous_rank": 487,
-      "current_rank": 326,
-      "rank_change": 161,
+      "appId": 6756033795,
+      "previous_rank": 370,
+      "current_rank": 170,
+      "rank_change": 200,
       "category": "6007",
       "date": "2026-04-19",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/09/85/90/098590df-179e-2721-347f-58bde86e8312/AppIcon-0-0-1x_U007ephone-0-11-0-85-220.png/180x180bb.png",
-      "app_name": "PDF Editor Reader",
-      "publisher": "SENRONG"
-    },
-    {
-      "appId": 6745355931,
-      "previous_rank": 272,
-      "current_rank": 129,
-      "rank_change": 143,
-      "category": "6007",
-      "date": "2026-04-19",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/49/a0/a4/49a0a47d-e703-cd23-bb45-cb518b60bb51/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/180x180bb.png",
-      "app_name": "IDNet AI",
-      "publisher": "AureKA"
-    },
-    {
-      "appId": 6499593159,
-      "previous_rank": 475,
-      "current_rank": 346,
-      "rank_change": 129,
-      "category": "6007",
-      "date": "2026-04-19",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/14/4e/10/144e10fc-29a1-9110-78f5-ddd180ba3093/AppIcon-Default-0-0-1x_U007ephone-0-0-0-1-0-0-85-220.png/180x180bb.png",
-      "app_name": "AI Chatbot: Pixi",
-      "publisher": "44pixels"
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d4/4a/cd/d44acdd1-2dce-b5f5-b952-0a6b677e4cfd/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/180x180bb.png",
+      "app_name": "PushUp App Blocker - PushBlock",
+      "publisher": "Two Up"
     },
     {
       "appId": 1225155794,
       "previous_rank": 426,
-      "current_rank": 307,
-      "rank_change": 119,
+      "current_rank": 253,
+      "rank_change": 173,
       "category": "6007",
       "date": "2026-04-19",
       "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/92/1a/c7/921ac700-348e-f88d-4045-ac15f24d727a/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/180x180bb.png",
@@ -58,15 +47,26 @@
       "publisher": "AppFinca Inc."
     },
     {
-      "appId": 958525286,
-      "previous_rank": 461,
-      "current_rank": 350,
-      "rank_change": 111,
+      "appId": 6476502171,
+      "previous_rank": 480,
+      "current_rank": 313,
+      "rank_change": 167,
       "category": "6007",
       "date": "2026-04-19",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/de/3d/b5/de3db533-8b4e-f939-59e4-abee8219d969/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/180x180bb.png",
-      "app_name": "TYPE S LED",
-      "publisher": "Winplus North America Inc."
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4a/6c/31/4a6c31b9-84f3-2889-967f-330dc3ab826d/AppIcon-0-0-1x_U007ephone-0-1-sRGB-85-220.png/180x180bb.png",
+      "app_name": "Chatbot AI - Smart Search Bot",
+      "publisher": "Codespace Dijital Hizmetler Anonim Şirketi"
+    },
+    {
+      "appId": 1263248141,
+      "previous_rank": 484,
+      "current_rank": 329,
+      "rank_change": 155,
+      "category": "6007",
+      "date": "2026-04-19",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6f/6f/6d/6f6f6de9-4999-006d-d0e0-c839ba40b23f/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/180x180bb.png",
+      "app_name": "TOR Browser: Phantom",
+      "publisher": "Versatile Apps"
     }
   ]
 }
