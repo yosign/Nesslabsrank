@@ -1,0 +1,572 @@
+{
+  "date": "2026-04-25",
+  "changes": {
+    "6002": {
+      "added": [
+        {
+          "appId": 6754700095,
+          "name": "Чайная церемония",
+          "publisher": "Dmitry Yushchenko",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7a/90/9b/7a909be2-ff31-1d68-6285-dc1ffda7bef3/AppIcon-0-0-1x_U007ephone-0-1-85-220.jpeg/180x180bb.png",
+          "rating": 0,
+          "ratingCount": 0,
+          "price": "0.00",
+          "rank": 49,
+          "category": "6002"
+        },
+        {
+          "appId": 6755475735,
+          "name": "Jinx - System-Wide Ad Blocker",
+          "publisher": "鹏 唐",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e9/40/7d/e9407dbc-453f-f6e6-1964-324128242531/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/180x180bb.png",
+          "rating": 4.7,
+          "ratingCount": 80,
+          "price": "0.00",
+          "rank": 167,
+          "category": "6002"
+        },
+        {
+          "appId": 6745930154,
+          "name": "Color Grab (color detection)",
+          "publisher": "Ashvin Kevadiya",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9f/9a/7a/9f9a7ad7-e1d5-9096-5741-708d6315710c/AppIcon-1x_U007emarketing-0-11-0-85-220-0.png/180x180bb.png",
+          "rating": 3.4,
+          "ratingCount": 24,
+          "price": "0.00",
+          "rank": 294,
+          "category": "6002"
+        },
+        {
+          "appId": 6759768014,
+          "name": "Fuuse",
+          "publisher": "Jiangxi Lanshi Cosmetics Co., Ltd",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f4/17/34/f4173430-8a51-2768-462d-984dbb69695f/AppIcon-1x_U007ephone-0-1-85-220-0.png/180x180bb.png",
+          "rating": 4.7,
+          "ratingCount": 93,
+          "price": "0.00",
+          "rank": 296,
+          "category": "6002"
+        },
+        {
+          "appId": 1507914734,
+          "name": "EMF Radiation Detector Reader",
+          "publisher": "Rounding Squares BV",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/43/0d/d9/430dd9e2-822c-e4c3-6c5e-cb47e96ebe3c/AppIcon-1x_U007emarketing-0-7-0-0-85-220-0.png/180x180bb.png",
+          "rating": 4.5,
+          "ratingCount": 4367,
+          "price": "0.00",
+          "rank": 353,
+          "category": "6002"
+        },
+        {
+          "appId": 6503116040,
+          "name": "SmartRemote: TV Remote Control",
+          "publisher": "Truong Nguyen",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b6/bf/37/b6bf3794-7f86-fa74-d53f-418486463e0d/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/180x180bb.png",
+          "rating": 4.1,
+          "ratingCount": 2217,
+          "price": "0.00",
+          "rank": 437,
+          "category": "6002"
+        },
+        {
+          "appId": 1464980663,
+          "name": "Property Assistant by Flyreel",
+          "publisher": "Flyreel",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ee/3f/d0/ee3fd053-982f-9e9b-c354-efcfb38c95f6/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/180x180bb.png",
+          "rating": 4.9,
+          "ratingCount": 11500,
+          "price": "0.00",
+          "rank": 455,
+          "category": "6002"
+        },
+        {
+          "appId": 6443806453,
+          "name": "Sunrun",
+          "publisher": "Sunrun Inc.",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/57/0a/1f/570a1f0c-c976-a068-7912-6dd28d0038a3/AppIcon-0-0-1x_U007epad-0-11-0-85-220.png/180x180bb.png",
+          "rating": 4.5,
+          "ratingCount": 2507,
+          "price": "0.00",
+          "rank": 468,
+          "category": "6002"
+        },
+        {
+          "appId": 1659427454,
+          "name": "AirGuard - Tracking Protection",
+          "publisher": "Technische Universität Darmstadt",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/de/0a/49/de0a4956-d29d-0384-1d01-1c5099ab7bd7/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/180x180bb.png",
+          "rating": 4.7,
+          "ratingCount": 4998,
+          "price": "0.00",
+          "rank": 469,
+          "category": "6002"
+        },
+        {
+          "appId": 1606683075,
+          "name": "Fast Cleaner - Speed Clean Up",
+          "publisher": "dosoft limited",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/fd/7b/ff/fd7bffae-b38f-ca26-7c35-19aa8e193ac5/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/180x180bb.png",
+          "rating": 4.7,
+          "ratingCount": 490,
+          "price": "0.00",
+          "rank": 471,
+          "category": "6002"
+        },
+        {
+          "appId": 6753212785,
+          "name": "SkyCleaner: Safe & Clean",
+          "publisher": "App Vizyon",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/54/fa/ed/54faed70-0cef-ec46-afc0-3b5f93ca6647/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/180x180bb.png",
+          "rating": 4.2,
+          "ratingCount": 229,
+          "price": "0.00",
+          "rank": 474,
+          "category": "6002"
+        },
+        {
+          "appId": 6504548974,
+          "name": "HelloBlink",
+          "publisher": "Shenzhen Yihengke Electronic Technology Co.,Ltd.",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/21/64/aa/2164aa14-c073-0482-6b08-0d6183ed4f9a/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/180x180bb.png",
+          "rating": 4.6,
+          "ratingCount": 36900,
+          "price": "0.00",
+          "rank": 479,
+          "category": "6002"
+        },
+        {
+          "appId": 6757602001,
+          "name": "Smart Things: Remote Control",
+          "publisher": "Smart Electronics Inc",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9c/24/90/9c2490b8-45b6-b025-adcd-a9ea73adbd6f/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.jpeg/180x180bb.png",
+          "rating": 4.2,
+          "ratingCount": 45,
+          "price": "0.00",
+          "rank": 481,
+          "category": "6002"
+        },
+        {
+          "appId": 6760934794,
+          "name": "Yabbox : High-Res Media Vault",
+          "publisher": "斯斯 罗",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/49/00/6e/49006e34-da7e-55e5-2b0c-cf9d15b203c6/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/180x180bb.png",
+          "rating": 3.6,
+          "ratingCount": 5,
+          "price": "0.00",
+          "rank": 483,
+          "category": "6002"
+        },
+        {
+          "appId": 6747917472,
+          "name": "DFCleanup-AI Cleaner Storage",
+          "publisher": "飞 杜",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/71/88/aa/7188aaf7-c828-d6ac-f4b4-f4a03fb9ddfc/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/180x180bb.png",
+          "rating": 4.5,
+          "ratingCount": 2503,
+          "price": "0.00",
+          "rank": 484,
+          "category": "6002"
+        },
+        {
+          "appId": 1141482401,
+          "name": "Lincoln™",
+          "publisher": "The Lincoln Motor Company",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d7/6c/dd/d76cdd2d-b527-ee50-cb25-7865530bbf94/AppIcon-0-0-1x_U007ephone-0-1-sRGB-85-220.png/180x180bb.png",
+          "rating": 4.7,
+          "ratingCount": 127000,
+          "price": "0.00",
+          "rank": 487,
+          "category": "6002"
+        },
+        {
+          "appId": 1460013401,
+          "name": "US Mobile",
+          "publisher": "US Mobile",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b0/61/75/b0617598-59b1-63c9-937e-8c6e69643dc7/AppIcon-0-0-1x_U007epad-0-11-0-85-220.png/180x180bb.png",
+          "rating": 3.7,
+          "ratingCount": 1184,
+          "price": "0.00",
+          "rank": 489,
+          "category": "6002"
+        },
+        {
+          "appId": 6752863449,
+          "name": "TV Remote for Roku Devices",
+          "publisher": "Ozuna Limited",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b5/f8/5f/b5f85f54-f5c6-933c-ed15-491f9b0619a1/AppIcon-0-0-1x_U007ephone-0-1-0-sRGB-85-220.png/180x180bb.png",
+          "rating": 4.4,
+          "ratingCount": 674,
+          "price": "0.00",
+          "rank": 490,
+          "category": "6002"
+        },
+        {
+          "appId": 6450534064,
+          "name": "Streisand",
+          "publisher": "ARCADIA ODYSSEY INC.",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a5/e3/19/a5e31997-25cc-0ac6-c025-ecef2550e1c0/AppIcon-0-0-1x_U007epad-0-0-0-1-0-85-220.png/180x180bb.png",
+          "rating": 4.4,
+          "ratingCount": 1933,
+          "price": "0.00",
+          "rank": 491,
+          "category": "6002"
+        },
+        {
+          "appId": 1557454007,
+          "name": "Smart TV Remote for Samsung",
+          "publisher": "Companjen Apps B.V.",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3d/32/59/3d325975-2ed9-15e7-2e10-2e05493fa429/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/180x180bb.png",
+          "rating": 4.4,
+          "ratingCount": 7950,
+          "price": "0.00",
+          "rank": 492,
+          "category": "6002"
+        },
+        {
+          "appId": 1585012983,
+          "name": "Texas by Texas (TxT)",
+          "publisher": "Texas Department of Information Resources",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9a/29/35/9a2935b7-35db-2d03-9162-dea3ff948000/AppIcon-Prod-0-0-1x_U007emarketing-0-8-0-85-220.png/180x180bb.png",
+          "rating": 4.9,
+          "ratingCount": 35800,
+          "price": "0.00",
+          "rank": 493,
+          "category": "6002"
+        },
+        {
+          "appId": 1007999530,
+          "name": "Midea Air",
+          "publisher": "GD Midea Air-Conditioning Equipment Co., Ltd.",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/fa/ee/72/faee72aa-e675-9138-8f64-b3fa8f57ee1c/AppIcon-1x_U007emarketing-0-4-0-0-85-220-0.png/180x180bb.png",
+          "rating": 4.7,
+          "ratingCount": 23900,
+          "price": "0.00",
+          "rank": 494,
+          "category": "6002"
+        },
+        {
+          "appId": 1156220055,
+          "name": "CleanPay Mobile",
+          "publisher": "KioSoft Technologies LLC",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3e/b8/8d/3eb88d7d-8025-6a32-8c7f-027573a999f6/AppIcon-0-0-1x_U007emarketing-0-6-0-0-85-220.png/180x180bb.png",
+          "rating": 4.5,
+          "ratingCount": 11399.999999999998,
+          "price": "0.00",
+          "rank": 496,
+          "category": "6002"
+        },
+        {
+          "appId": 6449592297,
+          "name": "Laxasfit",
+          "publisher": "Shenzhen United Power Technology Co., Ltd.",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/72/fe/6b/72fe6bbe-1a38-6837-1597-0dd39713e9a8/AppIcon-0-0-1x_U007emarketing-0-8-0-0-sRGB-85-220.png/180x180bb.png",
+          "rating": 3.4,
+          "ratingCount": 219,
+          "price": "0.00",
+          "rank": 497,
+          "category": "6002"
+        },
+        {
+          "appId": 6761660769,
+          "name": "Security Guard & Scan: SafeX",
+          "publisher": "R.K.A. GERMANIKA SYNTHETIKA KOUFOMATA LTD",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b1/09/9e/b1099ee8-30eb-efd4-30b4-51e5f6c7e134/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/180x180bb.png",
+          "rating": 0,
+          "ratingCount": 0,
+          "price": "0.00",
+          "rank": 498,
+          "category": "6002"
+        }
+      ],
+      "removed": [
+        {
+          "appId": 6476379983,
+          "name": "LightningX ***: Fast Unlimited",
+          "publisher": "RAYAAUSTIN LLC",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fa/52/95/fa529576-713b-ad1c-bced-eacf6ed08895/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/180x180bb.png",
+          "rating": 4.6,
+          "ratingCount": 3184,
+          "price": "0.00",
+          "rank": 191,
+          "category": "6002"
+        },
+        {
+          "appId": 6756587049,
+          "name": "Mirchaye",
+          "publisher": "National Election Board of Ethiopia",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/78/1a/c8/781ac8bc-4495-40c9-353b-9f115a2e9039/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/180x180bb.png",
+          "rating": 0,
+          "ratingCount": 0,
+          "price": "0.00",
+          "rank": 263,
+          "category": "6002"
+        },
+        {
+          "appId": 6761094521,
+          "name": "Bejeaw - AI Necklace Try-On",
+          "publisher": "Sudesh Rota",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/49/f6/1e/49f61ee1-d24d-d454-752d-cd64f289d971/AppIcon-0-0-1x_U007ephone-0-1-85-220.jpeg/180x180bb.png",
+          "rating": 4.9,
+          "ratingCount": 67,
+          "price": "0.00",
+          "rank": 357,
+          "category": "6002"
+        },
+        {
+          "appId": 6755215698,
+          "name": "Binwiz *** - Private *** App",
+          "publisher": "SynergyLink (HK) Limited",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/62/1d/2c/621d2c1a-efea-9850-84c4-1584b9601ac8/AppIcon-0-0-1x_U007ephone-0-1-0-0-85-220.png/180x180bb.png",
+          "rating": 4.6,
+          "ratingCount": 61,
+          "price": "0.00",
+          "rank": 370,
+          "category": "6002"
+        },
+        {
+          "appId": 1513702538,
+          "name": "Font Keyboard - Cool Fonts",
+          "publisher": "Pro App Company Limited",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/dc/17/db/dc17db10-79c8-8cee-9d3f-8739a1c3068d/AppIcon-0-0-1x_U007emarketing-0-11-0-0-85-220.png/180x180bb.png",
+          "rating": 4.6,
+          "ratingCount": 194000,
+          "price": "0.00",
+          "rank": 379,
+          "category": "6002"
+        },
+        {
+          "appId": 6761759217,
+          "name": "Seekee - AI Assistant & Art",
+          "publisher": "JOHN GALT STEEL, LLC",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f7/4f/c0/f74fc01a-a26f-d02a-18cf-612d798cb71d/AppIcon-0-0-1x_U007epad-0-1-0-85-220.jpeg/180x180bb.png",
+          "rating": 4.1,
+          "ratingCount": 9,
+          "price": "0.00",
+          "rank": 383,
+          "category": "6002"
+        },
+        {
+          "appId": 6760388891,
+          "name": "Bulibl - AI Styling Buzz",
+          "publisher": "Jiangxi Yunzhe Agricultural Development Co., Ltd",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ca/d8/92/cad892fe-967f-322e-ea72-2e6768ee7e50/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/180x180bb.png",
+          "rating": 4.8,
+          "ratingCount": 217,
+          "price": "0.00",
+          "rank": 396,
+          "category": "6002"
+        },
+        {
+          "appId": 6761315684,
+          "name": "MovieBox HD: TV watch & Movies",
+          "publisher": "Jamie Harper",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c4/8a/e0/c48ae0bb-a035-90d0-c4f9-75e79bc6f0d4/AppIcon-1x_U007emarketing-0-11-0-85-220-0.png/180x180bb.png",
+          "rating": 4.9,
+          "ratingCount": 9,
+          "price": "0.00",
+          "rank": 401,
+          "category": "6002"
+        },
+        {
+          "appId": 6747411315,
+          "name": "Translate All - Text&Photo",
+          "publisher": "Fuzhou Jiange Technology Co., Ltd.",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c9/f5/fd/c9f5fd34-02e0-b87e-0bfd-bf23796440c7/AppIcon-1x_U007ephone-0-1-0-85-220-0.png/180x180bb.png",
+          "rating": 4.3,
+          "ratingCount": 149,
+          "price": "0.00",
+          "rank": 402,
+          "category": "6002"
+        },
+        {
+          "appId": 1639136627,
+          "name": "Scan QR Code.",
+          "publisher": "East End Technologies Ltd.",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a4/9e/ae/a49eaef7-27d3-00cb-4c5c-ee9432e08dc3/AppIcon-0-1x_U007epad-0-9-0-0-85-220-0.png/180x180bb.png",
+          "rating": 4.7,
+          "ratingCount": 15600,
+          "price": "0.00",
+          "rank": 423,
+          "category": "6002"
+        },
+        {
+          "appId": 6756481759,
+          "name": "Gem - AI Generator",
+          "publisher": "Dmytro Puliak",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/10/82/e2/1082e212-868c-ab47-3c4b-5505ce169f57/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/180x180bb.png",
+          "rating": 4.2,
+          "ratingCount": 164,
+          "price": "0.00",
+          "rank": 435,
+          "category": "6002"
+        },
+        {
+          "appId": 6760648629,
+          "name": "Vestiq - AI Outfit Swap",
+          "publisher": "Satupal Gorakh",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/50/29/dd/5029dd1f-8619-633b-b7f7-180ce662d452/AppIcon-0-0-1x_U007ephone-0-1-85-220.jpeg/180x180bb.png",
+          "rating": 0,
+          "ratingCount": 0,
+          "price": "0.00",
+          "rank": 436,
+          "category": "6002"
+        },
+        {
+          "appId": 6762598617,
+          "name": "Dova.",
+          "publisher": "Robin Zelda",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/73/27/3c/73273ca0-2502-6369-3bab-395afb10c1d4/AppIcon-1x_U007ephone-0-1-85-220-0.png/180x180bb.png",
+          "rating": 0,
+          "ratingCount": 0,
+          "price": "0.00",
+          "rank": 438,
+          "category": "6002"
+        },
+        {
+          "appId": 6450300197,
+          "name": "Owll: AI Note Taker & Record",
+          "publisher": "VOCALBEATS.AI PTE. LTD.",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/eb/1a/ef/eb1aef78-c913-ab0f-b41e-ce8bcde514ee/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/180x180bb.png",
+          "rating": 4.8,
+          "ratingCount": 2518,
+          "price": "0.00",
+          "rank": 439,
+          "category": "6002"
+        },
+        {
+          "appId": 6761887785,
+          "name": "Spura",
+          "publisher": "MAIKEN ENEVOLDSEN",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/25/9e/8a/259e8a02-9f7a-f90f-220d-432331b60ee9/AppIcon-1x_U007ephone-0-1-85-220-0.png/180x180bb.png",
+          "rating": 0,
+          "ratingCount": 0,
+          "price": "0.00",
+          "rank": 452,
+          "category": "6002"
+        },
+        {
+          "appId": 1575178496,
+          "name": "PlantGuide - Plant ID & Doctor",
+          "publisher": "DREAMMOBI PTE. LTD.",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/60/03/7c/60037c60-9503-0847-dc47-6f27a2ca9d0b/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/180x180bb.png",
+          "rating": 4.3,
+          "ratingCount": 98,
+          "price": "0.00",
+          "rank": 470,
+          "category": "6002"
+        },
+        {
+          "appId": 6449484412,
+          "name": "Phone Storage Cleaner: Free up",
+          "publisher": "Must Have Apps",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6e/98/5e/6e985e15-7f32-12bb-4528-bce78de5da41/AppIcon2-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/180x180bb.png",
+          "rating": 4.5,
+          "ratingCount": 70600,
+          "price": "0.00",
+          "rank": 479,
+          "category": "6002"
+        },
+        {
+          "appId": 916819108,
+          "name": "Gumroad",
+          "publisher": "Gumroad",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0c/97/77/0c9777b8-dc62-f866-dc26-ae792d0ece55/AppIcon-0-0-1x_U007epad-0-1-85-220.png/180x180bb.png",
+          "rating": 4.7,
+          "ratingCount": 36800,
+          "price": "0.00",
+          "rank": 484,
+          "category": "6002"
+        },
+        {
+          "appId": 1484202291,
+          "name": "SellerAmp SAS",
+          "publisher": "Seller Amp Limited",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c5/ee/9c/c5ee9cbc-d2df-17bd-3401-2cab45a6a655/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/180x180bb.png",
+          "rating": 3.6,
+          "ratingCount": 123,
+          "price": "0.00",
+          "rank": 489,
+          "category": "6002"
+        },
+        {
+          "appId": 427276530,
+          "name": "AirPort Utility",
+          "publisher": "Apple",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/22/a6/da/22a6da4e-d64c-a768-2887-85b61d40d854/AppIcon-0-1x_U007emarketing-0-85-220-0-7.png/180x180bb.png",
+          "rating": 3,
+          "ratingCount": 2008,
+          "price": "0.00",
+          "rank": 491,
+          "category": "6002"
+        },
+        {
+          "appId": 1214259095,
+          "name": "Temp Mail - Temporary Email",
+          "publisher": "Privatix LTD",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d0/3c/64/d03c64f9-afdb-cd2b-ac28-7a0d6d776038/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/180x180bb.png",
+          "rating": 4.7,
+          "ratingCount": 19900,
+          "price": "0.00",
+          "rank": 493,
+          "category": "6002"
+        },
+        {
+          "appId": 6504185965,
+          "name": "KRDPass",
+          "publisher": "DIT KRG",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/67/e2/4f/67e24f61-2c2e-9aff-7e57-ba607646e514/productionAppIcon-0-0-1x_U007epad-0-1-85-220.png/180x180bb.png",
+          "rating": 4.4,
+          "ratingCount": 243,
+          "price": "0.00",
+          "rank": 495,
+          "category": "6002"
+        },
+        {
+          "appId": 6612024812,
+          "name": "Sticker by Sticker Maker",
+          "publisher": "Octopus Internet Technology Co., Limited",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/27/7c/b1/277cb191-7a92-0f5c-d172-d4d1c3053a19/AppIcon-0-0-1x_U007epad-0-1-85-220.png/180x180bb.png",
+          "rating": 4.3,
+          "ratingCount": 36,
+          "price": "0.00",
+          "rank": 496,
+          "category": "6002"
+        },
+        {
+          "appId": 553317645,
+          "name": "MySCE",
+          "publisher": "Southern California Edison",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fd/da/14/fdda14be-34ee-ae31-0407-f1a607b7bcad/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/180x180bb.png",
+          "rating": 1.9,
+          "ratingCount": 1305,
+          "price": "0.00",
+          "rank": 497,
+          "category": "6002"
+        },
+        {
+          "appId": 714263094,
+          "name": "My WM",
+          "publisher": "Waste Management, Inc.",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/10/27/40/1027409b-1813-9153-5c8f-fde69b639a0b/AppIcon-0-0-1x_U007emarketing-0-9-0-0-P3-85-220.png/180x180bb.png",
+          "rating": 4.5,
+          "ratingCount": 68900,
+          "price": "0.00",
+          "rank": 498,
+          "category": "6002"
+        },
+        {
+          "appId": 763638165,
+          "name": "IPVanish: IP Location Changer",
+          "publisher": "IPVanish, Inc.",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d8/db/10/d8db1052-148c-8141-5d3b-5a586088b23f/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
+          "rating": 4.6,
+          "ratingCount": 104000,
+          "price": "0.00",
+          "rank": 500,
+          "category": "6002"
+        }
+      ]
+    }
+  }
+}
