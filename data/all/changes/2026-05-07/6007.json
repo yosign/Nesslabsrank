@@ -5,8 +5,8 @@
     {
       "appId": 6757661674,
       "previous_rank": 469,
-      "current_rank": 259,
-      "rank_change": 210,
+      "current_rank": 180,
+      "rank_change": 289,
       "category": "6007",
       "date": "2026-05-07",
       "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c0/e5/d0/c0e5d003-cdb8-f544-06d2-e00243e6e5c7/AppIcon-0-0-1x_U007epad-0-1-85-220.png/180x180bb.png",
@@ -16,19 +16,19 @@
     {
       "appId": 6468764490,
       "previous_rank": 411,
-      "current_rank": 261,
-      "rank_change": 150,
+      "current_rank": 242,
+      "rank_change": 169,
       "category": "6007",
       "date": "2026-05-07",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/bf/17/fd/bf17fd8a-e89d-d5be-ee7e-152e3db7b430/AppIcon-0-0-1x_U007ephone-0-1-0-0-85-220.png/180x180bb.png",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a3/63/dd/a363dd29-c0b2-c923-0558-0aa3731c78cc/AppIcon-0-0-1x_U007ephone-0-1-0-0-85-220.png/180x180bb.png",
       "app_name": "SpeakApp AI: Voice Notes",
       "publisher": "VoicePop Inc."
     },
     {
       "appId": 1569476289,
       "previous_rank": 446,
-      "current_rank": 306,
-      "rank_change": 140,
+      "current_rank": 316,
+      "rank_change": 130,
       "category": "6007",
       "date": "2026-05-07",
       "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2e/b2/40/2eb24029-6f90-c974-d44d-74831d0cd401/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/180x180bb.png",
@@ -36,21 +36,10 @@
       "publisher": "Inspiritum"
     },
     {
-      "appId": 6749005255,
-      "previous_rank": 370,
-      "current_rank": 249,
-      "rank_change": 121,
-      "category": "6007",
-      "date": "2026-05-07",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7f/5c/48/7f5c48f9-2abd-0813-d716-6ce8c018386d/AppIcon-0-0-1x_U007epad-0-1-P3-85-220.png/180x180bb.png",
-      "app_name": "MiiTrans - AI Translate",
-      "publisher": "宏基 庄"
-    },
-    {
       "appId": 1149425482,
       "previous_rank": 311,
-      "current_rank": 192,
-      "rank_change": 119,
+      "current_rank": 198,
+      "rank_change": 113,
       "category": "6007",
       "date": "2026-05-07",
       "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/35/98/17/35981753-3fa5-fb49-4af3-04353f22a4c9/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-0-85-220-0.png/180x180bb.png",
@@ -58,15 +47,26 @@
       "publisher": "Digital Workroom Ltd"
     },
     {
-      "appId": 6743825595,
-      "previous_rank": 419,
-      "current_rank": 305,
-      "rank_change": 114,
+      "appId": 6749005255,
+      "previous_rank": 370,
+      "current_rank": 258,
+      "rank_change": 112,
       "category": "6007",
       "date": "2026-05-07",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2c/d5/a9/2cd5a9a9-3e11-f1f0-aa78-4027702da7cd/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/180x180bb.png",
-      "app_name": "TV Remote - Universal Pro",
-      "publisher": "Elegantique Network Limited"
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7f/5c/48/7f5c48f9-2abd-0813-d716-6ce8c018386d/AppIcon-0-0-1x_U007epad-0-1-P3-85-220.png/180x180bb.png",
+      "app_name": "MiiTrans - AI Translate",
+      "publisher": "宏基 庄"
+    },
+    {
+      "appId": 897003024,
+      "previous_rank": 335,
+      "current_rank": 228,
+      "rank_change": 107,
+      "category": "6007",
+      "date": "2026-05-07",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/19/93/4c/19934c25-00be-efa8-200f-5a1afae5b665/AppIconStore-0-0-1x_U007emarketing-0-8-0-85-220.png/180x180bb.png",
+      "app_name": "Mail Master by NetEase",
+      "publisher": "NetEase (Hangzhou) Network Co., Ltd."
     }
   ]
 }
