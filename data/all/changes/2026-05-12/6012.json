@@ -5,8 +5,8 @@
     {
       "appId": 1138970986,
       "previous_rank": 371,
-      "current_rank": 206,
-      "rank_change": 165,
+      "current_rank": 212,
+      "rank_change": 159,
       "category": "6012",
       "date": "2026-05-12",
       "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b4/6f/b9/b46fb994-cdc3-2986-7d6f-f1f6ca263d18/AppIcon-1x_U007emarketing-0-11-0-85-220-0.png/180x180bb.png",
@@ -16,8 +16,8 @@
     {
       "appId": 1376880637,
       "previous_rank": 425,
-      "current_rank": 271,
-      "rank_change": 154,
+      "current_rank": 267,
+      "rank_change": 158,
       "category": "6012",
       "date": "2026-05-12",
       "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/32/a6/80/32a680a0-f705-c347-8789-0399e40c9175/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/180x180bb.png",
@@ -25,21 +25,10 @@
       "publisher": "SurveyMonkey"
     },
     {
-      "appId": 888523615,
-      "previous_rank": 486,
-      "current_rank": 343,
-      "rank_change": 143,
-      "category": "6012",
-      "date": "2026-05-12",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a4/57/f8/a457f807-c44d-48f8-de65-d3352ae2f14a/AppIcon-StcProduction-0-0-1x_U007emarketing-0-11-0-85-220.png/180x180bb.png",
-      "app_name": "Sun Tan City",
-      "publisher": "STC MANAGEMENT GROUP, LLC"
-    },
-    {
       "appId": 6499445456,
       "previous_rank": 420,
-      "current_rank": 279,
-      "rank_change": 141,
+      "current_rank": 290,
+      "rank_change": 130,
       "category": "6012",
       "date": "2026-05-12",
       "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ba/29/73/ba297389-59a7-7361-85c8-26b868629ed9/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/180x180bb.png",
@@ -47,26 +36,37 @@
       "publisher": "Frontdoor Incorporated"
     },
     {
-      "appId": 1367606835,
-      "previous_rank": 381,
-      "current_rank": 250,
-      "rank_change": 131,
+      "appId": 6756916007,
+      "previous_rank": 277,
+      "current_rank": 149,
+      "rank_change": 128,
       "category": "6012",
       "date": "2026-05-12",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/56/e1/64/56e16416-34bc-f62a-7e96-32553f66b7ae/AppIcon-0-0-1x_U007epad-0-1-85-220.png/180x180bb.png",
-      "app_name": "Ting",
-      "publisher": "Whisker Labs, Inc."
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/30/fc/4c/30fc4c94-843f-12a0-218e-a4bf8febd63e/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/180x180bb.png",
+      "app_name": "Areum",
+      "publisher": "Bounty Studio, Inc."
     },
     {
       "appId": 1433915149,
       "previous_rank": 418,
-      "current_rank": 290,
-      "rank_change": 128,
+      "current_rank": 297,
+      "rank_change": 121,
       "category": "6012",
       "date": "2026-05-12",
       "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f5/45/07/f5450752-0b16-6d41-24be-9e28f6e069bf/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.jpg",
       "app_name": "Home by ShowingTime",
       "publisher": "ShowingTime.com, LLC"
+    },
+    {
+      "appId": 1367606835,
+      "previous_rank": 381,
+      "current_rank": 263,
+      "rank_change": 118,
+      "category": "6012",
+      "date": "2026-05-12",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/56/e1/64/56e16416-34bc-f62a-7e96-32553f66b7ae/AppIcon-0-0-1x_U007epad-0-1-85-220.png/180x180bb.png",
+      "app_name": "Ting",
+      "publisher": "Whisker Labs, Inc."
     }
   ]
 }
