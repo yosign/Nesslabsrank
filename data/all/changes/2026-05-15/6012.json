@@ -5,8 +5,8 @@
     {
       "appId": 522681493,
       "previous_rank": 486,
-      "current_rank": 77,
-      "rank_change": 409,
+      "current_rank": 115,
+      "rank_change": 371,
       "category": "6012",
       "date": "2026-05-15",
       "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/10/bf/89/10bf8908-b780-43a9-35d6-42dfd0bd59c6/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/180x180bb.png",
@@ -14,10 +14,32 @@
       "publisher": "Joyride GmbH"
     },
     {
+      "appId": 6752447819,
+      "previous_rank": 359,
+      "current_rank": 213,
+      "rank_change": 146,
+      "category": "6012",
+      "date": "2026-05-15",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/35/ed/7a/35ed7a08-11f5-9c22-933f-f48d0a9c12ad/Daimon-0-0-1x_U007ephone-0-1-0-sRGB-85-220.png/180x180bb.png",
+      "app_name": "Daimon: Get Honest Advice",
+      "publisher": "Prospinity Inc"
+    },
+    {
+      "appId": 6749838351,
+      "previous_rank": 374,
+      "current_rank": 253,
+      "rank_change": 121,
+      "category": "6012",
+      "date": "2026-05-15",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/21/fd/96/21fd96a0-69c6-169a-feed-190c6ab2121e/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-0-85-220.png/180x180bb.png",
+      "app_name": "WellMe: Track & Boost Wellness",
+      "publisher": "Urbanwall"
+    },
+    {
       "appId": 6755099390,
       "previous_rank": 373,
-      "current_rank": 242,
-      "rank_change": 131,
+      "current_rank": 256,
+      "rank_change": 117,
       "category": "6012",
       "date": "2026-05-15",
       "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/96/dd/25/96dd2572-6929-060f-b21b-92071a3b1bd0/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/180x180bb.png",
@@ -25,21 +47,10 @@
       "publisher": "Valiant Cat"
     },
     {
-      "appId": 6738585299,
-      "previous_rank": 409,
-      "current_rank": 309,
-      "rank_change": 100,
-      "category": "6012",
-      "date": "2026-05-15",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b8/05/40/b8054007-e91b-8e44-93d6-541b20ef67ea/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/180x180bb.png",
-      "app_name": "Aisle: Cash Back Every Aisle",
-      "publisher": "Textnology, Inc"
-    },
-    {
       "appId": 1492307238,
       "previous_rank": 197,
-      "current_rank": 127,
-      "rank_change": 70,
+      "current_rank": 81,
+      "rank_change": 116,
       "category": "6012",
       "date": "2026-05-15",
       "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/32/cd/48/32cd4859-788c-acfe-a3b1-064194c551b0/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/180x180bb.png",
@@ -47,26 +58,15 @@
       "publisher": "BenefitHub"
     },
     {
-      "appId": 1062355375,
-      "previous_rank": 273,
-      "current_rank": 206,
-      "rank_change": 67,
+      "appId": 6752682930,
+      "previous_rank": 500,
+      "current_rank": 405,
+      "rank_change": 95,
       "category": "6012",
       "date": "2026-05-15",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/48/90/4a/48904a8f-d1d1-2b19-37a7-c10a7c7d9356/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/180x180bb.png",
-      "app_name": "Latch App",
-      "publisher": "Latchable, Inc."
-    },
-    {
-      "appId": 1418412616,
-      "previous_rank": 326,
-      "current_rank": 262,
-      "rank_change": 64,
-      "category": "6012",
-      "date": "2026-05-15",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/12/58/6d/12586df2-b03d-5946-c680-992c95d03e80/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/180x180bb.png",
-      "app_name": "Whoosh.bike",
-      "publisher": "Whoosh Ltd."
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/56/06/ce/5606ceff-e10b-e1eb-9030-15d8e1dbcbc1/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/180x180bb.png",
+      "app_name": "MyCar Widgets - PlayLyrics",
+      "publisher": "Happy advert"
     }
   ]
 }
