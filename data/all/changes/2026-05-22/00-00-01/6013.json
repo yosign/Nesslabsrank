@@ -1,0 +1,407 @@
+{
+  "date": "2026-05-22",
+  "changes": {
+    "6013": {
+      "added": [
+        {
+          "appId": 1587051382,
+          "name": "Specialized",
+          "publisher": "Specialized Bicycle Components, Inc.",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/22/7f/f2/227ff21f-d4c9-5602-c17f-f15980b595e0/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/180x180bb.png",
+          "rating": 4.7,
+          "ratingCount": 9479,
+          "price": "0.00",
+          "rank": 162,
+          "category": "6013"
+        },
+        {
+          "appId": 6742367877,
+          "name": "Art And Shape",
+          "publisher": "Art & Shape Sports Consulting Company",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b7/6b/0c/b76b0c84-c4fa-d024-4dbe-6446c7a56e4c/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/180x180bb.png",
+          "rating": 5,
+          "ratingCount": 8,
+          "price": "0.00",
+          "rank": 294,
+          "category": "6013"
+        },
+        {
+          "appId": 6475388563,
+          "name": "SweatHouz",
+          "publisher": "Legendary Sweat LLC",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e4/2b/bc/e42bbc7a-8ce2-a1a4-0b72-0be8a049342b/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/180x180bb.png",
+          "rating": 4.9,
+          "ratingCount": 6980,
+          "price": "0.00",
+          "rank": 357,
+          "category": "6013"
+        },
+        {
+          "appId": 6752910430,
+          "name": "Aletha: Muscle Release Routine",
+          "publisher": "Aletha Health",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b5/db/40/b5db400d-490a-42bc-0dc8-8a3487fed80d/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/180x180bb.png",
+          "rating": 4.6,
+          "ratingCount": 8,
+          "price": "0.00",
+          "rank": 360,
+          "category": "6013"
+        },
+        {
+          "appId": 6758745613,
+          "name": "Clarity:Daily Health Journal",
+          "publisher": "JINZUAN INTELLIGENCE GARAGE TECHNOLOGY (HK) LIMITED",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7c/0a/3c/7c0a3ce2-cc09-904c-5458-ea0a3078155e/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/180x180bb.png",
+          "rating": 0,
+          "ratingCount": 0,
+          "price": "0.00",
+          "rank": 397,
+          "category": "6013"
+        },
+        {
+          "appId": 6752882830,
+          "name": "GoWard - Walk & Reward",
+          "publisher": "宁宁 许",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/71/81/d5/7181d547-9293-8697-8e32-5b5b1a4cd8fd/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/180x180bb.png",
+          "rating": 4.7,
+          "ratingCount": 1500,
+          "price": "0.00",
+          "rank": 398,
+          "category": "6013"
+        },
+        {
+          "appId": 6749313216,
+          "name": "Aura: Wellness Coach",
+          "publisher": "Aura SAS",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/dd/3f/7b/dd3f7b6d-b7ba-4058-2ab8-14f961a0c2ff/AppIcon-0-0-1x_U007epad-0-1-85-220.png/180x180bb.png",
+          "rating": 4.1,
+          "ratingCount": 61,
+          "price": "0.00",
+          "rank": 458,
+          "category": "6013"
+        },
+        {
+          "appId": 556008763,
+          "name": "GuidanceNow",
+          "publisher": "ComPsych Corporation",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/87/c8/82/87c8822d-ba9d-4f4f-c869-159f65be83b8/AppIcon-0-0-1x_U007epad-0-1-85-220.png/180x180bb.png",
+          "rating": 0,
+          "ratingCount": 0,
+          "price": "0.00",
+          "rank": 464,
+          "category": "6013"
+        },
+        {
+          "appId": 6741472164,
+          "name": "Vibrate Phone",
+          "publisher": "Axel Le Pennec",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2b/28/a6/2b28a6af-fc40-fbee-f861-1b807d4af7f4/app_icon_8-0-0-1x_U007ephone-0-1-P3-85-220.png/180x180bb.png",
+          "rating": 4.3,
+          "ratingCount": 84,
+          "price": "0.00",
+          "rank": 477,
+          "category": "6013"
+        },
+        {
+          "appId": 6740288836,
+          "name": "Prove It - Supplement Scanner",
+          "publisher": "Control. Alt. Delete. LLC",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c3/1c/c1/c31cc134-79b4-e9c1-fce9-bc5bcbea0252/AppIcon-0-0-1x_U007epad-0-1-85-220.png/180x180bb.png",
+          "rating": 4.4,
+          "ratingCount": 14600,
+          "price": "0.00",
+          "rank": 481,
+          "category": "6013"
+        },
+        {
+          "appId": 1594167292,
+          "name": "Lovi - AI Skin Care Scanner",
+          "publisher": "Digital Skincare Inc",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/65/cb/31/65cb3170-5d98-accc-c44e-8fb8b3bcd03b/AppIcon-0-0-1x_U007ephone-0-1-0-0-sRGB-85-220.jpeg/180x180bb.png",
+          "rating": 4.6,
+          "ratingCount": 3264,
+          "price": "0.00",
+          "rank": 483,
+          "category": "6013"
+        },
+        {
+          "appId": 950562312,
+          "name": "BabyName - find it together",
+          "publisher": "Do Something Good",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/38/86/f3/3886f336-c027-554c-d6d9-25d61f8f9700/AppIcon-0-0-1x_U007emarketing-0-6-85-220.png/180x180bb.png",
+          "rating": 4.1,
+          "ratingCount": 21000,
+          "price": "0.00",
+          "rank": 488,
+          "category": "6013"
+        },
+        {
+          "appId": 1460664069,
+          "name": "Music Alarm Clock for Spotify",
+          "publisher": "Make It Count LTD",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/8c/78/c1/8c78c181-da77-3fe7-2fd2-9622f1a2e990/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/180x180bb.png",
+          "rating": 4.2,
+          "ratingCount": 4643,
+          "price": "0.00",
+          "rank": 491,
+          "category": "6013"
+        },
+        {
+          "appId": 6450755584,
+          "name": "Wellos: Health Transformation",
+          "publisher": "RVO Health, LLC",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/29/91/10/2991109f-d8e5-c223-2e61-c94f8efec06c/AppIcon-0-0-1x_U007ephone-0-11-0-85-220.png/180x180bb.png",
+          "rating": 2.3,
+          "ratingCount": 99,
+          "price": "0.00",
+          "rank": 493,
+          "category": "6013"
+        },
+        {
+          "appId": 1491340863,
+          "name": "Napper: Baby Sleep Tracker",
+          "publisher": "Napper AB",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/25/9e/10/259e10c7-98c7-d700-d0b5-6fa8cd038e1c/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/180x180bb.png",
+          "rating": 4.9,
+          "ratingCount": 3878,
+          "price": "0.00",
+          "rank": 495,
+          "category": "6013"
+        },
+        {
+          "appId": 1553694037,
+          "name": "My Duke Health",
+          "publisher": "Duke Health",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/dc/74/9e/dc749e7b-4298-5ac3-7b4a-cdce46cb272d/MyChartAppIcon-0-0-1x_U007epad-0-1-sRGB-0-85-220.png/180x180bb.png",
+          "rating": 4.7,
+          "ratingCount": 4158,
+          "price": "0.00",
+          "rank": 496,
+          "category": "6013"
+        },
+        {
+          "appId": 6745459647,
+          "name": "Taller AI: Height Maximizer",
+          "publisher": "Leadimize",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1e/7b/6e/1e7b6e96-2450-97bf-e324-9c7f2a3f84a9/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/180x180bb.png",
+          "rating": 4.7,
+          "ratingCount": 20099.999999999996,
+          "price": "0.00",
+          "rank": 498,
+          "category": "6013"
+        },
+        {
+          "appId": 1498018285,
+          "name": "Intermittent Fasting Tracker -",
+          "publisher": "Leap Health",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/53/47/d3/5347d3c3-e22d-da8e-9198-59daef2623fa/AppIcon-0-0-1x_U007emarketing-0-0-0-8-0-0-85-220.png/180x180bb.png",
+          "rating": 4.9,
+          "ratingCount": 28200,
+          "price": "0.00",
+          "rank": 499,
+          "category": "6013"
+        }
+      ],
+      "removed": [
+        {
+          "appId": 6758163460,
+          "name": "Nutron: Food Scanner",
+          "publisher": "CSB Marketing LLC",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/45/e8/bc/45e8bc4e-4b2c-01ce-4f4f-b1afe1feb920/AppIcon-0-0-1x_U007ephone-0-1-85-220.jpeg/180x180bb.png",
+          "rating": 4.6,
+          "ratingCount": 898,
+          "price": "0.00",
+          "rank": 359,
+          "category": "6013"
+        },
+        {
+          "appId": 6752958321,
+          "name": "Blood Pressure Monitor| Cardio",
+          "publisher": "Stas Bogruch",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ac/c4/76/acc4760a-273c-3ef9-464e-fd8baf1b1c0b/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/180x180bb.png",
+          "rating": 0,
+          "ratingCount": 0,
+          "price": "0.00",
+          "rank": 365,
+          "category": "6013"
+        },
+        {
+          "appId": 6469338436,
+          "name": "FivePointFive: Breathwork",
+          "publisher": "fivepointfive",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a7/ca/b6/a7cab6c7-4447-592b-200e-44d0a6bdd794/AppIcon-1x_U007ephone-0-1-0-P3-85-220-0.png/180x180bb.png",
+          "rating": 4.8,
+          "ratingCount": 2143,
+          "price": "0.00",
+          "rank": 424,
+          "category": "6013"
+        },
+        {
+          "appId": 6758719505,
+          "name": "Sola: Self Discovery & Growth",
+          "publisher": "UPLOSS LIMITED",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/95/7e/fd/957efd05-f8d6-3ace-629d-fb51ee0a4459/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/180x180bb.png",
+          "rating": 4.7,
+          "ratingCount": 71,
+          "price": "0.00",
+          "rank": 427,
+          "category": "6013"
+        },
+        {
+          "appId": 6502970406,
+          "name": "AI Calorie Tracker: CaloCare",
+          "publisher": "OSENGO",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/18/d9/16/18d91634-4f4e-a971-38c0-b859fceb79f2/AppIcon-0-1x_U007ephone-0-1-0-P3-85-220-0.png/180x180bb.png",
+          "rating": 4.8,
+          "ratingCount": 3384,
+          "price": "0.00",
+          "rank": 434,
+          "category": "6013"
+        },
+        {
+          "appId": 6747271310,
+          "name": "Frее Blood Pressure App",
+          "publisher": "FREE AI UTILS COMPANY LIMITED",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/57/f7/8e/57f78e99-5c61-d053-d086-ab7e76bf2348/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/180x180bb.png",
+          "rating": 4.5,
+          "ratingCount": 786,
+          "price": "0.00",
+          "rank": 446,
+          "category": "6013"
+        },
+        {
+          "appId": 1209781676,
+          "name": "Setgraph: Gym Workout Tracker",
+          "publisher": "Setgraph LLC",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/97/33/33/97333355-8504-e590-a821-5a105a379957/Setgraph-Liquid-App-Icon-0-0-1x_U007ephone-0-0-0-1-0-0-sRGB-85-220.png/180x180bb.png",
+          "rating": 4.7,
+          "ratingCount": 5608,
+          "price": "0.00",
+          "rank": 448,
+          "category": "6013"
+        },
+        {
+          "appId": 1501711228,
+          "name": "Goldfish Swim School",
+          "publisher": "Goldfish",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/44/bc/1e/44bc1e1a-df0f-a66b-3ef2-a140f940a9dc/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/180x180bb.png",
+          "rating": 2.4,
+          "ratingCount": 29,
+          "price": "0.00",
+          "rank": 452,
+          "category": "6013"
+        },
+        {
+          "appId": 6746488495,
+          "name": "Blood Pressure- Health Monitor",
+          "publisher": "GREEN CODE NETWORK TECHNOLOGY LIMITED",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/1a/12/82/1a128259-6be9-f407-0ac6-6dff57d283ac/AppIcon-0-0-1x_U007ephone-0-11-0-85-220.png/100x100bb.jpg",
+          "rating": 3.9,
+          "ratingCount": 699,
+          "price": "0.00",
+          "rank": 457,
+          "category": "6013"
+        },
+        {
+          "appId": 717172678,
+          "name": "Polar Flow",
+          "publisher": "Polar Electro",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5f/46/21/5f462173-f8b8-569b-ffde-c966b28b2582/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/180x180bb.png",
+          "rating": 4.6,
+          "ratingCount": 48900,
+          "price": "0.00",
+          "rank": 470,
+          "category": "6013"
+        },
+        {
+          "appId": 6479975752,
+          "name": "MY Y",
+          "publisher": "Attollo Technology LLC",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f1/9a/48/f19a489e-6a3a-1f72-0c1f-110a5fe99d86/AppIcon-0-0-1x_U007epad-0-1-85-220.png/180x180bb.png",
+          "rating": 1.7,
+          "ratingCount": 70,
+          "price": "0.00",
+          "rank": 474,
+          "category": "6013"
+        },
+        {
+          "appId": 1450438658,
+          "name": "Bay Club Connect",
+          "publisher": "Bay Clubs, Inc.",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/14/54/57/14545772-e00c-6824-a093-48213d7e858a/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/180x180bb.png",
+          "rating": 4.8,
+          "ratingCount": 282,
+          "price": "0.00",
+          "rank": 475,
+          "category": "6013"
+        },
+        {
+          "appId": 562354498,
+          "name": "HealthPartners®",
+          "publisher": "HealthPartners",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9b/97/36/9b97369c-ef7a-278f-7de7-d32842ecf5f6/AppIcon-0-0-1x_U007ephone-0-8-0-85-220.png/180x180bb.png",
+          "rating": 4.7,
+          "ratingCount": 27100,
+          "price": "0.00",
+          "rank": 482,
+          "category": "6013"
+        },
+        {
+          "appId": 6738832996,
+          "name": "Calz - Calorie Counter AI",
+          "publisher": "Wachanga LTD",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f2/f4/d9/f2f4d95a-bb97-dbd4-24b4-070c1c44b978/AppIcon_11-0-0-1x_U007ephone-0-1-85-220.png/180x180bb.png",
+          "rating": 4.7,
+          "ratingCount": 3229,
+          "price": "0.00",
+          "rank": 486,
+          "category": "6013"
+        },
+        {
+          "appId": 6752238599,
+          "name": "iPulse - Check Heart Rate & BP",
+          "publisher": "Through Tech Limited",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/08/25/4e/08254eb0-063c-0417-88ee-608125625e1c/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/180x180bb.png",
+          "rating": 4.5,
+          "ratingCount": 1013,
+          "price": "0.00",
+          "rank": 488,
+          "category": "6013"
+        },
+        {
+          "appId": 6744752716,
+          "name": "CommonSpirit - AR/GA/KY/TN/TX",
+          "publisher": "CommonSpirit Health",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/35/1d/d6/351dd645-5345-2f01-4aa5-ee7940f43872/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.jpg",
+          "rating": 4.2,
+          "ratingCount": 438,
+          "price": "0.00",
+          "rank": 495,
+          "category": "6013"
+        },
+        {
+          "appId": 1479461686,
+          "name": "Nutrition Tracker: Foodnoms",
+          "publisher": "Algebraic Labs, LLC",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/04/d2/f3/04d2f379-6011-b8ae-2e0a-b9d88d70fa26/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-85-220.png/180x180bb.png",
+          "rating": 4.7,
+          "ratingCount": 6959,
+          "price": "0.00",
+          "rank": 497,
+          "category": "6013"
+        },
+        {
+          "appId": 1047722007,
+          "name": "PhysiApp",
+          "publisher": "Physitrack PLC",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0b/c4/74/0bc47450-75af-25ed-ee70-ea191c7a3199/appIcon-0-0-1x_U007epad-0-1-0-85-220.png/180x180bb.png",
+          "rating": 4.6,
+          "ratingCount": 756,
+          "price": "0.00",
+          "rank": 500,
+          "category": "6013"
+        }
+      ]
+    }
+  }
+}
