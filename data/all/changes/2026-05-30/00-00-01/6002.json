@@ -1,0 +1,407 @@
+{
+  "date": "2026-05-30",
+  "changes": {
+    "6002": {
+      "added": [
+        {
+          "appId": 1556325746,
+          "name": "BeePass ***",
+          "publisher": "ASL19 Inc.",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a3/3b/75/a33b75d9-0859-b84e-0817-1f6fcb7b002c/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/180x180bb.png",
+          "rating": 4,
+          "ratingCount": 84,
+          "price": "0.00",
+          "rank": 323,
+          "category": "6002"
+        },
+        {
+          "appId": 1667391175,
+          "name": "Shelf: music, books, movies",
+          "publisher": "Koodos, Inc.",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ab/d1/fd/abd1fd7f-af4a-2ea9-6884-269c80134458/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/180x180bb.png",
+          "rating": 4.2,
+          "ratingCount": 1978,
+          "price": "0.00",
+          "rank": 365,
+          "category": "6002"
+        },
+        {
+          "appId": 6760103383,
+          "name": "ResoClear",
+          "publisher": "会娟 张",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0d/39/63/0d3963e5-ff28-193b-373b-d71e153277bd/AppIcon-0-0-1x_U007ephone-0-1-0-P3-85-220.png/180x180bb.png",
+          "rating": 0,
+          "ratingCount": 0,
+          "price": "0.00",
+          "rank": 399,
+          "category": "6002"
+        },
+        {
+          "appId": 6761609195,
+          "name": "WallZen - Wallpaper 4K & HD",
+          "publisher": "PRATIKKUMAR DHORIYANI",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9a/19/36/9a193696-1532-a25d-c777-d352ae33106b/AppIcon-0-0-1x_U007epad-0-1-0-85-220.jpeg/180x180bb.png",
+          "rating": 3.1,
+          "ratingCount": 32,
+          "price": "0.00",
+          "rank": 445,
+          "category": "6002"
+        },
+        {
+          "appId": 653666211,
+          "name": "LiveSafe",
+          "publisher": "LiveSafe, Inc.",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c9/f1/6e/c9f16e8c-9043-a62e-5e24-6a58328fe14f/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/100x100bb.jpg",
+          "rating": 2.8,
+          "ratingCount": 334,
+          "price": "0.00",
+          "rank": 446,
+          "category": "6002"
+        },
+        {
+          "appId": 916139408,
+          "name": "百度输入法-语音表情斗图输入法",
+          "publisher": "Baidu (China) Co., Ltd",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1c/d7/fb/1cd7fb5d-de5e-18ab-9278-f4da71b48165/AppIcon-1x_U007emarketing-0-11-0-0-85-220-0.png/180x180bb.png",
+          "rating": 4.4,
+          "ratingCount": 1366,
+          "price": "0.00",
+          "rank": 451,
+          "category": "6002"
+        },
+        {
+          "appId": 6756158601,
+          "name": "PhoneCleaner·AI ClearSpace",
+          "publisher": "HK MIDLAND INTERNATIONAL TRADE LIMITED",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e4/28/86/e4288659-bda8-19cc-735d-7122aff4dee4/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/180x180bb.png",
+          "rating": 4.7,
+          "ratingCount": 722,
+          "price": "0.00",
+          "rank": 452,
+          "category": "6002"
+        },
+        {
+          "appId": 6444677404,
+          "name": "*** PRO - Unlimited Protection",
+          "publisher": "Protect Solution Pro",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d5/91/50/d591501d-e1d6-4681-f711-927f68047f20/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-85-220.png/180x180bb.png",
+          "rating": 4.5,
+          "ratingCount": 5358,
+          "price": "0.00",
+          "rank": 462,
+          "category": "6002"
+        },
+        {
+          "appId": 1141482401,
+          "name": "Lincoln™",
+          "publisher": "The Lincoln Motor Company",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d1/f5/44/d1f544dc-cf14-5b98-21b6-ed07343aca2b/AppIcon-0-0-1x_U007ephone-0-1-sRGB-85-220.png/180x180bb.png",
+          "rating": 4.7,
+          "ratingCount": 129000,
+          "price": "0.00",
+          "rank": 470,
+          "category": "6002"
+        },
+        {
+          "appId": 6444819615,
+          "name": "Cape: App to Pause Excess",
+          "publisher": "Air Matters Network Pty Ltd",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/bf/f6/7c/bff67cbb-dc21-3173-642d-a31a4610b620/Cloak-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/180x180bb.png",
+          "rating": 4.6,
+          "ratingCount": 15400,
+          "price": "0.00",
+          "rank": 474,
+          "category": "6002"
+        },
+        {
+          "appId": 6470928223,
+          "name": "Stick - Remote Control For TV",
+          "publisher": "APPSPRO LTD",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/09/cf/93/09cf93d2-5f3e-14ba-c187-1256b7dbdf3b/AppIcon-0-0-1x_U007ephone-0-1-85-220.jpeg/180x180bb.png",
+          "rating": 4.5,
+          "ratingCount": 14900,
+          "price": "0.00",
+          "rank": 481,
+          "category": "6002"
+        },
+        {
+          "appId": 6759903740,
+          "name": "Site Scanner – Hack Protection",
+          "publisher": "Overdrift AB",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c7/64/97/c764976d-f10b-5ee1-e45c-d094f57d9282/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.jpeg/180x180bb.png",
+          "rating": 4.6,
+          "ratingCount": 11,
+          "price": "0.00",
+          "rank": 488,
+          "category": "6002"
+        },
+        {
+          "appId": 439635293,
+          "name": "Volvo Cars",
+          "publisher": "Volvo Car Corporation",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3e/e6/7d/3ee67d4a-a0cd-0d31-9b7c-76954e7e5874/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/180x180bb.png",
+          "rating": 4.7,
+          "ratingCount": 64300,
+          "price": "0.00",
+          "rank": 490,
+          "category": "6002"
+        },
+        {
+          "appId": 961073150,
+          "name": "Onion Browser : Private ***",
+          "publisher": "Falling Rain Software, Limited",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f5/36/21/f53621cc-3518-4265-4039-a7753bc28077/IBV-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/180x180bb.png",
+          "rating": 4.3,
+          "ratingCount": 13400,
+          "price": "0.00",
+          "rank": 491,
+          "category": "6002"
+        },
+        {
+          "appId": 1596059191,
+          "name": "Kids360: Parental Control App",
+          "publisher": "ANKO SOLUTIONS LLC",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/02/73/d9/0273d9fd-1bf6-bfae-4c4e-f8786bef23a4/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/180x180bb.png",
+          "rating": 4.6,
+          "ratingCount": 8838,
+          "price": "0.00",
+          "rank": 495,
+          "category": "6002"
+        },
+        {
+          "appId": 1596975756,
+          "name": "Atrium Campus Connect",
+          "publisher": "Atrium Campus, LLC",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/64/7a/b4/647ab4d4-710b-299f-a075-53db270af105/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/180x180bb.png",
+          "rating": 1.3,
+          "ratingCount": 113,
+          "price": "0.00",
+          "rank": 497,
+          "category": "6002"
+        },
+        {
+          "appId": 960998088,
+          "name": "JustIN Mobile",
+          "publisher": "Salto Systems",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b3/da/74/b3da7498-1d37-81bb-b558-c76f1390fdf6/AppIcon-0-1x_U007emarketing-0-0-0-7-0-0-85-220-0.png/180x180bb.png",
+          "rating": 4.4,
+          "ratingCount": 1990,
+          "price": "0.00",
+          "rank": 499,
+          "category": "6002"
+        },
+        {
+          "appId": 6443806453,
+          "name": "Sunrun",
+          "publisher": "Sunrun Inc.",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/20/c4/24/20c42493-c34c-541c-802e-1cf1dde3363e/AppIcon-0-0-1x_U007epad-0-1-85-220.png/180x180bb.png",
+          "rating": 4.5,
+          "ratingCount": 2655,
+          "price": "0.00",
+          "rank": 500,
+          "category": "6002"
+        }
+      ],
+      "removed": [
+        {
+          "appId": 6757433786,
+          "name": "Cash Advance - Instant Money",
+          "publisher": "A & M IOANNOU INSURANCE AGENCY LTD",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ad/a2/e3/ada2e387-efe6-ccd5-0778-bf2615f734c3/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/180x180bb.png",
+          "rating": 4.8,
+          "ratingCount": 183,
+          "price": "0.00",
+          "rank": 100,
+          "category": "6002"
+        },
+        {
+          "appId": 1634165237,
+          "name": "biubiu*** : ***",
+          "publisher": "SOON BODYWERKZ AUTO PTE. LTD.",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f0/c8/3f/f0c83f64-2f1f-d623-5927-b57619dca46b/AppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.png/100x100bb.jpg",
+          "rating": 4,
+          "ratingCount": 5773,
+          "price": "0.00",
+          "rank": 144,
+          "category": "6002"
+        },
+        {
+          "appId": 6766783922,
+          "name": "Nylos - Share & Show",
+          "publisher": "Jennifer Jones",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/74/56/25/745625ad-8c26-ac95-7d74-77786bba4dfb/AppIcon-1x_U007ephone-0-1-85-220-0.png/180x180bb.png",
+          "rating": 5,
+          "ratingCount": 6,
+          "price": "0.00",
+          "rank": 277,
+          "category": "6002"
+        },
+        {
+          "appId": 6463305181,
+          "name": "Blip: Send Files in a Click",
+          "publisher": "Blip Studio Inc.",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/15/b9/6f/15b96fe9-54d7-993d-f531-c293b2a9b900/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/180x180bb.png",
+          "rating": 4.8,
+          "ratingCount": 2470,
+          "price": "0.00",
+          "rank": 454,
+          "category": "6002"
+        },
+        {
+          "appId": 6450420454,
+          "name": "Landbook",
+          "publisher": "SOUTH WIRELESS LIMITED",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/55/f1/53/55f15320-0347-94af-e3b9-d9407245acde/AppIcon-1x_U007epad-0-1-0-85-220-0.png/180x180bb.png",
+          "rating": 1.7,
+          "ratingCount": 59,
+          "price": "0.00",
+          "rank": 464,
+          "category": "6002"
+        },
+        {
+          "appId": 6760834260,
+          "name": "Clean Space Tools",
+          "publisher": "A.M. Kontos LTD",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/51/bd/a0/51bda062-8aff-9497-051a-bcbfc42dfdea/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/180x180bb.png",
+          "rating": 4.3,
+          "ratingCount": 91,
+          "price": "0.00",
+          "rank": 474,
+          "category": "6002"
+        },
+        {
+          "appId": 6740401390,
+          "name": "Remote for Hisense TV.",
+          "publisher": "DMYTRO PETUKH",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b8/2d/85/b82d85b7-18a2-702a-fbf2-d26bb719bbeb/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/180x180bb.png",
+          "rating": 4.6,
+          "ratingCount": 1255,
+          "price": "0.00",
+          "rank": 479,
+          "category": "6002"
+        },
+        {
+          "appId": 868077558,
+          "name": "Bitmoji",
+          "publisher": "Bitstrips",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5b/d4/17/5bd41752-c414-4efd-8f15-82482ee066bf/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/180x180bb.png",
+          "rating": 4,
+          "ratingCount": 108000,
+          "price": "0.00",
+          "rank": 484,
+          "category": "6002"
+        },
+        {
+          "appId": 1435063223,
+          "name": "Lawfully Case Tracker",
+          "publisher": "Lawfully, Inc.",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ff/44/97/ff4497ab-90dd-6a62-8d2f-95ffd6daefee/AppIcon_Eagle_2-0-0-1x_U007epad-0-1-0-85-220.png/180x180bb.png",
+          "rating": 4.8,
+          "ratingCount": 161000,
+          "price": "0.00",
+          "rank": 487,
+          "category": "6002"
+        },
+        {
+          "appId": 959012446,
+          "name": "Fly*** - Secure & Fast",
+          "publisher": "FLYVPN",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3a/04/72/3a0472b9-1be8-20bd-33f0-2f53f6b2f9b7/AppIcon-fly-0-0-1x_U007epad-0-1-0-sRGB-0-85-220.png/180x180bb.png",
+          "rating": 4.5,
+          "ratingCount": 1337,
+          "price": "0.00",
+          "rank": 490,
+          "category": "6002"
+        },
+        {
+          "appId": 6763185936,
+          "name": "Petal-AI Wreath Fit",
+          "publisher": "章明 邓",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/06/cd/f9/06cdf915-0693-ad8f-e67e-a8c27d53b777/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/180x180bb.png",
+          "rating": 4.6,
+          "ratingCount": 10,
+          "price": "0.00",
+          "rank": 491,
+          "category": "6002"
+        },
+        {
+          "appId": 6752896125,
+          "name": "Dola : AI Assistant Agents",
+          "publisher": "Le Hoang Tran",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0e/e1/c4/0ee1c4a1-a44f-d2ea-8b2b-5e4874d01a36/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/180x180bb.png",
+          "rating": 4.5,
+          "ratingCount": 8,
+          "price": "0.00",
+          "rank": 494,
+          "category": "6002"
+        },
+        {
+          "appId": 6758992551,
+          "name": "Phone Security: AI Cleaner",
+          "publisher": "海涛 李",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0d/1f/17/0d1f1784-5518-c15e-6f86-d6d06f0c9a50/AppIcon-0-0-1x_U007ephone-0-1-0-0-85-220.png/180x180bb.png",
+          "rating": 4.3,
+          "ratingCount": 700,
+          "price": "0.00",
+          "rank": 495,
+          "category": "6002"
+        },
+        {
+          "appId": 1142928979,
+          "name": "Authenticator App - OneAuth",
+          "publisher": "Zoho Corporation",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/fc/46/54/fc465495-5f35-b444-18cf-4183470163a0/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/180x180bb.png",
+          "rating": 4.7,
+          "ratingCount": 32800,
+          "price": "0.00",
+          "rank": 496,
+          "category": "6002"
+        },
+        {
+          "appId": 6761613149,
+          "name": "PlantSnapper: Plant ID",
+          "publisher": "雪薇 宋",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/76/34/a9/7634a9af-c453-72f6-b934-d6102454ff50/AppIcon-0-0-1x_U007epad-0-11-0-85-220.png/180x180bb.png",
+          "rating": 2.3,
+          "ratingCount": 3,
+          "price": "0.00",
+          "rank": 497,
+          "category": "6002"
+        },
+        {
+          "appId": 6747709615,
+          "name": "Level Tool · Angle Finder",
+          "publisher": "Shenzhen AiPuLeSi Technology Co.,Ltd",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2a/69/df/2a69df20-36d4-a61c-2708-a264eec4b8e1/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.jpeg/180x180bb.png",
+          "rating": 4.4,
+          "ratingCount": 230,
+          "price": "0.00",
+          "rank": 498,
+          "category": "6002"
+        },
+        {
+          "appId": 529855219,
+          "name": "Entergy",
+          "publisher": "Entergy Services, LLC",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f4/85/e3/f485e3f2-e8ff-0310-9173-b2b5f4eee530/ic_app_prod-0-0-1x_U007emarketing-0-8-0-sRGB-85-220.png/180x180bb.png",
+          "rating": 2.7,
+          "ratingCount": 1417,
+          "price": "0.00",
+          "rank": 499,
+          "category": "6002"
+        },
+        {
+          "appId": 654677047,
+          "name": "Con Edison",
+          "publisher": "Con Edison",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5d/cb/f3/5dcbf33b-a205-59d1-3b5e-4db43dee01b0/AppIcon-0-0-1x_U007emarketing-0-7-0-sRGB-85-220.png/180x180bb.png",
+          "rating": 4.8,
+          "ratingCount": 121000,
+          "price": "0.00",
+          "rank": 500,
+          "category": "6002"
+        }
+      ]
+    }
+  }
+}
