@@ -1,0 +1,407 @@
+{
+  "date": "2026-06-05",
+  "changes": {
+    "6007": {
+      "added": [
+        {
+          "appId": 6741426692,
+          "name": "Locally AI - Local AI Chat",
+          "publisher": "Element Labs Inc",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9c/19/29/9c192910-7eb0-6749-603d-a2f376791f7c/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-85-220.png/180x180bb.png",
+          "rating": 4.8,
+          "ratingCount": 1128,
+          "price": "0.00",
+          "rank": 199,
+          "category": "6007"
+        },
+        {
+          "appId": 6764381316,
+          "name": "Chorus Connection",
+          "publisher": "Chorus Connection Inc.",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0f/35/a9/0f35a9f1-d069-7814-b563-b7cf83fa27c2/AppIcon-0-0-1x_U007epad-0-1-85-220.png/180x180bb.png",
+          "rating": 0,
+          "ratingCount": 0,
+          "price": "0.00",
+          "rank": 356,
+          "category": "6007"
+        },
+        {
+          "appId": 6749665109,
+          "name": "Journey: Screen Time Control",
+          "publisher": "Brain Nourishment LLC",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/44/7f/f2/447ff276-2fd2-1e10-15e4-4fa8ae180730/AppIcon-0-0-1x_U007epad-0-1-85-220.png/180x180bb.png",
+          "rating": 4.8,
+          "ratingCount": 1297,
+          "price": "0.00",
+          "rank": 428,
+          "category": "6007"
+        },
+        {
+          "appId": 6754635980,
+          "name": "AI Cut:Photo&Video Editor",
+          "publisher": "波 王",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/07/60/4b/07604b09-0d12-a130-e859-788854eeeff4/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/180x180bb.png",
+          "rating": 4.7,
+          "ratingCount": 81,
+          "price": "0.00",
+          "rank": 439,
+          "category": "6007"
+        },
+        {
+          "appId": 6737687213,
+          "name": "Line***: Fast Unlimited ***",
+          "publisher": "SAILFISH PTE. LTD.",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f1/46/f1/f146f1be-af26-98f5-752a-6c2464139182/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/180x180bb.png",
+          "rating": 4.8,
+          "ratingCount": 321,
+          "price": "0.00",
+          "rank": 442,
+          "category": "6007"
+        },
+        {
+          "appId": 6753721487,
+          "name": "Touch Time - World Clock",
+          "publisher": "yuhang lu",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d9/2f/6e/d92f6e68-5f1d-848c-8fe8-e1258f96e067/TouchTimeApp-0-0-1x_U007ephone-0-1-sRGB-85-220.png/180x180bb.png",
+          "rating": 5,
+          "ratingCount": 5,
+          "price": "0.00",
+          "rank": 458,
+          "category": "6007"
+        },
+        {
+          "appId": 661649585,
+          "name": "TeamViewer QuickSupport",
+          "publisher": "TeamViewer Germany GmbH",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7f/84/21/7f842144-608e-93b0-c757-0fc1e96b7b3f/AppIcon-0-0-1x_U007epad-0-1-85-220.png/180x180bb.png",
+          "rating": 2.9,
+          "ratingCount": 5155,
+          "price": "0.00",
+          "rank": 461,
+          "category": "6007"
+        },
+        {
+          "appId": 1658514439,
+          "name": "Forma: PDF Document Editor",
+          "publisher": "BPMobile",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2b/a8/db/2ba8db6c-087f-cc20-4c25-8cf6ebb4ad8b/AppIcon-Free-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/180x180bb.png",
+          "rating": 4.7,
+          "ratingCount": 24700.000000000004,
+          "price": "0.00",
+          "rank": 467,
+          "category": "6007"
+        },
+        {
+          "appId": 6759203618,
+          "name": "ClawOS",
+          "publisher": "Spark Limited Liability Company",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/49/3f/ed/493fed73-aa30-fded-d039-2ce78899fc72/AppIcon-0-1x_U007ephone-0-1-0-85-220-0.png/180x180bb.png",
+          "rating": 3.5,
+          "ratingCount": 15,
+          "price": "0.00",
+          "rank": 469,
+          "category": "6007"
+        },
+        {
+          "appId": 1130787459,
+          "name": "BimmerCode",
+          "publisher": "SG Software GmbH & Co. KG",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3c/5e/03/3c5e03f1-9144-72de-7c0d-afcc2d1fd706/AppIcon-0-1x_U007epad-0-1-0-85-220-0.png/180x180bb.png",
+          "rating": 4.7,
+          "ratingCount": 20400,
+          "price": "0.00",
+          "rank": 487,
+          "category": "6007"
+        },
+        {
+          "appId": 393149734,
+          "name": "AutoCAD",
+          "publisher": "Autodesk Inc.",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7f/bf/3e/7fbf3e06-29c0-a324-3807-c6ca4276935d/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/180x180bb.png",
+          "rating": 4.4,
+          "ratingCount": 6260,
+          "price": "0.00",
+          "rank": 492,
+          "category": "6007"
+        },
+        {
+          "appId": 1065360416,
+          "name": "BimmerLink",
+          "publisher": "SG Software GmbH & Co. KG",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9a/de/69/9ade692d-f65a-daac-eb63-e3b209224ecf/AppIcon-0-0-1x_U007epad-0-1-0-85-220-0.png/180x180bb.png",
+          "rating": 4.7,
+          "ratingCount": 7828,
+          "price": "0.00",
+          "rank": 493,
+          "category": "6007"
+        },
+        {
+          "appId": 1450205871,
+          "name": "The Scheduling App",
+          "publisher": "Review Wave",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/af/a3/8b/afa38baa-f767-f9aa-b7d6-f54776d20934/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/180x180bb.png",
+          "rating": 4.8,
+          "ratingCount": 1913,
+          "price": "0.00",
+          "rank": 494,
+          "category": "6007"
+        },
+        {
+          "appId": 1278520013,
+          "name": "Pet Cloud",
+          "publisher": "Figo Pet Insurance",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/db/d4/c8/dbd4c80e-b0d2-36e9-ccb7-8f923a306f18/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/180x180bb.png",
+          "rating": 4.8,
+          "ratingCount": 9313,
+          "price": "0.00",
+          "rank": 495,
+          "category": "6007"
+        },
+        {
+          "appId": 1171836473,
+          "name": "穿梭Transocks",
+          "publisher": "Chengdu Fobwifi Networks Technology LLC",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/cc/b3/ac/ccb3ac58-05ed-0960-748b-a4875f01427c/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/180x180bb.png",
+          "rating": 4.8,
+          "ratingCount": 28700,
+          "price": "0.00",
+          "rank": 496,
+          "category": "6007"
+        },
+        {
+          "appId": 1320618078,
+          "name": "DigiLocker",
+          "publisher": "National e-Governance Division",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/45/72/5f/45725f83-a18d-4533-da67-cbb97fbd9d55/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/180x180bb.png",
+          "rating": 3.3,
+          "ratingCount": 182,
+          "price": "0.00",
+          "rank": 497,
+          "category": "6007"
+        },
+        {
+          "appId": 6503338127,
+          "name": "Water Eject - Clear Wave PRO",
+          "publisher": "UNIVERSE DIJITAL HIZMETLER LIMITED SIRKETI",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/bc/35/1c/bc351c7d-b8c5-05f1-69a5-ee418a032e82/AppIcon-1x_U007emarketing-0-6-0-85-220-0.png/180x180bb.png",
+          "rating": 4.7,
+          "ratingCount": 1706,
+          "price": "0.00",
+          "rank": 499,
+          "category": "6007"
+        },
+        {
+          "appId": 6743782289,
+          "name": "Todisk",
+          "publisher": "家乐 邓",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c1/91/25/c1912517-1b71-32fc-a136-caad3679c213/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/180x180bb.png",
+          "rating": 4.2,
+          "ratingCount": 654,
+          "price": "0.00",
+          "rank": 500,
+          "category": "6007"
+        }
+      ],
+      "removed": [
+        {
+          "appId": 1585852507,
+          "name": "SwiftConnect Mobile",
+          "publisher": "Technologies Ipseite Inc",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ed/f0/5b/edf05b94-f0dc-0284-6b9b-64db052d3ffd/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/180x180bb.png",
+          "rating": 3.4,
+          "ratingCount": 5,
+          "price": "0.00",
+          "rank": 380,
+          "category": "6007"
+        },
+        {
+          "appId": 6757069032,
+          "name": "RealSpeak: Language Learning",
+          "publisher": "Aurora Borealis Culture Media Limited",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/38/f6/4c/38f64cc8-81c2-2de5-5f65-4023f4825c4a/AppIcon-0-0-1x_U007ephone-0-11-0-85-220.png/180x180bb.png",
+          "rating": 4.4,
+          "ratingCount": 605,
+          "price": "0.00",
+          "rank": 391,
+          "category": "6007"
+        },
+        {
+          "appId": 1046583493,
+          "name": "Blink - The Frontline App",
+          "publisher": "Super Smashing Ltd",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f3/9e/d9/f39ed9c1-5bf9-8a69-593a-90043e6d897f/AppIcon-Blink-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/180x180bb.png",
+          "rating": 4.5,
+          "ratingCount": 377,
+          "price": "0.00",
+          "rank": 412,
+          "category": "6007"
+        },
+        {
+          "appId": 6742103871,
+          "name": "minimalist phone ® Block Apps",
+          "publisher": "Focus Experts",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5e/8a/67/5e8a67bf-c20b-ffb6-c142-a49bcce57f87/AppIcon-0-0-1x_U007ephone-0-0-0-11-0-0-85-220.png/180x180bb.png",
+          "rating": 4.6,
+          "ratingCount": 191,
+          "price": "0.00",
+          "rank": 449,
+          "category": "6007"
+        },
+        {
+          "appId": 6743227246,
+          "name": "ListenMe - Text to Speech",
+          "publisher": "SCALEUP YAZILIM HIZMETLERI",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/48/af/79/48af79ea-8c5a-389d-2308-73990dbd69e8/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/180x180bb.png",
+          "rating": 4.5,
+          "ratingCount": 781,
+          "price": "0.00",
+          "rank": 453,
+          "category": "6007"
+        },
+        {
+          "appId": 6739554054,
+          "name": "Genspark AI Workspace",
+          "publisher": "GENSPARK INC",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e5/cc/4a/e5cc4a03-509e-a561-aff6-b9f0273d4032/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/180x180bb.png",
+          "rating": 4.7,
+          "ratingCount": 3345,
+          "price": "0.00",
+          "rank": 459,
+          "category": "6007"
+        },
+        {
+          "appId": 6751838119,
+          "name": "*** - Fast & Secure Moose***",
+          "publisher": "DULCE COMPANIA S A S",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/54/c1/b7/54c1b784-b121-4936-738f-ec9514740b12/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/180x180bb.png",
+          "rating": 4.6,
+          "ratingCount": 209,
+          "price": "0.00",
+          "rank": 467,
+          "category": "6007"
+        },
+        {
+          "appId": 6763532750,
+          "name": "Unrestricted AI",
+          "publisher": "Dereck Ruzzman",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fb/13/74/fb1374da-d285-c2db-8419-b8e43f5db6a5/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/180x180bb.png",
+          "rating": 4.1,
+          "ratingCount": 42,
+          "price": "0.00",
+          "rank": 469,
+          "category": "6007"
+        },
+        {
+          "appId": 6479236079,
+          "name": "AI! Chatbot Agent－Ask & Chat",
+          "publisher": "MATdev",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/05/d2/e6/05d2e612-6984-014d-c5fe-7224a9779c40/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/180x180bb.png",
+          "rating": 4.5,
+          "ratingCount": 1884,
+          "price": "0.00",
+          "rank": 471,
+          "category": "6007"
+        },
+        {
+          "appId": 1593231160,
+          "name": "Crisis24 Horizon Mobile",
+          "publisher": "Crisis24 Inc",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/04/11/3f/04113fd5-ff55-9ec6-9304-9a0da781b884/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/180x180bb.png",
+          "rating": 3.4,
+          "ratingCount": 33,
+          "price": "0.00",
+          "rank": 472,
+          "category": "6007"
+        },
+        {
+          "appId": 1522854086,
+          "name": "BlockerX:Adult Content Blocker",
+          "publisher": "Atmana Tech",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a1/a4/58/a1a4586a-6b96-d29e-e2fe-0e0dd670a3ea/AppIcon-0-0-1x_U007emarketing-0-11-0-sRGB-85-220.png/180x180bb.png",
+          "rating": 4.4,
+          "ratingCount": 7771,
+          "price": "0.00",
+          "rank": 480,
+          "category": "6007"
+        },
+        {
+          "appId": 1028103039,
+          "name": "Unroll.Me - Email Cleanup",
+          "publisher": "Unroll.Me",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ac/fd/e4/acfde416-5ca7-1070-dd2e-1f05c856f239/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/180x180bb.png",
+          "rating": 4.7,
+          "ratingCount": 129000,
+          "price": "0.00",
+          "rank": 485,
+          "category": "6007"
+        },
+        {
+          "appId": 6499593159,
+          "name": "AI Chatbot: Pixi",
+          "publisher": "44pixels",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/14/4e/10/144e10fc-29a1-9110-78f5-ddd180ba3093/AppIcon-Default-0-0-1x_U007ephone-0-0-0-1-0-0-85-220.png/180x180bb.png",
+          "rating": 4.7,
+          "ratingCount": 13700.000000000002,
+          "price": "0.00",
+          "rank": 491,
+          "category": "6007"
+        },
+        {
+          "appId": 6444499783,
+          "name": "Hide *** Fast Proxy Master",
+          "publisher": "Plus Apps Bilisim Teknolojileri Reklamcilik Limited Sirketi",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/8b/9d/da/8b9dda50-bf46-2fe4-8b0a-af435dfa9765/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/180x180bb.png",
+          "rating": 4.7,
+          "ratingCount": 11100.000000000002,
+          "price": "0.00",
+          "rank": 494,
+          "category": "6007"
+        },
+        {
+          "appId": 6758290219,
+          "name": "CleanMe - Phone Cleaner Kit",
+          "publisher": "Haridus Apps",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ab/62/1a/ab621ac4-7c3b-6823-2458-7c2a4d1e3ffd/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/180x180bb.png",
+          "rating": 4.8,
+          "ratingCount": 5,
+          "price": "0.00",
+          "rank": 496,
+          "category": "6007"
+        },
+        {
+          "appId": 1611406792,
+          "name": "توعية مرورية - غرامات العراق",
+          "publisher": "Saif Jaafar",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/fd/ed/5b/fded5b30-18cb-6b6f-8d0a-bc26aafe5763/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/180x180bb.png",
+          "rating": 4.3,
+          "ratingCount": 1503,
+          "price": "0.00",
+          "rank": 497,
+          "category": "6007"
+        },
+        {
+          "appId": 1613172655,
+          "name": "Invitation Homes",
+          "publisher": "Invitation Homes, Inc",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ae/32/df/ae32df13-a4cc-35bd-ebf2-bb94bd114223/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/180x180bb.png",
+          "rating": 4.9,
+          "ratingCount": 4108,
+          "price": "0.00",
+          "rank": 498,
+          "category": "6007"
+        },
+        {
+          "appId": 6746403769,
+          "name": "Pine AI – Gets Things Done",
+          "publisher": "19Pine",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/12/95/a9/1295a910-1247-efd1-cc3f-a026c29d549b/AppIcon-0-0-1x_U007epad-0-1-sRGB-85-220.png/180x180bb.png",
+          "rating": 4.7,
+          "ratingCount": 64,
+          "price": "0.00",
+          "rank": 500,
+          "category": "6007"
+        }
+      ]
+    }
+  }
+}
