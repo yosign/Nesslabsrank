@@ -5,8 +5,8 @@
     {
       "appId": 6761085168,
       "previous_rank": 410,
-      "current_rank": 80,
-      "rank_change": 330,
+      "current_rank": 83,
+      "rank_change": 327,
       "category": "6002",
       "date": "2026-06-06",
       "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/da/ee/b9/daeeb9a0-df6e-0997-873f-11b0ff35723a/AppIcon-1x_U007epad-0-11-0-85-220-0.png/180x180bb.png",
@@ -16,8 +16,8 @@
     {
       "appId": 6736361418,
       "previous_rank": 345,
-      "current_rank": 115,
-      "rank_change": 230,
+      "current_rank": 101,
+      "rank_change": 244,
       "category": "6002",
       "date": "2026-06-06",
       "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/58/da/be/58dabe7d-7f67-6e40-50eb-fe4b128faabb/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/180x180bb.png",
@@ -27,8 +27,8 @@
     {
       "appId": 6751106608,
       "previous_rank": 380,
-      "current_rank": 198,
-      "rank_change": 182,
+      "current_rank": 239,
+      "rank_change": 141,
       "category": "6002",
       "date": "2026-06-06",
       "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ed/b7/7d/edb77de6-5ed8-720d-94f9-456c10af958b/AppIcon-0-0-1x_U007ephone-0-1-85-220.jpeg/180x180bb.png",
@@ -36,21 +36,10 @@
       "publisher": "Free Secure VPN Co., Limited"
     },
     {
-      "appId": 1584764976,
-      "previous_rank": 320,
-      "current_rank": 185,
-      "rank_change": 135,
-      "category": "6002",
-      "date": "2026-06-06",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0c/ce/c1/0ccec10a-d5b9-dd83-26d4-0501baca8684/AppIcon-LiquidGlass-0-0-1x_U007ephone-0-11-0-P3-85-220.png/180x180bb.png",
-      "app_name": "QR Code Reader＊Barcode Scanner",
-      "publisher": "VISARGERD, S.L."
-    },
-    {
       "appId": 6450420454,
       "previous_rank": 496,
-      "current_rank": 365,
-      "rank_change": 131,
+      "current_rank": 358,
+      "rank_change": 138,
       "category": "6002",
       "date": "2026-06-06",
       "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/45/69/ca/4569caa7-56ef-4855-3113-520acce48ae0/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/180x180bb.png",
@@ -58,15 +47,26 @@
       "publisher": "SOUTH WIRELESS LIMITED"
     },
     {
-      "appId": 1519521388,
-      "previous_rank": 492,
-      "current_rank": 370,
+      "appId": 6748596826,
+      "previous_rank": 373,
+      "current_rank": 246,
+      "rank_change": 127,
+      "category": "6002",
+      "date": "2026-06-06",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ca/73/8d/ca738dc7-cdf1-2b54-9e7e-8da5ce3df8ca/AppIcon-0-0-1x_U007epad-0-11-0-85-220.png/180x180bb.png",
+      "app_name": "Tripo AI - 3D Model Generator",
+      "publisher": "Holymolly Limited"
+    },
+    {
+      "appId": 1584764976,
+      "previous_rank": 320,
+      "current_rank": 198,
       "rank_change": 122,
       "category": "6002",
       "date": "2026-06-06",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f4/77/66/f477667f-02b4-ec47-1ad3-5685dbb11582/AppIcon-1x_U007emarketing-0-8-0-sRGB-85-220-0.png/180x180bb.png",
-      "app_name": "Path Browser",
-      "publisher": "PLUGCO, LLC"
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0c/ce/c1/0ccec10a-d5b9-dd83-26d4-0501baca8684/AppIcon-LiquidGlass-0-0-1x_U007ephone-0-11-0-P3-85-220.png/180x180bb.png",
+      "app_name": "QR Code Reader＊Barcode Scanner",
+      "publisher": "VISARGERD, S.L."
     }
   ]
 }
