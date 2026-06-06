@@ -1,0 +1,451 @@
+{
+  "date": "2026-06-06",
+  "changes": {
+    "6007": {
+      "added": [
+        {
+          "appId": 6751655281,
+          "name": "Clone Master - 2nd App Space",
+          "publisher": "Hinali Narola",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a1/c5/17/a1c517aa-0a3b-d3ab-fed4-f2c65599ec2b/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/180x180bb.png",
+          "rating": 4.4,
+          "ratingCount": 149,
+          "price": "0.00",
+          "rank": 310,
+          "category": "6007"
+        },
+        {
+          "appId": 6444389941,
+          "name": "Parallel Space - Dual Account",
+          "publisher": "MyApps",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3a/c6/69/3ac6691c-b12c-3bff-8635-dd3895e141e5/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/180x180bb.png",
+          "rating": 4.5,
+          "ratingCount": 3010,
+          "price": "0.00",
+          "rank": 368,
+          "category": "6007"
+        },
+        {
+          "appId": 6757069032,
+          "name": "RealSpeak: Language Learning",
+          "publisher": "Aurora Borealis Culture Media Limited",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/38/f6/4c/38f64cc8-81c2-2de5-5f65-4023f4825c4a/AppIcon-0-0-1x_U007ephone-0-11-0-85-220.png/180x180bb.png",
+          "rating": 4.4,
+          "ratingCount": 605,
+          "price": "0.00",
+          "rank": 408,
+          "category": "6007"
+        },
+        {
+          "appId": 6742061900,
+          "name": "Venice AI",
+          "publisher": "VENICE.AI",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/95/af/a6/95afa6b3-6581-ffff-3d97-c379ac97e264/AppIcon-0-0-1x_U007epad-0-1-85-220.png/180x180bb.png",
+          "rating": 3.7,
+          "ratingCount": 381,
+          "price": "0.00",
+          "rank": 409,
+          "category": "6007"
+        },
+        {
+          "appId": 6739554054,
+          "name": "Genspark AI Workspace",
+          "publisher": "GENSPARK INC",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8b/f5/5c/8bf55c61-9372-c744-7b91-f1d160bd4523/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/180x180bb.png",
+          "rating": 4.7,
+          "ratingCount": 3364,
+          "price": "0.00",
+          "rank": 423,
+          "category": "6007"
+        },
+        {
+          "appId": 6744536862,
+          "name": "Google Gemini Enterprise",
+          "publisher": "Google",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/af/1b/28/af1b2834-ff46-8cc1-e96e-91b947d9879b/AppIcon-0-1x_U007epad-0-0-0-1-0-0-0-85-220-0.png/180x180bb.png",
+          "rating": 3.6,
+          "ratingCount": 18,
+          "price": "0.00",
+          "rank": 469,
+          "category": "6007"
+        },
+        {
+          "appId": 6751867589,
+          "name": "AuraSort - Smart Photo Keeper",
+          "publisher": "WUHE Technology Limited",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ba/27/33/ba2733a8-0346-7349-699b-b5a9e64ac1c1/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.jpeg/180x180bb.png",
+          "rating": 3.8,
+          "ratingCount": 19,
+          "price": "0.00",
+          "rank": 473,
+          "category": "6007"
+        },
+        {
+          "appId": 867941329,
+          "name": "Genesis Intelligent Assistant",
+          "publisher": "Hyundai Motor America",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/14/f8/19/14f819ba-46b7-8f22-2c43-b29c0c8f9034/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/180x180bb.png",
+          "rating": 4.8,
+          "ratingCount": 56200,
+          "price": "0.00",
+          "rank": 474,
+          "category": "6007"
+        },
+        {
+          "appId": 6479236079,
+          "name": "AI! Chatbot Agent－Ask & Chat",
+          "publisher": "MATdev",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/05/d2/e6/05d2e612-6984-014d-c5fe-7224a9779c40/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/180x180bb.png",
+          "rating": 4.5,
+          "ratingCount": 1902,
+          "price": "0.00",
+          "rank": 478,
+          "category": "6007"
+        },
+        {
+          "appId": 6446800962,
+          "name": "Roots: Screen Time Control",
+          "publisher": "MWM",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/39/ac/8c/39ac8c02-7029-df4d-3417-f4ced6efacb0/AppIcon-0-1x_U007emarketing-0-11-0-sRGB-85-220-0.png/180x180bb.png",
+          "rating": 4.7,
+          "ratingCount": 1708,
+          "price": "0.00",
+          "rank": 479,
+          "category": "6007"
+        },
+        {
+          "appId": 6749405784,
+          "name": "PushUp Time: App Blocker",
+          "publisher": "Mutasim Ibrahim",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d2/78/e4/d278e4c9-3aa8-9bc1-5f54-dfc6ef8d71c6/AppIcon-0-0-1x_U007epad-0-1-85-220.png/180x180bb.png",
+          "rating": 4.7,
+          "ratingCount": 11100.000000000002,
+          "price": "0.00",
+          "rank": 482,
+          "category": "6007"
+        },
+        {
+          "appId": 1539884942,
+          "name": "iWFCam",
+          "publisher": "Shenzhen Yishengneng Digital Technology Co., Ltd",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e4/90/fd/e490fd73-30d1-fe34-4f40-2f698c5995c5/AppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.png/180x180bb.png",
+          "rating": 2.2,
+          "ratingCount": 112,
+          "price": "0.00",
+          "rank": 483,
+          "category": "6007"
+        },
+        {
+          "appId": 1545174683,
+          "name": "Choice Home Warranty",
+          "publisher": "Choice Home Warranty Group, Inc.",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d9/68/82/d96882b7-3419-8916-3d23-e4f46b4c784b/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/180x180bb.png",
+          "rating": 2,
+          "ratingCount": 143,
+          "price": "0.00",
+          "rank": 487,
+          "category": "6007"
+        },
+        {
+          "appId": 6742405001,
+          "name": "Deep Cleaner - Phone Cleaning",
+          "publisher": "Queencross Global",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/97/ed/d2/97edd2b1-d560-21a4-aacf-5bdb469ecd02/AppIcon-0-0-1x_U007epad-0-1-0-P3-0-85-220.png/180x180bb.png",
+          "rating": 4.6,
+          "ratingCount": 2811,
+          "price": "0.00",
+          "rank": 488,
+          "category": "6007"
+        },
+        {
+          "appId": 6748603301,
+          "name": "Chillio: Life Planner",
+          "publisher": "COREMOVE LIMITED",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9a/d7/89/9ad78919-9d90-f9e6-17a9-a122ba53e3ba/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.jpeg/180x180bb.png",
+          "rating": 4.7,
+          "ratingCount": 956,
+          "price": "0.00",
+          "rank": 490,
+          "category": "6007"
+        },
+        {
+          "appId": 6444499783,
+          "name": "Hide *** Fast Proxy Master",
+          "publisher": "Plus Apps Bilisim Teknolojileri Reklamcilik Limited Sirketi",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/8b/9d/da/8b9dda50-bf46-2fe4-8b0a-af435dfa9765/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/180x180bb.png",
+          "rating": 4.7,
+          "ratingCount": 11100.000000000002,
+          "price": "0.00",
+          "rank": 493,
+          "category": "6007"
+        },
+        {
+          "appId": 6763532750,
+          "name": "Unrestricted AI",
+          "publisher": "Dereck Ruzzman",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/8f/bd/33/8fbd3305-8549-c302-ebab-0bebfa659277/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/180x180bb.png",
+          "rating": 4.1,
+          "ratingCount": 77,
+          "price": "0.00",
+          "rank": 494,
+          "category": "6007"
+        },
+        {
+          "appId": 1046583493,
+          "name": "Blink - The Frontline App",
+          "publisher": "Super Smashing Ltd",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/1b/7c/d7/1b7cd76d-652f-c031-901d-c082d5258ee8/AppIcon-Blink-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/180x180bb.png",
+          "rating": 4.5,
+          "ratingCount": 378,
+          "price": "0.00",
+          "rank": 497,
+          "category": "6007"
+        },
+        {
+          "appId": 996569976,
+          "name": "Old National Mobile",
+          "publisher": "Old National Bank",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c9/50/09/c950096a-7a76-e966-3dcd-fb2cc8afbb2f/AppIcon-0-1x_U007emarketing-0-8-0-85-220-0.png/180x180bb.png",
+          "rating": 4.7,
+          "ratingCount": 50500,
+          "price": "0.00",
+          "rank": 498,
+          "category": "6007"
+        },
+        {
+          "appId": 1555325361,
+          "name": "IPPS-A Launch Platform",
+          "publisher": "TRADOC Mobile",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e0/16/a4/e016a42e-8be0-06ba-3842-9cf8f33a7b7e/AppIcon-0-0-1x_U007epad-0-1-85-220.png/180x180bb.png",
+          "rating": 1.5,
+          "ratingCount": 250,
+          "price": "0.00",
+          "rank": 500,
+          "category": "6007"
+        }
+      ],
+      "removed": [
+        {
+          "appId": 6476366932,
+          "name": "Forms for Google Forms ․",
+          "publisher": "App Training",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3d/29/b3/3d29b362-441c-1c36-0412-445097c6d336/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/180x180bb.png",
+          "rating": 4.6,
+          "ratingCount": 1045,
+          "price": "0.00",
+          "rank": 23,
+          "category": "6007"
+        },
+        {
+          "appId": 6771276053,
+          "name": "Tilde-",
+          "publisher": "Christine Piguet",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b1/b8/66/b1b8666c-2534-e701-02b1-597c026f23dd/AppIcon-1x_U007ephone-0-1-85-220-0.png/180x180bb.png",
+          "rating": 5,
+          "ratingCount": 7,
+          "price": "0.00",
+          "rank": 317,
+          "category": "6007"
+        },
+        {
+          "appId": 6751485203,
+          "name": "AI QR Code Scan-QR Create",
+          "publisher": "INTERNATIONAL ASSOCIATION OF MANAGEMENT SCIENCE AND ENGINEERING TECHNOLOGY LIMITED",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/97/20/33/97203333-123a-6596-5fd6-a9c94c3301d1/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/180x180bb.png",
+          "rating": 3.3,
+          "ratingCount": 9,
+          "price": "0.00",
+          "rank": 405,
+          "category": "6007"
+        },
+        {
+          "appId": 6758547919,
+          "name": "***: Fast *** Super Proxy",
+          "publisher": "Free VPN LLC(US)",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9d/70/28/9d70287a-aa5a-f775-f4b9-a6f458acd9d3/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/180x180bb.png",
+          "rating": 0,
+          "ratingCount": 0,
+          "price": "0.00",
+          "rank": 427,
+          "category": "6007"
+        },
+        {
+          "appId": 6749665109,
+          "name": "Journey: Screen Time Control",
+          "publisher": "Brain Nourishment LLC",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/44/7f/f2/447ff276-2fd2-1e10-15e4-4fa8ae180730/AppIcon-0-0-1x_U007epad-0-1-85-220.png/180x180bb.png",
+          "rating": 4.8,
+          "ratingCount": 1297,
+          "price": "0.00",
+          "rank": 428,
+          "category": "6007"
+        },
+        {
+          "appId": 908741564,
+          "name": "Motus - Business Mileage Log",
+          "publisher": "Motus, LLC",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/48/73/8e/48738e1c-6060-a671-7056-68deebd13114/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220-0.png/180x180bb.png",
+          "rating": 4.5,
+          "ratingCount": 8636,
+          "price": "0.00",
+          "rank": 429,
+          "category": "6007"
+        },
+        {
+          "appId": 1521490855,
+          "name": "Net*** Adblock Proxy Unlimited",
+          "publisher": "Engin LTD.",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f6/72/0d/f6720d9f-bbc6-865e-8811-1ebe50bbb026/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
+          "rating": 4.5,
+          "ratingCount": 2951,
+          "price": "0.00",
+          "rank": 433,
+          "category": "6007"
+        },
+        {
+          "appId": 6470362678,
+          "name": "AI Code Genie",
+          "publisher": "ORBITAL TECH PTE. LTD.",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9e/4a/d9/9e4ad948-1b3b-0ea0-cc37-28f8a1c85de2/AppIcon-0-0-1x_U007ephone-0-11-0-85-220.png/180x180bb.png",
+          "rating": 3.4,
+          "ratingCount": 43,
+          "price": "0.00",
+          "rank": 434,
+          "category": "6007"
+        },
+        {
+          "appId": 6748533164,
+          "name": "X3 *** - Private ***",
+          "publisher": "Eplus Technology Solutions & Investment Company Limited",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1a/c4/36/1ac4369b-5304-fc14-ea01-50e7c914d0ff/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/180x180bb.png",
+          "rating": 0,
+          "ratingCount": 0,
+          "price": "0.00",
+          "rank": 436,
+          "category": "6007"
+        },
+        {
+          "appId": 1540586552,
+          "name": "FCA Freedom Worker",
+          "publisher": "Field Control Analytics, Inc.",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/fc/ad/e4/fcade480-8a27-c484-6141-c310af3a81af/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/180x180bb.png",
+          "rating": 2.6,
+          "ratingCount": 22,
+          "price": "0.00",
+          "rank": 438,
+          "category": "6007"
+        },
+        {
+          "appId": 1457872372,
+          "name": "Lantern: Fast, Secure ***",
+          "publisher": "Brave New Software Project, Inc",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e1/7e/b7/e17eb758-eed5-3d48-9741-7dca349a829d/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/180x180bb.png",
+          "rating": 3,
+          "ratingCount": 35,
+          "price": "0.00",
+          "rank": 446,
+          "category": "6007"
+        },
+        {
+          "appId": 6753721487,
+          "name": "Touch Time - World Clock",
+          "publisher": "yuhang lu",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d9/2f/6e/d92f6e68-5f1d-848c-8fe8-e1258f96e067/TouchTimeApp-0-0-1x_U007ephone-0-1-sRGB-85-220.png/180x180bb.png",
+          "rating": 5,
+          "ratingCount": 5,
+          "price": "0.00",
+          "rank": 458,
+          "category": "6007"
+        },
+        {
+          "appId": 6753873785,
+          "name": "ChatGO - ChatBot AI",
+          "publisher": "Wachanga LTD",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/84/bd/5c/84bd5cd4-d285-7f19-8912-b19687ef7a6d/AppIcon_13-0-0-1x_U007ephone-0-1-85-220.png/180x180bb.png",
+          "rating": 4.5,
+          "ratingCount": 80,
+          "price": "0.00",
+          "rank": 460,
+          "category": "6007"
+        },
+        {
+          "appId": 6741185841,
+          "name": "Jett Sender App",
+          "publisher": "United Jetpackers Inc",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3e/df/36/3edf368a-255f-1d2d-0cf0-08d3aacd2cd8/AppIcon-0-0-1x_U007epad-0-1-85-220.png/180x180bb.png",
+          "rating": 3,
+          "ratingCount": 7,
+          "price": "0.00",
+          "rank": 471,
+          "category": "6007"
+        },
+        {
+          "appId": 6744721879,
+          "name": "QR Master - Creator",
+          "publisher": "FAR VISION TECH LIMITED",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a8/58/be/a858bea8-d0bd-4296-4988-ca85773fc34f/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/180x180bb.png",
+          "rating": 4.4,
+          "ratingCount": 1628,
+          "price": "0.00",
+          "rank": 479,
+          "category": "6007"
+        },
+        {
+          "appId": 1450486923,
+          "name": "Routine Planner, Habit Tracker",
+          "publisher": "Routinery Corp.",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/50/11/22/501122de-5e2d-710f-7187-0f7c814b8443/Default-0-0-1x_U007emarketing-0-11-0-85-220.png/180x180bb.png",
+          "rating": 4.7,
+          "ratingCount": 16800,
+          "price": "0.00",
+          "rank": 488,
+          "category": "6007"
+        },
+        {
+          "appId": 6451491556,
+          "name": "Wave AI Note Taker & Recorder",
+          "publisher": "Mohrer Associates LLC",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/37/8e/1c/378e1ccb-e148-581b-033d-04cea4600f41/AppIcon-0-0-1x_U007epad-0-1-85-220.png/180x180bb.png",
+          "rating": 4.9,
+          "ratingCount": 11500,
+          "price": "0.00",
+          "rank": 490,
+          "category": "6007"
+        },
+        {
+          "appId": 6470238006,
+          "name": "Flibbo AI - Video Image Maker",
+          "publisher": "SOFYO DIJITAL",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3c/0a/31/3c0a31fc-fd95-ff69-c3db-df54ffe1be80/AppIcon-0-0-1x_U007epad-0-1-85-220.png/180x180bb.png",
+          "rating": 4.7,
+          "ratingCount": 10500,
+          "price": "0.00",
+          "rank": 491,
+          "category": "6007"
+        },
+        {
+          "appId": 1320618078,
+          "name": "DigiLocker",
+          "publisher": "National e-Governance Division",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/45/72/5f/45725f83-a18d-4533-da67-cbb97fbd9d55/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/180x180bb.png",
+          "rating": 3.3,
+          "ratingCount": 182,
+          "price": "0.00",
+          "rank": 497,
+          "category": "6007"
+        },
+        {
+          "appId": 1639842068,
+          "name": "iTranscribe - Audio to Text",
+          "publisher": "TALENT ME TECHNOLOGY PTE. LTD. ",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/99/f1/ac/99f1ac8c-ef84-553b-43cf-069af98bb9a2/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/180x180bb.png",
+          "rating": 4.6,
+          "ratingCount": 6585,
+          "price": "0.00",
+          "rank": 498,
+          "category": "6007"
+        }
+      ]
+    }
+  }
+}
