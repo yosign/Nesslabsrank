@@ -3,32 +3,10 @@
   "genre": "6002",
   "topRisers": [
     {
-      "appId": 6450420454,
-      "previous_rank": 492,
-      "current_rank": 280,
-      "rank_change": 212,
-      "category": "6002",
-      "date": "2026-06-07",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/45/69/ca/4569caa7-56ef-4855-3113-520acce48ae0/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/180x180bb.png",
-      "app_name": "Landbook",
-      "publisher": "SOUTH WIRELESS LIMITED"
-    },
-    {
-      "appId": 6670310164,
-      "previous_rank": 439,
-      "current_rank": 245,
-      "rank_change": 194,
-      "category": "6002",
-      "date": "2026-06-07",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/35/16/f3/3516f324-91cc-d9a1-ba96-557a3624a026/AppIcon-0-0-1x_U007epad-0-11-0-85-220.png/180x180bb.png",
-      "app_name": "Universal Remote for Smart TV+",
-      "publisher": "Delta Software"
-    },
-    {
       "appId": 1667391175,
       "previous_rank": 459,
-      "current_rank": 279,
-      "rank_change": 180,
+      "current_rank": 229,
+      "rank_change": 230,
       "category": "6002",
       "date": "2026-06-07",
       "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/cf/fd/ad/cffdadd3-b227-bbcd-4c13-1395889845af/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/180x180bb.png",
@@ -36,10 +14,21 @@
       "publisher": "Koodos, Inc."
     },
     {
+      "appId": 6670310164,
+      "previous_rank": 439,
+      "current_rank": 236,
+      "rank_change": 203,
+      "category": "6002",
+      "date": "2026-06-07",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/35/16/f3/3516f324-91cc-d9a1-ba96-557a3624a026/AppIcon-0-0-1x_U007epad-0-11-0-85-220.png/180x180bb.png",
+      "app_name": "Universal Remote for Smart TV+",
+      "publisher": "Delta Software"
+    },
+    {
       "appId": 6504286963,
       "previous_rank": 390,
-      "current_rank": 212,
-      "rank_change": 178,
+      "current_rank": 193,
+      "rank_change": 197,
       "category": "6002",
       "date": "2026-06-07",
       "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d7/ee/a8/d7eea873-380e-4da9-195e-95baafdcddb9/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/180x180bb.png",
@@ -47,26 +36,37 @@
       "publisher": "Wartraf sp. z o.o."
     },
     {
-      "appId": 6504548974,
-      "previous_rank": 442,
-      "current_rank": 268,
-      "rank_change": 174,
+      "appId": 6450420454,
+      "previous_rank": 492,
+      "current_rank": 307,
+      "rank_change": 185,
       "category": "6002",
       "date": "2026-06-07",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/21/64/aa/2164aa14-c073-0482-6b08-0d6183ed4f9a/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/180x180bb.png",
-      "app_name": "HelloBlink",
-      "publisher": "Shenzhen Yihengke Electronic Technology Co.,Ltd."
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/45/69/ca/4569caa7-56ef-4855-3113-520acce48ae0/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/180x180bb.png",
+      "app_name": "Landbook",
+      "publisher": "SOUTH WIRELESS LIMITED"
     },
     {
-      "appId": 1621229655,
-      "previous_rank": 477,
-      "current_rank": 305,
-      "rank_change": 172,
+      "appId": 6736361418,
+      "previous_rank": 250,
+      "current_rank": 83,
+      "rank_change": 167,
       "category": "6002",
       "date": "2026-06-07",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/fe/87/75/fe8775e1-ea78-f3ce-d197-e7cf6839d8aa/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/180x180bb.png",
-      "app_name": "Sony | BRAVIA Connect",
-      "publisher": "Sony Corporation"
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/58/da/be/58dabe7d-7f67-6e40-50eb-fe4b128faabb/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/180x180bb.png",
+      "app_name": "Star Gazer - Live Sky View Map",
+      "publisher": "LeoStudio Global"
+    },
+    {
+      "appId": 6760815980,
+      "previous_rank": 198,
+      "current_rank": 32,
+      "rank_change": 166,
+      "category": "6002",
+      "date": "2026-06-07",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/58/6c/f8/586cf842-0a0c-6f61-03f8-405ab36fa71a/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/180x180bb.png",
+      "app_name": "To Sleep:App",
+      "publisher": "Ngan Kim Thu"
     }
   ]
 }
