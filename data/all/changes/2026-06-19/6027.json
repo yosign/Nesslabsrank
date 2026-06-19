@@ -5,8 +5,8 @@
     {
       "appId": 6768231205,
       "previous_rank": 412,
-      "current_rank": 184,
-      "rank_change": 228,
+      "current_rank": 202,
+      "rank_change": 210,
       "category": "6027",
       "date": "2026-06-19",
       "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/61/07/97/610797b3-c88a-9315-3248-d54aa36fa555/AppIcon-0-1x_U007ephone-0-1-0-85-220-0.png/180x180bb.png",
@@ -16,8 +16,8 @@
     {
       "appId": 6756482755,
       "previous_rank": 284,
-      "current_rank": 117,
-      "rank_change": 167,
+      "current_rank": 105,
+      "rank_change": 179,
       "category": "6027",
       "date": "2026-06-19",
       "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/40/c7/e1/40c7e1bf-2838-8d66-a34c-a12a90e37f43/AppIcon-0-0-1x_U007ephone-0-11-0-85-220.png/180x180bb.png",
@@ -27,8 +27,8 @@
     {
       "appId": 6760111809,
       "previous_rank": 425,
-      "current_rank": 282,
-      "rank_change": 143,
+      "current_rank": 281,
+      "rank_change": 144,
       "category": "6027",
       "date": "2026-06-19",
       "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b8/dc/28/b8dc28e3-cdce-c063-b067-0ce363d441a5/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/180x180bb.png",
@@ -36,21 +36,10 @@
       "publisher": "Olena Makiievska"
     },
     {
-      "appId": 6744645059,
-      "previous_rank": 370,
-      "current_rank": 243,
-      "rank_change": 127,
-      "category": "6027",
-      "date": "2026-06-19",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ec/04/c4/ec04c483-bb7d-868e-09c0-8d86d6178093/AppIcon-0-0-1x_U007epad-0-1-0-85-220.jpeg/180x180bb.png",
-      "app_name": "Photo Eraser: Object Remover",
-      "publisher": "AdSpark OU"
-    },
-    {
       "appId": 6762120067,
       "previous_rank": 402,
-      "current_rank": 286,
-      "rank_change": 116,
+      "current_rank": 260,
+      "rank_change": 142,
       "category": "6027",
       "date": "2026-06-19",
       "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4a/23/a7/4a23a760-a4d5-e05f-a79c-c94cc882343e/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/180x180bb.png",
@@ -58,15 +47,26 @@
       "publisher": "Deryan PAPATYA"
     },
     {
-      "appId": 6757927202,
-      "previous_rank": 475,
-      "current_rank": 378,
-      "rank_change": 97,
+      "appId": 6744645059,
+      "previous_rank": 370,
+      "current_rank": 240,
+      "rank_change": 130,
       "category": "6027",
       "date": "2026-06-19",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/68/f3/ba/68f3ba22-8ad7-5ceb-65b1-e26c34c77348/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/180x180bb.png",
-      "app_name": "AI Video Generator&Hot - Vorio",
-      "publisher": "Yusuf Ihsan Gul"
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ec/04/c4/ec04c483-bb7d-868e-09c0-8d86d6178093/AppIcon-0-0-1x_U007epad-0-1-0-85-220.jpeg/180x180bb.png",
+      "app_name": "Photo Eraser: Object Remover",
+      "publisher": "AdSpark OU"
+    },
+    {
+      "appId": 6763632360,
+      "previous_rank": 288,
+      "current_rank": 173,
+      "rank_change": 115,
+      "category": "6027",
+      "date": "2026-06-19",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6f/e9/48/6fe9483c-78a8-5f2b-5901-b7d8cd244956/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/180x180bb.png",
+      "app_name": "Sketch Steps: AI Loomis Draw",
+      "publisher": "Recep Can Akdemir"
     }
   ]
 }
