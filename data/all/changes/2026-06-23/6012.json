@@ -3,10 +3,32 @@
   "genre": "6012",
   "topRisers": [
     {
+      "appId": 6755228595,
+      "previous_rank": 467,
+      "current_rank": 285,
+      "rank_change": 182,
+      "category": "6012",
+      "date": "2026-06-23",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d9/d3/66/d9d36627-cbdf-ec1e-0fa3-437d55a36f52/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/180x180bb.png",
+      "app_name": "NightGrace：Sleep & Podcasts",
+      "publisher": "Forerunner Technology Limited (HK)"
+    },
+    {
+      "appId": 6740829034,
+      "previous_rank": 470,
+      "current_rank": 294,
+      "rank_change": 176,
+      "category": "6012",
+      "date": "2026-06-23",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/43/5e/05/435e059b-a3f0-33d5-0d32-025cd77e4521/AppIcon-1x_U007ephone-0-1-0-85-220-0.png/180x180bb.png",
+      "app_name": "snag sublets",
+      "publisher": "OneRoof App, Co."
+    },
+    {
       "appId": 1138970986,
       "previous_rank": 396,
-      "current_rank": 204,
-      "rank_change": 192,
+      "current_rank": 228,
+      "rank_change": 168,
       "category": "6012",
       "date": "2026-06-23",
       "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b9/47/08/b947089a-398e-de04-b6c7-2e2ee2235206/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/180x180bb.png",
@@ -14,21 +36,10 @@
       "publisher": "Businessolver"
     },
     {
-      "appId": 6757737410,
-      "previous_rank": 452,
-      "current_rank": 262,
-      "rank_change": 190,
-      "category": "6012",
-      "date": "2026-06-23",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4f/1c/92/4f1c9249-16ea-aeed-f172-425a995aca5f/AppIcon-1x_U007ephone-0-1-85-220-0.jpeg/180x180bb.png",
-      "app_name": "Nook - belongs only to you",
-      "publisher": "Nook network Inc."
-    },
-    {
       "appId": 6504396303,
       "previous_rank": 410,
-      "current_rank": 271,
-      "rank_change": 139,
+      "current_rank": 246,
+      "rank_change": 164,
       "category": "6012",
       "date": "2026-06-23",
       "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c6/b5/16/c6b516fc-252a-33e6-3b86-437980f63bb3/AppIcon-0-0-1x_U007epad-0-1-85-220.png/180x180bb.png",
@@ -36,37 +47,26 @@
       "publisher": "Hong Kong Zhufeng Technology Co., Limited"
     },
     {
-      "appId": 6499445456,
-      "previous_rank": 381,
-      "current_rank": 245,
-      "rank_change": 136,
+      "appId": 6757737410,
+      "previous_rank": 452,
+      "current_rank": 298,
+      "rank_change": 154,
       "category": "6012",
       "date": "2026-06-23",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/fb/92/f9/fb92f97c-69cd-69f3-abc2-9877a83b7cc4/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/180x180bb.png",
-      "app_name": "AHS: American Home Shield",
-      "publisher": "Frontdoor Incorporated"
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4f/1c/92/4f1c9249-16ea-aeed-f172-425a995aca5f/AppIcon-1x_U007ephone-0-1-85-220-0.jpeg/180x180bb.png",
+      "app_name": "Nook - belongs only to you",
+      "publisher": "Nook network Inc."
     },
     {
-      "appId": 6473748536,
-      "previous_rank": 250,
-      "current_rank": 124,
-      "rank_change": 126,
+      "appId": 6768864223,
+      "previous_rank": 408,
+      "current_rank": 269,
+      "rank_change": 139,
       "category": "6012",
       "date": "2026-06-23",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6a/f2/8e/6af28ed4-22bf-8c10-e5df-bd8beb09e9cd/AppIcon-1x_U007ephone-0-1-85-220-0.png/180x180bb.png",
-      "app_name": "Astra - Life Advice",
-      "publisher": "Vert Ventures"
-    },
-    {
-      "appId": 487739314,
-      "previous_rank": 291,
-      "current_rank": 171,
-      "rank_change": 120,
-      "category": "6012",
-      "date": "2026-06-23",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/58/68/60/5868605f-377a-dd6a-91f7-fcd34afc52ab/AppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.png/180x180bb.png",
-      "app_name": "Bunk1",
-      "publisher": "Bunk1.com"
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f3/4f/6e/f34f6e62-d032-fd73-e91a-46705fdbf3e3/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/180x180bb.png",
+      "app_name": "Winlo - Capture, Share, Meet",
+      "publisher": "Antonello Ignazio Vicenti"
     }
   ]
 }
