@@ -5,8 +5,8 @@
     {
       "appId": 1216875274,
       "previous_rank": 497,
-      "current_rank": 106,
-      "rank_change": 391,
+      "current_rank": 113,
+      "rank_change": 384,
       "category": "6007",
       "date": "2026-06-25",
       "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c4/06/5a/c4065a1d-b8e6-537a-d2c4-79fe350fba81/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.jpeg/180x180bb.png",
@@ -16,8 +16,8 @@
     {
       "appId": 6751109423,
       "previous_rank": 394,
-      "current_rank": 184,
-      "rank_change": 210,
+      "current_rank": 155,
+      "rank_change": 239,
       "category": "6007",
       "date": "2026-06-25",
       "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/25/1c/5b/251c5bc7-f358-8ae5-8327-640b6b9bbcdf/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/180x180bb.png",
@@ -27,8 +27,8 @@
     {
       "appId": 6753734581,
       "previous_rank": 413,
-      "current_rank": 236,
-      "rank_change": 177,
+      "current_rank": 187,
+      "rank_change": 226,
       "category": "6007",
       "date": "2026-06-25",
       "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a2/d4/88/a2d488f0-1239-2ddc-91cc-8523ad961997/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/180x180bb.png",
@@ -36,21 +36,10 @@
       "publisher": "Takumi Banjoya"
     },
     {
-      "appId": 6768545062,
-      "previous_rank": 303,
-      "current_rank": 223,
-      "rank_change": 80,
-      "category": "6007",
-      "date": "2026-06-25",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/dd/ab/bf/ddabbf8a-fc4b-1fcc-a5aa-b621365f2e31/AppIcon-0-0-1x_U007emarketing-0-11-0-sRGB-85-220.png/180x180bb.png",
-      "app_name": "TranslateAll: Live Translator",
-      "publisher": "Aurora Borealis Culture Media Limited"
-    },
-    {
       "appId": 6754635980,
       "previous_rank": 175,
-      "current_rank": 98,
-      "rank_change": 77,
+      "current_rank": 77,
+      "rank_change": 98,
       "category": "6007",
       "date": "2026-06-25",
       "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/07/60/4b/07604b09-0d12-a130-e859-788854eeeff4/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/180x180bb.png",
@@ -58,15 +47,26 @@
       "publisher": "波 王"
     },
     {
-      "appId": 6741380655,
-      "previous_rank": 121,
-      "current_rank": 46,
-      "rank_change": 75,
+      "appId": 6757428504,
+      "previous_rank": 281,
+      "current_rank": 188,
+      "rank_change": 93,
       "category": "6007",
       "date": "2026-06-25",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7a/33/0b/7a330b7d-db35-da1e-368e-a718de119912/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/180x180bb.png",
-      "app_name": "Workcloud Shift",
-      "publisher": "Reflexis Systems Inc"
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6e/2d/bd/6e2dbdf3-2538-24e3-fdd6-c7fcb9ae7a3b/AppIcon-1x_U007ephone-0-11-0-85-220-0.png/180x180bb.png",
+      "app_name": "夸客 - 多模型AI聊天拍题答疑写作问答",
+      "publisher": "中楷 胡"
+    },
+    {
+      "appId": 6768545062,
+      "previous_rank": 303,
+      "current_rank": 221,
+      "rank_change": 82,
+      "category": "6007",
+      "date": "2026-06-25",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/dd/ab/bf/ddabbf8a-fc4b-1fcc-a5aa-b621365f2e31/AppIcon-0-0-1x_U007emarketing-0-11-0-sRGB-85-220.png/180x180bb.png",
+      "app_name": "TranslateAll: Live Translator",
+      "publisher": "Aurora Borealis Culture Media Limited"
     }
   ]
 }
