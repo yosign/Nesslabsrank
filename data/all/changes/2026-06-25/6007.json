@@ -5,8 +5,8 @@
     {
       "appId": 1216875274,
       "previous_rank": 497,
-      "current_rank": 87,
-      "rank_change": 410,
+      "current_rank": 106,
+      "rank_change": 391,
       "category": "6007",
       "date": "2026-06-25",
       "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c4/06/5a/c4065a1d-b8e6-537a-d2c4-79fe350fba81/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.jpeg/180x180bb.png",
@@ -14,10 +14,21 @@
       "publisher": "Zscaler Inc"
     },
     {
+      "appId": 6751109423,
+      "previous_rank": 394,
+      "current_rank": 184,
+      "rank_change": 210,
+      "category": "6007",
+      "date": "2026-06-25",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/25/1c/5b/251c5bc7-f358-8ae5-8327-640b6b9bbcdf/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/180x180bb.png",
+      "app_name": "Phone Cleanup: Storage Cleaner",
+      "publisher": "Novago Global Solutions FZ-LLC"
+    },
+    {
       "appId": 6753734581,
       "previous_rank": 413,
-      "current_rank": 212,
-      "rank_change": 201,
+      "current_rank": 236,
+      "rank_change": 177,
       "category": "6007",
       "date": "2026-06-25",
       "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a2/d4/88/a2d488f0-1239-2ddc-91cc-8523ad961997/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/180x180bb.png",
@@ -25,48 +36,37 @@
       "publisher": "Takumi Banjoya"
     },
     {
+      "appId": 6768545062,
+      "previous_rank": 303,
+      "current_rank": 223,
+      "rank_change": 80,
+      "category": "6007",
+      "date": "2026-06-25",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/dd/ab/bf/ddabbf8a-fc4b-1fcc-a5aa-b621365f2e31/AppIcon-0-0-1x_U007emarketing-0-11-0-sRGB-85-220.png/180x180bb.png",
+      "app_name": "TranslateAll: Live Translator",
+      "publisher": "Aurora Borealis Culture Media Limited"
+    },
+    {
+      "appId": 6754635980,
+      "previous_rank": 175,
+      "current_rank": 98,
+      "rank_change": 77,
+      "category": "6007",
+      "date": "2026-06-25",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/07/60/4b/07604b09-0d12-a130-e859-788854eeeff4/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/180x180bb.png",
+      "app_name": "AI Cut:Photo&Video Editor",
+      "publisher": "波 王"
+    },
+    {
       "appId": 6741380655,
       "previous_rank": 121,
-      "current_rank": 53,
-      "rank_change": 68,
+      "current_rank": 46,
+      "rank_change": 75,
       "category": "6007",
       "date": "2026-06-25",
       "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7a/33/0b/7a330b7d-db35-da1e-368e-a718de119912/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/180x180bb.png",
       "app_name": "Workcloud Shift",
       "publisher": "Reflexis Systems Inc"
-    },
-    {
-      "appId": 6742278016,
-      "previous_rank": 187,
-      "current_rank": 146,
-      "rank_change": 41,
-      "category": "6007",
-      "date": "2026-06-25",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e1/0b/35/e10b3587-164d-911d-4339-04bdde29a378/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/180x180bb.png",
-      "app_name": "Focus Friend, by Hank Green",
-      "publisher": "B-Tech Consulting Group LLC"
-    },
-    {
-      "appId": 6741363138,
-      "previous_rank": 216,
-      "current_rank": 176,
-      "rank_change": 40,
-      "category": "6007",
-      "date": "2026-06-25",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/51/53/dc/5153dc2c-beaf-5d30-13b8-a743936098da/AppIcon-Default-0-0-1x_U007ephone-0-1-0-0-85-220.png/180x180bb.png",
-      "app_name": "Genora AI – Chat Bot Assistant",
-      "publisher": "MOBIWAYS LTD"
-    },
-    {
-      "appId": 6670622037,
-      "previous_rank": 177,
-      "current_rank": 138,
-      "rank_change": 39,
-      "category": "6007",
-      "date": "2026-06-25",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/cf/56/97/cf56971a-3bc0-f977-7d25-9de66e58d7ec/AppIconMWM-0-0-1x_U007epad-0-1-0-sRGB-85-220.jpeg/180x180bb.png",
-      "app_name": "Translator Keyboard : Lingo",
-      "publisher": "MWM"
     }
   ]
 }
