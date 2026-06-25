@@ -3,10 +3,21 @@
   "genre": "6012",
   "topRisers": [
     {
+      "appId": 6667106246,
+      "previous_rank": 377,
+      "current_rank": 241,
+      "rank_change": 136,
+      "category": "6012",
+      "date": "2026-06-25",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2b/80/83/2b80837f-2672-1b05-2781-e3d1c2c05cdb/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/180x180bb.png",
+      "app_name": "iTV Remote: Universal Control",
+      "publisher": "HIGHONE (HK) Inc"
+    },
+    {
       "appId": 6743861403,
       "previous_rank": 353,
-      "current_rank": 237,
-      "rank_change": 116,
+      "current_rank": 218,
+      "rank_change": 135,
       "category": "6012",
       "date": "2026-06-25",
       "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f7/cc/1c/f7cc1cb3-c067-df04-cd85-df2a9a9268d4/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/180x180bb.png",
@@ -14,10 +25,21 @@
       "publisher": "SharoneLimited"
     },
     {
+      "appId": 6449750416,
+      "previous_rank": 327,
+      "current_rank": 220,
+      "rank_change": 107,
+      "category": "6012",
+      "date": "2026-06-25",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/85/df/73/85df739e-b361-eefe-82ad-e05f524d223c/AppIcon_old-0-0-1x_U007ephone-0-85-220.png/180x180bb.png",
+      "app_name": "Plug AI: Texting Assistant",
+      "publisher": "Vert Media Partners LLC"
+    },
+    {
       "appId": 1016299342,
       "previous_rank": 280,
-      "current_rank": 170,
-      "rank_change": 110,
+      "current_rank": 190,
+      "rank_change": 90,
       "category": "6012",
       "date": "2026-06-25",
       "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ff/2a/68/ff2a68a4-6fdf-cc9b-3246-1254d332ff81/AppIcon-0-0-1x_U007emarketing-0-8-0-sRGB-85-220.png/180x180bb.png",
@@ -25,48 +47,26 @@
       "publisher": "Blueair AB"
     },
     {
-      "appId": 1476830649,
-      "previous_rank": 337,
-      "current_rank": 250,
-      "rank_change": 87,
-      "category": "6012",
-      "date": "2026-06-25",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c4/6f/7d/c46f7d36-601e-f247-9c17-b82f1e4fc1e9/AppIcon-1x_U007emarketing-0-8-0-0-85-220-0.png/180x180bb.png",
-      "app_name": "Halo Collar",
-      "publisher": "Protect Animals With Satellites, LLC"
-    },
-    {
-      "appId": 1586120661,
-      "previous_rank": 195,
-      "current_rank": 113,
-      "rank_change": 82,
-      "category": "6012",
-      "date": "2026-06-25",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/05/ed/06/05ed064e-6822-7e05-a18d-bb4b01de5ebe/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/180x180bb.png",
-      "app_name": "Petlibro",
-      "publisher": "Designlibro Inc"
-    },
-    {
-      "appId": 1544694845,
-      "previous_rank": 233,
-      "current_rank": 155,
-      "rank_change": 78,
-      "category": "6012",
-      "date": "2026-06-25",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a4/91/7d/a4917d2c-8a0f-23b2-36e9-9b0d0ae5aaf3/AppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.png/180x180bb.png",
-      "app_name": "eufy Baby",
-      "publisher": "Power Mobile Life LLC"
-    },
-    {
       "appId": 6503280598,
       "previous_rank": 293,
-      "current_rank": 217,
-      "rank_change": 76,
+      "current_rank": 203,
+      "rank_change": 90,
       "category": "6012",
       "date": "2026-06-25",
       "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0b/8d/2d/0b8d2d8a-7523-fb7a-dd4a-3004251f4bf4/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/180x180bb.png",
       "app_name": "Musico Vision - Listen, Sounds",
       "publisher": "Thi Tam Hoang"
+    },
+    {
+      "appId": 6758696583,
+      "previous_rank": 194,
+      "current_rank": 111,
+      "rank_change": 83,
+      "category": "6012",
+      "date": "2026-06-25",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/96/5b/49/965b49a0-ab20-355f-9971-4ff1911481ab/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/180x180bb.png",
+      "app_name": "Famircle: Family Locator",
+      "publisher": "Ruisibai (shenzhen) Trading Co., Ltd"
     }
   ]
 }
