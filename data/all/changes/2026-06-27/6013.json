@@ -3,10 +3,43 @@
   "genre": "6013",
   "topRisers": [
     {
+      "appId": 893687399,
+      "previous_rank": 241,
+      "current_rank": 162,
+      "rank_change": 79,
+      "category": "6013",
+      "date": "2026-06-27",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/02/0d/77/020d77c0-cb9b-88e4-1d11-5c48b6aa22a4/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-85-220.png/180x180bb.png",
+      "app_name": "Ride with GPS: Bike Navigation",
+      "publisher": "Ride with GPS"
+    },
+    {
+      "appId": 6443980625,
+      "previous_rank": 235,
+      "current_rank": 161,
+      "rank_change": 74,
+      "category": "6013",
+      "date": "2026-06-27",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/09/ed/fe/09edfe0e-17fd-5da7-bf16-4a45c2bc4ae6/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/180x180bb.png",
+      "app_name": "Da Rings",
+      "publisher": "MO YOUNG LIMITED"
+    },
+    {
+      "appId": 1450500729,
+      "previous_rank": 226,
+      "current_rank": 160,
+      "rank_change": 66,
+      "category": "6013",
+      "date": "2026-06-27",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b7/53/68/b753688f-3595-2914-8c87-0b6383edbbe3/AppIcon-0-0-1x_U007emarketing-0-8-0-0-sRGB-85-220.png/180x180bb.png",
+      "app_name": "SmartHealth",
+      "publisher": "Shenzhen Yucheng Innovation Technology Co., Ltd."
+    },
+    {
       "appId": 6756594504,
       "previous_rank": 218,
-      "current_rank": 139,
-      "rank_change": 79,
+      "current_rank": 156,
+      "rank_change": 62,
       "category": "6013",
       "date": "2026-06-27",
       "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/cf/cd/d2/cfcdd276-3991-29b0-6e97-10c6e1cab455/AppIcon-0-0-1x_U007ephone-0-11-0-85-220.png/180x180bb.png",
@@ -14,21 +47,10 @@
       "publisher": "ICON Health & Fitness, Inc."
     },
     {
-      "appId": 912530754,
-      "previous_rank": 227,
-      "current_rank": 164,
-      "rank_change": 63,
-      "category": "6013",
-      "date": "2026-06-27",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c5/0c/82/c50c8251-b431-e557-e988-853884350acb/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/180x180bb.png",
-      "app_name": "Lark Health",
-      "publisher": "LARK"
-    },
-    {
       "appId": 6758682710,
       "previous_rank": 210,
-      "current_rank": 165,
-      "rank_change": 45,
+      "current_rank": 149,
+      "rank_change": 61,
       "category": "6013",
       "date": "2026-06-27",
       "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/60/c9/1a/60c91a66-cc2d-1e55-8f82-d1234984f1da/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/180x180bb.png",
@@ -38,35 +60,13 @@
     {
       "appId": 1622951301,
       "previous_rank": 187,
-      "current_rank": 144,
-      "rank_change": 43,
+      "current_rank": 134,
+      "rank_change": 53,
       "category": "6013",
       "date": "2026-06-27",
       "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a5/38/46/a5384614-84a4-a629-a473-582bd9645d61/AppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.png/180x180bb.png",
       "app_name": "Fit Profile-GE branded scales",
       "publisher": "Global eFit Incorporated"
-    },
-    {
-      "appId": 6446337210,
-      "previous_rank": 99,
-      "current_rank": 57,
-      "rank_change": 42,
-      "category": "6013",
-      "date": "2026-06-27",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9e/41/9e/9e419e91-1e15-5a63-28a4-dba78003cf48/AppIcon-0-0-1x_U007ephone-0-11-0-85-220.png/180x180bb.png",
-      "app_name": "Fitbit Sync to Apple Health",
-      "publisher": "MPR MEDIA INC"
-    },
-    {
-      "appId": 6443980625,
-      "previous_rank": 235,
-      "current_rank": 194,
-      "rank_change": 41,
-      "category": "6013",
-      "date": "2026-06-27",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/09/ed/fe/09edfe0e-17fd-5da7-bf16-4a45c2bc4ae6/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/180x180bb.png",
-      "app_name": "Da Rings",
-      "publisher": "MO YOUNG LIMITED"
     }
   ]
 }
