@@ -1,0 +1,407 @@
+{
+  "date": "2026-06-30",
+  "changes": {
+    "6012": {
+      "added": [
+        {
+          "appId": 6578454904,
+          "name": "Azizam - Persian Dating App",
+          "publisher": "Inno Lynx UG (haftungsbeschrankt)",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/36/ee/15/36ee15a7-b569-5071-27f8-3d43b8ae1421/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/180x180bb.png",
+          "rating": 4.7,
+          "ratingCount": 1719,
+          "price": "0.00",
+          "rank": 47,
+          "category": "6012"
+        },
+        {
+          "appId": 6758687933,
+          "name": "BeSure AI",
+          "publisher": "COGNOVA DEVELOPMENT LLC",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/32/5e/26/325e262b-3cab-d953-f319-e55b568f46f5/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/180x180bb.png",
+          "rating": 4.5,
+          "ratingCount": 24,
+          "price": "0.00",
+          "rank": 136,
+          "category": "6012"
+        },
+        {
+          "appId": 6762414154,
+          "name": "Military Benefits App",
+          "publisher": "Military Benefits App LLC",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b1/a3/1c/b1a31cf1-2149-3c44-3cbb-1575f1bdac42/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/180x180bb.png",
+          "rating": 4.6,
+          "ratingCount": 438,
+          "price": "0.00",
+          "rank": 150,
+          "category": "6012"
+        },
+        {
+          "appId": 6443709181,
+          "name": "Sincerely: Vent & Confess",
+          "publisher": "MWM",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9c/1f/e1/9c1fe159-f198-4acf-a355-01b7e38acb6b/AppIcon-0-1x_U007emarketing-0-11-0-85-220-0.png/180x180bb.png",
+          "rating": 4.7,
+          "ratingCount": 33700,
+          "price": "0.00",
+          "rank": 187,
+          "category": "6012"
+        },
+        {
+          "appId": 1551784231,
+          "name": "Sight & Sound TV",
+          "publisher": "Sight & Sound Ministries, Inc.",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/25/dc/78/25dc789d-78de-cd9a-fa8b-afbad099832d/AppIcon-Branded-0-0-1x_U007emarketing-0-7-0-85-220.png/180x180bb.png",
+          "rating": 4.9,
+          "ratingCount": 893,
+          "price": "0.00",
+          "rank": 189,
+          "category": "6012"
+        },
+        {
+          "appId": 1438796283,
+          "name": "USAA DriveSafe",
+          "publisher": "USAA",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/70/ad/a3/70ada32a-8c49-ff0a-41cd-258a5f3ea93c/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/180x180bb.png",
+          "rating": 4.5,
+          "ratingCount": 158000,
+          "price": "0.00",
+          "rank": 206,
+          "category": "6012"
+        },
+        {
+          "appId": 6451412538,
+          "name": "Homebody: Better Renting",
+          "publisher": "Entrata, Inc.",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f9/b6/37/f9b6371c-c837-b5fd-ba62-bfff3a758a8a/AppIcon-0-0-1x_U007ephone-0-1-0-sRGB-85-220.png/180x180bb.png",
+          "rating": 4.4,
+          "ratingCount": 633,
+          "price": "0.00",
+          "rank": 215,
+          "category": "6012"
+        },
+        {
+          "appId": 1619823218,
+          "name": "Survey Pop: Make money fast!",
+          "publisher": "SocialLoop LLC",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/52/6e/33/526e333a-64fb-f1ad-eaff-b150861f14b6/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/180x180bb.png",
+          "rating": 4.7,
+          "ratingCount": 87800,
+          "price": "0.00",
+          "rank": 216,
+          "category": "6012"
+        },
+        {
+          "appId": 1629477748,
+          "name": "Survey Spin: Get paid cash!",
+          "publisher": "SocialLoop LLC",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e5/fd/94/e5fd94fe-8c8b-52d0-a755-9253ac1ec93a/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/180x180bb.png",
+          "rating": 4.7,
+          "ratingCount": 96000,
+          "price": "0.00",
+          "rank": 226,
+          "category": "6012"
+        },
+        {
+          "appId": 1469609343,
+          "name": "Paired: Couples & Relationship",
+          "publisher": "Better Half Limited",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c0/84/09/c084090e-2ee9-810e-5cd4-59cb39d013fa/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/180x180bb.png",
+          "rating": 4.7,
+          "ratingCount": 203000,
+          "price": "0.00",
+          "rank": 227,
+          "category": "6012"
+        },
+        {
+          "appId": 1516518499,
+          "name": "myQ Community",
+          "publisher": "The Chamberlain Group, Inc.",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e3/83/df/e383dff0-579e-4c16-78e6-57ceb804fa3a/AppIcon-0-0-1x_U007epad-0-1-85-220.png/180x180bb.png",
+          "rating": 4.6,
+          "ratingCount": 34900,
+          "price": "0.00",
+          "rank": 228,
+          "category": "6012"
+        },
+        {
+          "appId": 1485452102,
+          "name": "UserTesting",
+          "publisher": "UserTesting",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7c/e0/38/7ce03828-1f37-d979-e35e-ebc7629f1aee/George-AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/180x180bb.png",
+          "rating": 2.6,
+          "ratingCount": 2189,
+          "price": "0.00",
+          "rank": 231,
+          "category": "6012"
+        },
+        {
+          "appId": 6478697267,
+          "name": "LooksMax Face Rating AI－LooxUP",
+          "publisher": "Look Style AI Studio",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c8/5d/5f/c85d5f31-fd71-171e-be3f-607d50b20352/AppIcon-0-0-1x_U007ephone-0-1-0-0-85-220.png/180x180bb.png",
+          "rating": 4.5,
+          "ratingCount": 35300,
+          "price": "0.00",
+          "rank": 236,
+          "category": "6012"
+        },
+        {
+          "appId": 1663430725,
+          "name": "RIZZ",
+          "publisher": "TREND IT LLC",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/68/3c/7e/683c7ee1-1f65-f79f-abfc-6c3bbdcf62f8/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.jpeg/180x180bb.png",
+          "rating": 4.8,
+          "ratingCount": 38200,
+          "price": "0.00",
+          "rank": 240,
+          "category": "6012"
+        },
+        {
+          "appId": 6739810324,
+          "name": "Smoothspeak: AI Dating Coach",
+          "publisher": "ProdTrace, Inc",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/80/34/b1/8034b197-ce82-52f3-1251-c489db0649e3/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/180x180bb.png",
+          "rating": 4.8,
+          "ratingCount": 11700,
+          "price": "0.00",
+          "rank": 242,
+          "category": "6012"
+        },
+        {
+          "appId": 1482681335,
+          "name": "Wink Dating: Meet, Chat & Date",
+          "publisher": "9 Count, Inc.",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/92/ec/d8/92ecd85b-3cbd-7ffc-56c1-89289d846786/AppIcon-0-1x_U007ephone-0-1-0-85-220-0.png/180x180bb.png",
+          "rating": 4.5,
+          "ratingCount": 309000,
+          "price": "0.00",
+          "rank": 245,
+          "category": "6012"
+        },
+        {
+          "appId": 6670338377,
+          "name": "Aria: Black Singles Dating App",
+          "publisher": "Ringle Dating LTD",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a6/7a/a0/a67aa0e3-d6ae-dea0-0c16-399949255ad6/AriaAppIcon-0-0-1x_U007epad-0-1-P3-85-220.png/180x180bb.png",
+          "rating": 4.4,
+          "ratingCount": 2814,
+          "price": "0.00",
+          "rank": 249,
+          "category": "6012"
+        },
+        {
+          "appId": 6739717915,
+          "name": "Embark Vet",
+          "publisher": "Embark Veterinary, Inc.",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/eb/6c/35/eb6c351d-9d76-de8a-5a2b-146da04f8e89/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/180x180bb.png",
+          "rating": 4.9,
+          "ratingCount": 1643,
+          "price": "0.00",
+          "rank": 250,
+          "category": "6012"
+        }
+      ],
+      "removed": [
+        {
+          "appId": 6758076904,
+          "name": "Vico Nature: Smart Nature View",
+          "publisher": "PHOTON SAIL TECHNOLOGIES PTE. LTD.",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/62/f7/18/62f71844-a2c2-65e4-33e6-529b3d83c0de/AppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.png/180x180bb.png",
+          "rating": 4.4,
+          "ratingCount": 1098,
+          "price": "0.00",
+          "rank": 148,
+          "category": "6012"
+        },
+        {
+          "appId": 6451155639,
+          "name": "Vet Tix",
+          "publisher": "Veteran Tickets Foundation",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/96/92/71/96927161-ed2c-fa0c-7937-0f1f75a8ff11/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/180x180bb.png",
+          "rating": 3.6,
+          "ratingCount": 274,
+          "price": "0.00",
+          "rank": 190,
+          "category": "6012"
+        },
+        {
+          "appId": 1018443930,
+          "name": "Estate Sales - EstateSales.NET",
+          "publisher": "EstateSales.NET",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/84/bc/27/84bc273e-bda8-e8f3-a04a-ad8dd9bc9caa/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-85-220.png/100x100bb.jpg",
+          "rating": 4.8,
+          "ratingCount": 11600,
+          "price": "0.00",
+          "rank": 196,
+          "category": "6012"
+        },
+        {
+          "appId": 6743123395,
+          "name": "Bird Identifier: BirdScope",
+          "publisher": "Unchained Mind",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4c/46/66/4c4666d9-31cd-b8af-ef78-58b6570e65e1/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/180x180bb.png",
+          "rating": 4.7,
+          "ratingCount": 2388,
+          "price": "0.00",
+          "rank": 209,
+          "category": "6012"
+        },
+        {
+          "appId": 1329458504,
+          "name": "ECOVACS HOME",
+          "publisher": "Ecovacs",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9e/12/cf/9e12cf1d-5565-56fb-49fb-b0f98908e03a/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/180x180bb.png",
+          "rating": 4.6,
+          "ratingCount": 50000,
+          "price": "0.00",
+          "rank": 215,
+          "category": "6012"
+        },
+        {
+          "appId": 1476830649,
+          "name": "Halo Collar",
+          "publisher": "Protect Animals With Satellites, LLC",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c4/6f/7d/c46f7d36-601e-f247-9c17-b82f1e4fc1e9/AppIcon-1x_U007emarketing-0-8-0-0-85-220-0.png/180x180bb.png",
+          "rating": 4.1,
+          "ratingCount": 8615,
+          "price": "0.00",
+          "rank": 217,
+          "category": "6012"
+        },
+        {
+          "appId": 1630318116,
+          "name": "WYBOT",
+          "publisher": "WYBOTICS CO.,LTD",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/49/51/ef/4951ef3d-aa14-f0bd-236d-d1db3e18dc4f/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.jpeg/180x180bb.png",
+          "rating": 1.6,
+          "ratingCount": 28,
+          "price": "0.00",
+          "rank": 221,
+          "category": "6012"
+        },
+        {
+          "appId": 1403308360,
+          "name": "Sport Clips Haircuts Check-In",
+          "publisher": "Sport Clips",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/45/67/fd/4567fd3c-07da-b52a-435c-cbdb3fe1f902/AppIcon-1x_U007ephone-0-1-85-220-0.png/180x180bb.png",
+          "rating": 4.8,
+          "ratingCount": 39800,
+          "price": "0.00",
+          "rank": 222,
+          "category": "6012"
+        },
+        {
+          "appId": 6746111774,
+          "name": "LocalAll - Everything Local",
+          "publisher": "Scoopz Inc.",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/76/e2/c9/76e2c9cf-a893-6744-c25c-691a7bb0607d/AppIconNewsBreak-0-0-1x_U007ephone-0-11-0-85-220.png/180x180bb.png",
+          "rating": 4.9,
+          "ratingCount": 965,
+          "price": "0.00",
+          "rank": 229,
+          "category": "6012"
+        },
+        {
+          "appId": 1437699295,
+          "name": "Sniffspot - Private Dog Parks",
+          "publisher": "Sniffspot, Inc.",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7f/9d/98/7f9d9875-ffe5-60ce-f75e-1bc7b2f0b825/AppIcon-0-0-1x_U007emarketing-0-9-0-85-220.png/180x180bb.png",
+          "rating": 4.9,
+          "ratingCount": 21900,
+          "price": "0.00",
+          "rank": 235,
+          "category": "6012"
+        },
+        {
+          "appId": 1024722275,
+          "name": "Aladdin Connect",
+          "publisher": "Overhead Door Corporation",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e7/f0/6b/e7f06b7d-278a-24d0-9b84-78ef89c20246/AppIcon-0-0-1x_U007emarketing-0-8-0-sRGB-85-220.png/180x180bb.png",
+          "rating": 4.8,
+          "ratingCount": 101000,
+          "price": "0.00",
+          "rank": 236,
+          "category": "6012"
+        },
+        {
+          "appId": 6744415578,
+          "name": "MySimilac Rewards",
+          "publisher": "Abbott",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d1/db/0c/d1db0c35-2eb9-4996-8014-6a14fa73174b/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/180x180bb.png",
+          "rating": 3.2,
+          "ratingCount": 31,
+          "price": "0.00",
+          "rank": 239,
+          "category": "6012"
+        },
+        {
+          "appId": 1635913940,
+          "name": "Resident Experience",
+          "publisher": "Greystar Real Estate Partners LLC",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/38/8b/57/388b5734-5376-c96f-3dd5-08d2a02c7826/AppIcon-0-1x_U007emarketing-0-8-0-sRGB-85-220-0.png/180x180bb.png",
+          "rating": 1.4,
+          "ratingCount": 724,
+          "price": "0.00",
+          "rank": 243,
+          "category": "6012"
+        },
+        {
+          "appId": 1222730617,
+          "name": "Parking Kitty",
+          "publisher": "City of Portland",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/57/d6/02/57d602dd-1866-679a-2f44-9f06eafa084f/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/180x180bb.png",
+          "rating": 4.9,
+          "ratingCount": 9158,
+          "price": "0.00",
+          "rank": 244,
+          "category": "6012"
+        },
+        {
+          "appId": 664939913,
+          "name": "Tile - Find lost keys & phone",
+          "publisher": "Tile, Inc.",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d6/74/14/d67414e7-a300-b195-fd61-693930e1d886/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/180x180bb.png",
+          "rating": 4.8,
+          "ratingCount": 1010000,
+          "price": "0.00",
+          "rank": 245,
+          "category": "6012"
+        },
+        {
+          "appId": 1103530261,
+          "name": "Precious - Baby Photo Art",
+          "publisher": "Curious Creators Co.",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/61/f5/a1/61f5a15a-99cd-b994-825b-b587c351f8c2/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/180x180bb.png",
+          "rating": 4.8,
+          "ratingCount": 134000,
+          "price": "0.00",
+          "rank": 246,
+          "category": "6012"
+        },
+        {
+          "appId": 1367606835,
+          "name": "Ting",
+          "publisher": "Whisker Labs, Inc.",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/56/e1/64/56e16416-34bc-f62a-7e96-32553f66b7ae/AppIcon-0-0-1x_U007epad-0-1-85-220.png/180x180bb.png",
+          "rating": 4.8,
+          "ratingCount": 99100,
+          "price": "0.00",
+          "rank": 247,
+          "category": "6012"
+        },
+        {
+          "appId": 1057071179,
+          "name": "Watch Faces by Facer",
+          "publisher": "Little Labs, Inc.",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/99/4d/78/994d7825-ec9b-2818-fa22-c01a43024dd0/AppIcon_Alt_D-0-1x_U007ephone-0-1-0-85-220-0.png/180x180bb.png",
+          "rating": 4.6,
+          "ratingCount": 54300,
+          "price": "0.00",
+          "rank": 248,
+          "category": "6012"
+        }
+      ]
+    }
+  }
+}
