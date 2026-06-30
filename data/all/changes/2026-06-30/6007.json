@@ -3,32 +3,21 @@
   "genre": "6007",
   "topRisers": [
     {
-      "appId": 412650768,
-      "previous_rank": 208,
-      "current_rank": 131,
-      "rank_change": 77,
+      "appId": 1515133401,
+      "previous_rank": 185,
+      "current_rank": 116,
+      "rank_change": 69,
       "category": "6007",
       "date": "2026-06-30",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/eb/0c/8c/eb0c8c4b-a9fa-d018-6f63-2d7b7eaf8e9c/appIcon-0-1x_U007epad-0-11-0-85-220-0.png/180x180bb.png",
-      "app_name": "EZ Receipts",
-      "publisher": "HealthEquity"
-    },
-    {
-      "appId": 1401184723,
-      "previous_rank": 232,
-      "current_rank": 158,
-      "rank_change": 74,
-      "category": "6007",
-      "date": "2026-06-30",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/23/04/e1/2304e16a-dde2-b7ae-b614-01dc5807504f/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/180x180bb.png",
-      "app_name": "Double Good",
-      "publisher": "Double Good"
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a0/c0/e2/a0c0e230-bad8-e059-a626-a09ba0e6614c/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/180x180bb.png",
+      "app_name": "PDF Converter - Word to PDF",
+      "publisher": "Minimodev Technologies LTD"
     },
     {
       "appId": 1540124885,
       "previous_rank": 184,
-      "current_rank": 111,
-      "rank_change": 73,
+      "current_rank": 123,
+      "rank_change": 61,
       "category": "6007",
       "date": "2026-06-30",
       "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/78/83/8b/78838b04-de8e-b98c-e52d-c0341ec53d84/AppIcon-2-1x_U007emarketing-0-8-0-85-220-0.png/180x180bb.png",
@@ -36,21 +25,10 @@
       "publisher": "LCS"
     },
     {
-      "appId": 1091505266,
-      "previous_rank": 173,
-      "current_rank": 104,
-      "rank_change": 69,
-      "category": "6007",
-      "date": "2026-06-30",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6d/e0/bc/6de0bcf4-3bd7-02d5-d2ef-411a0f85ec1c/SharePointAppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.png/180x180bb.png",
-      "app_name": "Microsoft SharePoint",
-      "publisher": "Microsoft Corporation"
-    },
-    {
       "appId": 6736898512,
       "previous_rank": 229,
-      "current_rank": 163,
-      "rank_change": 66,
+      "current_rank": 168,
+      "rank_change": 61,
       "category": "6007",
       "date": "2026-06-30",
       "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ea/da/58/eada5840-861e-9904-7c25-94e9388d09ad/AppIcon-0-0-1x_U007epad-0-1-0-85-220.jpeg/180x180bb.png",
@@ -58,15 +36,37 @@
       "publisher": "RHO APPS"
     },
     {
-      "appId": 1515133401,
-      "previous_rank": 185,
-      "current_rank": 121,
-      "rank_change": 64,
+      "appId": 1091505266,
+      "previous_rank": 173,
+      "current_rank": 115,
+      "rank_change": 58,
       "category": "6007",
       "date": "2026-06-30",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a0/c0/e2/a0c0e230-bad8-e059-a626-a09ba0e6614c/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/180x180bb.png",
-      "app_name": "PDF Converter - Word to PDF",
-      "publisher": "Minimodev Technologies LTD"
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6d/e0/bc/6de0bcf4-3bd7-02d5-d2ef-411a0f85ec1c/SharePointAppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.png/180x180bb.png",
+      "app_name": "Microsoft SharePoint",
+      "publisher": "Microsoft Corporation"
+    },
+    {
+      "appId": 412650768,
+      "previous_rank": 208,
+      "current_rank": 151,
+      "rank_change": 57,
+      "category": "6007",
+      "date": "2026-06-30",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/eb/0c/8c/eb0c8c4b-a9fa-d018-6f63-2d7b7eaf8e9c/appIcon-0-1x_U007epad-0-11-0-85-220-0.png/180x180bb.png",
+      "app_name": "EZ Receipts",
+      "publisher": "HealthEquity"
+    },
+    {
+      "appId": 6742278016,
+      "previous_rank": 196,
+      "current_rank": 147,
+      "rank_change": 49,
+      "category": "6007",
+      "date": "2026-06-30",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e1/0b/35/e10b3587-164d-911d-4339-04bdde29a378/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/180x180bb.png",
+      "app_name": "Focus Friend, by Hank Green",
+      "publisher": "B-Tech Consulting Group LLC"
     }
   ]
 }
