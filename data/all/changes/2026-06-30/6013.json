@@ -5,8 +5,8 @@
     {
       "appId": 1107266414,
       "previous_rank": 203,
-      "current_rank": 100,
-      "rank_change": 103,
+      "current_rank": 98,
+      "rank_change": 105,
       "category": "6013",
       "date": "2026-06-30",
       "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/49/cb/64/49cb6445-5925-4f8e-1e38-2f0055d23c36/AppIcon-0-0-1x_U007ephone-0-11-0-sRGB-85-220.png/180x180bb.png",
@@ -14,21 +14,10 @@
       "publisher": "Playbook Technologies Inc"
     },
     {
-      "appId": 703761434,
-      "previous_rank": 230,
-      "current_rank": 132,
-      "rank_change": 98,
-      "category": "6013",
-      "date": "2026-06-30",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f1/56/16/f156161f-731b-eca9-d156-a4cc5a696042/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/180x180bb.png",
-      "app_name": "Wellhub (Gympass)",
-      "publisher": "GymPass"
-    },
-    {
       "appId": 6748003663,
       "previous_rank": 173,
-      "current_rank": 89,
-      "rank_change": 84,
+      "current_rank": 83,
+      "rank_change": 90,
       "category": "6013",
       "date": "2026-06-30",
       "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6c/fb/99/6cfb9932-91f9-09e1-30ec-c0a6b8a80ae5/AppIcon-0-0-1x_U007ephone-0-11-0-85-220.png/180x180bb.png",
@@ -36,21 +25,32 @@
       "publisher": "do4health"
     },
     {
-      "appId": 573016251,
-      "previous_rank": 209,
-      "current_rank": 125,
-      "rank_change": 84,
+      "appId": 703761434,
+      "previous_rank": 230,
+      "current_rank": 148,
+      "rank_change": 82,
       "category": "6013",
       "date": "2026-06-30",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f8/9d/9d/f89d9d89-62c2-3163-d903-e79bb1d8014c/AppIcon-TX-0-0-1x_U007emarketing-0-8-0-85-220.png/180x180bb.png",
-      "app_name": "BCBSTX",
-      "publisher": "Blue Cross and Blue Shield of Texas"
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f1/56/16/f156161f-731b-eca9-d156-a4cc5a696042/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/180x180bb.png",
+      "app_name": "Wellhub (Gympass)",
+      "publisher": "GymPass"
+    },
+    {
+      "appId": 1048454034,
+      "previous_rank": 207,
+      "current_rank": 135,
+      "rank_change": 72,
+      "category": "6013",
+      "date": "2026-06-30",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ef/69/3b/ef693b91-9acc-c427-b936-b28cda1e37f7/AppIcon-0-0-1x_U007epad-0-1-0-0-sRGB-0-85-220.png/180x180bb.png",
+      "app_name": "Gymverse: Gym Workout Planner",
+      "publisher": "FITNESS22 LTD"
     },
     {
       "appId": 6454791879,
       "previous_rank": 212,
-      "current_rank": 134,
-      "rank_change": 78,
+      "current_rank": 140,
+      "rank_change": 72,
       "category": "6013",
       "date": "2026-06-30",
       "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/76/5c/ca/765ccaa1-cccf-7b0a-da9b-ed0fcafe9f59/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/180x180bb.png",
@@ -58,15 +58,15 @@
       "publisher": "Chuze Fitness"
     },
     {
-      "appId": 1598355340,
-      "previous_rank": 147,
-      "current_rank": 85,
-      "rank_change": 62,
+      "appId": 573016251,
+      "previous_rank": 209,
+      "current_rank": 144,
+      "rank_change": 65,
       "category": "6013",
       "date": "2026-06-30",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5e/fb/30/5efb30ae-875f-8c40-6f77-90c2f1f8d229/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/180x180bb.png",
-      "app_name": "AF App",
-      "publisher": "Anytime Fitness, LLC"
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f8/9d/9d/f89d9d89-62c2-3163-d903-e79bb1d8014c/AppIcon-TX-0-0-1x_U007emarketing-0-8-0-85-220.png/180x180bb.png",
+      "app_name": "BCBSTX",
+      "publisher": "Blue Cross and Blue Shield of Texas"
     }
   ]
 }
