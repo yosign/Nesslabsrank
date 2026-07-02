@@ -1,0 +1,253 @@
+{
+  "date": "2026-07-02",
+  "changes": {
+    "6012": {
+      "added": [
+        {
+          "appId": 917701230,
+          "name": "Influenster: Try & Review",
+          "publisher": "Bazaarvoice",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e7/25/0b/e7250b8f-5eb0-94f3-b432-927cf351e60e/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/180x180bb.png",
+          "rating": 4.8,
+          "ratingCount": 58500,
+          "price": "0.00",
+          "rank": 177,
+          "category": "6012"
+        },
+        {
+          "appId": 1413223852,
+          "name": "Smart911",
+          "publisher": "Rave Mobile Safety",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/42/6d/b7/426db754-42f7-64ec-229e-16cdfcda3774/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/180x180bb.png",
+          "rating": 4.7,
+          "ratingCount": 6203,
+          "price": "0.00",
+          "rank": 196,
+          "category": "6012"
+        },
+        {
+          "appId": 1587679090,
+          "name": "Led Light Controller LedRemote",
+          "publisher": "Kain Suite Pte. Ltd.",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/18/bb/fe/18bbfeb6-6571-d912-0bbb-ee63292247c2/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/180x180bb.png",
+          "rating": 3.9,
+          "ratingCount": 60100,
+          "price": "0.00",
+          "rank": 207,
+          "category": "6012"
+        },
+        {
+          "appId": 1469609343,
+          "name": "Paired: Couples & Relationship",
+          "publisher": "Better Half Limited",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c0/84/09/c084090e-2ee9-810e-5cd4-59cb39d013fa/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/180x180bb.png",
+          "rating": 4.7,
+          "ratingCount": 203000,
+          "price": "0.00",
+          "rank": 226,
+          "category": "6012"
+        },
+        {
+          "appId": 1635913940,
+          "name": "Resident Experience",
+          "publisher": "Greystar Real Estate Partners LLC",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/38/8b/57/388b5734-5376-c96f-3dd5-08d2a02c7826/AppIcon-0-1x_U007emarketing-0-8-0-sRGB-85-220-0.png/180x180bb.png",
+          "rating": 1.4,
+          "ratingCount": 724,
+          "price": "0.00",
+          "rank": 236,
+          "category": "6012"
+        },
+        {
+          "appId": 1543351744,
+          "name": "Keepsmile",
+          "publisher": "深圳市优智达科技有限公司",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e3/16/37/e316374f-f7cc-b243-3c8a-b724ac096f36/AppIcon-0-0-1x_U007epad-0-11-0-0-85-220.png/180x180bb.png",
+          "rating": 2.5,
+          "ratingCount": 4761,
+          "price": "0.00",
+          "rank": 237,
+          "category": "6012"
+        },
+        {
+          "appId": 1599494923,
+          "name": "Frigidaire",
+          "publisher": "Electrolux",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f4/a7/54/f4a75490-fed7-a310-56ab-78c3f12f6586/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/180x180bb.png",
+          "rating": 4.7,
+          "ratingCount": 11200.000000000002,
+          "price": "0.00",
+          "rank": 238,
+          "category": "6012"
+        },
+        {
+          "appId": 1583154299,
+          "name": "OSAIO",
+          "publisher": "AFAR PTE. LTD",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/84/73/b7/8473b737-4862-636b-d271-e9e415de17e8/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/180x180bb.png",
+          "rating": 4.6,
+          "ratingCount": 2346,
+          "price": "0.00",
+          "rank": 239,
+          "category": "6012"
+        },
+        {
+          "appId": 6670338377,
+          "name": "Aria: Black Singles Dating App",
+          "publisher": "Ringle Dating LTD",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a6/7a/a0/a67aa0e3-d6ae-dea0-0c16-399949255ad6/AriaAppIcon-0-0-1x_U007epad-0-1-P3-85-220.png/180x180bb.png",
+          "rating": 4.4,
+          "ratingCount": 2814,
+          "price": "0.00",
+          "rank": 240,
+          "category": "6012"
+        },
+        {
+          "appId": 1437699295,
+          "name": "Sniffspot - Private Dog Parks",
+          "publisher": "Sniffspot, Inc.",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7f/9d/98/7f9d9875-ffe5-60ce-f75e-1bc7b2f0b825/AppIcon-0-0-1x_U007emarketing-0-9-0-85-220.png/180x180bb.png",
+          "rating": 4.9,
+          "ratingCount": 22000,
+          "price": "0.00",
+          "rank": 243,
+          "category": "6012"
+        },
+        {
+          "appId": 1489209093,
+          "name": "Microsoft Family Safety",
+          "publisher": "Microsoft Corporation",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0f/8a/7d/0f8a7d26-4d70-26de-348d-885ba6913359/AppIcon-prod-1x_U007emarketing-0-6-0-0-85-220-0.png/180x180bb.png",
+          "rating": 4.1,
+          "ratingCount": 7633,
+          "price": "0.00",
+          "rank": 246,
+          "category": "6012"
+        }
+      ],
+      "removed": [
+        {
+          "appId": 6743095634,
+          "name": "Critique AI: Habit Tracker",
+          "publisher": "With Bytes",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/fc/cc/02/fccc0201-e521-6fd5-66a1-91e3711e6915/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/180x180bb.png",
+          "rating": 4.7,
+          "ratingCount": 9330,
+          "price": "0.00",
+          "rank": 158,
+          "category": "6012"
+        },
+        {
+          "appId": 587467216,
+          "name": "Jeep Badge of Honor",
+          "publisher": "FCA US LLC",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d2/1f/2f/d21f2f0c-fff5-e91b-5998-04d9370749df/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/180x180bb.png",
+          "rating": 4.8,
+          "ratingCount": 20500,
+          "price": "0.00",
+          "rank": 179,
+          "category": "6012"
+        },
+        {
+          "appId": 1489973476,
+          "name": "Sea Tow: Boat Towing & Weather",
+          "publisher": "Sea Tow Services International Inc.",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/78/3e/c1/783ec176-3cd6-348f-492d-47bf115d26f0/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/180x180bb.png",
+          "rating": 4.8,
+          "ratingCount": 19,
+          "price": "0.00",
+          "rank": 202,
+          "category": "6012"
+        },
+        {
+          "appId": 6768380647,
+          "name": "KidHub by Unleashed Brands",
+          "publisher": "Unleashed Services",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7a/7d/1b/7a7d1ba1-0318-ddcc-944e-62ce204325dd/AppIcon-0-0-1x_U007epad-0-1-85-220.png/180x180bb.png",
+          "rating": 4.2,
+          "ratingCount": 37,
+          "price": "0.00",
+          "rank": 206,
+          "category": "6012"
+        },
+        {
+          "appId": 6758696583,
+          "name": "Famircle: Family Locator",
+          "publisher": "Ruisibai (shenzhen) Trading Co., Ltd",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3a/75/bd/3a75bd61-1607-720a-55c6-e1f0409dadf0/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/180x180bb.png",
+          "rating": 1.9,
+          "ratingCount": 36,
+          "price": "0.00",
+          "rank": 208,
+          "category": "6012"
+        },
+        {
+          "appId": 1551784231,
+          "name": "Sight & Sound TV",
+          "publisher": "Sight & Sound Ministries, Inc.",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/25/dc/78/25dc789d-78de-cd9a-fa8b-afbad099832d/AppIcon-Branded-0-0-1x_U007emarketing-0-7-0-85-220.png/180x180bb.png",
+          "rating": 4.9,
+          "ratingCount": 893,
+          "price": "0.00",
+          "rank": 210,
+          "category": "6012"
+        },
+        {
+          "appId": 6755536905,
+          "name": "FivePrayer - Pray on Time",
+          "publisher": "FivePrayer",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/13/a8/ee/13a8ee5f-d03d-da2a-a445-638fef2d2561/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/180x180bb.png",
+          "rating": 4.7,
+          "ratingCount": 10500,
+          "price": "0.00",
+          "rank": 219,
+          "category": "6012"
+        },
+        {
+          "appId": 6743861403,
+          "name": "EPICA: Your Daily Beauty Guide",
+          "publisher": "SharoneLimited",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a8/2d/fc/a82dfc34-0a0e-a0cf-85f1-06769ded037e/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/180x180bb.png",
+          "rating": 4.6,
+          "ratingCount": 1755,
+          "price": "0.00",
+          "rank": 227,
+          "category": "6012"
+        },
+        {
+          "appId": 1376880637,
+          "name": "Surveymonkey Rewards",
+          "publisher": "SurveyMonkey",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/32/a6/80/32a680a0-f705-c347-8789-0399e40c9175/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/180x180bb.png",
+          "rating": 4.7,
+          "ratingCount": 22700,
+          "price": "0.00",
+          "rank": 232,
+          "category": "6012"
+        },
+        {
+          "appId": 396908589,
+          "name": "Disneyland® Paris",
+          "publisher": "Disneyland Paris",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4d/23/e5/4d23e510-8aa0-ff53-e9fc-97a92582b5e8/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/180x180bb.png",
+          "rating": 4.3,
+          "ratingCount": 3253,
+          "price": "0.00",
+          "rank": 248,
+          "category": "6012"
+        },
+        {
+          "appId": 6747070433,
+          "name": "MONEY CASH - Fun & Earn",
+          "publisher": "catbyte",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/72/c3/3a/72c33a93-afdb-fda8-256e-7daada3671bd/AppIcon-0-0-1x_U007epad-0-1-85-220.png/180x180bb.png",
+          "rating": 4.5,
+          "ratingCount": 8323,
+          "price": "0.00",
+          "rank": 249,
+          "category": "6012"
+        }
+      ]
+    }
+  }
+}
