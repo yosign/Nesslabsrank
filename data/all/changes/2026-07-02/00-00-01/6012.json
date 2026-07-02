@@ -1,0 +1,231 @@
+{
+  "date": "2026-07-02",
+  "changes": {
+    "6012": {
+      "added": [
+        {
+          "appId": 1635913940,
+          "name": "Resident Experience",
+          "publisher": "Greystar Real Estate Partners LLC",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/38/8b/57/388b5734-5376-c96f-3dd5-08d2a02c7826/AppIcon-0-1x_U007emarketing-0-8-0-sRGB-85-220-0.png/180x180bb.png",
+          "rating": 1.4,
+          "ratingCount": 724,
+          "price": "0.00",
+          "rank": 199,
+          "category": "6012"
+        },
+        {
+          "appId": 917701230,
+          "name": "Influenster: Try & Review",
+          "publisher": "Bazaarvoice",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e7/25/0b/e7250b8f-5eb0-94f3-b432-927cf351e60e/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/180x180bb.png",
+          "rating": 4.8,
+          "ratingCount": 58500,
+          "price": "0.00",
+          "rank": 215,
+          "category": "6012"
+        },
+        {
+          "appId": 6746111774,
+          "name": "LocalAll - Everything Local",
+          "publisher": "Scoopz Inc.",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/76/e2/c9/76e2c9cf-a893-6744-c25c-691a7bb0607d/AppIconNewsBreak-0-0-1x_U007ephone-0-11-0-85-220.png/180x180bb.png",
+          "rating": 4.9,
+          "ratingCount": 987,
+          "price": "0.00",
+          "rank": 231,
+          "category": "6012"
+        },
+        {
+          "appId": 1480411487,
+          "name": "OnStar Guardian: Safety App",
+          "publisher": "OnStar, LLC",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d9/83/dd/d983dd50-5746-4d27-84d9-06b0e9e1e5f1/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/180x180bb.png",
+          "rating": 4.8,
+          "ratingCount": 21900,
+          "price": "0.00",
+          "rank": 232,
+          "category": "6012"
+        },
+        {
+          "appId": 864325098,
+          "name": "Rachio",
+          "publisher": "RACHIO, INC.",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/94/cb/f8/94cbf8c7-9874-dd98-9914-84bb9edeb8a3/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-85-220.png/180x180bb.png",
+          "rating": 4.9,
+          "ratingCount": 152000,
+          "price": "0.00",
+          "rank": 235,
+          "category": "6012"
+        },
+        {
+          "appId": 6473832748,
+          "name": "TenantCloud",
+          "publisher": "TenantCloud LLC",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/11/c0/b0/11c0b044-0ea6-70be-3bb1-957dfe7e71ae/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/180x180bb.png",
+          "rating": 4.6,
+          "ratingCount": 4510,
+          "price": "0.00",
+          "rank": 239,
+          "category": "6012"
+        },
+        {
+          "appId": 1437699295,
+          "name": "Sniffspot - Private Dog Parks",
+          "publisher": "Sniffspot, Inc.",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7f/9d/98/7f9d9875-ffe5-60ce-f75e-1bc7b2f0b825/AppIcon-0-0-1x_U007emarketing-0-9-0-85-220.png/180x180bb.png",
+          "rating": 4.9,
+          "ratingCount": 22000,
+          "price": "0.00",
+          "rank": 242,
+          "category": "6012"
+        },
+        {
+          "appId": 1042822181,
+          "name": "Meeting Guide",
+          "publisher": "Alcoholics Anonymous World Services, Inc.",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b8/87/77/b88777a4-0035-32fa-dd16-4c3514dafb77/AppIcon-0-0-1x_U007epad-0-1-85-220.png/180x180bb.png",
+          "rating": 4.4,
+          "ratingCount": 981,
+          "price": "0.00",
+          "rank": 243,
+          "category": "6012"
+        },
+        {
+          "appId": 666884058,
+          "name": "Zego Living",
+          "publisher": "Paragon Mobile, Inc",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f0/aa/97/f0aa97c8-2def-c915-4bc7-b0ad7d4e6251/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/180x180bb.png",
+          "rating": 4.4,
+          "ratingCount": 4022,
+          "price": "0.00",
+          "rank": 247,
+          "category": "6012"
+        },
+        {
+          "appId": 1469609343,
+          "name": "Paired: Couples & Relationship",
+          "publisher": "Better Half Limited",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c0/84/09/c084090e-2ee9-810e-5cd4-59cb39d013fa/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/180x180bb.png",
+          "rating": 4.7,
+          "ratingCount": 203000,
+          "price": "0.00",
+          "rank": 250,
+          "category": "6012"
+        }
+      ],
+      "removed": [
+        {
+          "appId": 6743095634,
+          "name": "Critique AI: Habit Tracker",
+          "publisher": "With Bytes",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/fc/cc/02/fccc0201-e521-6fd5-66a1-91e3711e6915/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/180x180bb.png",
+          "rating": 4.7,
+          "ratingCount": 9330,
+          "price": "0.00",
+          "rank": 158,
+          "category": "6012"
+        },
+        {
+          "appId": 1489973476,
+          "name": "Sea Tow: Boat Towing & Weather",
+          "publisher": "Sea Tow Services International Inc.",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/78/3e/c1/783ec176-3cd6-348f-492d-47bf115d26f0/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/180x180bb.png",
+          "rating": 4.8,
+          "ratingCount": 19,
+          "price": "0.00",
+          "rank": 202,
+          "category": "6012"
+        },
+        {
+          "appId": 6755536905,
+          "name": "FivePrayer - Pray on Time",
+          "publisher": "FivePrayer",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/13/a8/ee/13a8ee5f-d03d-da2a-a445-638fef2d2561/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/180x180bb.png",
+          "rating": 4.7,
+          "ratingCount": 10500,
+          "price": "0.00",
+          "rank": 219,
+          "category": "6012"
+        },
+        {
+          "appId": 6754110310,
+          "name": "Gist - Life Well Lived",
+          "publisher": "AppLovin Corp",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d4/d6/62/d4d66232-e9ae-71a6-1492-8a8d43813368/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/180x180bb.png",
+          "rating": 4.4,
+          "ratingCount": 60,
+          "price": "0.00",
+          "rank": 223,
+          "category": "6012"
+        },
+        {
+          "appId": 6743861403,
+          "name": "EPICA: Your Daily Beauty Guide",
+          "publisher": "SharoneLimited",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a8/2d/fc/a82dfc34-0a0e-a0cf-85f1-06769ded037e/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/180x180bb.png",
+          "rating": 4.6,
+          "ratingCount": 1755,
+          "price": "0.00",
+          "rank": 227,
+          "category": "6012"
+        },
+        {
+          "appId": 1376880637,
+          "name": "Surveymonkey Rewards",
+          "publisher": "SurveyMonkey",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/32/a6/80/32a680a0-f705-c347-8789-0399e40c9175/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/180x180bb.png",
+          "rating": 4.7,
+          "ratingCount": 22700,
+          "price": "0.00",
+          "rank": 232,
+          "category": "6012"
+        },
+        {
+          "appId": 1532791252,
+          "name": "CHANI: Your Astrology Guide",
+          "publisher": "Chani Nicholas Incorporated",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7a/b4/44/7ab444fb-82f2-c92a-ea38-e46d04d166d0/AppIcon-0-0-1x_U007epad-0-1-85-220.png/180x180bb.png",
+          "rating": 4.9,
+          "ratingCount": 54900,
+          "price": "0.00",
+          "rank": 234,
+          "category": "6012"
+        },
+        {
+          "appId": 6443709181,
+          "name": "Sincerely: Vent & Confess",
+          "publisher": "MWM",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9c/1f/e1/9c1fe159-f198-4acf-a355-01b7e38acb6b/AppIcon-0-1x_U007emarketing-0-11-0-85-220-0.png/180x180bb.png",
+          "rating": 4.7,
+          "ratingCount": 33700,
+          "price": "0.00",
+          "rank": 239,
+          "category": "6012"
+        },
+        {
+          "appId": 396908589,
+          "name": "Disneyland® Paris",
+          "publisher": "Disneyland Paris",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4d/23/e5/4d23e510-8aa0-ff53-e9fc-97a92582b5e8/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/180x180bb.png",
+          "rating": 4.3,
+          "ratingCount": 3253,
+          "price": "0.00",
+          "rank": 248,
+          "category": "6012"
+        },
+        {
+          "appId": 6747070433,
+          "name": "MONEY CASH - Fun & Earn",
+          "publisher": "catbyte",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/72/c3/3a/72c33a93-afdb-fda8-256e-7daada3671bd/AppIcon-0-0-1x_U007epad-0-1-85-220.png/180x180bb.png",
+          "rating": 4.5,
+          "ratingCount": 8323,
+          "price": "0.00",
+          "rank": 249,
+          "category": "6012"
+        }
+      ]
+    }
+  }
+}
