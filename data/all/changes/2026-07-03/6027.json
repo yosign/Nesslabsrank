@@ -3,21 +3,10 @@
   "genre": "6027",
   "topRisers": [
     {
-      "appId": 6502945736,
-      "previous_rank": 231,
-      "current_rank": 133,
-      "rank_change": 98,
-      "category": "6027",
-      "date": "2026-07-03",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/51/3a/6c/513a6cf8-fd35-402e-ceee-d0f2994da7a0/AppIcon-0-0-1x_U007ephone-0-1-0-sRGB-85-220.png/180x180bb.png",
-      "app_name": "Zaps : Collage & Reels Maker",
-      "publisher": "Turnip Media"
-    },
-    {
       "appId": 6760876325,
       "previous_rank": 247,
-      "current_rank": 152,
-      "rank_change": 95,
+      "current_rank": 138,
+      "rank_change": 109,
       "category": "6027",
       "date": "2026-07-03",
       "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/10/c1/35/10c135d8-4106-f237-07dc-d55c0ac905b3/AppIcon-1x_U007ephone-0-11-0-85-220-0.png/180x180bb.png",
@@ -25,10 +14,32 @@
       "publisher": "TAMER GOKSU"
     },
     {
+      "appId": 6502945736,
+      "previous_rank": 231,
+      "current_rank": 140,
+      "rank_change": 91,
+      "category": "6027",
+      "date": "2026-07-03",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/51/3a/6c/513a6cf8-fd35-402e-ceee-d0f2994da7a0/AppIcon-0-0-1x_U007ephone-0-1-0-sRGB-85-220.png/180x180bb.png",
+      "app_name": "Zaps : Collage & Reels Maker",
+      "publisher": "Turnip Media"
+    },
+    {
+      "appId": 6770499391,
+      "previous_rank": 138,
+      "current_rank": 89,
+      "rank_change": 49,
+      "category": "6027",
+      "date": "2026-07-03",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9b/15/50/9b1550dc-5455-7042-5863-214b6c179367/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/100x100bb.jpg",
+      "app_name": "MagiPack",
+      "publisher": "Dipankar Shinde"
+    },
+    {
       "appId": 6763253422,
       "previous_rank": 249,
-      "current_rank": 193,
-      "rank_change": 56,
+      "current_rank": 206,
+      "rank_change": 43,
       "category": "6027",
       "date": "2026-07-03",
       "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/83/0c/14/830c1488-1e0d-419e-28da-b96fd6d01d3f/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/180x180bb.png",
@@ -36,37 +47,26 @@
       "publisher": "秋芳 曹"
     },
     {
-      "appId": 6752010704,
-      "previous_rank": 178,
-      "current_rank": 128,
-      "rank_change": 50,
-      "category": "6027",
-      "date": "2026-07-03",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7f/9e/02/7f9e0225-dde6-5895-3450-e4b5c3338042/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.jpeg/180x180bb.png",
-      "app_name": "Guma-AI Photo Video Editor",
-      "publisher": "Chongqing Songzan Technology Co., Ltd."
-    },
-    {
-      "appId": 6760876517,
-      "previous_rank": 224,
-      "current_rank": 175,
-      "rank_change": 49,
-      "category": "6027",
-      "date": "2026-07-03",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a4/20/90/a4209089-5a59-8f53-8ed3-ba33609ad529/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/180x180bb.png",
-      "app_name": "Rayme",
-      "publisher": "欢 刘"
-    },
-    {
       "appId": 6593679852,
       "previous_rank": 250,
-      "current_rank": 201,
-      "rank_change": 49,
+      "current_rank": 209,
+      "rank_change": 41,
       "category": "6027",
       "date": "2026-07-03",
       "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3c/c5/c8/3cc5c886-20f5-1a3e-6504-22649b4098cc/AppIcon-0-0-1x_U007epad-0-1-85-220.png/180x180bb.png",
       "app_name": "Ai Tattoo Ideas-Art Generator",
       "publisher": "Shenzhen Yunduoduo Technology Co., Ltd"
+    },
+    {
+      "appId": 6752010704,
+      "previous_rank": 178,
+      "current_rank": 139,
+      "rank_change": 39,
+      "category": "6027",
+      "date": "2026-07-03",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7f/9e/02/7f9e0225-dde6-5895-3450-e4b5c3338042/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.jpeg/180x180bb.png",
+      "app_name": "Guma-AI Photo Video Editor",
+      "publisher": "Chongqing Songzan Technology Co., Ltd."
     }
   ]
 }
