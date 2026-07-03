@@ -1,0 +1,517 @@
+{
+  "date": "2026-07-03",
+  "changes": {
+    "6002": {
+      "added": [
+        {
+          "appId": 1611741274,
+          "name": "BAT-BMS",
+          "publisher": "Shenzhen Grenergy Technology Co.,Ltd.",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/83/cc/e0/83cce01c-7813-6e5e-4062-0bf7cda6cf66/AppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.png/180x180bb.png",
+          "rating": 3.6,
+          "ratingCount": 39,
+          "price": "0.00",
+          "rank": 92,
+          "category": "6002"
+        },
+        {
+          "appId": 6745084781,
+          "name": "Top Gift Card",
+          "publisher": "长沙钱来电子商务有限公司",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6c/9e/e6/6c9ee62f-6dd2-e031-1bc4-e2deee42b97a/AppIcon-0-0-1x_U007emarketing-0-11-0-0-85-220.png/180x180bb.png",
+          "rating": 4.5,
+          "ratingCount": 2785,
+          "price": "0.00",
+          "rank": 141,
+          "category": "6002"
+        },
+        {
+          "appId": 6758676381,
+          "name": "سبورتينا",
+          "publisher": "hani shaleh",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/79/1c/4e/791c4e89-b384-4a57-3e65-796ea245a0b6/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/180x180bb.png",
+          "rating": 4.6,
+          "ratingCount": 21,
+          "price": "0.00",
+          "rank": 142,
+          "category": "6002"
+        },
+        {
+          "appId": 6755230383,
+          "name": "Nielsen Pulse",
+          "publisher": "The Nielsen Company",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e1/63/a6/e163a6a6-f114-d1a7-28c6-3bb4d96fe388/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/180x180bb.png",
+          "rating": 2.4,
+          "ratingCount": 59,
+          "price": "0.00",
+          "rank": 156,
+          "category": "6002"
+        },
+        {
+          "appId": 6754544069,
+          "name": "AI Phone Cleaner: Cleanup",
+          "publisher": "HONG KONG GUANGSHANG TRADING CO.,LIMITED",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/af/13/e5/af13e573-f9cd-a4bd-e953-58f6f46cd06b/AppIcon-0-0-1x_U007ephone-0-0-0-0-85-220.png/180x180bb.png",
+          "rating": 4.7,
+          "ratingCount": 1230,
+          "price": "0.00",
+          "rank": 159,
+          "category": "6002"
+        },
+        {
+          "appId": 6504505434,
+          "name": "TransEase: Realtime Translator",
+          "publisher": "lunaadslimited",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/66/e4/40/66e440d1-307f-7bb9-2915-0667e91a00b7/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/180x180bb.png",
+          "rating": 4.3,
+          "ratingCount": 541,
+          "price": "0.00",
+          "rank": 171,
+          "category": "6002"
+        },
+        {
+          "appId": 6450420454,
+          "name": "Landbook",
+          "publisher": "SOUTH WIRELESS LIMITED",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b8/ad/f5/b8adf59a-583f-7ed7-f62b-21bb4e0a8c03/AppIcon-1x_U007epad-0-1-0-85-220-0.png/180x180bb.png",
+          "rating": 1.8,
+          "ratingCount": 75,
+          "price": "0.00",
+          "rank": 193,
+          "category": "6002"
+        },
+        {
+          "appId": 583700738,
+          "name": "中国移动（手机营业厅）",
+          "publisher": "中移在线",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/67/9d/f7/679df7a5-2946-4285-88ad-a46610e4c4fe/AppIcon-0-0-1x_U007epad-0-1-0-0-sRGB-85-220.png/180x180bb.png",
+          "rating": 4.5,
+          "ratingCount": 38700,
+          "price": "0.00",
+          "rank": 198,
+          "category": "6002"
+        },
+        {
+          "appId": 6736361418,
+          "name": "Star Gazer - Live Sky View Map",
+          "publisher": "LeoStudio Global",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6c/5e/21/6c5e21e7-fe5b-1f51-b7db-b5135d7cfbfe/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/180x180bb.png",
+          "rating": 4.7,
+          "ratingCount": 1525,
+          "price": "0.00",
+          "rank": 207,
+          "category": "6002"
+        },
+        {
+          "appId": 6698875891,
+          "name": "Universal AC Remote Control +",
+          "publisher": "JokDev Company",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/97/c5/35/97c5350c-7432-795c-9973-cd4f2041d890/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/180x180bb.png",
+          "rating": 4.6,
+          "ratingCount": 3639,
+          "price": "0.00",
+          "rank": 208,
+          "category": "6002"
+        },
+        {
+          "appId": 6760330841,
+          "name": "CubixPlayer",
+          "publisher": "小玲 叶",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/64/47/d0/6447d074-6a82-7847-1164-8705002122dc/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/180x180bb.png",
+          "rating": 3,
+          "ratingCount": 6,
+          "price": "0.00",
+          "rank": 217,
+          "category": "6002"
+        },
+        {
+          "appId": 1571506312,
+          "name": "AutoPaste - Keyboard",
+          "publisher": "Sociaaal LLC",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0a/15/39/0a1539aa-49f0-1add-b807-2ec5392ecb81/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/180x180bb.png",
+          "rating": 4.6,
+          "ratingCount": 114000,
+          "price": "0.00",
+          "rank": 227,
+          "category": "6002"
+        },
+        {
+          "appId": 1333553210,
+          "name": "Cardo Connect",
+          "publisher": "Cardo Systems, Inc.",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/69/87/7e/69877e71-8bd7-3a8c-ea2e-1979683e0adc/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/180x180bb.png",
+          "rating": 4.1,
+          "ratingCount": 27799.999999999996,
+          "price": "0.00",
+          "rank": 231,
+          "category": "6002"
+        },
+        {
+          "appId": 1569183047,
+          "name": "Remote control for TCL",
+          "publisher": "Oz Shabbatth",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ea/70/ef/ea70ef73-e218-d2cc-1b33-c4765d6b0f79/AppIcon-0-0-1x_U007emarketing-0-8-0-sRGB-85-220.png/180x180bb.png",
+          "rating": 4.6,
+          "ratingCount": 7419,
+          "price": "0.00",
+          "rank": 232,
+          "category": "6002"
+        },
+        {
+          "appId": 6760253252,
+          "name": "Vezta: BP, Heart Rate Monitor",
+          "publisher": "Morun OMAZ",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b5/5b/af/b55bafbb-c7ca-c80b-bcbd-5c52104df472/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/180x180bb.png",
+          "rating": 0,
+          "ratingCount": 0,
+          "price": "0.00",
+          "rank": 233,
+          "category": "6002"
+        },
+        {
+          "appId": 1462268018,
+          "name": "My Airtel Africa",
+          "publisher": "Airtel Africa",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7b/38/88/7b388865-ab60-71c6-5eeb-2d94e7d8f9a4/AppIcon-0-0-1x_U007emarketing-0-6-0-sRGB-85-220.png/180x180bb.png",
+          "rating": 4.1,
+          "ratingCount": 4435,
+          "price": "0.00",
+          "rank": 239,
+          "category": "6002"
+        },
+        {
+          "appId": 6736856431,
+          "name": "LED Banner-Scroller Text Maker",
+          "publisher": "Hong Kong Deepscape Technology Limited",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f6/0c/ee/f60cee0e-dfc3-2b90-2455-f31f3ac88a98/AppIcon-Default-0-0-1x_U007epad-0-1-0-85-220.png/180x180bb.png",
+          "rating": 4.7,
+          "ratingCount": 404,
+          "price": "0.00",
+          "rank": 242,
+          "category": "6002"
+        },
+        {
+          "appId": 6449987166,
+          "name": "Android Switch",
+          "publisher": "Google",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/82/12/20/8212201c-e687-8b5d-1e61-6663162ffbf6/logo_android_switch_color-0-1x_U007emarketing-0-0-0-7-0-0-0-85-220-0.png/180x180bb.png",
+          "rating": 3.4,
+          "ratingCount": 90,
+          "price": "0.00",
+          "rank": 243,
+          "category": "6002"
+        },
+        {
+          "appId": 6452552789,
+          "name": "EarVision",
+          "publisher": "静 郭",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0e/f3/77/0ef3773a-fb52-ad78-7a59-6d69ae696f6e/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/180x180bb.png",
+          "rating": 2.7,
+          "ratingCount": 184,
+          "price": "0.00",
+          "rank": 244,
+          "category": "6002"
+        },
+        {
+          "appId": 6772978398,
+          "name": "CallPeek: Caller ID Blocker",
+          "publisher": "HARMONIC INSIGHT LIMITED LIABILITY COMPANY",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/63/5b/88/635b88e7-acb9-1a1d-79f4-bb4197d118e0/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/180x180bb.png",
+          "rating": 0,
+          "ratingCount": 0,
+          "price": "0.00",
+          "rank": 245,
+          "category": "6002"
+        },
+        {
+          "appId": 6752863449,
+          "name": "TV Remote for Roku Devices",
+          "publisher": "Ozuna Limited",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7e/77/d4/7e77d4bf-7964-9010-d5ac-ddd79749b68f/AppIcon-0-0-1x_U007ephone-0-1-0-sRGB-85-220.png/180x180bb.png",
+          "rating": 4.4,
+          "ratingCount": 922,
+          "price": "0.00",
+          "rank": 246,
+          "category": "6002"
+        },
+        {
+          "appId": 1586624313,
+          "name": "Screen Mirroring | Smart TV",
+          "publisher": "Level Clash Apps S.L.",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c7/78/ef/c778eff3-60cf-76e5-bd1c-a4081a4a8732/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/180x180bb.png",
+          "rating": 4.5,
+          "ratingCount": 27500,
+          "price": "0.00",
+          "rank": 248,
+          "category": "6002"
+        },
+        {
+          "appId": 6742431377,
+          "name": "Carding - Sell Gift Cards",
+          "publisher": "Cardpay LLC",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/dc/36/24/dc362499-10bc-a895-26cc-bebf99d5dfd8/AppIcon-0-0-1x_U007ephone-0-11-0-85-220.png/180x180bb.png",
+          "rating": 4.6,
+          "ratingCount": 27300,
+          "price": "0.00",
+          "rank": 250,
+          "category": "6002"
+        }
+      ],
+      "removed": [
+        {
+          "appId": 6756683188,
+          "name": "Sherlock: AI Face Search",
+          "publisher": "Zachary Yudenfriend",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c7/7d/8e/c77d8e46-750c-d044-5099-8d89946ddf6b/AppIcon-0-0-1x_U007ephone-0-1-sRGB-85-220.png/180x180bb.png",
+          "rating": 4.4,
+          "ratingCount": 6330,
+          "price": "0.00",
+          "rank": 18,
+          "category": "6002"
+        },
+        {
+          "appId": 6744531647,
+          "name": "Toggle *** for Secure Internet",
+          "publisher": "Toggle",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/78/1d/9a/781d9a14-26a0-0ca6-e3c7-f13266c23939/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/180x180bb.png",
+          "rating": 3.9,
+          "ratingCount": 539,
+          "price": "0.00",
+          "rank": 145,
+          "category": "6002"
+        },
+        {
+          "appId": 1237328534,
+          "name": "FPL",
+          "publisher": "NextEra Energy, Inc",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/09/09/b9/0909b90d-de05-b324-e799-91b669e592ac/AppIcon-0-0-1x_U007emarketing-0-11-0-sRGB-85-220.png/180x180bb.png",
+          "rating": 4.5,
+          "ratingCount": 22700,
+          "price": "0.00",
+          "rank": 160,
+          "category": "6002"
+        },
+        {
+          "appId": 6450534064,
+          "name": "Streisand",
+          "publisher": "ARCADIA ODYSSEY INC.",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c4/c0/ba/c4c0ba81-e5a4-ad80-d96e-b7dab7210d1d/AppIcon-0-0-1x_U007epad-0-0-0-1-0-85-220.png/180x180bb.png",
+          "rating": 4.4,
+          "ratingCount": 2042,
+          "price": "0.00",
+          "rank": 165,
+          "category": "6002"
+        },
+        {
+          "appId": 1602061522,
+          "name": "Authenticator ·",
+          "publisher": "SMM service, s.r.o.",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c9/ee/7d/c9ee7ded-91cd-540d-a9bb-88dee0a20fea/AppIcon-0-0-1x_U007epad-0-11-0-0-85-220.jpeg/180x180bb.png",
+          "rating": 4.6,
+          "ratingCount": 26100,
+          "price": "0.00",
+          "rank": 167,
+          "category": "6002"
+        },
+        {
+          "appId": 6761056896,
+          "name": "Nearby Glasses (Original)",
+          "publisher": "my PocketPC GmbH",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/59/18/10/59181087-b163-d1f8-df90-790552adb045/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/180x180bb.png",
+          "rating": 4.1,
+          "ratingCount": 7,
+          "price": "0.00",
+          "rank": 173,
+          "category": "6002"
+        },
+        {
+          "appId": 1005186680,
+          "name": "MySubaru",
+          "publisher": "Subaru of America",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ab/d9/75/abd97568-d7d7-0c0b-789a-13b91e65fe5b/AppIcon-SOA-0-0-1x_U007ephone-0-1-85-220.png/180x180bb.png",
+          "rating": 4.8,
+          "ratingCount": 321000,
+          "price": "0.00",
+          "rank": 174,
+          "category": "6002"
+        },
+        {
+          "appId": 1468092377,
+          "name": "Hours Tracker: Time Calculator",
+          "publisher": "Appostrophe AB",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/73/64/3d/73643d7a-9dea-18e2-d98c-319c2edcb973/AppIcon-1-0-0-1x_U007emarketing-0-7-0-85-220.png/180x180bb.png",
+          "rating": 4.7,
+          "ratingCount": 78000,
+          "price": "0.00",
+          "rank": 185,
+          "category": "6002"
+        },
+        {
+          "appId": 1381226716,
+          "name": "Secure ***: Private & Fast",
+          "publisher": "DUY KY TRADING PRODUCTION ONE MEMBER COMPANY LIMITED",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/18/57/06/185706ce-e4c3-e162-0474-3d4e49ec1092/AppIcon-0-0-1x_U007epad-0-1-0-85-220.jpeg/180x180bb.png",
+          "rating": 4.1,
+          "ratingCount": 30,
+          "price": "0.00",
+          "rank": 194,
+          "category": "6002"
+        },
+        {
+          "appId": 1106069401,
+          "name": "Samsara Driver",
+          "publisher": "Samsara Networks, Inc.",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a6/09/b5/a609b5a5-d90d-e09e-8672-21ee5532eedb/D2AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/180x180bb.png",
+          "rating": 4.8,
+          "ratingCount": 38700,
+          "price": "0.00",
+          "rank": 206,
+          "category": "6002"
+        },
+        {
+          "appId": 6751625696,
+          "name": "QR Code Reader: QR ACE Scanner",
+          "publisher": "NEO PIXEL LABS PTE. LTD.",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/06/d8/c2/06d8c215-743a-d9c5-3d5c-1fa1f59b9d51/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/180x180bb.png",
+          "rating": 4.5,
+          "ratingCount": 1005,
+          "price": "0.00",
+          "rank": 214,
+          "category": "6002"
+        },
+        {
+          "appId": 1467113436,
+          "name": "Print Master",
+          "publisher": "PHOMEMO PTE. LTD.",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f0/9c/61/f09c6179-ea92-9811-7e2a-100b13b2df20/AppIcon-0-0-1x_U007emarketing-0-8-0-sRGB-85-220.png/180x180bb.png",
+          "rating": 4.8,
+          "ratingCount": 17600,
+          "price": "0.00",
+          "rank": 216,
+          "category": "6002"
+        },
+        {
+          "appId": 1235121730,
+          "name": "Speed Queen",
+          "publisher": "Alliance Laundry Systems LLC",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/83/e8/55/83e85536-a4d6-b442-ca8d-cb051951e5da/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/180x180bb.png",
+          "rating": 4.8,
+          "ratingCount": 20200,
+          "price": "0.00",
+          "rank": 219,
+          "category": "6002"
+        },
+        {
+          "appId": 6505138540,
+          "name": "QR Scanner Pro *",
+          "publisher": "Mild",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0f/56/61/0f5661b4-679a-32fb-3e0b-27d29bea4036/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/180x180bb.png",
+          "rating": 4.2,
+          "ratingCount": 1110,
+          "price": "0.00",
+          "rank": 222,
+          "category": "6002"
+        },
+        {
+          "appId": 1474675452,
+          "name": "*** - Fast & Secure *** Proxy",
+          "publisher": "Minoti Inc",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2d/f8/12/2df812dc-eba1-c521-0000-ec2493c94c02/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/180x180bb.png",
+          "rating": 4.6,
+          "ratingCount": 54200,
+          "price": "0.00",
+          "rank": 229,
+          "category": "6002"
+        },
+        {
+          "appId": 6566179234,
+          "name": "Dont Touch My Phone: Antitheft",
+          "publisher": "Fitness Training Global",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/fd/1a/cc/fd1accfd-6644-f545-36a9-d8a9a3bf6e78/AppIcon-0-0-1x_U007ephone-0-1-0-sRGB-85-220.jpeg/180x180bb.png",
+          "rating": 4.7,
+          "ratingCount": 23900,
+          "price": "0.00",
+          "rank": 233,
+          "category": "6002"
+        },
+        {
+          "appId": 6754002454,
+          "name": "Nextin",
+          "publisher": "NEXTIN INC",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2c/5e/5c/2c5e5cf7-3c5f-2a12-94bc-242998485cbb/nextinIcon-0-1x_U007epad-0-1-85-220-0.png/180x180bb.png",
+          "rating": 3,
+          "ratingCount": 410,
+          "price": "0.00",
+          "rank": 234,
+          "category": "6002"
+        },
+        {
+          "appId": 1584764976,
+          "name": "QR Code Reader＊Barcode Scanner",
+          "publisher": "VISARGERD, S.L.",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/15/a6/b9/15a6b9ad-22f8-10af-2794-e54dba89f3e5/AppIcon-icon_v3_3-0-0-1x_U007ephone-0-11-0-sRGB-85-220.png/180x180bb.png",
+          "rating": 4.5,
+          "ratingCount": 21700,
+          "price": "0.00",
+          "rank": 235,
+          "category": "6002"
+        },
+        {
+          "appId": 1413936031,
+          "name": "Google Fi Wireless",
+          "publisher": "Google",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e3/35/c7/e335c7b9-f902-8553-4729-8ba5822e953d/fi-icon-ios26_prod-0-0-1x_U007ephone-0-0-0-1-0-0-sRGB-0-85-220.png/180x180bb.png",
+          "rating": 4.4,
+          "ratingCount": 20200,
+          "price": "0.00",
+          "rank": 240,
+          "category": "6002"
+        },
+        {
+          "appId": 1436112326,
+          "name": "Ubox",
+          "publisher": "洪波 王",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/cc/60/2a/cc602afd-1044-4767-0bd7-d3db8f328cc7/AppIcon-0-0-1x_U007emarketing-0-10-0-0-sRGB-85-220.png/180x180bb.png",
+          "rating": 4.8,
+          "ratingCount": 25099.999999999996,
+          "price": "0.00",
+          "rank": 242,
+          "category": "6002"
+        },
+        {
+          "appId": 6740897723,
+          "name": "عين العراق AynIQ",
+          "publisher": "Moiiq",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/98/fb/2f/98fb2fa5-22d2-0305-1376-810171b6b7d0/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/180x180bb.png",
+          "rating": 3.6,
+          "ratingCount": 1522,
+          "price": "0.00",
+          "rank": 246,
+          "category": "6002"
+        },
+        {
+          "appId": 1561954125,
+          "name": "Smart Remote for Sam TV",
+          "publisher": "EVOLLY.APP",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7d/97/ae/7d97aef2-bd4b-59d1-bcc3-745fa39cdecb/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/180x180bb.png",
+          "rating": 4.2,
+          "ratingCount": 9861,
+          "price": "0.00",
+          "rank": 247,
+          "category": "6002"
+        },
+        {
+          "appId": 1010631459,
+          "name": "Getcontact",
+          "publisher": "GETVERIFY LDA",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/31/a0/fb/31a0fb21-6556-b589-8350-cee8862838fd/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/180x180bb.png",
+          "rating": 4.4,
+          "ratingCount": 59500,
+          "price": "0.00",
+          "rank": 249,
+          "category": "6002"
+        }
+      ]
+    }
+  }
+}
