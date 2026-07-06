@@ -1,0 +1,363 @@
+{
+  "date": "2026-07-06",
+  "changes": {
+    "6012": {
+      "added": [
+        {
+          "appId": 1357742931,
+          "name": "Church Center App",
+          "publisher": "Ministry Centered Technologies",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7f/b6/b1/7fb6b126-d2f8-89bf-47b5-103a67500fdd/AppIcon-0-0-1x_U007epad-0-1-85-220.png/180x180bb.png",
+          "rating": 3.9,
+          "ratingCount": 1764,
+          "price": "0.00",
+          "rank": 25,
+          "category": "6012"
+        },
+        {
+          "appId": 6776326879,
+          "name": "Bayside Community Church App",
+          "publisher": "Bayside Community Church of Sarasota, Inc",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9c/9e/80/9c9e8060-e7ac-c05c-5da7-56b0bb0614bc/AppIcon-0-0-1x_U007epad-0-1-85-220.png/180x180bb.png",
+          "rating": 0,
+          "ratingCount": 0,
+          "price": "0.00",
+          "rank": 63,
+          "category": "6012"
+        },
+        {
+          "appId": 6761626331,
+          "name": "Pan-O-Prog",
+          "publisher": "Connor Rousemiller",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f8/6a/db/f86adb7f-e5ed-8c52-e453-075ad6cb26fb/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/180x180bb.png",
+          "rating": 5,
+          "ratingCount": 2,
+          "price": "0.00",
+          "rank": 209,
+          "category": "6012"
+        },
+        {
+          "appId": 6670338377,
+          "name": "Aria: Black Singles Dating App",
+          "publisher": "Ringle Dating LTD",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a6/7a/a0/a67aa0e3-d6ae-dea0-0c16-399949255ad6/AriaAppIcon-0-0-1x_U007epad-0-1-P3-85-220.png/180x180bb.png",
+          "rating": 4.4,
+          "ratingCount": 2908,
+          "price": "0.00",
+          "rank": 211,
+          "category": "6012"
+        },
+        {
+          "appId": 6478997398,
+          "name": "Blood Pressure Monitor-BP Log",
+          "publisher": "MA CHENG BUSINESS LIMITED",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/01/14/34/01143409-5c72-7b24-4cf4-15f97cc83107/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/180x180bb.png",
+          "rating": 4.4,
+          "ratingCount": 11100.000000000002,
+          "price": "0.00",
+          "rank": 221,
+          "category": "6012"
+        },
+        {
+          "appId": 458272450,
+          "name": "eharmony: dating & real love",
+          "publisher": "eHarmony.com",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e0/5c/22/e05c226e-fee9-232f-1220-36d3b583f852/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/180x180bb.png",
+          "rating": 4.1,
+          "ratingCount": 47400,
+          "price": "0.00",
+          "rank": 223,
+          "category": "6012"
+        },
+        {
+          "appId": 6756178380,
+          "name": "That Girl: Become a Clean Girl",
+          "publisher": "Adventure Labs d.o.o.",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/cb/e4/cf/cbe4cfa8-1821-448e-086a-c379aa44376f/AppIcon-0-0-1x_U007epad-0-1-85-220.png/180x180bb.png",
+          "rating": 4.8,
+          "ratingCount": 2666,
+          "price": "0.00",
+          "rank": 224,
+          "category": "6012"
+        },
+        {
+          "appId": 1631312180,
+          "name": "PDF Scan",
+          "publisher": "Xian Dayanshan Electronic Tech Limited",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/43/71/fe/4371fea3-0147-c416-3c13-ef8c41ba81d8/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/180x180bb.png",
+          "rating": 4.1,
+          "ratingCount": 747,
+          "price": "0.00",
+          "rank": 225,
+          "category": "6012"
+        },
+        {
+          "appId": 955254528,
+          "name": "Flush Toilet Finder & Map",
+          "publisher": "JRustonApps B.V.",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/47/dc/07/47dc079f-752d-8d17-a20a-b1e6cba2bded/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/180x180bb.png",
+          "rating": 4.7,
+          "ratingCount": 9727,
+          "price": "0.00",
+          "rank": 226,
+          "category": "6012"
+        },
+        {
+          "appId": 6743123395,
+          "name": "Bird Identifier: BirdScope",
+          "publisher": "Unchained Mind",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4c/46/66/4c4666d9-31cd-b8af-ef78-58b6570e65e1/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/180x180bb.png",
+          "rating": 4.7,
+          "ratingCount": 2447,
+          "price": "0.00",
+          "rank": 229,
+          "category": "6012"
+        },
+        {
+          "appId": 1456133366,
+          "name": "DexterPay",
+          "publisher": "Dexter Laundry, Inc.",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ca/04/5f/ca045fa4-3485-5a69-3743-d85cdea21fdb/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/180x180bb.png",
+          "rating": 2,
+          "ratingCount": 157,
+          "price": "0.00",
+          "rank": 232,
+          "category": "6012"
+        },
+        {
+          "appId": 1635913940,
+          "name": "Resident Experience",
+          "publisher": "Greystar Real Estate Partners LLC",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/38/8b/57/388b5734-5376-c96f-3dd5-08d2a02c7826/AppIcon-0-1x_U007emarketing-0-8-0-sRGB-85-220-0.png/180x180bb.png",
+          "rating": 1.4,
+          "ratingCount": 724,
+          "price": "0.00",
+          "rank": 235,
+          "category": "6012"
+        },
+        {
+          "appId": 1418412616,
+          "name": "Whoosh.bike",
+          "publisher": "Whoosh Ltd.",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d0/ea/2c/d0ea2c45-016e-753e-2158-bb51be0c1fdc/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/180x180bb.png",
+          "rating": 4.7,
+          "ratingCount": 13000,
+          "price": "0.00",
+          "rank": 242,
+          "category": "6012"
+        },
+        {
+          "appId": 1544489323,
+          "name": "PadSplit: Rooms for rent",
+          "publisher": "Padsplit",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/50/72/e5/5072e59a-05c8-389d-6cee-5b323ab1b3c3/upliftIcon-0-0-1x_U007epad-0-1-sRGB-85-220.png/180x180bb.png",
+          "rating": 4.8,
+          "ratingCount": 6706,
+          "price": "0.00",
+          "rank": 245,
+          "category": "6012"
+        },
+        {
+          "appId": 6744959733,
+          "name": "Nite - Night Video, Chat",
+          "publisher": "nite",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/07/d2/28/07d22858-c904-2181-ff98-728d12f9ff5e/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/180x180bb.png",
+          "rating": 2.7,
+          "ratingCount": 21,
+          "price": "0.00",
+          "rank": 247,
+          "category": "6012"
+        },
+        {
+          "appId": 6751680266,
+          "name": "UCHAD: See Your Potential",
+          "publisher": "Promi LLC",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/75/3d/6c/753d6c39-7c40-502c-224b-ff3517af87f0/AppIcon-0-0-1x_U007epad-0-1-85-220.png/180x180bb.png",
+          "rating": 4.7,
+          "ratingCount": 10400,
+          "price": "0.00",
+          "rank": 250,
+          "category": "6012"
+        }
+      ],
+      "removed": [
+        {
+          "appId": 315010649,
+          "name": "Alarm.com",
+          "publisher": "Alarm.com",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d6/b7/7b/d6b77bcd-de73-8ed2-87a2-a84df6d7e82a/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/180x180bb.png",
+          "rating": 4.7,
+          "ratingCount": 141000,
+          "price": "0.00",
+          "rank": 181,
+          "category": "6012"
+        },
+        {
+          "appId": 6754627199,
+          "name": "Camp Chef Connect",
+          "publisher": "Camp Chef",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e1/cc/fe/e1ccfe83-9aef-3de0-4adf-8cc8e7989129/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/180x180bb.png",
+          "rating": 2,
+          "ratingCount": 32,
+          "price": "0.00",
+          "rank": 186,
+          "category": "6012"
+        },
+        {
+          "appId": 451886367,
+          "name": "MyMazda",
+          "publisher": "Mazda Motor Corporation",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f0/58/9b/f0589bed-afd7-c70b-5955-b691ec0e885d/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/180x180bb.png",
+          "rating": 4.7,
+          "ratingCount": 197000,
+          "price": "0.00",
+          "rank": 189,
+          "category": "6012"
+        },
+        {
+          "appId": 6451412538,
+          "name": "Homebody: Better Renting",
+          "publisher": "Entrata, Inc.",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f9/b6/37/f9b6371c-c837-b5fd-ba62-bfff3a758a8a/AppIcon-0-0-1x_U007ephone-0-1-0-sRGB-85-220.png/180x180bb.png",
+          "rating": 4.4,
+          "ratingCount": 633,
+          "price": "0.00",
+          "rank": 198,
+          "category": "6012"
+        },
+        {
+          "appId": 1280670682,
+          "name": "SmartRent",
+          "publisher": "Smartrent.com, LLC",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/53/2d/fd/532dfdd0-5ace-8b1d-d029-7caad568d2ee/AppIcon-0-0-1x_U007epad-0-1-85-220.png/180x180bb.png",
+          "rating": 4.7,
+          "ratingCount": 112000,
+          "price": "0.00",
+          "rank": 201,
+          "category": "6012"
+        },
+        {
+          "appId": 1481486650,
+          "name": "myVW",
+          "publisher": "Volkswagen of America Inc.",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/45/e6/ea/45e6ea85-0e4e-9376-d020-0f36f5822527/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/180x180bb.png",
+          "rating": 4.7,
+          "ratingCount": 286000,
+          "price": "0.00",
+          "rank": 211,
+          "category": "6012"
+        },
+        {
+          "appId": 1497880869,
+          "name": "Walk \\'n Pray",
+          "publisher": "Enspire Media LLC",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7d/c8/df/7dc8df9f-5115-cd2d-639e-9987e11506e4/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/180x180bb.png",
+          "rating": 0,
+          "ratingCount": 0,
+          "price": "0.00",
+          "rank": 217,
+          "category": "6012"
+        },
+        {
+          "appId": 1565972415,
+          "name": "RAM®",
+          "publisher": "FCA US LLC",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/38/95/45/389545fd-d781-44d5-1fd1-7d15a19b5a6e/AppIcon.ram.prod-0-0-1x_U007emarketing-0-6-0-85-220.png/180x180bb.png",
+          "rating": 4.8,
+          "ratingCount": 80800,
+          "price": "0.00",
+          "rank": 221,
+          "category": "6012"
+        },
+        {
+          "appId": 1448665466,
+          "name": "Pentair Pool",
+          "publisher": "Pentair, Inc.",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/75/21/7d/75217db0-5a71-7b52-69eb-d6246e829978/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/180x180bb.png",
+          "rating": 4.6,
+          "ratingCount": 22400.000000000004,
+          "price": "0.00",
+          "rank": 222,
+          "category": "6012"
+        },
+        {
+          "appId": 1016299342,
+          "name": "Blueair",
+          "publisher": "Blueair AB",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ff/2a/68/ff2a68a4-6fdf-cc9b-3246-1254d332ff81/AppIcon-0-0-1x_U007emarketing-0-8-0-sRGB-85-220.png/180x180bb.png",
+          "rating": 4.8,
+          "ratingCount": 22100,
+          "price": "0.00",
+          "rank": 225,
+          "category": "6012"
+        },
+        {
+          "appId": 1618979301,
+          "name": "myQQ – Quick Quack",
+          "publisher": "Quick Quack Car Wash Holdings, LLC",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b2/37/f6/b237f68f-1b82-c2a6-8560-ae652c78690d/AppIcon-0-0-1x_U007emarketing-0-0-0-8-0-0-85-220.png/180x180bb.png",
+          "rating": 4.8,
+          "ratingCount": 22900,
+          "price": "0.00",
+          "rank": 227,
+          "category": "6012"
+        },
+        {
+          "appId": 999707163,
+          "name": "Furbo - smartest pet camera",
+          "publisher": "Tomofun",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/72/5a/7d/725a7da0-a040-e3f5-4147-95badfbd2cb0/AppIcon-0-0-1x_U007emarketing-0-7-0-sRGB-85-220.png/180x180bb.png",
+          "rating": 4.8,
+          "ratingCount": 2740,
+          "price": "0.00",
+          "rank": 240,
+          "category": "6012"
+        },
+        {
+          "appId": 1544694845,
+          "name": "eufy Baby",
+          "publisher": "Power Mobile Life LLC",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f0/55/c2/f055c2ec-5df0-ecfc-ddaf-7ce3efec8048/AppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.png/180x180bb.png",
+          "rating": 4.7,
+          "ratingCount": 8408,
+          "price": "0.00",
+          "rank": 243,
+          "category": "6012"
+        },
+        {
+          "appId": 1583154299,
+          "name": "OSAIO",
+          "publisher": "AFAR PTE. LTD",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/84/73/b7/8473b737-4862-636b-d271-e9e415de17e8/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/180x180bb.png",
+          "rating": 4.6,
+          "ratingCount": 2346,
+          "price": "0.00",
+          "rank": 244,
+          "category": "6012"
+        },
+        {
+          "appId": 443059509,
+          "name": "iAquaLink",
+          "publisher": "Zodiac Pool Systems, Inc.",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4b/ec/93/4bec930c-760d-aacc-ee7f-ac8939e94178/AppIcon-0-0-1x_U007emarketing-0-8-0-sRGB-85-220.png/180x180bb.png",
+          "rating": 4.7,
+          "ratingCount": 96500,
+          "price": "0.00",
+          "rank": 246,
+          "category": "6012"
+        },
+        {
+          "appId": 307861492,
+          "name": "Map My Walk: Walking Tracker",
+          "publisher": "Outside Television Inc",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/50/2c/d7/502cd716-f97f-5451-bda0-242f794c71f4/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/180x180bb.png",
+          "rating": 4.8,
+          "ratingCount": 475000,
+          "price": "0.00",
+          "rank": 250,
+          "category": "6012"
+        }
+      ]
+    }
+  }
+}
