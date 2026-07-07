@@ -1,0 +1,462 @@
+{
+  "date": "2026-07-07",
+  "changes": {
+    "6002": {
+      "added": [
+        {
+          "appId": 6759000422,
+          "name": "Touchscreen Pro",
+          "publisher": "Seiya.k",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/42/9c/76/429c76a4-75b0-5d2d-cc08-a4a81d7a7abc/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/180x180bb.png",
+          "rating": 0,
+          "ratingCount": 0,
+          "price": "0.00",
+          "rank": 103,
+          "category": "6002"
+        },
+        {
+          "appId": 1033578819,
+          "name": "Brivo Mobile Pass",
+          "publisher": "Brivo Inc.",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9e/a4/5f/9ea45f35-1956-2996-4de2-0cc6a4923303/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/180x180bb.png",
+          "rating": 4.8,
+          "ratingCount": 155000,
+          "price": "0.00",
+          "rank": 105,
+          "category": "6002"
+        },
+        {
+          "appId": 978439794,
+          "name": "MyFrontier",
+          "publisher": "Frontier Communications",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6b/31/46/6b31460d-7435-2805-1f8b-2e7f3f4832a0/AppIcon-0-0-1x_U007emarketing-0-8-0-sRGB-85-220.png/180x180bb.png",
+          "rating": 4.6,
+          "ratingCount": 163000,
+          "price": "0.00",
+          "rank": 118,
+          "category": "6002"
+        },
+        {
+          "appId": 1325217974,
+          "name": "Duke Energy",
+          "publisher": "Duke Energy",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ff/b4/78/ffb47885-e4d7-6ad6-1f40-d8319039e83e/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-P3-85-220.png/180x180bb.png",
+          "rating": 4.8,
+          "ratingCount": 155000,
+          "price": "0.00",
+          "rank": 150,
+          "category": "6002"
+        },
+        {
+          "appId": 6746845735,
+          "name": "Pocket - AI Personal Assistant",
+          "publisher": "Open Vision Engineering, Inc",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c0/74/a4/c074a4fe-e698-9b80-ebb4-d1bd9db79443/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/180x180bb.png",
+          "rating": 4.9,
+          "ratingCount": 2058,
+          "price": "0.00",
+          "rank": 161,
+          "category": "6002"
+        },
+        {
+          "appId": 6480013606,
+          "name": "Virginia Mobile ID",
+          "publisher": "CBN Secure Technologies Inc.",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3c/fb/0e/3cfb0e3a-7568-6ff1-173a-9179d09072fb/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.jpeg/180x180bb.png",
+          "rating": 4.7,
+          "ratingCount": 13700.000000000002,
+          "price": "0.00",
+          "rank": 169,
+          "category": "6002"
+        },
+        {
+          "appId": 6446501128,
+          "name": "E*** x Super *** for iPhone",
+          "publisher": "CARAMBOLICO LTD",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/09/95/4a/09954a0b-d1fa-15ac-bc2a-d742de53dc15/AppIcon-0-1x_U007epad-0-1-0-85-220-0.jpeg/180x180bb.png",
+          "rating": 4.5,
+          "ratingCount": 3061,
+          "price": "0.00",
+          "rank": 171,
+          "category": "6002"
+        },
+        {
+          "appId": 415894489,
+          "name": "Cox App",
+          "publisher": "Cox Communications, Inc.",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/92/e6/a0/92e6a0e4-2a12-d75d-0ac3-197ab749abef/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/180x180bb.png",
+          "rating": 4.6,
+          "ratingCount": 652000,
+          "price": "0.00",
+          "rank": 172,
+          "category": "6002"
+        },
+        {
+          "appId": 354604876,
+          "name": "Travelers Mobile",
+          "publisher": "The Travelers Indemnity Company",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2c/d4/10/2cd41068-0998-9858-b738-ed6a3abdb4f8/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/180x180bb.png",
+          "rating": 4.7,
+          "ratingCount": 122000,
+          "price": "0.00",
+          "rank": 195,
+          "category": "6002"
+        },
+        {
+          "appId": 1602061522,
+          "name": "Authenticator ·",
+          "publisher": "SMM service, s.r.o.",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c9/ee/7d/c9ee7ded-91cd-540d-a9bb-88dee0a20fea/AppIcon-0-0-1x_U007epad-0-11-0-0-85-220.jpeg/180x180bb.png",
+          "rating": 4.6,
+          "ratingCount": 26100,
+          "price": "0.00",
+          "rank": 202,
+          "category": "6002"
+        },
+        {
+          "appId": 1477261074,
+          "name": "Verkada Pass",
+          "publisher": "Verkada Inc.",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/49/78/6f/49786fdf-d1dd-8dd6-f66f-30db911e248d/AppIcon-0-0-1x_U007epad-0-1-85-220.png/180x180bb.png",
+          "rating": 2.9,
+          "ratingCount": 61,
+          "price": "0.00",
+          "rank": 205,
+          "category": "6002"
+        },
+        {
+          "appId": 494168017,
+          "name": "Twilio Authy",
+          "publisher": "Authy Inc.",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/86/25/fa/8625fa79-47e0-1eb5-1495-1caf97b16686/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/180x180bb.png",
+          "rating": 4.7,
+          "ratingCount": 52900,
+          "price": "0.00",
+          "rank": 210,
+          "category": "6002"
+        },
+        {
+          "appId": 6739480825,
+          "name": "PDF Reader - Editor & Scanner",
+          "publisher": "DAOWEI NETWORK TECHNOLOGY PTE.LTD.",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/fa/39/40/fa3940fa-04ef-1bce-8beb-cde0191150a8/PDFIcon-0-0-1x_U007epad-0-1-0-sRGB-0-85-220.png/180x180bb.png",
+          "rating": 4.6,
+          "ratingCount": 552,
+          "price": "0.00",
+          "rank": 216,
+          "category": "6002"
+        },
+        {
+          "appId": 6758676381,
+          "name": "سبورتينا",
+          "publisher": "hani shaleh",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/79/1c/4e/791c4e89-b384-4a57-3e65-796ea245a0b6/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/180x180bb.png",
+          "rating": 4.5,
+          "ratingCount": 24,
+          "price": "0.00",
+          "rank": 221,
+          "category": "6002"
+        },
+        {
+          "appId": 777875529,
+          "name": "Verizon Call Filter",
+          "publisher": "Verizon Wireless",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/15/56/be/1556bea2-38df-7498-b83c-43e000979c10/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/180x180bb.png",
+          "rating": 4.7,
+          "ratingCount": 308000,
+          "price": "0.00",
+          "rank": 222,
+          "category": "6002"
+        },
+        {
+          "appId": 6759446689,
+          "name": "Lumio Cleaner App",
+          "publisher": "BRAKUS d.o.o.",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f0/2f/32/f02f32dc-73cd-d922-c293-abd84f2a8d51/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/180x180bb.png",
+          "rating": 4.2,
+          "ratingCount": 158,
+          "price": "0.00",
+          "rank": 228,
+          "category": "6002"
+        },
+        {
+          "appId": 6470302849,
+          "name": "Second Phone Number, 2nd Line",
+          "publisher": "Municorn Limited",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4b/83/5e/4b835efd-ccb5-83b6-d77c-2d1f169cbde6/AppIcon-0-1x_U007ephone-0-1-0-0-85-220-0.png/180x180bb.png",
+          "rating": 4.3,
+          "ratingCount": 804,
+          "price": "0.00",
+          "rank": 238,
+          "category": "6002"
+        },
+        {
+          "appId": 1502909594,
+          "name": "Translator Keyboard - Language",
+          "publisher": "Air Apps Systems",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/af/17/23/af17231b-668a-ab29-887d-34e806c93938/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/180x180bb.png",
+          "rating": 4.7,
+          "ratingCount": 20400,
+          "price": "0.00",
+          "rank": 243,
+          "category": "6002"
+        },
+        {
+          "appId": 6744531647,
+          "name": "Toggle *** for Secure Internet",
+          "publisher": "Toggle",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f0/6c/15/f06c1543-6494-4cad-47a9-6452adbec310/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/180x180bb.png",
+          "rating": 3.9,
+          "ratingCount": 578,
+          "price": "0.00",
+          "rank": 244,
+          "category": "6002"
+        },
+        {
+          "appId": 1237328534,
+          "name": "FPL",
+          "publisher": "NextEra Energy, Inc",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/09/09/b9/0909b90d-de05-b324-e799-91b669e592ac/AppIcon-0-0-1x_U007emarketing-0-11-0-sRGB-85-220.png/180x180bb.png",
+          "rating": 4.5,
+          "ratingCount": 22700,
+          "price": "0.00",
+          "rank": 248,
+          "category": "6002"
+        }
+      ],
+      "removed": [
+        {
+          "appId": 6762167119,
+          "name": "Hello Movie",
+          "publisher": "Afshana Gulzair",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/fc/93/9d/fc939ddc-a59f-0543-c073-5e47bbfaef3c/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/180x180bb.png",
+          "rating": 3.6,
+          "ratingCount": 180,
+          "price": "0.00",
+          "rank": 61,
+          "category": "6002"
+        },
+        {
+          "appId": 1047334922,
+          "name": "Mr. Number Lookup & Call Block",
+          "publisher": "Hiya",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/28/40/23/28402363-cda9-d31e-d21b-bf6e7cc0236c/AppIcon-1x_U007emarketing-0-4-0-85-220.png/100x100bb.jpg",
+          "rating": 4.6,
+          "ratingCount": 99800,
+          "price": "0.00",
+          "rank": 134,
+          "category": "6002"
+        },
+        {
+          "appId": 6736361418,
+          "name": "Star Gazer - Live Sky View Map",
+          "publisher": "LeoStudio Global",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6c/5e/21/6c5e21e7-fe5b-1f51-b7db-b5135d7cfbfe/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/180x180bb.png",
+          "rating": 4.7,
+          "ratingCount": 1525,
+          "price": "0.00",
+          "rank": 160,
+          "category": "6002"
+        },
+        {
+          "appId": 643360256,
+          "name": "HTH™ | Test to Swim™",
+          "publisher": "Solenis, LLC",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/20/12/3e/20123e1f-a7bc-63cd-4b6b-0d3ba6ff3585/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/180x180bb.png",
+          "rating": 2.3,
+          "ratingCount": 131,
+          "price": "0.00",
+          "rank": 191,
+          "category": "6002"
+        },
+        {
+          "appId": 6504796378,
+          "name": "QR Code Reader, Scan Barcode",
+          "publisher": "BEGAMOB GLOBAL LIMITED",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2b/d6/5e/2bd65e35-60f8-c5ac-109c-9307ec62b518/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/180x180bb.png",
+          "rating": 4.6,
+          "ratingCount": 3413,
+          "price": "0.00",
+          "rank": 195,
+          "category": "6002"
+        },
+        {
+          "appId": 1274170174,
+          "name": "BGE - An Exelon Company",
+          "publisher": "An Exelon Corporation",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a6/ff/e9/a6ffe96b-53d6-ae34-678e-482b52bcba5b/AppIcon-RELEASE-0-0-1x_U007epad-0-1-0-85-220.png/180x180bb.png",
+          "rating": 4.6,
+          "ratingCount": 68300,
+          "price": "0.00",
+          "rank": 197,
+          "category": "6002"
+        },
+        {
+          "appId": 6757353853,
+          "name": "Sleep Aid: Sounds & Tracker",
+          "publisher": "康瑞 仵",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/14/1d/2c/141d2cd7-5a85-d531-51ec-bd95319934aa/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/180x180bb.png",
+          "rating": 4.5,
+          "ratingCount": 38,
+          "price": "0.00",
+          "rank": 218,
+          "category": "6002"
+        },
+        {
+          "appId": 6451399317,
+          "name": "Car Play Connect: Remote Start",
+          "publisher": "TV Cast Pte. Ltd.",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/64/2e/ec/642eecbb-b5fd-2cd7-ed97-bc2b066de53a/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/180x180bb.png",
+          "rating": 4.7,
+          "ratingCount": 24900.000000000004,
+          "price": "0.00",
+          "rank": 219,
+          "category": "6002"
+        },
+        {
+          "appId": 6773257013,
+          "name": "Fromiv- AI Art Motion Video",
+          "publisher": "漳州市卡快充新能源有限公司",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/48/40/91/48409162-4fac-073b-384b-057ad018c791/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/180x180bb.png",
+          "rating": 4.8,
+          "ratingCount": 42,
+          "price": "0.00",
+          "rank": 221,
+          "category": "6002"
+        },
+        {
+          "appId": 476160599,
+          "name": "Florida Lottery",
+          "publisher": "Florida Lottery",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/84/81/53/84815309-3aa1-9f34-58b9-0f35770bb7f4/AppIcon-0-0-1x_U007emarketing-0-11-0-0-85-220.png/180x180bb.png",
+          "rating": 3.5,
+          "ratingCount": 3806,
+          "price": "0.00",
+          "rank": 228,
+          "category": "6002"
+        },
+        {
+          "appId": 6463374220,
+          "name": "Birdfy",
+          "publisher": "NETVUE, INC.",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0f/5a/03/0f5a03f3-566e-cec2-c937-bc116b059829/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/180x180bb.png",
+          "rating": 3.6,
+          "ratingCount": 1869,
+          "price": "0.00",
+          "rank": 229,
+          "category": "6002"
+        },
+        {
+          "appId": 6448165553,
+          "name": "Speedometer GPS: Speed Tracker",
+          "publisher": "LightApps OU",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c5/d7/09/c5d70918-b3e2-524c-8be3-5adf8c4eaceb/AppIcon-0-0-1x_U007ephone-0-1-0-sRGB-85-220.png/180x180bb.png",
+          "rating": 4.6,
+          "ratingCount": 8311,
+          "price": "0.00",
+          "rank": 236,
+          "category": "6002"
+        },
+        {
+          "appId": 6758184735,
+          "name": "Fusvob *** : Super *** 2026",
+          "publisher": "Fuxin Technology",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/76/b9/e6/76b9e6b2-42dd-fd1e-0733-fde1012fe767/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/180x180bb.png",
+          "rating": 4.4,
+          "ratingCount": 1460,
+          "price": "0.00",
+          "rank": 238,
+          "category": "6002"
+        },
+        {
+          "appId": 1561954125,
+          "name": "Smart Remote for Sam TV",
+          "publisher": "EVOLLY.APP",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7d/97/ae/7d97aef2-bd4b-59d1-bcc3-745fa39cdecb/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/180x180bb.png",
+          "rating": 4.2,
+          "ratingCount": 9861,
+          "price": "0.00",
+          "rank": 240,
+          "category": "6002"
+        },
+        {
+          "appId": 1611741274,
+          "name": "BAT-BMS",
+          "publisher": "Shenzhen Grenergy Technology Co.,Ltd.",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d0/64/17/d06417ab-53c5-599a-af85-5de77288a5c1/AppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.png/180x180bb.png",
+          "rating": 3.6,
+          "ratingCount": 41,
+          "price": "0.00",
+          "rank": 241,
+          "category": "6002"
+        },
+        {
+          "appId": 1010631459,
+          "name": "Getcontact",
+          "publisher": "GETVERIFY LDA",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7d/b7/85/7db78538-81de-23b7-62c6-32f6822fc9aa/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/180x180bb.png",
+          "rating": 4.4,
+          "ratingCount": 59500,
+          "price": "0.00",
+          "rank": 243,
+          "category": "6002"
+        },
+        {
+          "appId": 6461419341,
+          "name": "RemoTV: Universal TV Remote",
+          "publisher": "EpicScale Inc",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d3/42/7f/d3427f0c-d3d1-eadf-0537-550bc758b2e1/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/180x180bb.png",
+          "rating": 4.6,
+          "ratingCount": 17300,
+          "price": "0.00",
+          "rank": 244,
+          "category": "6002"
+        },
+        {
+          "appId": 465613917,
+          "name": "Bubble Level for iPhone",
+          "publisher": "Lemondo Apps LLc",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/30/90/f7/3090f74f-c536-f000-c191-71aa2906dbdf/AppIcon-0-1x_U007emarketing-0-7-0-85-220-0.png/180x180bb.png",
+          "rating": 4.7,
+          "ratingCount": 112000,
+          "price": "0.00",
+          "rank": 246,
+          "category": "6002"
+        },
+        {
+          "appId": 1569183047,
+          "name": "Remote control for TCL",
+          "publisher": "Oz Shabbatth",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ea/70/ef/ea70ef73-e218-d2cc-1b33-c4765d6b0f79/AppIcon-0-0-1x_U007emarketing-0-8-0-sRGB-85-220.png/180x180bb.png",
+          "rating": 4.6,
+          "ratingCount": 7445,
+          "price": "0.00",
+          "rank": 247,
+          "category": "6002"
+        },
+        {
+          "appId": 6444024544,
+          "name": "Auto Clicker - Auto Click App",
+          "publisher": "qianduoalai",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d5/57/54/d55754fc-a641-0f71-4cc2-35daaf93d400/AppIcon-1x_U007emarketing-0-6-0-sRGB-85-220-0.png/180x180bb.png",
+          "rating": 4.5,
+          "ratingCount": 22300,
+          "price": "0.00",
+          "rank": 249,
+          "category": "6002"
+        },
+        {
+          "appId": 6758612546,
+          "name": "MovieBox Pro : Movie & TV Show",
+          "publisher": "Taha Mirza",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b4/f6/62/b4f66278-fe44-b3e2-2e57-ab149aad793d/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/180x180bb.png",
+          "rating": 4.5,
+          "ratingCount": 1237,
+          "price": "0.00",
+          "rank": 250,
+          "category": "6002"
+        }
+      ]
+    }
+  }
+}
