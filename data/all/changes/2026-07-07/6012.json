@@ -5,8 +5,8 @@
     {
       "appId": 1367528046,
       "previous_rank": 181,
-      "current_rank": 74,
-      "rank_change": 107,
+      "current_rank": 79,
+      "rank_change": 102,
       "category": "6012",
       "date": "2026-07-07",
       "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/61/3f/cd/613fcd86-b601-e8de-b496-cbf33e98035c/AppIcon-ProviderApp-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/180x180bb.png",
@@ -16,8 +16,8 @@
     {
       "appId": 1423831457,
       "previous_rank": 238,
-      "current_rank": 157,
-      "rank_change": 81,
+      "current_rank": 168,
+      "rank_change": 70,
       "category": "6012",
       "date": "2026-07-07",
       "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0a/8f/47/0a8f47c9-4d01-82db-5ba2-ae589f01c058/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/180x180bb.png",
@@ -25,32 +25,10 @@
       "publisher": "ADT LLC"
     },
     {
-      "appId": 536110000,
-      "previous_rank": 206,
-      "current_rank": 142,
-      "rank_change": 64,
-      "category": "6012",
-      "date": "2026-07-07",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3b/45/6d/3b456d70-8d92-3400-0b68-3fd5f87f2143/VagaroAppIcon-0-1x_U007emarketing-0-11-0-85-220-0.png/180x180bb.png",
-      "app_name": "Vagaro",
-      "publisher": "Vagaro Inc"
-    },
-    {
-      "appId": 431685286,
-      "previous_rank": 207,
-      "current_rank": 145,
-      "rank_change": 62,
-      "category": "6012",
-      "date": "2026-07-07",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fd/3d/f0/fd3df050-d8f0-e393-a22c-41072324d33a/AppIcon-prod-0-0-1x_U007emarketing-0-11-0-85-220.png/180x180bb.png",
-      "app_name": "Evite: Party Invitation Maker",
-      "publisher": "Evite, Inc"
-    },
-    {
       "appId": 1455415833,
       "previous_rank": 248,
-      "current_rank": 186,
-      "rank_change": 62,
+      "current_rank": 187,
+      "rank_change": 61,
       "category": "6012",
       "date": "2026-07-07",
       "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/fc/06/89/fc0689bc-ab5c-e313-e6c4-6306fc710901/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/180x180bb.png",
@@ -58,15 +36,37 @@
       "publisher": "TaskRabbit"
     },
     {
-      "appId": 1469609343,
-      "previous_rank": 244,
-      "current_rank": 185,
+      "appId": 536110000,
+      "previous_rank": 206,
+      "current_rank": 147,
       "rank_change": 59,
       "category": "6012",
       "date": "2026-07-07",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e2/7e/a4/e27ea43b-9971-4cf3-e54e-e995f46dc78f/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/180x180bb.png",
-      "app_name": "Paired: Couples & Relationship",
-      "publisher": "Better Half Limited"
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3b/45/6d/3b456d70-8d92-3400-0b68-3fd5f87f2143/VagaroAppIcon-0-1x_U007emarketing-0-11-0-85-220-0.png/180x180bb.png",
+      "app_name": "Vagaro",
+      "publisher": "Vagaro Inc"
+    },
+    {
+      "appId": 6767750481,
+      "previous_rank": 118,
+      "current_rank": 66,
+      "rank_change": 52,
+      "category": "6012",
+      "date": "2026-07-07",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b6/2e/0d/b62e0d01-98f3-f594-6315-a869d7af4bb6/AppIcon-1x_U007ephone-0-1-0-85-220-0.png/180x180bb.png",
+      "app_name": "Solmira",
+      "publisher": "Nupur Rastogi"
+    },
+    {
+      "appId": 431685286,
+      "previous_rank": 207,
+      "current_rank": 155,
+      "rank_change": 52,
+      "category": "6012",
+      "date": "2026-07-07",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fd/3d/f0/fd3df050-d8f0-e393-a22c-41072324d33a/AppIcon-prod-0-0-1x_U007emarketing-0-11-0-85-220.png/180x180bb.png",
+      "app_name": "Evite: Party Invitation Maker",
+      "publisher": "Evite, Inc"
     }
   ]
 }
