@@ -5,8 +5,8 @@
     {
       "appId": 1480220328,
       "previous_rank": 214,
-      "current_rank": 111,
-      "rank_change": 103,
+      "current_rank": 104,
+      "rank_change": 110,
       "category": "6007",
       "date": "2026-07-08",
       "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f4/98/fd/f498fd3c-9dbd-71aa-0aa3-732189a31b7b/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/180x180bb.png",
@@ -16,8 +16,8 @@
     {
       "appId": 1429704005,
       "previous_rank": 219,
-      "current_rank": 159,
-      "rank_change": 60,
+      "current_rank": 168,
+      "rank_change": 51,
       "category": "6007",
       "date": "2026-07-08",
       "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/70/23/99/7023993c-34a2-07a3-97db-1e8f1a6c12a0/AppIcon-composed-0-1x_U007epad-0-1-0-sRGB-85-220-0.png/180x180bb.png",
@@ -25,10 +25,21 @@
       "publisher": "Dopefin Limited"
     },
     {
+      "appId": 1641447627,
+      "previous_rank": 236,
+      "current_rank": 185,
+      "rank_change": 51,
+      "category": "6007",
+      "date": "2026-07-08",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/bf/7d/28/bf7d28e7-4fb7-143e-84d5-68c40eeb9afa/AppIcon-0-0-1x_U007emarketing-0-11-0-sRGB-85-220.png/180x180bb.png",
+      "app_name": "Color Widgets: Icon Themes",
+      "publisher": "BarCode Scanner"
+    },
+    {
       "appId": 1401184723,
       "previous_rank": 175,
-      "current_rank": 120,
-      "rank_change": 55,
+      "current_rank": 126,
+      "rank_change": 49,
       "category": "6007",
       "date": "2026-07-08",
       "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6b/d9/ad/6bd9adb6-5a46-ea0b-6fe0-a82a19d76a13/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/180x180bb.png",
@@ -36,37 +47,26 @@
       "publisher": "Double Good"
     },
     {
-      "appId": 1454483188,
-      "previous_rank": 197,
-      "current_rank": 148,
-      "rank_change": 49,
+      "appId": 1586861768,
+      "previous_rank": 145,
+      "current_rank": 107,
+      "rank_change": 38,
       "category": "6007",
       "date": "2026-07-08",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/30/d0/18/30d01819-863a-d0e9-4efb-66f2dcb0236d/AppIconProduction-0-0-1x_U007ephone-0-1-0-0-sRGB-85-220.png/180x180bb.png",
-      "app_name": "Saturn Calendar",
-      "publisher": "Saturn Technologies Inc."
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d8/44/ef/d844ef6d-c1c9-14b3-4da7-0653e3e7d23b/white_icon_zeely-0-0-1x_U007ephone-0-1-0-P3-85-220.png/180x180bb.png",
+      "app_name": "Zeely: AI Marketing Platform",
+      "publisher": "Zeely, Inc."
     },
     {
       "appId": 6445823638,
       "previous_rank": 226,
-      "current_rank": 178,
-      "rank_change": 48,
+      "current_rank": 188,
+      "rank_change": 38,
       "category": "6007",
       "date": "2026-07-08",
       "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/61/b9/3e/61b93e5f-3e66-af6c-bfba-72c136bf59f3/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/180x180bb.png",
       "app_name": "Homeaglow for Cleaners",
       "publisher": "homeaglow"
-    },
-    {
-      "appId": 941620509,
-      "previous_rank": 228,
-      "current_rank": 181,
-      "rank_change": 47,
-      "category": "6007",
-      "date": "2026-07-08",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d7/12/c3/d712c3f7-8199-c108-86eb-04c47d97a076/icon-lite-26-na-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-85-220.png/180x180bb.png",
-      "app_name": "Teleprompter",
-      "publisher": "Teleprompter Apps Ltd"
     }
   ]
 }
