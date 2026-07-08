@@ -1,0 +1,363 @@
+{
+  "date": "2026-07-08",
+  "changes": {
+    "6013": {
+      "added": [
+        {
+          "appId": 6477849675,
+          "name": "Stompers: Step Counter Friends",
+          "publisher": "Stompers, LLC",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b1/6b/da/b16bdafa-e3e3-7496-0236-fb3d85d77260/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/180x180bb.png",
+          "rating": 4.7,
+          "ratingCount": 5365,
+          "price": "0.00",
+          "rank": 147,
+          "category": "6013"
+        },
+        {
+          "appId": 6761424608,
+          "name": "Greater Austin YMCA",
+          "publisher": "Familyworks LLC",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a4/43/af/a443af7f-7e7a-4c91-6710-a13eccde7f3a/AppIcon-0-0-1x_U007epad-0-1-85-220.png/180x180bb.png",
+          "rating": 0,
+          "ratingCount": 0,
+          "price": "0.00",
+          "rank": 162,
+          "category": "6013"
+        },
+        {
+          "appId": 1161035371,
+          "name": "Pray.com: Bible & Daily Prayer",
+          "publisher": "Pray, Inc.",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/df/aa/8c/dfaa8cad-2ace-305a-a37e-ca082c50ef31/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/180x180bb.png",
+          "rating": 4.8,
+          "ratingCount": 192000,
+          "price": "0.00",
+          "rank": 179,
+          "category": "6013"
+        },
+        {
+          "appId": 1573298047,
+          "name": "STNDRD Workout & Fitness Plans",
+          "publisher": "Set The Standard LLC",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4c/2f/86/4c2f864b-39fc-041f-86f7-6ffd7b6c9df0/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/180x180bb.png",
+          "rating": 4.6,
+          "ratingCount": 3714,
+          "price": "0.00",
+          "rank": 188,
+          "category": "6013"
+        },
+        {
+          "appId": 6766502625,
+          "name": "Michigan Athletic Club - MAC",
+          "publisher": "Edward W. Sparrow Hospital",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4c/9b/57/4c9b5763-8368-3669-0133-231b62d2a279/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/180x180bb.png",
+          "rating": 0,
+          "ratingCount": 0,
+          "price": "0.00",
+          "rank": 199,
+          "category": "6013"
+        },
+        {
+          "appId": 1562706384,
+          "name": "How We Feel",
+          "publisher": "The How We Feel Project, Inc.",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/09/0e/f9/090ef9c6-1c15-ad9d-3476-18164efb8664/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/180x180bb.png",
+          "rating": 4.9,
+          "ratingCount": 28600,
+          "price": "0.00",
+          "rank": 201,
+          "category": "6013"
+        },
+        {
+          "appId": 6514310473,
+          "name": "Sleep Tracker & Sound by Remly",
+          "publisher": "DEEP FLOW SOFTWARE SERVICES",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/8e/e4/d4/8ee4d4da-a73f-89ff-4a28-9e6f138b2aeb/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/180x180bb.png",
+          "rating": 4.8,
+          "ratingCount": 15400,
+          "price": "0.00",
+          "rank": 204,
+          "category": "6013"
+        },
+        {
+          "appId": 1182030612,
+          "name": "HOTWORX",
+          "publisher": "Planet Beach",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e2/64/c4/e264c47b-1114-50f0-ad2c-33894d9e93f0/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/180x180bb.png",
+          "rating": 4.8,
+          "ratingCount": 31400,
+          "price": "0.00",
+          "rank": 226,
+          "category": "6013"
+        },
+        {
+          "appId": 728293729,
+          "name": "Blue Shield of California",
+          "publisher": "Blue Shield of California",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/17/45/71/174571ae-9785-7642-a6a7-3557c1871a0f/AppIcon-0-0-1x_U007emarketing-0-0-0-6-0-0-85-220.png/180x180bb.png",
+          "rating": 4.8,
+          "ratingCount": 21100,
+          "price": "0.00",
+          "rank": 227,
+          "category": "6013"
+        },
+        {
+          "appId": 6748003663,
+          "name": "MarkRun: Walk to get rewards",
+          "publisher": "do4health",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6c/fb/99/6cfb9932-91f9-09e1-30ec-c0a6b8a80ae5/AppIcon-0-0-1x_U007ephone-0-11-0-85-220.png/180x180bb.png",
+          "rating": 4.4,
+          "ratingCount": 2688,
+          "price": "0.00",
+          "rank": 231,
+          "category": "6013"
+        },
+        {
+          "appId": 1622951301,
+          "name": "Fit Profile-GE branded scales",
+          "publisher": "Global eFit Incorporated",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a5/38/46/a5384614-84a4-a629-a473-582bd9645d61/AppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.png/180x180bb.png",
+          "rating": 4.9,
+          "ratingCount": 3187,
+          "price": "0.00",
+          "rank": 234,
+          "category": "6013"
+        },
+        {
+          "appId": 6468623712,
+          "name": "Life Fitness Connect App",
+          "publisher": "Life Fitness LLC",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/61/45/69/614569a5-6cc0-2b81-e365-bbc18a4d2e49/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/180x180bb.png",
+          "rating": 4.7,
+          "ratingCount": 3365,
+          "price": "0.00",
+          "rank": 235,
+          "category": "6013"
+        },
+        {
+          "appId": 1028294311,
+          "name": "OKOK·International",
+          "publisher": "Shenzhen Careyou Health Science and Technology Co., LTD",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c4/b2/43/c4b24353-3bcf-ed39-8cf6-37d97df82e47/AppIcon-0-0-1x_U007ephone-0-1-0-0-85-220.png/180x180bb.png",
+          "rating": 4.7,
+          "ratingCount": 14100,
+          "price": "0.00",
+          "rank": 236,
+          "category": "6013"
+        },
+        {
+          "appId": 6443568264,
+          "name": "PetPage",
+          "publisher": "AllyDVM",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/94/1b/8e/941b8e8f-5ef9-2656-aa2e-f4aa714bc0a3/AppIcon-0-0-1x_U007epad-0-1-85-220.png/180x180bb.png",
+          "rating": 4.9,
+          "ratingCount": 5243,
+          "price": "0.00",
+          "rank": 237,
+          "category": "6013"
+        },
+        {
+          "appId": 1450500729,
+          "name": "SmartHealth",
+          "publisher": "Shenzhen Yucheng Innovation Technology Co., Ltd.",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b7/53/68/b753688f-3595-2914-8c87-0b6383edbbe3/AppIcon-0-0-1x_U007emarketing-0-8-0-0-sRGB-85-220.png/180x180bb.png",
+          "rating": 3.1,
+          "ratingCount": 1960,
+          "price": "0.00",
+          "rank": 248,
+          "category": "6013"
+        },
+        {
+          "appId": 6443980625,
+          "name": "Da Rings",
+          "publisher": "MO YOUNG LIMITED",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/09/ed/fe/09edfe0e-17fd-5da7-bf16-4a45c2bc4ae6/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/180x180bb.png",
+          "rating": 2.7,
+          "ratingCount": 143,
+          "price": "0.00",
+          "rank": 249,
+          "category": "6013"
+        }
+      ],
+      "removed": [
+        {
+          "appId": 6749520351,
+          "name": "75Me: 75 Day Reset Challenge",
+          "publisher": "75Me LLC",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/18/8c/a5/188ca524-a326-079a-4483-a33ac7be966a/AppIcon-0-0-1x_U007ephone-0-1-0-sRGB-85-220.png/180x180bb.png",
+          "rating": 4.8,
+          "ratingCount": 485,
+          "price": "0.00",
+          "rank": 189,
+          "category": "6013"
+        },
+        {
+          "appId": 6749039394,
+          "name": "Blood Pressure Health Planner",
+          "publisher": "HAHA TECHNOLOGY LIMITED",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/74/b0/7d/74b07d74-f504-8883-74be-523a27077032/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.jpeg/180x180bb.png",
+          "rating": 4.2,
+          "ratingCount": 748,
+          "price": "0.00",
+          "rank": 197,
+          "category": "6013"
+        },
+        {
+          "appId": 1487751824,
+          "name": "Solin: Challenges & Nutrition",
+          "publisher": "Solin",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9c/cf/e8/9ccfe8ce-feae-738a-49c9-06b6fef7d6db/AppIcon-0-0-1x_U007epad-0-1-85-220.png/180x180bb.png",
+          "rating": 4.9,
+          "ratingCount": 2873,
+          "price": "0.00",
+          "rank": 210,
+          "category": "6013"
+        },
+        {
+          "appId": 6759260204,
+          "name": "Tai Chi Beginners & Seniors",
+          "publisher": "Prodigy AI",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/72/ed/48/72ed48ca-d944-1e88-7d61-70cc3e1e85cc/AppIcon-0-0-1x_U007epad-0-1-85-220.png/180x180bb.png",
+          "rating": 4.6,
+          "ratingCount": 1980,
+          "price": "0.00",
+          "rank": 211,
+          "category": "6013"
+        },
+        {
+          "appId": 6762102880,
+          "name": "PeptidePal – Peptide Tracker",
+          "publisher": "Blank Labs LLC",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/50/48/aa/5048aacc-c79c-2ce0-a834-7f61dab19d3a/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/180x180bb.png",
+          "rating": 4.7,
+          "ratingCount": 1988,
+          "price": "0.00",
+          "rank": 212,
+          "category": "6013"
+        },
+        {
+          "appId": 6499554412,
+          "name": "Death Clock: The Life Lab",
+          "publisher": "Most Days",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7c/b1/39/7cb13915-1631-a6ca-b6b6-f3d9f1c90e61/Icon-0-0-1x_U007ephone-0-1-sRGB-85-220.png/180x180bb.png",
+          "rating": 4.8,
+          "ratingCount": 15500,
+          "price": "0.00",
+          "rank": 218,
+          "category": "6013"
+        },
+        {
+          "appId": 1493500777,
+          "name": "Mi Fitness (Xiaomi Wear Lite)",
+          "publisher": "Beijing Xiaomi Co., Ltd",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/28/f2/ee/28f2ee5b-d3c1-4b6f-35df-47e4ab79133e/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/180x180bb.png",
+          "rating": 4.6,
+          "ratingCount": 36900,
+          "price": "0.00",
+          "rank": 222,
+          "category": "6013"
+        },
+        {
+          "appId": 6749455368,
+          "name": "Juno: Chronic Illness Support",
+          "publisher": "Marshall Gould",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/34/91/2c/34912c29-12c1-83d0-26b7-e9a2019ea4d5/AppIcon-0-0-1x_U007epad-0-1-85-220.png/180x180bb.png",
+          "rating": 4.8,
+          "ratingCount": 9071,
+          "price": "0.00",
+          "rank": 232,
+          "category": "6013"
+        },
+        {
+          "appId": 6730116702,
+          "name": "Glowise: GLP-1 Tracker & Diary",
+          "publisher": "VOCALBEATS.AI PTE. LTD.",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/63/f7/75/63f77544-f8a6-3cd0-ee12-69da1ffefa66/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.jpeg/180x180bb.png",
+          "rating": 4.8,
+          "ratingCount": 2932,
+          "price": "0.00",
+          "rank": 234,
+          "category": "6013"
+        },
+        {
+          "appId": 907295335,
+          "name": "Bedtime Fan: White Noise Baby",
+          "publisher": "Slumber Studios, LLC",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d6/09/79/d609797a-c0ca-a46f-76d6-144f84e3b166/white_fan_with_snow_icon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/180x180bb.png",
+          "rating": 4.8,
+          "ratingCount": 197000,
+          "price": "0.00",
+          "rank": 235,
+          "category": "6013"
+        },
+        {
+          "appId": 6450994700,
+          "name": "Blood Pressure App-Health Body",
+          "publisher": "Vincentius Tech Sdn Bhd",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e3/e0/5f/e3e05f02-efec-581b-0ddb-389030dbcc60/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.jpeg/180x180bb.png",
+          "rating": 4.5,
+          "ratingCount": 8817,
+          "price": "0.00",
+          "rank": 237,
+          "category": "6013"
+        },
+        {
+          "appId": 1489944782,
+          "name": "InPulse - Heart Rate Monitor",
+          "publisher": "AIBY",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/91/e2/e8/91e2e88a-170c-d8c0-7e66-e8868dbd2019/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/180x180bb.png",
+          "rating": 4.6,
+          "ratingCount": 177000,
+          "price": "0.00",
+          "rank": 239,
+          "category": "6013"
+        },
+        {
+          "appId": 6758321524,
+          "name": "Quick BloodPressure",
+          "publisher": "Far Vision Ltd.",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e6/08/9f/e6089fbb-8d85-8659-4ca1-2bed019f6bdd/AppIcon-0-0-1x_U007ephone-0-11-0-85-220.png/180x180bb.png",
+          "rating": 3.4,
+          "ratingCount": 501,
+          "price": "0.00",
+          "rank": 243,
+          "category": "6013"
+        },
+        {
+          "appId": 6747467975,
+          "name": "GoTall - Height Predictor",
+          "publisher": "Grow Labs LLC",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1e/c6/bf/1ec6bfdf-c8f5-60d0-825e-62ae292bec0a/AppIcon-0-0-1x_U007epad-0-1-85-220.png/180x180bb.png",
+          "rating": 4.6,
+          "ratingCount": 6747,
+          "price": "0.00",
+          "rank": 244,
+          "category": "6013"
+        },
+        {
+          "appId": 952516687,
+          "name": "23andMe - DNA Testing",
+          "publisher": "23andMe, Inc.",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/18/f1/8a/18f18a3e-d4f5-709f-821e-5e47293b35f6/AppIcon-0-0-1x_U007epad-0-11-0-85-220.png/180x180bb.png",
+          "rating": 4.8,
+          "ratingCount": 554000,
+          "price": "0.00",
+          "rank": 245,
+          "category": "6013"
+        },
+        {
+          "appId": 1325481372,
+          "name": "HUAWEI Health",
+          "publisher": "Huawei Software Technologies Co., Ltd.",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8b/7a/8e/8b7a8ef8-31b2-3bd7-f49e-364f2d7e295e/healthlogo_app_release-0-0-1x_U007emarketing-0-5-0-sRGB-85-220.png/180x180bb.png",
+          "rating": 4.5,
+          "ratingCount": 13799.999999999998,
+          "price": "0.00",
+          "rank": 250,
+          "category": "6013"
+        }
+      ]
+    }
+  }
+}
