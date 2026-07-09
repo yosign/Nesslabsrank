@@ -1,0 +1,319 @@
+{
+  "date": "2026-07-09",
+  "changes": {
+    "6012": {
+      "added": [
+        {
+          "appId": 1599179405,
+          "name": "Indyx: Wardrobe & Outfit App",
+          "publisher": "Indyx Inc.",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/45/29/b0/4529b079-504a-a9d8-1da0-e78db993e5d3/AppIcon-0-0-1x_U007epad-0-1-85-220.png/180x180bb.png",
+          "rating": 4.8,
+          "ratingCount": 1407,
+          "price": "0.00",
+          "rank": 77,
+          "category": "6012"
+        },
+        {
+          "appId": 6743861403,
+          "name": "EPICA: Your Daily Beauty Guide",
+          "publisher": "SharoneLimited",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/dd/96/28/dd9628f5-09df-0a0c-3469-ed43315f9021/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/180x180bb.png",
+          "rating": 4.6,
+          "ratingCount": 1886,
+          "price": "0.00",
+          "rank": 164,
+          "category": "6012"
+        },
+        {
+          "appId": 395563123,
+          "name": "Dscout",
+          "publisher": "dscout",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f8/2e/15/f82e15d1-7546-f47d-3dd0-84853dbcc783/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/180x180bb.png",
+          "rating": 4.4,
+          "ratingCount": 3603,
+          "price": "0.00",
+          "rank": 174,
+          "category": "6012"
+        },
+        {
+          "appId": 1668143506,
+          "name": "Fly Vaunt",
+          "publisher": "Volato, Inc",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/50/d3/9e/50d39e64-a262-3a48-689b-bc6bb20f184f/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/180x180bb.png",
+          "rating": 3.1,
+          "ratingCount": 191,
+          "price": "0.00",
+          "rank": 186,
+          "category": "6012"
+        },
+        {
+          "appId": 1587679090,
+          "name": "Led Light Controller LedRemote",
+          "publisher": "Kain Suite Pte. Ltd.",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/18/bb/fe/18bbfeb6-6571-d912-0bbb-ee63292247c2/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/180x180bb.png",
+          "rating": 3.9,
+          "ratingCount": 60100,
+          "price": "0.00",
+          "rank": 222,
+          "category": "6012"
+        },
+        {
+          "appId": 1663430725,
+          "name": "RIZZ",
+          "publisher": "TREND IT LLC",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/68/3c/7e/683c7ee1-1f65-f79f-abfc-6c3bbdcf62f8/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.jpeg/180x180bb.png",
+          "rating": 4.8,
+          "ratingCount": 38400,
+          "price": "0.00",
+          "rank": 225,
+          "category": "6012"
+        },
+        {
+          "appId": 6479642952,
+          "name": "Essembl: Outfit Planner",
+          "publisher": "Essembl SA",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6b/72/8a/6b728ab6-0323-8ddd-26d8-57b01ba4e257/AppIcon-0-0-1x_U007epad-0-1-85-220.png/180x180bb.png",
+          "rating": 4.6,
+          "ratingCount": 1661,
+          "price": "0.00",
+          "rank": 229,
+          "category": "6012"
+        },
+        {
+          "appId": 1397726277,
+          "name": "Wansview Cloud",
+          "publisher": "Ajcloud Labs Inc.",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/05/ce/f2/05cef2c1-ffe6-d518-7845-49e4ee915383/AppIcon_WanviewCloud-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/180x180bb.png",
+          "rating": 4.7,
+          "ratingCount": 55100,
+          "price": "0.00",
+          "rank": 238,
+          "category": "6012"
+        },
+        {
+          "appId": 1672660475,
+          "name": "Kale - Creator Rewards",
+          "publisher": "Palette Technologies Inc",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d1/eb/ba/d1ebba6d-c940-7192-0c9a-15e4dce6d7ad/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/180x180bb.png",
+          "rating": 4.9,
+          "ratingCount": 5797,
+          "price": "0.00",
+          "rank": 244,
+          "category": "6012"
+        },
+        {
+          "appId": 6755099390,
+          "name": "Pet Chat: Cat & Dog Translator",
+          "publisher": "Valiant Cat",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/cc/78/04/cc780435-dfc6-3e07-e10b-7720b35552f5/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/180x180bb.png",
+          "rating": 4.7,
+          "ratingCount": 914,
+          "price": "0.00",
+          "rank": 245,
+          "category": "6012"
+        },
+        {
+          "appId": 1623569698,
+          "name": "JoinBrands: UGC Creator Jobs",
+          "publisher": "Join Brands",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f4/79/75/f4797539-c527-a172-9bd1-3b3ac51d45d2/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/180x180bb.png",
+          "rating": 4.6,
+          "ratingCount": 852,
+          "price": "0.00",
+          "rank": 246,
+          "category": "6012"
+        },
+        {
+          "appId": 6743095634,
+          "name": "Critique AI: Habit Tracker",
+          "publisher": "With Bytes",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/fc/cc/02/fccc0201-e521-6fd5-66a1-91e3711e6915/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/180x180bb.png",
+          "rating": 4.7,
+          "ratingCount": 9361,
+          "price": "0.00",
+          "rank": 247,
+          "category": "6012"
+        },
+        {
+          "appId": 6449750416,
+          "name": "Plug AI: Texting Assistant",
+          "publisher": "Vert Media Partners LLC",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/85/df/73/85df739e-b361-eefe-82ad-e05f524d223c/AppIcon_old-0-0-1x_U007ephone-0-85-220.png/180x180bb.png",
+          "rating": 4.6,
+          "ratingCount": 14900,
+          "price": "0.00",
+          "rank": 248,
+          "category": "6012"
+        },
+        {
+          "appId": 1489209093,
+          "name": "Microsoft Family Safety",
+          "publisher": "Microsoft Corporation",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0f/8a/7d/0f8a7d26-4d70-26de-348d-885ba6913359/AppIcon-prod-1x_U007emarketing-0-6-0-0-85-220-0.png/180x180bb.png",
+          "rating": 4.1,
+          "ratingCount": 7694,
+          "price": "0.00",
+          "rank": 250,
+          "category": "6012"
+        }
+      ],
+      "removed": [
+        {
+          "appId": 587467216,
+          "name": "Jeep Badge of Honor",
+          "publisher": "FCA US LLC",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d2/1f/2f/d21f2f0c-fff5-e91b-5998-04d9370749df/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/180x180bb.png",
+          "rating": 4.8,
+          "ratingCount": 22000,
+          "price": "0.00",
+          "rank": 141,
+          "category": "6012"
+        },
+        {
+          "appId": 6473748536,
+          "name": "Astra - Life Advice",
+          "publisher": "Vert Ventures",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/73/70/5c/73705c14-02c9-96cb-8898-c33fd2fa3dfd/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/180x180bb.png",
+          "rating": 4.7,
+          "ratingCount": 37600,
+          "price": "0.00",
+          "rank": 200,
+          "category": "6012"
+        },
+        {
+          "appId": 6762320251,
+          "name": "OHSU MyCommute",
+          "publisher": "RideAmigos",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/00/3c/11/003c1193-c489-199c-a952-fdba92bc94cb/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/180x180bb.png",
+          "rating": 0,
+          "ratingCount": 0,
+          "price": "0.00",
+          "rank": 205,
+          "category": "6012"
+        },
+        {
+          "appId": 6769235173,
+          "name": "Voxa - Share Together, Chat",
+          "publisher": "Chris Koterwas",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/63/00/8e/63008e8e-9a7d-339a-5f81-4b81ab9c3cc9/AppIcon-0-0-1x_U007ephone-0-1-85-220.jpeg/180x180bb.png",
+          "rating": 4.7,
+          "ratingCount": 296,
+          "price": "0.00",
+          "rank": 214,
+          "category": "6012"
+        },
+        {
+          "appId": 6739350749,
+          "name": "Dream Mate: AI Roleplay Chat",
+          "publisher": "BOBY AI YAZILIM ANONIM SIRKETI",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ae/d3/f1/aed3f126-a86b-f75f-2b1a-231a773d1d87/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/180x180bb.png",
+          "rating": 4.2,
+          "ratingCount": 556,
+          "price": "0.00",
+          "rank": 216,
+          "category": "6012"
+        },
+        {
+          "appId": 351091731,
+          "name": "Dianping: Discover Good Places",
+          "publisher": "Hanhai Information Technology (Shanghai) Co.Ltd",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/cb/d7/b5/cbd7b598-456a-3012-f593-c566a7741c7a/AppIcon-0-0-1x_U007epad-0-11-0-sRGB-85-220.png/180x180bb.png",
+          "rating": 4.7,
+          "ratingCount": 7008,
+          "price": "0.00",
+          "rank": 219,
+          "category": "6012"
+        },
+        {
+          "appId": 6451412538,
+          "name": "Homebody: Better Renting",
+          "publisher": "Entrata, Inc.",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f9/b6/37/f9b6371c-c837-b5fd-ba62-bfff3a758a8a/AppIcon-0-0-1x_U007ephone-0-1-0-sRGB-85-220.png/180x180bb.png",
+          "rating": 4.4,
+          "ratingCount": 633,
+          "price": "0.00",
+          "rank": 235,
+          "category": "6012"
+        },
+        {
+          "appId": 396908589,
+          "name": "Disneyland® Paris",
+          "publisher": "Disneyland Paris",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4d/23/e5/4d23e510-8aa0-ff53-e9fc-97a92582b5e8/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/180x180bb.png",
+          "rating": 4.3,
+          "ratingCount": 3254,
+          "price": "0.00",
+          "rank": 241,
+          "category": "6012"
+        },
+        {
+          "appId": 6593690945,
+          "name": "Mofid - مفید",
+          "publisher": "EL-NUKHBA ENGINEERING COMPANY FOR CONTRACTING, GENERAL TRADING, L.L.C.",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f1/91/23/f1912362-08a6-d0e6-7163-df6b989923b6/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/180x180bb.png",
+          "rating": 4.2,
+          "ratingCount": 6,
+          "price": "0.00",
+          "rank": 242,
+          "category": "6012"
+        },
+        {
+          "appId": 1591156837,
+          "name": "ToChat - Meet New Friends",
+          "publisher": "ByteWave Corporation",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f4/4f/aa/f44faafa-265c-2376-2990-280181b5d190/AppIconNew-1x_U007emarketing-0-8-0-85-220-0.png/180x180bb.png",
+          "rating": 4.5,
+          "ratingCount": 5632,
+          "price": "0.00",
+          "rank": 245,
+          "category": "6012"
+        },
+        {
+          "appId": 1410126781,
+          "name": "Planta: Plant & Garden Care",
+          "publisher": "Planta AB",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ff/1f/b1/ff1fb187-3d6b-5060-519a-8e1ad849aed4/AppIcon-Prod-0-0-1x_U007ephone-0-1-sRGB-85-220.png/180x180bb.png",
+          "rating": 4.8,
+          "ratingCount": 112000,
+          "price": "0.00",
+          "rank": 246,
+          "category": "6012"
+        },
+        {
+          "appId": 328453619,
+          "name": "Care.com: Hire Caregivers",
+          "publisher": "Care.com, Inc.",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0e/48/c2/0e48c207-a75d-8d47-a896-fbaf2a068b1d/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/180x180bb.png",
+          "rating": 4.3,
+          "ratingCount": 38100,
+          "price": "0.00",
+          "rank": 247,
+          "category": "6012"
+        },
+        {
+          "appId": 792612452,
+          "name": "Sensi",
+          "publisher": "Copeland LP",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ad/10/42/ad104268-c365-132a-1881-7ecb56c1fa4b/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-85-220.png/180x180bb.png",
+          "rating": 4.6,
+          "ratingCount": 236000,
+          "price": "0.00",
+          "rank": 248,
+          "category": "6012"
+        },
+        {
+          "appId": 1565972415,
+          "name": "RAM®",
+          "publisher": "FCA US LLC",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/fa/82/ec/fa82ecad-d214-783f-5dc1-a75851cd7cb6/AppIcon.ram.prod-0-0-1x_U007emarketing-0-6-0-85-220.png/180x180bb.png",
+          "rating": 4.8,
+          "ratingCount": 82000,
+          "price": "0.00",
+          "rank": 250,
+          "category": "6012"
+        }
+      ]
+    }
+  }
+}
