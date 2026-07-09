@@ -5,8 +5,8 @@
     {
       "appId": 6472631698,
       "previous_rank": 135,
-      "current_rank": 47,
-      "rank_change": 88,
+      "current_rank": 48,
+      "rank_change": 87,
       "category": "6013",
       "date": "2026-07-09",
       "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/38/c6/92/38c69250-fab5-c707-8ff3-d2a0d79a39c7/AppIcon-0-0-1x_U007epad-0-1-85-220.png/180x180bb.png",
@@ -16,8 +16,8 @@
     {
       "appId": 6742904990,
       "previous_rank": 198,
-      "current_rank": 131,
-      "rank_change": 67,
+      "current_rank": 128,
+      "rank_change": 70,
       "category": "6013",
       "date": "2026-07-09",
       "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/41/18/36/4118365a-9c6e-671f-f091-930aae170224/MainAppIcon-0-0-1x_U007ephone-0-1-0-sRGB-0-85-220.png/180x180bb.png",
@@ -25,10 +25,21 @@
       "publisher": "Faliane Ltd."
     },
     {
+      "appId": 1064020872,
+      "previous_rank": 210,
+      "current_rank": 141,
+      "rank_change": 69,
+      "category": "6013",
+      "date": "2026-07-09",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/84/68/a7/8468a70c-cbf6-3c8f-3a29-a41eb57c1f4d/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/180x180bb.png",
+      "app_name": "Foodvisor - AI Calorie Counter",
+      "publisher": "Foodvisor"
+    },
+    {
       "appId": 6514310473,
       "previous_rank": 204,
-      "current_rank": 142,
-      "rank_change": 62,
+      "current_rank": 139,
+      "rank_change": 65,
       "category": "6013",
       "date": "2026-07-09",
       "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/8e/e4/d4/8ee4d4da-a73f-89ff-4a28-9e6f138b2aeb/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/180x180bb.png",
@@ -38,8 +49,8 @@
     {
       "appId": 6477849675,
       "previous_rank": 147,
-      "current_rank": 91,
-      "rank_change": 56,
+      "current_rank": 94,
+      "rank_change": 53,
       "category": "6013",
       "date": "2026-07-09",
       "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b1/6b/da/b16bdafa-e3e3-7496-0236-fb3d85d77260/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/180x180bb.png",
@@ -47,26 +58,15 @@
       "publisher": "Stompers, LLC"
     },
     {
-      "appId": 1064020872,
-      "previous_rank": 210,
-      "current_rank": 159,
-      "rank_change": 51,
+      "appId": 6748003663,
+      "previous_rank": 231,
+      "current_rank": 182,
+      "rank_change": 49,
       "category": "6013",
       "date": "2026-07-09",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d1/87/b3/d187b33c-38ca-4132-1451-bfadf9e1a039/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/180x180bb.png",
-      "app_name": "Foodvisor - AI Calorie Counter",
-      "publisher": "Foodvisor"
-    },
-    {
-      "appId": 1532014748,
-      "previous_rank": 145,
-      "current_rank": 99,
-      "rank_change": 46,
-      "category": "6013",
-      "date": "2026-07-09",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f0/5c/44/f05c440b-acff-744c-b730-430c1034c715/AppIcon-0-0-1x_U007emarketing-0-11-0-0-85-220.png/180x180bb.png",
-      "app_name": "iHealth MyVitals",
-      "publisher": "iHealth Labs Inc."
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6c/fb/99/6cfb9932-91f9-09e1-30ec-c0a6b8a80ae5/AppIcon-0-0-1x_U007ephone-0-11-0-85-220.png/180x180bb.png",
+      "app_name": "MarkRun: Walk to get rewards",
+      "publisher": "do4health"
     }
   ]
 }
