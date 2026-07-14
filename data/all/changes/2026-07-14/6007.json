@@ -5,8 +5,8 @@
     {
       "appId": 1091505266,
       "previous_rank": 197,
-      "current_rank": 103,
-      "rank_change": 94,
+      "current_rank": 111,
+      "rank_change": 86,
       "category": "6007",
       "date": "2026-07-14",
       "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6d/e0/bc/6de0bcf4-3bd7-02d5-d2ef-411a0f85ec1c/SharePointAppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.png/180x180bb.png",
@@ -16,8 +16,8 @@
     {
       "appId": 412650768,
       "previous_rank": 207,
-      "current_rank": 133,
-      "rank_change": 74,
+      "current_rank": 132,
+      "rank_change": 75,
       "category": "6007",
       "date": "2026-07-14",
       "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/34/b4/a5/34b4a533-3539-cd27-5c67-2ee87f9ebb6e/appIcon-0-1x_U007epad-0-11-0-85-220-0.png/180x180bb.png",
@@ -25,32 +25,21 @@
       "publisher": "HealthEquity"
     },
     {
-      "appId": 6758721368,
-      "previous_rank": 242,
-      "current_rank": 174,
-      "rank_change": 68,
+      "appId": 6751109423,
+      "previous_rank": 241,
+      "current_rank": 170,
+      "rank_change": 71,
       "category": "6007",
       "date": "2026-07-14",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/36/09/77/360977c2-9ea1-23ff-d4b9-f863d7c3b607/AppIcon-0-0-1x_U007epad-0-1-sRGB-85-220.png/180x180bb.png",
-      "app_name": "Kek*** – Fast & Secure ***",
-      "publisher": "Stix LLC"
-    },
-    {
-      "appId": 891247102,
-      "previous_rank": 98,
-      "current_rank": 31,
-      "rank_change": 67,
-      "category": "6007",
-      "date": "2026-07-14",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a5/08/d7/a508d740-9cf9-4c50-521a-66df698f4536/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/180x180bb.png",
-      "app_name": "PingID",
-      "publisher": "Ping Identity Corporation"
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/25/1c/5b/251c5bc7-f358-8ae5-8327-640b6b9bbcdf/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/180x180bb.png",
+      "app_name": "Phone Cleanup: Storage Cleaner",
+      "publisher": "Novago Global Solutions FZ-LLC"
     },
     {
       "appId": 1540124885,
       "previous_rank": 246,
-      "current_rank": 179,
-      "rank_change": 67,
+      "current_rank": 178,
+      "rank_change": 68,
       "category": "6007",
       "date": "2026-07-14",
       "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/78/83/8b/78838b04-de8e-b98c-e52d-c0341ec53d84/AppIcon-2-1x_U007emarketing-0-8-0-85-220-0.png/180x180bb.png",
@@ -58,15 +47,26 @@
       "publisher": "LCS"
     },
     {
-      "appId": 743974925,
-      "previous_rank": 205,
-      "current_rank": 146,
-      "rank_change": 59,
+      "appId": 489262811,
+      "previous_rank": 245,
+      "current_rank": 184,
+      "rank_change": 61,
       "category": "6007",
       "date": "2026-07-14",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c5/f7/e2/c5f7e289-ceae-5070-0102-9fc5fc978dfe/AppIcon-Production-0-0-1x_U007epad-0-1-0-sRGB-0-85-220.png/180x180bb.png",
-      "app_name": "PDF Expert: Editor & Converter",
-      "publisher": "Readdle Technologies Limited"
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/32/02/95/320295a0-deb8-0b1e-6838-b5268a4f4c22/AppIcon-0-0-1x_U007emarketing-0-11-0-0-GLES2_U002c0-85-220.png/180x180bb.png",
+      "app_name": "SignNow: e-Signature app",
+      "publisher": "airSlate, Inc."
+    },
+    {
+      "appId": 891247102,
+      "previous_rank": 98,
+      "current_rank": 40,
+      "rank_change": 58,
+      "category": "6007",
+      "date": "2026-07-14",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a5/08/d7/a508d740-9cf9-4c50-521a-66df698f4536/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/180x180bb.png",
+      "app_name": "PingID",
+      "publisher": "Ping Identity Corporation"
     }
   ]
 }
