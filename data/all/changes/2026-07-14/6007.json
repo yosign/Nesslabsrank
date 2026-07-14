@@ -3,26 +3,37 @@
   "genre": "6007",
   "topRisers": [
     {
+      "appId": 491945275,
+      "previous_rank": 226,
+      "current_rank": 122,
+      "rank_change": 104,
+      "category": "6007",
+      "date": "2026-07-14",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/97/b1/0c/97b10c0b-bedb-12f8-e1ed-09925999b8a2/AppIcon-0-0-1x_U007emarketing-0-11-85-220.jpeg/180x180bb.png",
+      "app_name": "iPersia Calendar تقویم ارز",
+      "publisher": "Exeersoft Inc"
+    },
+    {
+      "appId": 6758721368,
+      "previous_rank": 242,
+      "current_rank": 150,
+      "rank_change": 92,
+      "category": "6007",
+      "date": "2026-07-14",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/36/09/77/360977c2-9ea1-23ff-d4b9-f863d7c3b607/AppIcon-0-0-1x_U007epad-0-1-sRGB-85-220.png/180x180bb.png",
+      "app_name": "Kek*** – Fast & Secure ***",
+      "publisher": "Stix LLC"
+    },
+    {
       "appId": 1091505266,
       "previous_rank": 197,
-      "current_rank": 111,
-      "rank_change": 86,
+      "current_rank": 112,
+      "rank_change": 85,
       "category": "6007",
       "date": "2026-07-14",
       "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6d/e0/bc/6de0bcf4-3bd7-02d5-d2ef-411a0f85ec1c/SharePointAppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.png/180x180bb.png",
       "app_name": "Microsoft SharePoint",
       "publisher": "Microsoft Corporation"
-    },
-    {
-      "appId": 412650768,
-      "previous_rank": 207,
-      "current_rank": 132,
-      "rank_change": 75,
-      "category": "6007",
-      "date": "2026-07-14",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/34/b4/a5/34b4a533-3539-cd27-5c67-2ee87f9ebb6e/appIcon-0-1x_U007epad-0-11-0-85-220-0.png/180x180bb.png",
-      "app_name": "EZ Receipts",
-      "publisher": "HealthEquity"
     },
     {
       "appId": 6751109423,
@@ -36,37 +47,26 @@
       "publisher": "Novago Global Solutions FZ-LLC"
     },
     {
-      "appId": 1540124885,
-      "previous_rank": 246,
-      "current_rank": 178,
-      "rank_change": 68,
+      "appId": 412650768,
+      "previous_rank": 207,
+      "current_rank": 147,
+      "rank_change": 60,
       "category": "6007",
       "date": "2026-07-14",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/78/83/8b/78838b04-de8e-b98c-e52d-c0341ec53d84/AppIcon-2-1x_U007emarketing-0-8-0-85-220-0.png/180x180bb.png",
-      "app_name": "rmResident",
-      "publisher": "LCS"
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/34/b4/a5/34b4a533-3539-cd27-5c67-2ee87f9ebb6e/appIcon-0-1x_U007epad-0-11-0-85-220-0.png/180x180bb.png",
+      "app_name": "EZ Receipts",
+      "publisher": "HealthEquity"
     },
     {
-      "appId": 489262811,
-      "previous_rank": 245,
-      "current_rank": 184,
-      "rank_change": 61,
+      "appId": 1367959794,
+      "previous_rank": 221,
+      "current_rank": 161,
+      "rank_change": 60,
       "category": "6007",
       "date": "2026-07-14",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/32/02/95/320295a0-deb8-0b1e-6838-b5268a4f4c22/AppIcon-0-0-1x_U007emarketing-0-11-0-0-GLES2_U002c0-85-220.png/180x180bb.png",
-      "app_name": "SignNow: e-Signature app",
-      "publisher": "airSlate, Inc."
-    },
-    {
-      "appId": 891247102,
-      "previous_rank": 98,
-      "current_rank": 40,
-      "rank_change": 58,
-      "category": "6007",
-      "date": "2026-07-14",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a5/08/d7/a508d740-9cf9-4c50-521a-66df698f4536/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/180x180bb.png",
-      "app_name": "PingID",
-      "publisher": "Ping Identity Corporation"
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/07/fd/d1/07fdd15a-b5ca-69d6-bfc0-6b9f3031ade2/AppIcon-0-1x_U007epad-0-1-85-220-0.png/180x180bb.png",
+      "app_name": "Госуслуги",
+      "publisher": "Минкомсвязь РФ"
     }
   ]
 }
