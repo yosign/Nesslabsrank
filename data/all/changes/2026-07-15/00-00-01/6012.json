@@ -1,0 +1,220 @@
+{
+  "date": "2026-07-15",
+  "changes": {
+    "6012": {
+      "added": [
+        {
+          "appId": 6776163644,
+          "name": "Phone Location Tracker: Traqly",
+          "publisher": "Vasundhara Infotech LLP",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f7/83/7b/f7837ba5-dc7d-1ece-c5ed-d9286c38bfab/AppIcon-0-0-1x_U007epad-0-1-0-85-220.jpeg/180x180bb.png",
+          "rating": 4.5,
+          "ratingCount": 109,
+          "price": "0.00",
+          "rank": 208,
+          "category": "6012"
+        },
+        {
+          "appId": 1265035248,
+          "name": "Mingle2 - Dating & Meet People",
+          "publisher": "NextC LLC",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a3/0d/b8/a30db894-b48a-c558-667d-7fd19e358d06/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/180x180bb.png",
+          "rating": 4.4,
+          "ratingCount": 78500,
+          "price": "0.00",
+          "rank": 219,
+          "category": "6012"
+        },
+        {
+          "appId": 6740797755,
+          "name": "Ease - Body & Mental Health",
+          "publisher": "Sparksful",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/da/8f/7a/da8f7a85-f5f7-7f55-15ea-c0f028b79186/AppIcon-0-0-1x_U007epad-0-1-0-P3-0-85-220.png/180x180bb.png",
+          "rating": 4.6,
+          "ratingCount": 2530,
+          "price": "0.00",
+          "rank": 223,
+          "category": "6012"
+        },
+        {
+          "appId": 1042822181,
+          "name": "Meeting Guide",
+          "publisher": "Alcoholics Anonymous World Services, Inc.",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b8/87/77/b88777a4-0035-32fa-dd16-4c3514dafb77/AppIcon-0-0-1x_U007epad-0-1-85-220.png/180x180bb.png",
+          "rating": 4.4,
+          "ratingCount": 984,
+          "price": "0.00",
+          "rank": 233,
+          "category": "6012"
+        },
+        {
+          "appId": 1591156837,
+          "name": "ToChat - Meet New Friends",
+          "publisher": "ByteWave Corporation",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f4/4f/aa/f44faafa-265c-2376-2990-280181b5d190/AppIconNew-1x_U007emarketing-0-8-0-85-220-0.png/180x180bb.png",
+          "rating": 4.5,
+          "ratingCount": 5645,
+          "price": "0.00",
+          "rank": 234,
+          "category": "6012"
+        },
+        {
+          "appId": 1492307238,
+          "name": "BenefitHub",
+          "publisher": "BenefitHub",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/48/e4/e3/48e4e3f9-e961-02ab-d371-951f74722a6a/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/180x180bb.png",
+          "rating": 4.7,
+          "ratingCount": 1770,
+          "price": "0.00",
+          "rank": 236,
+          "category": "6012"
+        },
+        {
+          "appId": 6499445456,
+          "name": "AHS: American Home Shield",
+          "publisher": "Frontdoor Incorporated",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6e/ed/dc/6eeddc80-fa36-86e1-682f-eefc0a67ed0b/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/180x180bb.png",
+          "rating": 4.9,
+          "ratingCount": 49100,
+          "price": "0.00",
+          "rank": 238,
+          "category": "6012"
+        },
+        {
+          "appId": 1623569698,
+          "name": "JoinBrands: UGC Creator Jobs",
+          "publisher": "Join Brands",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4d/44/84/4d4484a6-f78a-3401-7fed-4916e3404042/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/180x180bb.png",
+          "rating": 4.6,
+          "ratingCount": 852,
+          "price": "0.00",
+          "rank": 244,
+          "category": "6012"
+        },
+        {
+          "appId": 1481486650,
+          "name": "myVW",
+          "publisher": "Volkswagen of America Inc.",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/45/e6/ea/45e6ea85-0e4e-9376-d020-0f36f5822527/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/180x180bb.png",
+          "rating": 4.7,
+          "ratingCount": 289000,
+          "price": "0.00",
+          "rank": 245,
+          "category": "6012"
+        }
+      ],
+      "removed": [
+        {
+          "appId": 1018443930,
+          "name": "Estate Sales - EstateSales.NET",
+          "publisher": "EstateSales.NET",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/84/bc/27/84bc273e-bda8-e8f3-a04a-ad8dd9bc9caa/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-85-220.png/100x100bb.jpg",
+          "rating": 4.8,
+          "ratingCount": 11700,
+          "price": "0.00",
+          "rank": 143,
+          "category": "6012"
+        },
+        {
+          "appId": 6786264018,
+          "name": "My Piegons Breeds",
+          "publisher": "Ege KANER",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/8c/6f/7f/8c6f7f3e-81f8-2266-717a-f3e603396999/AppIcon-0-1x_U007epad-0-11-0-85-220-0.png/180x180bb.png",
+          "rating": 0,
+          "ratingCount": 0,
+          "price": "0.00",
+          "rank": 161,
+          "category": "6012"
+        },
+        {
+          "appId": 6478997398,
+          "name": "Blood Pressure Monitor-BP Log",
+          "publisher": "MA CHENG BUSINESS LIMITED",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ce/fb/df/cefbdf9c-d785-6dab-5203-2738a3521ea7/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/180x180bb.png",
+          "rating": 4.4,
+          "ratingCount": 11299.999999999998,
+          "price": "0.00",
+          "rank": 181,
+          "category": "6012"
+        },
+        {
+          "appId": 6760787262,
+          "name": "Aisha: Better AI, Built for Us",
+          "publisher": "ChromaticsAI LLC",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/89/73/a1/8973a149-0a62-5066-1daa-18dbb13c9324/aishalogo-0-0-1x_U007ephone-0-1-sRGB-85-220.png/180x180bb.png",
+          "rating": 4.4,
+          "ratingCount": 65,
+          "price": "0.00",
+          "rank": 210,
+          "category": "6012"
+        },
+        {
+          "appId": 6760181919,
+          "name": "Sports Card Scanner: Spoly",
+          "publisher": "Scaling Engine Limited",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b4/30/85/b4308573-5879-c327-6cb1-6f1d1bb9e092/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/180x180bb.png",
+          "rating": 4.6,
+          "ratingCount": 2791,
+          "price": "0.00",
+          "rank": 237,
+          "category": "6012"
+        },
+        {
+          "appId": 1599179405,
+          "name": "Indyx: Wardrobe & Outfit App",
+          "publisher": "Indyx Inc.",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/45/29/b0/4529b079-504a-a9d8-1da0-e78db993e5d3/AppIcon-0-0-1x_U007epad-0-1-85-220.png/180x180bb.png",
+          "rating": 4.8,
+          "ratingCount": 1407,
+          "price": "0.00",
+          "rank": 238,
+          "category": "6012"
+        },
+        {
+          "appId": 1222730617,
+          "name": "Parking Kitty",
+          "publisher": "City of Portland",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/57/d6/02/57d602dd-1866-679a-2f44-9f06eafa084f/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/180x180bb.png",
+          "rating": 4.9,
+          "ratingCount": 9186,
+          "price": "0.00",
+          "rank": 241,
+          "category": "6012"
+        },
+        {
+          "appId": 1618979301,
+          "name": "myQQ – Quick Quack",
+          "publisher": "Quick Quack Car Wash Holdings, LLC",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/64/1b/fe/641bfe7f-44d5-da8f-63c3-80e3c6605187/AppIcon-0-0-1x_U007emarketing-0-0-0-8-0-0-85-220.png/180x180bb.png",
+          "rating": 4.8,
+          "ratingCount": 23300,
+          "price": "0.00",
+          "rank": 244,
+          "category": "6012"
+        },
+        {
+          "appId": 6760894296,
+          "name": "DreamCix",
+          "publisher": "露伟 俞",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/54/f1/c7/54f1c714-506f-45fc-00bd-619909c136a1/AppIcon-0-0-1x_U007ephone-0-11-0-85-220.png/180x180bb.png",
+          "rating": 1.7,
+          "ratingCount": 10,
+          "price": "0.00",
+          "rank": 246,
+          "category": "6012"
+        },
+        {
+          "appId": 557228073,
+          "name": "Petfinder - Adopt a Pet",
+          "publisher": "Nestlé",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4a/ae/3f/4aae3fda-3cda-bd20-37f6-f6a7465afead/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/180x180bb.png",
+          "rating": 4.8,
+          "ratingCount": 57900,
+          "price": "0.00",
+          "rank": 249,
+          "category": "6012"
+        }
+      ]
+    }
+  }
+}
