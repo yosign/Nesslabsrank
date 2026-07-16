@@ -5,8 +5,8 @@
     {
       "appId": 6755170408,
       "previous_rank": 248,
-      "current_rank": 178,
-      "rank_change": 70,
+      "current_rank": 176,
+      "rank_change": 72,
       "category": "6027",
       "date": "2026-07-16",
       "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b2/04/47/b20447d2-e803-6ef1-7ce3-c7647e72e03c/AppIcon-1x_U007ephone-0-1-0-85-220-0.png/180x180bb.png",
@@ -16,13 +16,35 @@
     {
       "appId": 1529189247,
       "previous_rank": 174,
-      "current_rank": 116,
-      "rank_change": 58,
+      "current_rank": 110,
+      "rank_change": 64,
       "category": "6027",
       "date": "2026-07-16",
       "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/51/fc/be/51fcbeb5-fe44-c185-13ce-c685559929ad/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/180x180bb.png",
       "app_name": "Castle - Make and Play",
       "publisher": "Monterey's Coast, Inc."
+    },
+    {
+      "appId": 6752010704,
+      "previous_rank": 164,
+      "current_rank": 109,
+      "rank_change": 55,
+      "category": "6027",
+      "date": "2026-07-16",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7f/9e/02/7f9e0225-dde6-5895-3450-e4b5c3338042/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.jpeg/180x180bb.png",
+      "app_name": "Guma-AI Photo Video Editor",
+      "publisher": "Chongqing Songzan Technology Co., Ltd."
+    },
+    {
+      "appId": 1543582461,
+      "previous_rank": 207,
+      "current_rank": 154,
+      "rank_change": 53,
+      "category": "6027",
+      "date": "2026-07-16",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/22/f7/64/22f7645d-a6f5-3849-1d27-ce1623079e35/AppIcon-0-0-1x_U007emarketing-0-2-0-85-220.png/180x180bb.png",
+      "app_name": "Cricut Heat: DIY Heat Transfer",
+      "publisher": "Cricut, Inc."
     },
     {
       "appId": 6761348824,
@@ -36,37 +58,15 @@
       "publisher": "Hypernova Limited"
     },
     {
-      "appId": 6752010704,
-      "previous_rank": 164,
-      "current_rank": 121,
-      "rank_change": 43,
+      "appId": 6761606061,
+      "previous_rank": 217,
+      "current_rank": 172,
+      "rank_change": 45,
       "category": "6027",
       "date": "2026-07-16",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7f/9e/02/7f9e0225-dde6-5895-3450-e4b5c3338042/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.jpeg/180x180bb.png",
-      "app_name": "Guma-AI Photo Video Editor",
-      "publisher": "Chongqing Songzan Technology Co., Ltd."
-    },
-    {
-      "appId": 6777981253,
-      "previous_rank": 200,
-      "current_rank": 164,
-      "rank_change": 36,
-      "category": "6027",
-      "date": "2026-07-16",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1c/7f/2d/1c7f2da8-34f4-5dd0-c48c-f266f64b410a/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/180x180bb.png",
-      "app_name": "VerseIn: AI Video Generator",
-      "publisher": "ZULER TECHNOLOGY PTE. LTD."
-    },
-    {
-      "appId": 6443919232,
-      "previous_rank": 159,
-      "current_rank": 127,
-      "rank_change": 32,
-      "category": "6027",
-      "date": "2026-07-16",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/fb/2c/8d/fb2c8dd9-f5b6-c5ff-cf43-355140e3c4f2/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/180x180bb.png",
-      "app_name": "Pixel Pals Widget Pet Game",
-      "publisher": "Christian Selig"
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/32/fb/8f/32fb8fc6-2fc6-a6ed-5778-512c5072f193/AppIcon-1x_U007ephone-0-11-0-85-220-0.png/180x180bb.png",
+      "app_name": "PeachAI: Photo to Video Maker",
+      "publisher": "Ildeniz Inan"
     }
   ]
 }
