@@ -5,8 +5,8 @@
     {
       "appId": 1585852507,
       "previous_rank": 235,
-      "current_rank": 136,
-      "rank_change": 99,
+      "current_rank": 155,
+      "rank_change": 80,
       "category": "6007",
       "date": "2026-07-17",
       "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ed/f0/5b/edf05b94-f0dc-0284-6b9b-64db052d3ffd/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/180x180bb.png",
@@ -14,21 +14,10 @@
       "publisher": "Technologies Ipseite Inc"
     },
     {
-      "appId": 345323231,
-      "previous_rank": 127,
-      "current_rank": 82,
-      "rank_change": 45,
-      "category": "6007",
-      "date": "2026-07-17",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/43/56/28/435628cc-4372-c248-b150-7b8ed9892e72/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/180x180bb.png",
-      "app_name": "Microsoft Bing Search",
-      "publisher": "Microsoft Corporation"
-    },
-    {
       "appId": 6474233312,
       "previous_rank": 102,
-      "current_rank": 66,
-      "rank_change": 36,
+      "current_rank": 37,
+      "rank_change": 65,
       "category": "6007",
       "date": "2026-07-17",
       "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/64/4a/0b/644a0b79-c4bb-40fe-7de8-aef5038f5bfe/AppIcon26-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/180x180bb.png",
@@ -36,37 +25,48 @@
       "publisher": "Moonshot AI"
     },
     {
+      "appId": 345323231,
+      "previous_rank": 127,
+      "current_rank": 70,
+      "rank_change": 57,
+      "category": "6007",
+      "date": "2026-07-17",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/43/56/28/435628cc-4372-c248-b150-7b8ed9892e72/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/180x180bb.png",
+      "app_name": "Microsoft Bing Search",
+      "publisher": "Microsoft Corporation"
+    },
+    {
+      "appId": 1477619146,
+      "previous_rank": 181,
+      "current_rank": 143,
+      "rank_change": 38,
+      "category": "6007",
+      "date": "2026-07-17",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e8/39/a2/e839a223-4f7d-08e8-131b-b19be0a5d395/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/180x180bb.png",
+      "app_name": "Bark - Parental Controls",
+      "publisher": "Bark Technologies, Inc."
+    },
+    {
+      "appId": 6756059656,
+      "previous_rank": 144,
+      "current_rank": 108,
+      "rank_change": 36,
+      "category": "6007",
+      "date": "2026-07-17",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a5/e3/e9/a5e3e916-bf6c-4c87-fd50-6872336292de/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/180x180bb.png",
+      "app_name": "EcoGPT - Regenerative AI",
+      "publisher": "EcoGPT Inc"
+    },
+    {
       "appId": 928941628,
       "previous_rank": 179,
-      "current_rank": 151,
-      "rank_change": 28,
+      "current_rank": 147,
+      "rank_change": 32,
       "category": "6007",
       "date": "2026-07-17",
       "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7c/05/71/7c05716d-a07a-0fc7-8b5d-3fcc82bee3dd/AppIcon-0-0-1x_U007emarketing-0-0-0-11-0-0-85-220.png/180x180bb.png",
       "app_name": "*** Proxy O***Spider Pro",
       "publisher": "ARCNICE PTE. LTD."
-    },
-    {
-      "appId": 6759892782,
-      "previous_rank": 224,
-      "current_rank": 197,
-      "rank_change": 27,
-      "category": "6007",
-      "date": "2026-07-17",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6c/8d/1c/6c8d1c5c-84bc-f8b3-795f-6d124a51db87/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/180x180bb.png",
-      "app_name": "iClean: Phone Security&Cleaner",
-      "publisher": "InnoMotion Interactive Technology Limited"
-    },
-    {
-      "appId": 6741078963,
-      "previous_rank": 242,
-      "current_rank": 219,
-      "rank_change": 23,
-      "category": "6007",
-      "date": "2026-07-17",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0b/23/bc/0b23bc18-2af2-193e-6c33-93e655f39da7/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/180x180bb.png",
-      "app_name": "CraftNote: Smart AI Note Taker",
-      "publisher": "Joyolabs Dijital Hizmetler Anonim Sirketi"
     }
   ]
 }
