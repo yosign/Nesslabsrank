@@ -1,0 +1,363 @@
+{
+  "date": "2026-07-18",
+  "changes": {
+    "6012": {
+      "added": [
+        {
+          "appId": 1182728161,
+          "name": "Wyndy: Trusted Babysitting App",
+          "publisher": "Wyndy",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/05/71/e2/0571e26f-721a-a5d1-04fe-cf71f8d9f65e/AppIcon-0-0-1x_U007epad-0-1-85-220.png/180x180bb.png",
+          "rating": 4.6,
+          "ratingCount": 2248,
+          "price": "0.00",
+          "rank": 131,
+          "category": "6012"
+        },
+        {
+          "appId": 6754110310,
+          "name": "Gist - Life Well Lived",
+          "publisher": "AppLovin Corp",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/00/bf/57/00bf57e3-3c85-6d96-b8d3-5521cbd49b8e/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/180x180bb.png",
+          "rating": 4,
+          "ratingCount": 90,
+          "price": "0.00",
+          "rank": 206,
+          "category": "6012"
+        },
+        {
+          "appId": 1599179405,
+          "name": "Indyx: Wardrobe & Outfit App",
+          "publisher": "Indyx Inc.",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/45/29/b0/4529b079-504a-a9d8-1da0-e78db993e5d3/AppIcon-0-0-1x_U007epad-0-1-85-220.png/180x180bb.png",
+          "rating": 4.8,
+          "ratingCount": 1407,
+          "price": "0.00",
+          "rank": 212,
+          "category": "6012"
+        },
+        {
+          "appId": 1482867892,
+          "name": "STRATIS 2.0",
+          "publisher": "StratIS EMS, LLC",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9d/3a/07/9d3a0783-061c-5f65-8f59-53dfa1e4e528/AppIcon-1x_U007emarketing-0-11-0-85-220-0.png/180x180bb.png",
+          "rating": 4,
+          "ratingCount": 8166,
+          "price": "0.00",
+          "rank": 214,
+          "category": "6012"
+        },
+        {
+          "appId": 1403308360,
+          "name": "Sport Clips Haircuts Check-In",
+          "publisher": "Sport Clips",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/91/eb/51/91eb51b2-6600-3eab-ae68-318a2f84855f/AppIcon-1x_U007ephone-0-1-85-220-0.png/180x180bb.png",
+          "rating": 4.8,
+          "ratingCount": 47800,
+          "price": "0.00",
+          "rank": 221,
+          "category": "6012"
+        },
+        {
+          "appId": 6760181919,
+          "name": "Sports Card Scanner: Spoly",
+          "publisher": "Scaling Engine Limited",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a0/90/c3/a090c306-f58d-46f5-f4d9-bf8d53a1d36c/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/180x180bb.png",
+          "rating": 4.6,
+          "ratingCount": 2882,
+          "price": "0.00",
+          "rank": 225,
+          "category": "6012"
+        },
+        {
+          "appId": 6740829034,
+          "name": "snag sublets",
+          "publisher": "OneRoof App, Co.",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0c/f8/10/0cf81044-c792-e4dd-57d6-2dafc3fd60e3/AppIcon-1x_U007ephone-0-1-0-85-220-0.png/180x180bb.png",
+          "rating": 4.7,
+          "ratingCount": 293,
+          "price": "0.00",
+          "rank": 229,
+          "category": "6012"
+        },
+        {
+          "appId": 1565972415,
+          "name": "RAM®",
+          "publisher": "FCA US LLC",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/fa/82/ec/fa82ecad-d214-783f-5dc1-a75851cd7cb6/AppIcon.ram.prod-0-0-1x_U007emarketing-0-6-0-85-220.png/180x180bb.png",
+          "rating": 4.8,
+          "ratingCount": 82000,
+          "price": "0.00",
+          "rank": 232,
+          "category": "6012"
+        },
+        {
+          "appId": 1448665466,
+          "name": "Pentair Pool",
+          "publisher": "Pentair, Inc.",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/51/81/7a/51817ab9-f8e1-13e1-a25e-e5934f6f0aa4/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/180x180bb.png",
+          "rating": 4.6,
+          "ratingCount": 22599.999999999996,
+          "price": "0.00",
+          "rank": 238,
+          "category": "6012"
+        },
+        {
+          "appId": 1477030154,
+          "name": "Winix Smart",
+          "publisher": "WINIX INC.",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/92/24/47/922447ae-8ca7-7255-e3aa-e74d086ee61b/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/180x180bb.png",
+          "rating": 4.6,
+          "ratingCount": 33200,
+          "price": "0.00",
+          "rank": 239,
+          "category": "6012"
+        },
+        {
+          "appId": 6504895693,
+          "name": "Blood Pressure：Scan Health",
+          "publisher": "HUIDING (HONG KONG) TECHNOLOGY LIMITED",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/45/e3/84/45e3848d-8b4a-d90e-8cfd-8f34ca47ca67/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.jpeg/180x180bb.png",
+          "rating": 4.1,
+          "ratingCount": 1359,
+          "price": "0.00",
+          "rank": 241,
+          "category": "6012"
+        },
+        {
+          "appId": 1222730617,
+          "name": "Parking Kitty",
+          "publisher": "City of Portland",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/57/d6/02/57d602dd-1866-679a-2f44-9f06eafa084f/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/180x180bb.png",
+          "rating": 4.9,
+          "ratingCount": 9186,
+          "price": "0.00",
+          "rank": 242,
+          "category": "6012"
+        },
+        {
+          "appId": 1618979301,
+          "name": "myQQ – Quick Quack",
+          "publisher": "Quick Quack Car Wash Holdings, LLC",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d0/94/71/d0947160-7fa5-e298-e498-e674b4a920eb/AppIcon-0-0-1x_U007emarketing-0-0-0-8-0-0-85-220.png/180x180bb.png",
+          "rating": 4.8,
+          "ratingCount": 23400,
+          "price": "0.00",
+          "rank": 244,
+          "category": "6012"
+        },
+        {
+          "appId": 1475805212,
+          "name": "Whisker",
+          "publisher": "Automated Pet Care Products Inc. dba AutoPets",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/12/da/db/12dadbe0-1110-29e2-4891-abb297f3b42a/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/180x180bb.png",
+          "rating": 4.8,
+          "ratingCount": 139000,
+          "price": "0.00",
+          "rank": 245,
+          "category": "6012"
+        },
+        {
+          "appId": 6770015764,
+          "name": "Zync App",
+          "publisher": "Mara Shevchenko",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/86/65/69/866569fa-6f08-2b17-f8f5-1ef06b3aa61f/AppIcon-1x_U007epad-0-11-0-85-220-0.png/180x180bb.png",
+          "rating": 0,
+          "ratingCount": 0,
+          "price": "0.00",
+          "rank": 247,
+          "category": "6012"
+        },
+        {
+          "appId": 6471983227,
+          "name": "IDEXX Vello",
+          "publisher": "IDEXX Laboratories",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/97/a9/6a/97a96a38-cb33-b51c-6312-1e8a8969dc33/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/180x180bb.png",
+          "rating": 4,
+          "ratingCount": 5,
+          "price": "0.00",
+          "rank": 250,
+          "category": "6012"
+        }
+      ],
+      "removed": [
+        {
+          "appId": 6756888991,
+          "name": "MyFision",
+          "publisher": "Hotwire Communications, Ltd",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4c/7b/71/4c7b7198-6e44-c4fe-c7a2-2d0a03dd7e64/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/180x180bb.png",
+          "rating": 4.2,
+          "ratingCount": 33,
+          "price": "0.00",
+          "rank": 166,
+          "category": "6012"
+        },
+        {
+          "appId": 6767473764,
+          "name": "Scoper: Profile Insights",
+          "publisher": "POINT ONE TECHNOLOGY LIMITED",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/10/91/a0/1091a0cb-ac36-66b0-6302-f16359eebd6c/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/180x180bb.png",
+          "rating": 4.6,
+          "ratingCount": 43,
+          "price": "0.00",
+          "rank": 181,
+          "category": "6012"
+        },
+        {
+          "appId": 1532791252,
+          "name": "CHANI: Your Astrology Guide",
+          "publisher": "Chani Nicholas Incorporated",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7a/b4/44/7ab444fb-82f2-c92a-ea38-e46d04d166d0/AppIcon-0-0-1x_U007epad-0-1-85-220.png/180x180bb.png",
+          "rating": 4.9,
+          "ratingCount": 55500,
+          "price": "0.00",
+          "rank": 205,
+          "category": "6012"
+        },
+        {
+          "appId": 395563123,
+          "name": "Dscout",
+          "publisher": "dscout",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f8/2e/15/f82e15d1-7546-f47d-3dd0-84853dbcc783/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/180x180bb.png",
+          "rating": 4.4,
+          "ratingCount": 3605,
+          "price": "0.00",
+          "rank": 210,
+          "category": "6012"
+        },
+        {
+          "appId": 6473748536,
+          "name": "Astra - Life Advice",
+          "publisher": "Vert Ventures",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/77/48/87/77488737-5b7e-d9d1-2c51-4031eb7fc539/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/180x180bb.png",
+          "rating": 4.7,
+          "ratingCount": 37700,
+          "price": "0.00",
+          "rank": 211,
+          "category": "6012"
+        },
+        {
+          "appId": 6477912796,
+          "name": "myBozzuto",
+          "publisher": "Venn city",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c0/00/f1/c000f197-a16a-3775-0b46-50f9d386a08a/AppIcon-Bozzuto-0-0-1x_U007emarketing-0-8-0-85-220.png/180x180bb.png",
+          "rating": 2.3,
+          "ratingCount": 44,
+          "price": "0.00",
+          "rank": 213,
+          "category": "6012"
+        },
+        {
+          "appId": 6770623934,
+          "name": "逗包 AI 版国际版- Smart Al Assistant",
+          "publisher": "Luke Carter",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8a/58/5b/8a585b8e-1e7b-bf35-9f97-b29c198693c1/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.jpeg/180x180bb.png",
+          "rating": 4.4,
+          "ratingCount": 176,
+          "price": "0.00",
+          "rank": 219,
+          "category": "6012"
+        },
+        {
+          "appId": 990655529,
+          "name": "Global Citizen: Take Action",
+          "publisher": "Global Poverty Project, Inc",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c4/b4/b3/c4b4b3bd-a548-95b0-3200-99745868224c/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/180x180bb.png",
+          "rating": 3.7,
+          "ratingCount": 145,
+          "price": "0.00",
+          "rank": 223,
+          "category": "6012"
+        },
+        {
+          "appId": 6759038918,
+          "name": "Family Tree Maker & Ancestry",
+          "publisher": "VN-Consult doo",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e6/48/0e/e6480e7b-1de3-f82d-7baa-d2c1fe9c1c71/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/180x180bb.png",
+          "rating": 4.4,
+          "ratingCount": 274,
+          "price": "0.00",
+          "rank": 230,
+          "category": "6012"
+        },
+        {
+          "appId": 6740480652,
+          "name": "TopSurveys: Earn Free Cash Now",
+          "publisher": "Top Survey AB",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5c/a9/b5/5ca9b5d2-ca5b-7286-719c-b5ccfe860940/AppIcon-0-0-1x_U007epad-0-1-85-220.png/180x180bb.png",
+          "rating": 4.7,
+          "ratingCount": 92600,
+          "price": "0.00",
+          "rank": 239,
+          "category": "6012"
+        },
+        {
+          "appId": 6744350457,
+          "name": "EarnStar: Earn Money Fast",
+          "publisher": "Earn Star AB",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/03/8b/91/038b919e-d2ca-0f47-c732-e4906051093f/AppIcon-0-0-1x_U007epad-0-1-85-220.png/180x180bb.png",
+          "rating": 4.7,
+          "ratingCount": 34700,
+          "price": "0.00",
+          "rank": 240,
+          "category": "6012"
+        },
+        {
+          "appId": 1623569698,
+          "name": "JoinBrands: UGC Creator Jobs",
+          "publisher": "Join Brands",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/60/70/88/6070885e-6c6b-f3b4-40c5-7cf6aa87054e/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/180x180bb.png",
+          "rating": 4.6,
+          "ratingCount": 856,
+          "price": "0.00",
+          "rank": 243,
+          "category": "6012"
+        },
+        {
+          "appId": 328453619,
+          "name": "Care.com: Hire Caregivers",
+          "publisher": "Care.com, Inc.",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/28/68/5c/28685c17-a838-16ae-0d33-b538ae200fe3/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/180x180bb.png",
+          "rating": 4.4,
+          "ratingCount": 38700,
+          "price": "0.00",
+          "rank": 244,
+          "category": "6012"
+        },
+        {
+          "appId": 6756178380,
+          "name": "That Girl: Become a Clean Girl",
+          "publisher": "Adventure Labs d.o.o.",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c0/36/26/c0362613-6364-74d6-48e3-7b3bd8cdae6b/AppIcon-0-0-1x_U007epad-0-1-85-220.png/180x180bb.png",
+          "rating": 4.8,
+          "ratingCount": 3266,
+          "price": "0.00",
+          "rank": 245,
+          "category": "6012"
+        },
+        {
+          "appId": 957130735,
+          "name": "Clorox Pool",
+          "publisher": "BioLab",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/93/4c/e1/934ce130-eb64-6fcd-65a7-624d76aeac3c/AppIcon-0-0-1x_U007emarketing-0-11-0-0-85-220.png/180x180bb.png",
+          "rating": 4.6,
+          "ratingCount": 29000,
+          "price": "0.00",
+          "rank": 246,
+          "category": "6012"
+        },
+        {
+          "appId": 6739350749,
+          "name": "Dream Mate: AI Roleplay Chat",
+          "publisher": "BOBY AI YAZILIM ANONIM SIRKETI",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ae/d3/f1/aed3f126-a86b-f75f-2b1a-231a773d1d87/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/180x180bb.png",
+          "rating": 4.1,
+          "ratingCount": 561,
+          "price": "0.00",
+          "rank": 250,
+          "category": "6012"
+        }
+      ]
+    }
+  }
+}
