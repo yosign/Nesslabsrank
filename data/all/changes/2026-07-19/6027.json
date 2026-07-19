@@ -3,32 +3,10 @@
   "genre": "6027",
   "topRisers": [
     {
-      "appId": 6578449420,
-      "previous_rank": 244,
-      "current_rank": 179,
-      "rank_change": 65,
-      "category": "6027",
-      "date": "2026-07-19",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/31/57/23/315723eb-49d0-eda1-2adf-62925216ef19/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/180x180bb.png",
-      "app_name": "Cat Language Keyboard DIY",
-      "publisher": "Nguyen Quy Son"
-    },
-    {
-      "appId": 6767499295,
-      "previous_rank": 171,
-      "current_rank": 117,
-      "rank_change": 54,
-      "category": "6027",
-      "date": "2026-07-19",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5f/eb/35/5feb3559-2811-488b-72fd-057f756ffd24/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/180x180bb.png",
-      "app_name": "ChargeLive: 4K Live Wallpapers",
-      "publisher": "Hong Kong Deepscape Technology Limited"
-    },
-    {
       "appId": 6757910128,
       "previous_rank": 236,
-      "current_rank": 183,
-      "rank_change": 53,
+      "current_rank": 155,
+      "rank_change": 81,
       "category": "6027",
       "date": "2026-07-19",
       "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/42/24/a2/4224a267-e477-272d-0c19-c40ddc692f1a/AppIcon-0-0-1x_U007epad-0-1-85-220.png/180x180bb.png",
@@ -36,10 +14,32 @@
       "publisher": "Story Engine Inc."
     },
     {
+      "appId": 6767499295,
+      "previous_rank": 171,
+      "current_rank": 121,
+      "rank_change": 50,
+      "category": "6027",
+      "date": "2026-07-19",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5f/eb/35/5feb3559-2811-488b-72fd-057f756ffd24/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/180x180bb.png",
+      "app_name": "ChargeLive: 4K Live Wallpapers",
+      "publisher": "Hong Kong Deepscape Technology Limited"
+    },
+    {
+      "appId": 6444421373,
+      "previous_rank": 185,
+      "current_rank": 139,
+      "rank_change": 46,
+      "category": "6027",
+      "date": "2026-07-19",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/65/6d/9f/656d9fd1-8995-b43a-0fb2-64c4e2408d63/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/180x180bb.png",
+      "app_name": "Floor Plan & AI Home - CamPlan",
+      "publisher": "CamPlan AI Ltd"
+    },
+    {
       "appId": 6471030767,
       "previous_rank": 189,
-      "current_rank": 146,
-      "rank_change": 43,
+      "current_rank": 147,
+      "rank_change": 42,
       "category": "6027",
       "date": "2026-07-19",
       "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c4/92/62/c4926251-1706-3020-8fc3-3b2ef4bfcb7c/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/180x180bb.png",
@@ -47,26 +47,26 @@
       "publisher": "Julieta Voskanyan"
     },
     {
-      "appId": 6759658376,
-      "previous_rank": 200,
-      "current_rank": 159,
-      "rank_change": 41,
-      "category": "6027",
-      "date": "2026-07-19",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/12/14/4c/12144c90-ca2e-6881-4aeb-014b45bae273/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/180x180bb.png",
-      "app_name": "Comics AI: Comic & Manga Maker",
-      "publisher": "Superapp Labs"
-    },
-    {
       "appId": 6503238787,
       "previous_rank": 160,
-      "current_rank": 120,
-      "rank_change": 40,
+      "current_rank": 119,
+      "rank_change": 41,
       "category": "6027",
       "date": "2026-07-19",
       "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9f/65/7e/9f657e8f-2a7c-2314-8b3f-2eb9edfee6f5/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/180x180bb.png",
       "app_name": "AI Photo Generator: Remake AI",
       "publisher": "Must Have Apps"
+    },
+    {
+      "appId": 6761348824,
+      "previous_rank": 229,
+      "current_rank": 191,
+      "rank_change": 38,
+      "category": "6027",
+      "date": "2026-07-19",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/91/f7/76/91f77612-d55e-08f1-1cbf-2a9b273b80f0/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/180x180bb.png",
+      "app_name": "Walliz – DIY Wallpaper Collage",
+      "publisher": "Hypernova Limited"
     }
   ]
 }
