@@ -1,0 +1,330 @@
+{
+  "date": "2026-07-21",
+  "changes": {
+    "6012": {
+      "added": [
+        {
+          "appId": 6751903400,
+          "name": "C5.now",
+          "publisher": "Fourthwall, Inc.",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f5/e0/09/f5e00945-50a5-480b-691e-4a087d34a388/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.jpg",
+          "rating": 0,
+          "ratingCount": 0,
+          "price": "0.00",
+          "rank": 87,
+          "category": "6012"
+        },
+        {
+          "appId": 6480463426,
+          "name": "SuperAlarm - Loud Alarm Clock",
+          "publisher": "Jiseop Han",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e0/e5/c1/e0e5c101-9ecd-411d-b1da-22aa87293e8a/AppIconNewLight-0-0-1x_U007ephone-0-1-0-0-85-220.png/180x180bb.png",
+          "rating": 4.6,
+          "ratingCount": 4129,
+          "price": "0.00",
+          "rank": 202,
+          "category": "6012"
+        },
+        {
+          "appId": 1591156837,
+          "name": "ToChat - Meet New Friends",
+          "publisher": "ByteWave Corporation",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f4/4f/aa/f44faafa-265c-2376-2990-280181b5d190/AppIconNew-1x_U007emarketing-0-8-0-85-220-0.png/180x180bb.png",
+          "rating": 4.5,
+          "ratingCount": 5665,
+          "price": "0.00",
+          "rank": 203,
+          "category": "6012"
+        },
+        {
+          "appId": 487739314,
+          "name": "Bunk1",
+          "publisher": "Bunk1.com",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/8a/0f/f5/8a0ff505-ccde-b6a8-4803-a9e3fdeb7086/AppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.png/180x180bb.png",
+          "rating": 4.2,
+          "ratingCount": 474,
+          "price": "0.00",
+          "rank": 208,
+          "category": "6012"
+        },
+        {
+          "appId": 1138970986,
+          "name": "MyChoice Benefits",
+          "publisher": "Businessolver",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9c/b7/1c/9cb71c47-8112-7d5e-dcf8-6b9f3165b1ec/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/180x180bb.png",
+          "rating": 4.8,
+          "ratingCount": 22400.000000000004,
+          "price": "0.00",
+          "rank": 209,
+          "category": "6012"
+        },
+        {
+          "appId": 6739350749,
+          "name": "Dream Mate: AI Roleplay Chat",
+          "publisher": "BOBY AI YAZILIM ANONIM SIRKETI",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ae/d3/f1/aed3f126-a86b-f75f-2b1a-231a773d1d87/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/180x180bb.png",
+          "rating": 4.1,
+          "ratingCount": 562,
+          "price": "0.00",
+          "rank": 218,
+          "category": "6012"
+        },
+        {
+          "appId": 6756178380,
+          "name": "That Girl: Become a Clean Girl",
+          "publisher": "Adventure Labs d.o.o.",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c0/36/26/c0362613-6364-74d6-48e3-7b3bd8cdae6b/AppIcon-0-0-1x_U007epad-0-1-85-220.png/180x180bb.png",
+          "rating": 4.8,
+          "ratingCount": 3266,
+          "price": "0.00",
+          "rank": 220,
+          "category": "6012"
+        },
+        {
+          "appId": 1516518499,
+          "name": "myQ Community",
+          "publisher": "The Chamberlain Group, Inc.",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/23/a3/9a/23a39a2e-fa61-cba2-332b-9c6f55da7dfc/AppIcon-0-0-1x_U007epad-0-1-85-220.png/180x180bb.png",
+          "rating": 4.6,
+          "ratingCount": 36100,
+          "price": "0.00",
+          "rank": 233,
+          "category": "6012"
+        },
+        {
+          "appId": 1042822181,
+          "name": "Meeting Guide",
+          "publisher": "Alcoholics Anonymous World Services, Inc.",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c3/b2/04/c3b204fe-7bf1-d9a5-a664-2c24ac7956f8/AppIcon-0-0-1x_U007epad-0-1-85-220.png/180x180bb.png",
+          "rating": 4.4,
+          "ratingCount": 987,
+          "price": "0.00",
+          "rank": 235,
+          "category": "6012"
+        },
+        {
+          "appId": 6499445456,
+          "name": "AHS: American Home Shield",
+          "publisher": "Frontdoor Incorporated",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6e/ed/dc/6eeddc80-fa36-86e1-682f-eefc0a67ed0b/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/180x180bb.png",
+          "rating": 4.9,
+          "ratingCount": 50300,
+          "price": "0.00",
+          "rank": 242,
+          "category": "6012"
+        },
+        {
+          "appId": 1618979301,
+          "name": "myQQ – Quick Quack",
+          "publisher": "Quick Quack Car Wash Holdings, LLC",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d0/94/71/d0947160-7fa5-e298-e498-e674b4a920eb/AppIcon-0-0-1x_U007emarketing-0-0-0-8-0-0-85-220.png/180x180bb.png",
+          "rating": 4.8,
+          "ratingCount": 23400,
+          "price": "0.00",
+          "rank": 244,
+          "category": "6012"
+        },
+        {
+          "appId": 395563123,
+          "name": "Dscout",
+          "publisher": "dscout",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d1/9e/55/d19e552f-77aa-a03c-f4e9-f3f89357a360/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/180x180bb.png",
+          "rating": 4.4,
+          "ratingCount": 3608,
+          "price": "0.00",
+          "rank": 246,
+          "category": "6012"
+        },
+        {
+          "appId": 6469513178,
+          "name": "BalanceMe-Health AI&Self Care",
+          "publisher": "Fenlake Global",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f2/5a/4d/f25a4d7e-e2b7-facd-fa65-f49a02ea804d/AppIcon-0-0-1x_U007epad-0-1-0-P3-0-85-220.png/180x180bb.png",
+          "rating": 4.5,
+          "ratingCount": 6185,
+          "price": "0.00",
+          "rank": 247,
+          "category": "6012"
+        },
+        {
+          "appId": 396908589,
+          "name": "Disneyland® Paris",
+          "publisher": "Disneyland Paris",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4d/23/e5/4d23e510-8aa0-ff53-e9fc-97a92582b5e8/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/180x180bb.png",
+          "rating": 4.3,
+          "ratingCount": 3253,
+          "price": "0.00",
+          "rank": 249,
+          "category": "6012"
+        }
+      ],
+      "removed": [
+        {
+          "appId": 6762491074,
+          "name": "Buz tv Matches",
+          "publisher": "Alain ALAMEDA",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/83/d8/ba/83d8ba43-1d5e-4af8-d554-0f854d05bda9/AppIcon-1x_U007ephone-0-1-85-220-0.png/180x180bb.png",
+          "rating": 3,
+          "ratingCount": 22,
+          "price": "0.00",
+          "rank": 94,
+          "category": "6012"
+        },
+        {
+          "appId": 6770015764,
+          "name": "Zync App",
+          "publisher": "Mara Shevchenko",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/86/65/69/866569fa-6f08-2b17-f8f5-1ef06b3aa61f/AppIcon-1x_U007epad-0-11-0-85-220-0.png/180x180bb.png",
+          "rating": 5,
+          "ratingCount": 5,
+          "price": "0.00",
+          "rank": 135,
+          "category": "6012"
+        },
+        {
+          "appId": 990655529,
+          "name": "Global Citizen: Take Action",
+          "publisher": "Global Poverty Project, Inc",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c4/b4/b3/c4b4b3bd-a548-95b0-3200-99745868224c/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/180x180bb.png",
+          "rating": 3.7,
+          "ratingCount": 145,
+          "price": "0.00",
+          "rank": 139,
+          "category": "6012"
+        },
+        {
+          "appId": 1475805212,
+          "name": "Whisker",
+          "publisher": "Automated Pet Care Products Inc. dba AutoPets",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/12/da/db/12dadbe0-1110-29e2-4891-abb297f3b42a/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/180x180bb.png",
+          "rating": 4.8,
+          "ratingCount": 139000,
+          "price": "0.00",
+          "rank": 213,
+          "category": "6012"
+        },
+        {
+          "appId": 1403308360,
+          "name": "Sport Clips Haircuts Check-In",
+          "publisher": "Sport Clips",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/91/eb/51/91eb51b2-6600-3eab-ae68-318a2f84855f/AppIcon-1x_U007ephone-0-1-85-220-0.png/180x180bb.png",
+          "rating": 4.8,
+          "ratingCount": 48900,
+          "price": "0.00",
+          "rank": 216,
+          "category": "6012"
+        },
+        {
+          "appId": 6758076904,
+          "name": "Vico Nature: Smart Nature View",
+          "publisher": "PHOTON SAIL TECHNOLOGIES PTE. LTD.",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/00/9c/bb/009cbbce-7f77-4066-152d-d5d422648070/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/180x180bb.png",
+          "rating": 4.4,
+          "ratingCount": 1356,
+          "price": "0.00",
+          "rank": 226,
+          "category": "6012"
+        },
+        {
+          "appId": 6738174180,
+          "name": "Dressly: AI Outfit Stylist",
+          "publisher": "TIKVEX LIMITED",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ee/51/97/ee5197bd-ad00-4da6-2b0d-1c49bb864e8e/AppIcon-0-0-1x_U007epad-0-1-85-220.png/180x180bb.png",
+          "rating": 4.4,
+          "ratingCount": 27500,
+          "price": "0.00",
+          "rank": 227,
+          "category": "6012"
+        },
+        {
+          "appId": 6743861403,
+          "name": "EPICA: Your Daily Beauty Guide",
+          "publisher": "SharoneLimited",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/91/f5/17/91f517de-621e-6f97-9922-0d54e8925567/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/180x180bb.png",
+          "rating": 4.6,
+          "ratingCount": 2261,
+          "price": "0.00",
+          "rank": 234,
+          "category": "6012"
+        },
+        {
+          "appId": 1565972415,
+          "name": "RAM®",
+          "publisher": "FCA US LLC",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/fa/82/ec/fa82ecad-d214-783f-5dc1-a75851cd7cb6/AppIcon.ram.prod-0-0-1x_U007emarketing-0-6-0-85-220.png/180x180bb.png",
+          "rating": 4.8,
+          "ratingCount": 83300,
+          "price": "0.00",
+          "rank": 236,
+          "category": "6012"
+        },
+        {
+          "appId": 1397726277,
+          "name": "Wansview Cloud",
+          "publisher": "Ajcloud Labs Inc.",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/05/ce/f2/05cef2c1-ffe6-d518-7845-49e4ee915383/AppIcon_WanviewCloud-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/180x180bb.png",
+          "rating": 4.7,
+          "ratingCount": 55100,
+          "price": "0.00",
+          "rank": 238,
+          "category": "6012"
+        },
+        {
+          "appId": 1456133366,
+          "name": "DexterPay",
+          "publisher": "Dexter Laundry, Inc.",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ca/04/5f/ca045fa4-3485-5a69-3743-d85cdea21fdb/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/180x180bb.png",
+          "rating": 2,
+          "ratingCount": 159,
+          "price": "0.00",
+          "rank": 242,
+          "category": "6012"
+        },
+        {
+          "appId": 1018443930,
+          "name": "Estate Sales - EstateSales.NET",
+          "publisher": "EstateSales.NET",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/84/bc/27/84bc273e-bda8-e8f3-a04a-ad8dd9bc9caa/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-85-220.png/100x100bb.jpg",
+          "rating": 4.9,
+          "ratingCount": 11800,
+          "price": "0.00",
+          "rank": 246,
+          "category": "6012"
+        },
+        {
+          "appId": 1668143506,
+          "name": "Fly Vaunt",
+          "publisher": "Volato, Inc",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/bd/c7/5d/bdc75de3-44ef-d468-0bda-184f481c7911/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/180x180bb.png",
+          "rating": 3,
+          "ratingCount": 193,
+          "price": "0.00",
+          "rank": 247,
+          "category": "6012"
+        },
+        {
+          "appId": 6754110310,
+          "name": "Gist - Life Well Lived",
+          "publisher": "AppLovin Corp",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/00/bf/57/00bf57e3-3c85-6d96-b8d3-5521cbd49b8e/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/180x180bb.png",
+          "rating": 4,
+          "ratingCount": 90,
+          "price": "0.00",
+          "rank": 248,
+          "category": "6012"
+        },
+        {
+          "appId": 1587679090,
+          "name": "Led Light Controller LedRemote",
+          "publisher": "Kain Suite Pte. Ltd.",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/18/bb/fe/18bbfeb6-6571-d912-0bbb-ee63292247c2/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/180x180bb.png",
+          "rating": 3.9,
+          "ratingCount": 60100,
+          "price": "0.00",
+          "rank": 250,
+          "category": "6012"
+        }
+      ]
+    }
+  }
+}
