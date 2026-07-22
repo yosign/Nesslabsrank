@@ -5,8 +5,8 @@
     {
       "appId": 1590978658,
       "previous_rank": 221,
-      "current_rank": 73,
-      "rank_change": 148,
+      "current_rank": 72,
+      "rank_change": 149,
       "category": "6007",
       "date": "2026-07-22",
       "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b3/6c/89/b36c89d1-2955-67b1-c1ed-41eab23d7718/app_icon-0-0-1x_U007ephone-0-0-0-11-0-0-85-220.png/180x180bb.png",
@@ -14,10 +14,32 @@
       "publisher": "Equatex AG"
     },
     {
+      "appId": 506003812,
+      "previous_rank": 234,
+      "current_rank": 149,
+      "rank_change": 85,
+      "category": "6007",
+      "date": "2026-07-22",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a2/e5/94/a2e5943e-fb47-cc60-7f51-d333e528405e/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/180x180bb.png",
+      "app_name": "Paper: Sketch, Draw & Create",
+      "publisher": "Evernote Corporation"
+    },
+    {
+      "appId": 6670622037,
+      "previous_rank": 191,
+      "current_rank": 136,
+      "rank_change": 55,
+      "category": "6007",
+      "date": "2026-07-22",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/cf/56/97/cf56971a-3bc0-f977-7d25-9de66e58d7ec/AppIconMWM-0-0-1x_U007epad-0-1-0-sRGB-85-220.jpeg/180x180bb.png",
+      "app_name": "Translator Keyboard : Lingo",
+      "publisher": "MWM"
+    },
+    {
       "appId": 564842283,
       "previous_rank": 185,
-      "current_rank": 118,
-      "rank_change": 67,
+      "current_rank": 133,
+      "rank_change": 52,
       "category": "6007",
       "date": "2026-07-22",
       "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7d/9d/72/7d9d7257-844d-497f-3bfa-e02d83cd442e/app-icon-regular-0-0-1x_U007emarketing-0-8-0-85-220.png/180x180bb.png",
@@ -25,48 +47,26 @@
       "publisher": "TunnelBear, LLC"
     },
     {
-      "appId": 6480253221,
-      "previous_rank": 205,
-      "current_rank": 159,
-      "rank_change": 46,
-      "category": "6007",
-      "date": "2026-07-22",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0f/16/28/0f162846-692c-73ac-bd03-5e9fc136712e/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/180x180bb.png",
-      "app_name": "Authenticator ® App",
-      "publisher": "MatechMobile Software JSC"
-    },
-    {
-      "appId": 1515671684,
-      "previous_rank": 229,
-      "current_rank": 190,
+      "appId": 6754001880,
+      "previous_rank": 226,
+      "current_rank": 187,
       "rank_change": 39,
       "category": "6007",
       "date": "2026-07-22",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/76/ed/76/76ed7630-8e59-2a39-9f6f-8af988b283ff/AppIcon-0-0-1x_U007epad-0-0-0-1-0-85-220.png/180x180bb.png",
-      "app_name": "ArcGIS Field Maps",
-      "publisher": "ESRI"
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a2/88/81/a288811e-ffcd-d831-1de3-46eb4e554855/AppIcon-1x_U007ephone-0-1-0-85-220-0.png/180x180bb.png",
+      "app_name": "PDF Reader - OCR Scan Edit",
+      "publisher": "Fuzhou Jiange Technology Co., Ltd."
     },
     {
-      "appId": 6736793117,
-      "previous_rank": 173,
-      "current_rank": 144,
-      "rank_change": 29,
+      "appId": 1583175414,
+      "previous_rank": 213,
+      "current_rank": 178,
+      "rank_change": 35,
       "category": "6007",
       "date": "2026-07-22",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/20/25/40/202540ec-873c-a3a9-1d7f-4f84526331bb/foqos-icon-0-0-1x_U007ephone-0-1-sRGB-85-220.png/180x180bb.png",
-      "app_name": "Foqos - Tap to Block",
-      "publisher": "Ali Waseem"
-    },
-    {
-      "appId": 1535098836,
-      "previous_rank": 238,
-      "current_rank": 210,
-      "rank_change": 28,
-      "category": "6007",
-      "date": "2026-07-22",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/65/fe/c6/65fec69e-141d-6e98-69d7-018e929a379c/AppIcon-0-0-1x_U007epad-0-11-0-85-220.png/180x180bb.png",
-      "app_name": "ClickUp: Tasks, Chat, Docs, AI",
-      "publisher": "Mango Technologies, Inc."
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ad/51/04/ad51041a-e639-4b71-ee2a-4867c9ec3c97/AppIcon-0-1x_U007emarketing-0-8-0-85-220-0.png/180x180bb.png",
+      "app_name": "*** Privacy Proxy: Mistero ***",
+      "publisher": "Mistero VPN"
     }
   ]
 }
