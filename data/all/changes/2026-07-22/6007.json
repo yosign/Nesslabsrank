@@ -3,10 +3,21 @@
   "genre": "6007",
   "topRisers": [
     {
+      "appId": 1281374098,
+      "previous_rank": 212,
+      "current_rank": 51,
+      "rank_change": 161,
+      "category": "6007",
+      "date": "2026-07-22",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/83/1a/19/831a1978-596b-da25-f1ed-a4d3a753e895/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/180x180bb.png",
+      "app_name": "Unzip - zip,rar,7z file opener",
+      "publisher": "俐 马"
+    },
+    {
       "appId": 1590978658,
       "previous_rank": 221,
-      "current_rank": 72,
-      "rank_change": 149,
+      "current_rank": 74,
+      "rank_change": 147,
       "category": "6007",
       "date": "2026-07-22",
       "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b3/6c/89/b36c89d1-2955-67b1-c1ed-41eab23d7718/app_icon-0-0-1x_U007ephone-0-0-0-11-0-0-85-220.png/180x180bb.png",
@@ -16,8 +27,8 @@
     {
       "appId": 506003812,
       "previous_rank": 234,
-      "current_rank": 149,
-      "rank_change": 85,
+      "current_rank": 159,
+      "rank_change": 75,
       "category": "6007",
       "date": "2026-07-22",
       "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a2/e5/94/a2e5943e-fb47-cc60-7f51-d333e528405e/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/180x180bb.png",
@@ -25,21 +36,10 @@
       "publisher": "Evernote Corporation"
     },
     {
-      "appId": 6670622037,
-      "previous_rank": 191,
-      "current_rank": 136,
-      "rank_change": 55,
-      "category": "6007",
-      "date": "2026-07-22",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/cf/56/97/cf56971a-3bc0-f977-7d25-9de66e58d7ec/AppIconMWM-0-0-1x_U007epad-0-1-0-sRGB-85-220.jpeg/180x180bb.png",
-      "app_name": "Translator Keyboard : Lingo",
-      "publisher": "MWM"
-    },
-    {
       "appId": 564842283,
       "previous_rank": 185,
-      "current_rank": 133,
-      "rank_change": 52,
+      "current_rank": 118,
+      "rank_change": 67,
       "category": "6007",
       "date": "2026-07-22",
       "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7d/9d/72/7d9d7257-844d-497f-3bfa-e02d83cd442e/app-icon-regular-0-0-1x_U007emarketing-0-8-0-85-220.png/180x180bb.png",
@@ -47,26 +47,26 @@
       "publisher": "TunnelBear, LLC"
     },
     {
-      "appId": 6754001880,
-      "previous_rank": 226,
-      "current_rank": 187,
+      "appId": 6670622037,
+      "previous_rank": 191,
+      "current_rank": 141,
+      "rank_change": 50,
+      "category": "6007",
+      "date": "2026-07-22",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/cf/56/97/cf56971a-3bc0-f977-7d25-9de66e58d7ec/AppIconMWM-0-0-1x_U007epad-0-1-0-sRGB-85-220.jpeg/180x180bb.png",
+      "app_name": "Translator Keyboard : Lingo",
+      "publisher": "MWM"
+    },
+    {
+      "appId": 6757861100,
+      "previous_rank": 148,
+      "current_rank": 109,
       "rank_change": 39,
       "category": "6007",
       "date": "2026-07-22",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a2/88/81/a288811e-ffcd-d831-1de3-46eb4e554855/AppIcon-1x_U007ephone-0-1-0-85-220-0.png/180x180bb.png",
-      "app_name": "PDF Reader - OCR Scan Edit",
-      "publisher": "Fuzhou Jiange Technology Co., Ltd."
-    },
-    {
-      "appId": 1583175414,
-      "previous_rank": 213,
-      "current_rank": 178,
-      "rank_change": 35,
-      "category": "6007",
-      "date": "2026-07-22",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ad/51/04/ad51041a-e639-4b71-ee2a-4867c9ec3c97/AppIcon-0-1x_U007emarketing-0-8-0-85-220-0.png/180x180bb.png",
-      "app_name": "*** Privacy Proxy: Mistero ***",
-      "publisher": "Mistero VPN"
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e6/29/17/e6291774-117b-9c88-a874-311549f20587/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/180x180bb.png",
+      "app_name": "Storage Cleaner ·",
+      "publisher": "STARLIT IT PROMOTION AGENCY LIMITED"
     }
   ]
 }
