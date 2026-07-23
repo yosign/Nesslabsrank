@@ -3,10 +3,21 @@
   "genre": "6027",
   "topRisers": [
     {
+      "appId": 6471030767,
+      "previous_rank": 186,
+      "current_rank": 122,
+      "rank_change": 64,
+      "category": "6027",
+      "date": "2026-07-23",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c4/92/62/c4926251-1706-3020-8fc3-3b2ef4bfcb7c/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/180x180bb.png",
+      "app_name": "Color Widgets & Themes: Wiggle",
+      "publisher": "Julieta Voskanyan"
+    },
+    {
       "appId": 6474528911,
       "previous_rank": 153,
-      "current_rank": 118,
-      "rank_change": 35,
+      "current_rank": 102,
+      "rank_change": 51,
       "category": "6027",
       "date": "2026-07-23",
       "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f9/39/8b/f9398b04-8ec1-1055-5894-8aa183a9748a/AppIcon-0-0-1x_U007epad-0-1-sRGB-85-220.png/180x180bb.png",
@@ -14,21 +25,32 @@
       "publisher": "METANOMALY PTE. LTD."
     },
     {
-      "appId": 6761606061,
-      "previous_rank": 216,
-      "current_rank": 184,
-      "rank_change": 32,
+      "appId": 6752010704,
+      "previous_rank": 136,
+      "current_rank": 92,
+      "rank_change": 44,
       "category": "6027",
       "date": "2026-07-23",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/32/fb/8f/32fb8fc6-2fc6-a6ed-5778-512c5072f193/AppIcon-1x_U007ephone-0-11-0-85-220-0.png/180x180bb.png",
-      "app_name": "PeachAI: Photo to Video Maker",
-      "publisher": "Ildeniz Inan"
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/94/d0/6f/94d06f24-39c1-bb0c-c102-e13b74733ca4/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.jpeg/180x180bb.png",
+      "app_name": "Guma-AI Photo Video Editor",
+      "publisher": "Chongqing Songzan Technology Co., Ltd."
+    },
+    {
+      "appId": 6739784125,
+      "previous_rank": 118,
+      "current_rank": 75,
+      "rank_change": 43,
+      "category": "6027",
+      "date": "2026-07-23",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b0/6c/fa/b06cfae0-5b00-6e99-fa60-5a7439230766/AppIcon-Q-0-0-1x_U007epad-0-1-0-P3-85-220.png/180x180bb.png",
+      "app_name": "AI Emoji: Swipemoji",
+      "publisher": "Mobile entertainment srl"
     },
     {
       "appId": 6464542768,
       "previous_rank": 219,
-      "current_rank": 188,
-      "rank_change": 31,
+      "current_rank": 177,
+      "rank_change": 42,
       "category": "6027",
       "date": "2026-07-23",
       "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c4/7b/34/c47b3457-58cd-df52-61fb-466fff4f843a/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/180x180bb.png",
@@ -38,35 +60,13 @@
     {
       "appId": 1604739131,
       "previous_rank": 95,
-      "current_rank": 65,
-      "rank_change": 30,
+      "current_rank": 55,
+      "rank_change": 40,
       "category": "6027",
       "date": "2026-07-23",
       "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/af/2a/29/af2a293b-c7de-9192-6118-8730a83ca198/AppIcon20-0-0-1x_U007emarketing-0-6-0-85-220.png/180x180bb.png",
       "app_name": "Dora - AI Video Generator 2",
       "publisher": "SMART WIDGET LABS COMPANY LIMITED"
-    },
-    {
-      "appId": 6739486738,
-      "previous_rank": 225,
-      "current_rank": 198,
-      "rank_change": 27,
-      "category": "6027",
-      "date": "2026-07-23",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/84/59/f5/8459f57f-961a-fa0d-78de-49dedb16bd5d/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/180x180bb.png",
-      "app_name": "Draw Anime: AR Drawing Sketch",
-      "publisher": "Braly"
-    },
-    {
-      "appId": 6752010704,
-      "previous_rank": 136,
-      "current_rank": 111,
-      "rank_change": 25,
-      "category": "6027",
-      "date": "2026-07-23",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/94/d0/6f/94d06f24-39c1-bb0c-c102-e13b74733ca4/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.jpeg/180x180bb.png",
-      "app_name": "Guma-AI Photo Video Editor",
-      "publisher": "Chongqing Songzan Technology Co., Ltd."
     }
   ]
 }
