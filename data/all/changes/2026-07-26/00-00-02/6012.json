@@ -1,0 +1,275 @@
+{
+  "date": "2026-07-26",
+  "changes": {
+    "6012": {
+      "added": [
+        {
+          "appId": 6768524389,
+          "name": "Cozy Pets",
+          "publisher": "App Onboard, Inc.",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/cf/72/c5/cf72c55e-e4ea-29d9-c168-c6a35b3e7bdd/AppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.png/180x180bb.png",
+          "rating": 4.7,
+          "ratingCount": 294,
+          "price": "0.00",
+          "rank": 163,
+          "category": "6012"
+        },
+        {
+          "appId": 1367606835,
+          "name": "Ting",
+          "publisher": "Whisker Labs, Inc.",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/56/e1/64/56e16416-34bc-f62a-7e96-32553f66b7ae/AppIcon-0-0-1x_U007epad-0-1-85-220.png/180x180bb.png",
+          "rating": 4.8,
+          "ratingCount": 103000,
+          "price": "0.00",
+          "rank": 186,
+          "category": "6012"
+        },
+        {
+          "appId": 1570374552,
+          "name": "FanLamp Pro",
+          "publisher": "Shenzhen Jingyuan Micro Control Technology Co., Ltd.",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7f/bd/d6/7fbdd6ad-7d9b-3225-417f-c043a143bac9/AppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.png/180x180bb.png",
+          "rating": 2,
+          "ratingCount": 660,
+          "price": "0.00",
+          "rank": 209,
+          "category": "6012"
+        },
+        {
+          "appId": 1475805212,
+          "name": "Whisker",
+          "publisher": "Automated Pet Care Products Inc. dba AutoPets",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/12/da/db/12dadbe0-1110-29e2-4891-abb297f3b42a/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/180x180bb.png",
+          "rating": 4.8,
+          "ratingCount": 140000,
+          "price": "0.00",
+          "rank": 234,
+          "category": "6012"
+        },
+        {
+          "appId": 6738174180,
+          "name": "Dressly: AI Outfit Stylist",
+          "publisher": "TIKVEX LIMITED",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ee/51/97/ee5197bd-ad00-4da6-2b0d-1c49bb864e8e/AppIcon-0-0-1x_U007epad-0-1-85-220.png/180x180bb.png",
+          "rating": 4.4,
+          "ratingCount": 27599.999999999996,
+          "price": "0.00",
+          "rank": 239,
+          "category": "6012"
+        },
+        {
+          "appId": 854624810,
+          "name": "HomeGoods",
+          "publisher": "HomeGoods",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a4/c5/75/a4c5750a-9b7f-663b-e8ee-6e5ff1089444/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/180x180bb.png",
+          "rating": 2.6,
+          "ratingCount": 2102,
+          "price": "0.00",
+          "rank": 240,
+          "category": "6012"
+        },
+        {
+          "appId": 1489209093,
+          "name": "Microsoft Family Safety",
+          "publisher": "Microsoft Corporation",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e0/77/d2/e077d2cd-e92c-97bc-beff-2cfaab27dfb2/AppIcon-prod-1x_U007emarketing-0-6-0-0-85-220-0.png/180x180bb.png",
+          "rating": 4.1,
+          "ratingCount": 7809,
+          "price": "0.00",
+          "rank": 241,
+          "category": "6012"
+        },
+        {
+          "appId": 1618979301,
+          "name": "myQQ – Quick Quack",
+          "publisher": "Quick Quack Car Wash Holdings, LLC",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d0/94/71/d0947160-7fa5-e298-e498-e674b4a920eb/AppIcon-0-0-1x_U007emarketing-0-0-0-8-0-0-85-220.png/180x180bb.png",
+          "rating": 4.8,
+          "ratingCount": 23400,
+          "price": "0.00",
+          "rank": 242,
+          "category": "6012"
+        },
+        {
+          "appId": 994098803,
+          "name": "Findmykids: GPS Phone Tracker",
+          "publisher": "LETEM LTD",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d5/0d/15/d50d153d-696e-4a26-461a-32744f737312/AppIcon-Kids-0-0-1x_U007ephone-0-1-0-sRGB-0-85-220.png/180x180bb.png",
+          "rating": 4.7,
+          "ratingCount": 22200.000000000004,
+          "price": "0.00",
+          "rank": 243,
+          "category": "6012"
+        },
+        {
+          "appId": 6754110310,
+          "name": "Gist - Life Well Lived",
+          "publisher": "AppLovin Corp",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/09/d5/bc/09d5bcb9-b9f2-25c3-aa66-d30809236aa6/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/180x180bb.png",
+          "rating": 3.9,
+          "ratingCount": 108,
+          "price": "0.00",
+          "rank": 247,
+          "category": "6012"
+        },
+        {
+          "appId": 1024626982,
+          "name": "Sense Home",
+          "publisher": "Sense Labs, Inc.",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0f/ca/c9/0fcac93f-4d67-4c96-aff0-3ead79d73866/SenseIcon-0-0-1x_U007epad-0-0-0-1-0-0-85-220.png/180x180bb.png",
+          "rating": 4.6,
+          "ratingCount": 2128,
+          "price": "0.00",
+          "rank": 248,
+          "category": "6012"
+        },
+        {
+          "appId": 6451155639,
+          "name": "Vet Tix",
+          "publisher": "Veteran Tickets Foundation",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/da/5b/7c/da5b7c88-44a8-81f8-9ea1-15a6d24d9b3a/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/180x180bb.png",
+          "rating": 3.6,
+          "ratingCount": 310,
+          "price": "0.00",
+          "rank": 250,
+          "category": "6012"
+        }
+      ],
+      "removed": [
+        {
+          "appId": 6451217727,
+          "name": "MOTION Conference",
+          "publisher": "Church of the Highlands",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/68/25/c2/6825c2c4-89f4-b103-87d1-9c6e6b92e173/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/180x180bb.png",
+          "rating": 4.9,
+          "ratingCount": 35,
+          "price": "0.00",
+          "rank": 187,
+          "category": "6012"
+        },
+        {
+          "appId": 1433915149,
+          "name": "Home by ShowingTime",
+          "publisher": "ShowingTime.com, LLC",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f5/45/07/f5450752-0b16-6d41-24be-9e28f6e069bf/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.jpg",
+          "rating": 4.9,
+          "ratingCount": 16100.000000000002,
+          "price": "0.00",
+          "rank": 202,
+          "category": "6012"
+        },
+        {
+          "appId": 6739810324,
+          "name": "Smoothspeak: AI Dating Coach",
+          "publisher": "ProdTrace, Inc",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2b/70/66/2b7066d3-83f8-37c7-4e0d-1de3d54c77e2/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/180x180bb.png",
+          "rating": 4.8,
+          "ratingCount": 13700.000000000002,
+          "price": "0.00",
+          "rank": 214,
+          "category": "6012"
+        },
+        {
+          "appId": 1138970986,
+          "name": "MyChoice Benefits",
+          "publisher": "Businessolver",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9c/b7/1c/9cb71c47-8112-7d5e-dcf8-6b9f3165b1ec/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/180x180bb.png",
+          "rating": 4.8,
+          "ratingCount": 22400.000000000004,
+          "price": "0.00",
+          "rank": 224,
+          "category": "6012"
+        },
+        {
+          "appId": 6499445456,
+          "name": "AHS: American Home Shield",
+          "publisher": "Frontdoor Incorporated",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d8/6e/5a/d86e5ac0-2e6d-208c-484b-bad93c380e89/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/180x180bb.png",
+          "rating": 4.9,
+          "ratingCount": 51100,
+          "price": "0.00",
+          "rank": 225,
+          "category": "6012"
+        },
+        {
+          "appId": 1672660475,
+          "name": "Kale - Creator Rewards",
+          "publisher": "Palette Technologies Inc",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6e/c2/50/6ec2508c-f518-5137-6bce-b4e3655db38b/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/180x180bb.png",
+          "rating": 4.9,
+          "ratingCount": 5957,
+          "price": "0.00",
+          "rank": 230,
+          "category": "6012"
+        },
+        {
+          "appId": 395563123,
+          "name": "Dscout",
+          "publisher": "dscout",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d1/9e/55/d19e552f-77aa-a03c-f4e9-f3f89357a360/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/180x180bb.png",
+          "rating": 4.4,
+          "ratingCount": 3608,
+          "price": "0.00",
+          "rank": 233,
+          "category": "6012"
+        },
+        {
+          "appId": 1492307238,
+          "name": "BenefitHub",
+          "publisher": "BenefitHub",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/48/e4/e3/48e4e3f9-e961-02ab-d371-951f74722a6a/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/180x180bb.png",
+          "rating": 4.7,
+          "ratingCount": 1828,
+          "price": "0.00",
+          "rank": 235,
+          "category": "6012"
+        },
+        {
+          "appId": 6759252139,
+          "name": "Quick Family Tree Maker & DNA",
+          "publisher": "D J & F LLC",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/de/87/4c/de874c06-b395-77d0-975c-cf685a9d3867/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/180x180bb.png",
+          "rating": 4.6,
+          "ratingCount": 58,
+          "price": "0.00",
+          "rank": 237,
+          "category": "6012"
+        },
+        {
+          "appId": 1182728161,
+          "name": "Wyndy: Trusted Babysitting App",
+          "publisher": "Wyndy",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8a/52/ed/8a52ed91-ec6f-3f7f-d840-a733555c2d69/AppIcon-0-0-1x_U007epad-0-1-85-220.png/180x180bb.png",
+          "rating": 4.6,
+          "ratingCount": 2263,
+          "price": "0.00",
+          "rank": 238,
+          "category": "6012"
+        },
+        {
+          "appId": 1448665466,
+          "name": "Pentair Pool",
+          "publisher": "Pentair, Inc.",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/51/81/7a/51817ab9-f8e1-13e1-a25e-e5934f6f0aa4/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/180x180bb.png",
+          "rating": 4.6,
+          "ratingCount": 22799.999999999996,
+          "price": "0.00",
+          "rank": 241,
+          "category": "6012"
+        },
+        {
+          "appId": 6451412538,
+          "name": "Homebody: Better Renting",
+          "publisher": "Entrata, Inc.",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f9/b6/37/f9b6371c-c837-b5fd-ba62-bfff3a758a8a/AppIcon-0-0-1x_U007ephone-0-1-0-sRGB-85-220.png/180x180bb.png",
+          "rating": 4.4,
+          "ratingCount": 633,
+          "price": "0.00",
+          "rank": 244,
+          "category": "6012"
+        }
+      ]
+    }
+  }
+}
