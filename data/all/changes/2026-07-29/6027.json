@@ -5,8 +5,8 @@
     {
       "appId": 6769700956,
       "previous_rank": 49,
-      "current_rank": 37,
-      "rank_change": 12,
+      "current_rank": 35,
+      "rank_change": 14,
       "category": "6027",
       "date": "2026-07-29",
       "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8a/3c/92/8a3c92ed-3592-b5e4-a92b-e6d2a4849a1d/AppIcon-V2-0-0-1x_U007epad-0-0-0-1-0-0-85-220.png/180x180bb.png",
@@ -16,8 +16,8 @@
     {
       "appId": 6752269317,
       "previous_rank": 29,
-      "current_rank": 22,
-      "rank_change": 7,
+      "current_rank": 19,
+      "rank_change": 10,
       "category": "6027",
       "date": "2026-07-29",
       "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b5/db/d2/b5dbd263-d300-2ec8-68c4-efa02b237e24/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/180x180bb.png",
@@ -25,10 +25,21 @@
       "publisher": "Sibelius Studios LLC"
     },
     {
+      "appId": 6761900294,
+      "previous_rank": 32,
+      "current_rank": 23,
+      "rank_change": 9,
+      "category": "6027",
+      "date": "2026-07-29",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/dc/ac/ed/dcaced2c-143f-1c05-3852-2189adfb7a10/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/180x180bb.png",
+      "app_name": "Silly Fun Smile Live Wallpaper",
+      "publisher": "Hypernova Limited"
+    },
+    {
       "appId": 6747102687,
       "previous_rank": 40,
-      "current_rank": 34,
-      "rank_change": 6,
+      "current_rank": 32,
+      "rank_change": 8,
       "category": "6027",
       "date": "2026-07-29",
       "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/03/7a/dc/037adc24-b220-6dcd-9c48-fc01207a4e1d/AppIcon-0-0-1x_U007epad-0-1-sRGB-85-220.png/180x180bb.png",
@@ -38,8 +49,8 @@
     {
       "appId": 6749636465,
       "previous_rank": 41,
-      "current_rank": 35,
-      "rank_change": 6,
+      "current_rank": 36,
+      "rank_change": 5,
       "category": "6027",
       "date": "2026-07-29",
       "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ec/89/5f/ec895f8d-d59a-eba4-76d3-cfc759b43dbc/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/180x180bb.png",
@@ -47,26 +58,15 @@
       "publisher": "Hungry Birds"
     },
     {
-      "appId": 1101848914,
-      "previous_rank": 36,
-      "current_rank": 32,
+      "appId": 6448484908,
+      "previous_rank": 16,
+      "current_rank": 12,
       "rank_change": 4,
       "category": "6027",
       "date": "2026-07-29",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e8/43/a5/e843a5b8-8406-d816-d833-361567fdb493/app_icon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-85-220.png/180x180bb.png",
-      "app_name": "FlipaClip: Draw 2D Animation",
-      "publisher": "Visual Blasters LLC"
-    },
-    {
-      "appId": 6742743085,
-      "previous_rank": 47,
-      "current_rank": 43,
-      "rank_change": 4,
-      "category": "6027",
-      "date": "2026-07-29",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/12/46/81/124681b7-1590-9491-dc9c-88b96afc6f08/AppIcon-0-0-1x_U007emarketing-0-8-0-P3-85-220.png/180x180bb.png",
-      "app_name": "Themes: Wallpaper & Widgets",
-      "publisher": "Cogniflow Systems Limited"
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/18/f2/19/18f219c9-103f-fe5f-ac9e-5fbbe28c5443/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/180x180bb.png",
+      "app_name": "AR Drawing: Sketch & Paint",
+      "publisher": "Digital Solutions Technologies Limited"
     }
   ]
 }
