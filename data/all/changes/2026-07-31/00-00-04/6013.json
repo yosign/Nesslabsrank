@@ -1,0 +1,209 @@
+{
+  "date": "2026-07-31",
+  "changes": {
+    "6013": {
+      "added": [
+        {
+          "appId": 6761424608,
+          "name": "Greater Austin YMCA",
+          "publisher": "Familyworks LLC",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a4/43/af/a443af7f-7e7a-4c91-6710-a13eccde7f3a/AppIcon-0-0-1x_U007epad-0-1-85-220.png/180x180bb.png",
+          "rating": 0,
+          "ratingCount": 0,
+          "price": "0.00",
+          "rank": 233,
+          "category": "6013"
+        },
+        {
+          "appId": 6443714593,
+          "name": "Pump Club: Fitness + Nutrition",
+          "publisher": "The Pump LLC",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2e/87/62/2e8762e9-0de3-98ba-c342-ae7ba43082fc/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/180x180bb.png",
+          "rating": 4.6,
+          "ratingCount": 716,
+          "price": "0.00",
+          "rank": 237,
+          "category": "6013"
+        },
+        {
+          "appId": 6744650800,
+          "name": "Gym Geek Calorie Counter",
+          "publisher": "Recoreo Ltd",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b8/ec/fd/b8ecfd2e-e4d3-1ce4-0834-a7d8c7e0d3eb/AppIcon-0-0-1x_U007epad-0-1-85-220.png/180x180bb.png",
+          "rating": 4.8,
+          "ratingCount": 1070,
+          "price": "0.00",
+          "rank": 242,
+          "category": "6013"
+        },
+        {
+          "appId": 318815572,
+          "name": "Equinox+",
+          "publisher": "Equinox",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a3/3e/c8/a33ec857-370f-e269-8bbc-fa3e9170dc9d/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/180x180bb.png",
+          "rating": 4.7,
+          "ratingCount": 41800,
+          "price": "0.00",
+          "rank": 243,
+          "category": "6013"
+        },
+        {
+          "appId": 1539543704,
+          "name": "The Conqueror Challenges",
+          "publisher": "Actionary Limited",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/1c/75/51/1c7551e8-00e7-c736-b02c-d0d7e379c43d/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/180x180bb.png",
+          "rating": 4.8,
+          "ratingCount": 11200.000000000002,
+          "price": "0.00",
+          "rank": 244,
+          "category": "6013"
+        },
+        {
+          "appId": 1185595325,
+          "name": "NYC ACCESS HRA",
+          "publisher": "Department of Information Technology And Telecomm",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/df/f7/56/dff756d9-5599-ad37-db11-fb47e39590d5/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/100x100bb.jpg",
+          "rating": 4.7,
+          "ratingCount": 139000,
+          "price": "0.00",
+          "rank": 245,
+          "category": "6013"
+        },
+        {
+          "appId": 1598065258,
+          "name": "PitPat",
+          "publisher": "JOYFIT INC",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/19/11/90/191190bd-ae63-4f49-3663-fb1b7d6cc266/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/180x180bb.png",
+          "rating": 2.8,
+          "ratingCount": 813,
+          "price": "0.00",
+          "rank": 246,
+          "category": "6013"
+        },
+        {
+          "appId": 1433864494,
+          "name": "Google Fit: Activity Tracker",
+          "publisher": "Google",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/63/30/53/63305358-3027-b185-0bad-c9b0e996785c/logo_gfit_color-0-0-1x_U007emarketing-0-0-0-7-0-0-0-85-220.png/180x180bb.png",
+          "rating": 4.2,
+          "ratingCount": 2175,
+          "price": "0.00",
+          "rank": 247,
+          "category": "6013"
+        },
+        {
+          "appId": 6749660470,
+          "name": "HeartSnap:Health Tracker",
+          "publisher": "MC Baby Sleep Expert Limited",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8a/cd/6f/8acd6fb2-3fd1-6bed-5496-31db3d79906b/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/180x180bb.png",
+          "rating": 4.5,
+          "ratingCount": 4466,
+          "price": "0.00",
+          "rank": 248,
+          "category": "6013"
+        }
+      ],
+      "removed": [
+        {
+          "appId": 6755126064,
+          "name": "Steppa - Step Challenges",
+          "publisher": "Steppa, LLC",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7c/35/63/7c356327-c12e-35f3-074a-ddc185de4d2b/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/180x180bb.png",
+          "rating": 4.4,
+          "ratingCount": 467,
+          "price": "0.00",
+          "rank": 192,
+          "category": "6013"
+        },
+        {
+          "appId": 6745872964,
+          "name": "BloodPressure-Level Checker",
+          "publisher": "THREE PANDA DIGITAL LIMITED",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/48/a5/e4/48a5e4cc-abc1-0d89-d856-e0411df94361/AppIcon-0-0-1x_U007ephone-0-11-0-85-220.png/100x100bb.jpg",
+          "rating": 3.8,
+          "ratingCount": 2699,
+          "price": "0.00",
+          "rank": 196,
+          "category": "6013"
+        },
+        {
+          "appId": 1107266414,
+          "name": "Playbook - Trainers & Workouts",
+          "publisher": "Playbook Technologies Inc",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/bf/62/4f/bf624ff1-ac1c-1500-ce34-dfc95d5ae88d/AppIcon-0-0-1x_U007ephone-0-11-0-sRGB-85-220.png/180x180bb.png",
+          "rating": 4.9,
+          "ratingCount": 34500,
+          "price": "0.00",
+          "rank": 223,
+          "category": "6013"
+        },
+        {
+          "appId": 6749694810,
+          "name": "Conqr: Fitness Battle Game",
+          "publisher": "Mesut Dincer Altun",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/64/44/d6/6444d68b-d40a-d2d8-e846-e96ea046ff43/AppIcon-0-0-1x_U007epad-0-1-0-P3-85-220.png/180x180bb.png",
+          "rating": 4.6,
+          "ratingCount": 9,
+          "price": "0.00",
+          "rank": 224,
+          "category": "6013"
+        },
+        {
+          "appId": 6754058817,
+          "name": "PulseGuard Ai",
+          "publisher": "DIAMOND WHEEL LIMITED",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ba/59/79/ba59790d-a8d9-f12a-0525-96c4e1f39704/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/180x180bb.png",
+          "rating": 2.7,
+          "ratingCount": 11,
+          "price": "0.00",
+          "rank": 231,
+          "category": "6013"
+        },
+        {
+          "appId": 6448909309,
+          "name": "Intermittent Fasting Tracker:",
+          "publisher": "Kai Oelfke",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/1a/d9/b9/1ad9b906-0dc7-1a16-c9b3-0123275a6dae/IconComposer-0-0-1x_U007ephone-0-1-sRGB-85-220.png/180x180bb.png",
+          "rating": 4.9,
+          "ratingCount": 49200,
+          "price": "0.00",
+          "rank": 233,
+          "category": "6013"
+        },
+        {
+          "appId": 1584405331,
+          "name": "Amped Fitness",
+          "publisher": "Amped Fitness, LLC",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a8/eb/31/a8eb315b-8560-5058-f84a-c1e5686ca7ec/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/180x180bb.png",
+          "rating": 3.6,
+          "ratingCount": 192,
+          "price": "0.00",
+          "rank": 244,
+          "category": "6013"
+        },
+        {
+          "appId": 728293729,
+          "name": "Blue Shield of California",
+          "publisher": "Blue Shield of California",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3a/b0/36/3ab036c5-f61c-2832-74d2-4625a89fa3d6/AppIcon-0-0-1x_U007emarketing-0-0-0-6-0-0-85-220.png/180x180bb.png",
+          "rating": 4.8,
+          "ratingCount": 21100,
+          "price": "0.00",
+          "rank": 247,
+          "category": "6013"
+        },
+        {
+          "appId": 286906691,
+          "name": "Lifesum: AI Calorie Counter",
+          "publisher": "Lifesum AB",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/10/c5/20/10c520cd-22cd-25c4-1678-b2d51d6d20c4/AppIcon-0-0-1x_U007epad-0-1-0-P3-85-220.png/180x180bb.png",
+          "rating": 4.6,
+          "ratingCount": 150000,
+          "price": "0.00",
+          "rank": 250,
+          "category": "6013"
+        }
+      ]
+    }
+  }
+}
