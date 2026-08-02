@@ -1,0 +1,363 @@
+{
+  "date": "2026-08-02",
+  "changes": {
+    "6012": {
+      "added": [
+        {
+          "appId": 1551794721,
+          "name": "EVA AI Soulmate",
+          "publisher": "Novi Limited",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5a/05/a1/5a05a1d7-679f-19d8-1eed-717353ca86a1/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.jpeg/180x180bb.png",
+          "rating": 4.3,
+          "ratingCount": 24600,
+          "price": "0.00",
+          "rank": 199,
+          "category": "6012"
+        },
+        {
+          "appId": 1222730617,
+          "name": "Parking Kitty",
+          "publisher": "City of Portland",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/57/d6/02/57d602dd-1866-679a-2f44-9f06eafa084f/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/180x180bb.png",
+          "rating": 4.9,
+          "ratingCount": 9213,
+          "price": "0.00",
+          "rank": 208,
+          "category": "6012"
+        },
+        {
+          "appId": 1520070391,
+          "name": "GHOST Lifestyle",
+          "publisher": "GHOST Lifestyle",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5a/d7/01/5ad70123-f326-bf6a-7475-99328ba6dd1b/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/180x180bb.png",
+          "rating": 4.6,
+          "ratingCount": 372,
+          "price": "0.00",
+          "rank": 210,
+          "category": "6012"
+        },
+        {
+          "appId": 1018443930,
+          "name": "Estate Sales - EstateSales.NET",
+          "publisher": "EstateSales.NET",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/84/bc/27/84bc273e-bda8-e8f3-a04a-ad8dd9bc9caa/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-85-220.png/100x100bb.jpg",
+          "rating": 4.9,
+          "ratingCount": 11900,
+          "price": "0.00",
+          "rank": 219,
+          "category": "6012"
+        },
+        {
+          "appId": 1570374552,
+          "name": "FanLamp Pro",
+          "publisher": "Shenzhen Jingyuan Micro Control Technology Co., Ltd.",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7f/bd/d6/7fbdd6ad-7d9b-3225-417f-c043a143bac9/AppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.png/180x180bb.png",
+          "rating": 2,
+          "ratingCount": 704,
+          "price": "0.00",
+          "rank": 220,
+          "category": "6012"
+        },
+        {
+          "appId": 1475805212,
+          "name": "Whisker",
+          "publisher": "Automated Pet Care Products Inc. dba AutoPets",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/12/da/db/12dadbe0-1110-29e2-4891-abb297f3b42a/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/180x180bb.png",
+          "rating": 4.8,
+          "ratingCount": 140000,
+          "price": "0.00",
+          "rank": 222,
+          "category": "6012"
+        },
+        {
+          "appId": 6758353765,
+          "name": "Hint (Home Intelligence)",
+          "publisher": "Home Hub Labs, Inc.",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0f/96/0a/0f960a87-4040-d543-4f55-a64eedbebfb5/AppIcon-0-0-1x_U007ephone-0-1-sRGB-85-220.png/180x180bb.png",
+          "rating": 4.3,
+          "ratingCount": 18,
+          "price": "0.00",
+          "rank": 224,
+          "category": "6012"
+        },
+        {
+          "appId": 6754930176,
+          "name": "AI Interior Decor: Home Design",
+          "publisher": "Bloomion Tech",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a0/d7/04/a0d70482-7555-3ac8-c67f-0d2425b3ae5b/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-0-85-220.png/180x180bb.png",
+          "rating": 4.8,
+          "ratingCount": 564,
+          "price": "0.00",
+          "rank": 233,
+          "category": "6012"
+        },
+        {
+          "appId": 854624810,
+          "name": "HomeGoods",
+          "publisher": "HomeGoods",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a4/c5/75/a4c5750a-9b7f-663b-e8ee-6e5ff1089444/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/180x180bb.png",
+          "rating": 2.6,
+          "ratingCount": 2106,
+          "price": "0.00",
+          "rank": 241,
+          "category": "6012"
+        },
+        {
+          "appId": 1103530261,
+          "name": "Precious - Baby Photo Art",
+          "publisher": "Curious Creators Co.",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d3/bf/87/d3bf87cf-3772-329d-e298-8f00f1db1456/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/180x180bb.png",
+          "rating": 4.8,
+          "ratingCount": 136000,
+          "price": "0.00",
+          "rank": 244,
+          "category": "6012"
+        },
+        {
+          "appId": 1397726277,
+          "name": "Wansview Cloud",
+          "publisher": "Ajcloud Labs Inc.",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/27/9a/45/279a45ba-0b92-8ccc-81e1-1e38ddf2e8dc/AppIcon_WanviewCloud-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/180x180bb.png",
+          "rating": 4.7,
+          "ratingCount": 55100,
+          "price": "0.00",
+          "rank": 245,
+          "category": "6012"
+        },
+        {
+          "appId": 1134017691,
+          "name": "RentCheck",
+          "publisher": "RentCheck Holdings, Inc.",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/73/98/1f/73981f0f-3ef4-658b-93db-05d9c5aa53db/AppIcon-0-0-1x_U007epad-0-1-85-220.png/180x180bb.png",
+          "rating": 4.8,
+          "ratingCount": 18300,
+          "price": "0.00",
+          "rank": 246,
+          "category": "6012"
+        },
+        {
+          "appId": 955254528,
+          "name": "Flush Toilet Finder & Map",
+          "publisher": "JRustonApps B.V.",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5f/f7/62/5ff7623b-f910-2476-2105-458a46dea5ac/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/180x180bb.png",
+          "rating": 4.7,
+          "ratingCount": 9953,
+          "price": "0.00",
+          "rank": 247,
+          "category": "6012"
+        },
+        {
+          "appId": 1618979301,
+          "name": "myQQ – Quick Quack",
+          "publisher": "Quick Quack Car Wash Holdings, LLC",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d0/94/71/d0947160-7fa5-e298-e498-e674b4a920eb/AppIcon-0-0-1x_U007emarketing-0-0-0-8-0-0-85-220.png/180x180bb.png",
+          "rating": 4.8,
+          "ratingCount": 23900,
+          "price": "0.00",
+          "rank": 248,
+          "category": "6012"
+        },
+        {
+          "appId": 1489209093,
+          "name": "Microsoft Family Safety",
+          "publisher": "Microsoft Corporation",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e0/77/d2/e077d2cd-e92c-97bc-beff-2cfaab27dfb2/AppIcon-prod-1x_U007emarketing-0-6-0-0-85-220-0.png/180x180bb.png",
+          "rating": 4.1,
+          "ratingCount": 7840,
+          "price": "0.00",
+          "rank": 249,
+          "category": "6012"
+        },
+        {
+          "appId": 792612452,
+          "name": "Sensi",
+          "publisher": "Copeland LP",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ad/10/42/ad104268-c365-132a-1881-7ecb56c1fa4b/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-85-220.png/180x180bb.png",
+          "rating": 4.6,
+          "ratingCount": 238000,
+          "price": "0.00",
+          "rank": 250,
+          "category": "6012"
+        }
+      ],
+      "removed": [
+        {
+          "appId": 1065101150,
+          "name": "Lokum: Turkish Dating & Chat",
+          "publisher": "SN Web",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/03/11/61/031161fa-55ef-8f80-93bc-dab3ee1b2ae7/AppIcon-0-0-1x_U007ephone-0-1-0-sRGB-85-220.png/180x180bb.png",
+          "rating": 0,
+          "ratingCount": 0,
+          "price": "0.00",
+          "rank": 174,
+          "category": "6012"
+        },
+        {
+          "appId": 6480463426,
+          "name": "SuperAlarm - Loud Alarm Clock",
+          "publisher": "Jiseop Han",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/40/d4/bf/40d4bf26-9585-56ff-599a-e9162a2a4801/AppIconNewLight-0-0-1x_U007ephone-0-1-0-0-85-220.png/180x180bb.png",
+          "rating": 4.6,
+          "ratingCount": 4344,
+          "price": "0.00",
+          "rank": 205,
+          "category": "6012"
+        },
+        {
+          "appId": 6741145225,
+          "name": "Find My Location: Tracker",
+          "publisher": "DIGITS LTD",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d2/83/6b/d2836b36-a405-f595-ddf0-027da1d3ef25/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/180x180bb.png",
+          "rating": 4,
+          "ratingCount": 1219,
+          "price": "0.00",
+          "rank": 208,
+          "category": "6012"
+        },
+        {
+          "appId": 6746327655,
+          "name": "Just Well - Wellness Manager",
+          "publisher": "Veristen Labs",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/99/24/03/992403c8-ff0f-4948-c88a-e6e3af97037f/AppIcon-0-0-1x_U007epad-0-1-0-P3-0-85-220.png/180x180bb.png",
+          "rating": 4.4,
+          "ratingCount": 543,
+          "price": "0.00",
+          "rank": 209,
+          "category": "6012"
+        },
+        {
+          "appId": 6761726547,
+          "name": "Licensed To Glow",
+          "publisher": "Licensed To Glow",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/34/76/ab/3476ab68-3d56-2c6f-b5d3-497ffb4e0557/AppIcon-0-0-1x_U007ephone-0-1-sRGB-85-220.png/180x180bb.png",
+          "rating": 4.9,
+          "ratingCount": 72,
+          "price": "0.00",
+          "rank": 217,
+          "category": "6012"
+        },
+        {
+          "appId": 1433915149,
+          "name": "Home by ShowingTime",
+          "publisher": "ShowingTime.com, LLC",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f5/45/07/f5450752-0b16-6d41-24be-9e28f6e069bf/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.jpg",
+          "rating": 4.9,
+          "ratingCount": 16100.000000000002,
+          "price": "0.00",
+          "rank": 221,
+          "category": "6012"
+        },
+        {
+          "appId": 1492307238,
+          "name": "BenefitHub",
+          "publisher": "BenefitHub",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/48/e4/e3/48e4e3f9-e961-02ab-d371-951f74722a6a/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/180x180bb.png",
+          "rating": 4.7,
+          "ratingCount": 1828,
+          "price": "0.00",
+          "rank": 225,
+          "category": "6012"
+        },
+        {
+          "appId": 1138970986,
+          "name": "MyChoice Benefits",
+          "publisher": "Businessolver",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9c/b7/1c/9cb71c47-8112-7d5e-dcf8-6b9f3165b1ec/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/180x180bb.png",
+          "rating": 4.8,
+          "ratingCount": 22700,
+          "price": "0.00",
+          "rank": 228,
+          "category": "6012"
+        },
+        {
+          "appId": 1042822181,
+          "name": "Meeting Guide",
+          "publisher": "Alcoholics Anonymous World Services, Inc.",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c3/b2/04/c3b204fe-7bf1-d9a5-a664-2c24ac7956f8/AppIcon-0-0-1x_U007epad-0-1-85-220.png/180x180bb.png",
+          "rating": 4.4,
+          "ratingCount": 999,
+          "price": "0.00",
+          "rank": 232,
+          "category": "6012"
+        },
+        {
+          "appId": 1480411487,
+          "name": "OnStar Guardian: Safety App",
+          "publisher": "OnStar, LLC",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d9/83/dd/d983dd50-5746-4d27-84d9-06b0e9e1e5f1/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/180x180bb.png",
+          "rating": 4.8,
+          "ratingCount": 22200.000000000004,
+          "price": "0.00",
+          "rank": 240,
+          "category": "6012"
+        },
+        {
+          "appId": 6499445456,
+          "name": "AHS: American Home Shield",
+          "publisher": "Frontdoor Incorporated",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d8/6e/5a/d86e5ac0-2e6d-208c-484b-bad93c380e89/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/180x180bb.png",
+          "rating": 4.9,
+          "ratingCount": 52200,
+          "price": "0.00",
+          "rank": 241,
+          "category": "6012"
+        },
+        {
+          "appId": 6475792735,
+          "name": "Nymph: Open-Minded Dating App",
+          "publisher": "Nymph GmbH",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/42/95/fb/4295fb9b-9e4d-8c98-c669-77d78559aaa3/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/180x180bb.png",
+          "rating": 4.3,
+          "ratingCount": 431,
+          "price": "0.00",
+          "rank": 243,
+          "category": "6012"
+        },
+        {
+          "appId": 395563123,
+          "name": "Dscout",
+          "publisher": "dscout",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f0/39/2a/f0392acf-af31-16a5-561a-c9c34f978d80/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/180x180bb.png",
+          "rating": 4.4,
+          "ratingCount": 3611,
+          "price": "0.00",
+          "rank": 246,
+          "category": "6012"
+        },
+        {
+          "appId": 6450612690,
+          "name": "222 - find your people.",
+          "publisher": "TwoTwoTwo Inc.",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0a/2b/b1/0a2bb1f2-829e-09a7-e751-2f6a4befb90d/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/180x180bb.png",
+          "rating": 4.7,
+          "ratingCount": 5878,
+          "price": "0.00",
+          "rank": 247,
+          "category": "6012"
+        },
+        {
+          "appId": 1629477748,
+          "name": "Survey Spin: Get paid cash!",
+          "publisher": "SocialLoop LLC",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e5/fd/94/e5fd94fe-8c8b-52d0-a755-9253ac1ec93a/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/180x180bb.png",
+          "rating": 4.7,
+          "ratingCount": 99500,
+          "price": "0.00",
+          "rank": 248,
+          "category": "6012"
+        },
+        {
+          "appId": 6670232884,
+          "name": "SFC Plus",
+          "publisher": "BayaniPay",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/89/7e/7f/897e7ff7-b835-3df4-c44c-0b3c6f09a275/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/180x180bb.png",
+          "rating": 4.1,
+          "ratingCount": 284,
+          "price": "0.00",
+          "rank": 250,
+          "category": "6012"
+        }
+      ]
+    }
+  }
+}
