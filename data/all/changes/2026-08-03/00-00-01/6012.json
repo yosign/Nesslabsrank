@@ -1,0 +1,209 @@
+{
+  "date": "2026-08-03",
+  "changes": {
+    "6012": {
+      "added": [
+        {
+          "appId": 6741145225,
+          "name": "Find My Location: Tracker",
+          "publisher": "DIGITS LTD",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d2/83/6b/d2836b36-a405-f595-ddf0-027da1d3ef25/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/180x180bb.png",
+          "rating": 4.1,
+          "ratingCount": 1320,
+          "price": "0.00",
+          "rank": 199,
+          "category": "6012"
+        },
+        {
+          "appId": 6590628973,
+          "name": "qitaf",
+          "publisher": "STC",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/52/02/1b/52021bb2-31b5-2d5c-d5cc-48f4b8681419/AppIcon-production-0-0-1x_U007emarketing-0-8-0-85-220.png/180x180bb.png",
+          "rating": 3.6,
+          "ratingCount": 43,
+          "price": "0.00",
+          "rank": 200,
+          "category": "6012"
+        },
+        {
+          "appId": 1635913940,
+          "name": "Resident Experience",
+          "publisher": "Greystar Real Estate Partners LLC",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/38/8b/57/388b5734-5376-c96f-3dd5-08d2a02c7826/AppIcon-0-1x_U007emarketing-0-8-0-sRGB-85-220-0.png/180x180bb.png",
+          "rating": 1.4,
+          "ratingCount": 730,
+          "price": "0.00",
+          "rank": 213,
+          "category": "6012"
+        },
+        {
+          "appId": 6475792735,
+          "name": "Nymph: Open-Minded Dating App",
+          "publisher": "Nymph GmbH",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/42/95/fb/4295fb9b-9e4d-8c98-c669-77d78559aaa3/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/180x180bb.png",
+          "rating": 4.3,
+          "ratingCount": 431,
+          "price": "0.00",
+          "rank": 214,
+          "category": "6012"
+        },
+        {
+          "appId": 1595390736,
+          "name": "Instinct: Casual Dating App",
+          "publisher": "Instinct Dating Company",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/20/ef/68/20ef6828-1422-a54a-b667-bfda0e2e6337/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.jpeg/180x180bb.png",
+          "rating": 4.9,
+          "ratingCount": 131000,
+          "price": "0.00",
+          "rank": 236,
+          "category": "6012"
+        },
+        {
+          "appId": 6450687692,
+          "name": "Scan Earth: 3D Map & QR Tools",
+          "publisher": "RED HISTORY NETWORK TECHNOLOGY LIMITED",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/82/a3/5e/82a35e8b-7766-dad9-c2e2-02028e07f1f1/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/180x180bb.png",
+          "rating": 4.2,
+          "ratingCount": 199,
+          "price": "0.00",
+          "rank": 240,
+          "category": "6012"
+        },
+        {
+          "appId": 1410126781,
+          "name": "Planta: Plant & Garden Care",
+          "publisher": "Planta AB",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ff/1f/b1/ff1fb187-3d6b-5060-519a-8e1ad849aed4/AppIcon-Prod-0-0-1x_U007ephone-0-1-sRGB-85-220.png/180x180bb.png",
+          "rating": 4.8,
+          "ratingCount": 113000,
+          "price": "0.00",
+          "rank": 241,
+          "category": "6012"
+        },
+        {
+          "appId": 1504020405,
+          "name": "First Orlando",
+          "publisher": "The First Baptist Church of Orlando Inc",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4f/f4/c7/4ff4c766-5c1e-d5ad-e4b4-3cde7d15599e/AppIcon-0-0-1x_U007emarketing-0-7-85-220.png/180x180bb.png",
+          "rating": 4.6,
+          "ratingCount": 17,
+          "price": "0.00",
+          "rank": 244,
+          "category": "6012"
+        },
+        {
+          "appId": 1587679090,
+          "name": "Led Light Controller LedRemote",
+          "publisher": "Kain Suite Pte. Ltd.",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/18/bb/fe/18bbfeb6-6571-d912-0bbb-ee63292247c2/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/180x180bb.png",
+          "rating": 3.9,
+          "ratingCount": 60199.99999999999,
+          "price": "0.00",
+          "rank": 249,
+          "category": "6012"
+        }
+      ],
+      "removed": [
+        {
+          "appId": 1520070391,
+          "name": "GHOST Lifestyle",
+          "publisher": "GHOST Lifestyle",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5a/d7/01/5ad70123-f326-bf6a-7475-99328ba6dd1b/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/180x180bb.png",
+          "rating": 4.6,
+          "ratingCount": 372,
+          "price": "0.00",
+          "rank": 210,
+          "category": "6012"
+        },
+        {
+          "appId": 432633172,
+          "name": "Angi: Find Local Home Services",
+          "publisher": "Angi Inc.",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/cf/5c/95/cf5c95db-86f9-034f-a28d-0125cb572f11/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/180x180bb.png",
+          "rating": 4.5,
+          "ratingCount": 115000,
+          "price": "0.00",
+          "rank": 234,
+          "category": "6012"
+        },
+        {
+          "appId": 1485452102,
+          "name": "UserTesting",
+          "publisher": "UserTesting",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/78/82/6d/78826de5-8a20-5b31-fdea-e952f989df9f/George-AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/180x180bb.png",
+          "rating": 2.6,
+          "ratingCount": 2227,
+          "price": "0.00",
+          "rank": 238,
+          "category": "6012"
+        },
+        {
+          "appId": 6751680266,
+          "name": "UCHAD: See Your Potential",
+          "publisher": "Promi LLC",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/db/fe/a0/dbfea04b-f87a-91d6-f578-a6711c976d97/AppIcon-0-0-1x_U007epad-0-1-85-220.png/180x180bb.png",
+          "rating": 4.7,
+          "ratingCount": 12600,
+          "price": "0.00",
+          "rank": 242,
+          "category": "6012"
+        },
+        {
+          "appId": 1544694845,
+          "name": "eufy Baby",
+          "publisher": "Power Mobile Life LLC",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/64/8e/15/648e153a-b3e5-a8fc-4081-b1a123ffaa30/AppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.png/180x180bb.png",
+          "rating": 4.7,
+          "ratingCount": 8744,
+          "price": "0.00",
+          "rank": 243,
+          "category": "6012"
+        },
+        {
+          "appId": 1134017691,
+          "name": "RentCheck",
+          "publisher": "RentCheck Holdings, Inc.",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/73/98/1f/73981f0f-3ef4-658b-93db-05d9c5aa53db/AppIcon-0-0-1x_U007epad-0-1-85-220.png/180x180bb.png",
+          "rating": 4.8,
+          "ratingCount": 18300,
+          "price": "0.00",
+          "rank": 246,
+          "category": "6012"
+        },
+        {
+          "appId": 955254528,
+          "name": "Flush Toilet Finder & Map",
+          "publisher": "JRustonApps B.V.",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5f/f7/62/5ff7623b-f910-2476-2105-458a46dea5ac/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/180x180bb.png",
+          "rating": 4.7,
+          "ratingCount": 9953,
+          "price": "0.00",
+          "rank": 247,
+          "category": "6012"
+        },
+        {
+          "appId": 1618979301,
+          "name": "myQQ – Quick Quack",
+          "publisher": "Quick Quack Car Wash Holdings, LLC",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d0/94/71/d0947160-7fa5-e298-e498-e674b4a920eb/AppIcon-0-0-1x_U007emarketing-0-0-0-8-0-0-85-220.png/180x180bb.png",
+          "rating": 4.8,
+          "ratingCount": 23900,
+          "price": "0.00",
+          "rank": 248,
+          "category": "6012"
+        },
+        {
+          "appId": 792612452,
+          "name": "Sensi",
+          "publisher": "Copeland LP",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ad/10/42/ad104268-c365-132a-1881-7ecb56c1fa4b/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-85-220.png/180x180bb.png",
+          "rating": 4.6,
+          "ratingCount": 238000,
+          "price": "0.00",
+          "rank": 250,
+          "category": "6012"
+        }
+      ]
+    }
+  }
+}
