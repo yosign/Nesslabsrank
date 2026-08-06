@@ -5,8 +5,8 @@
     {
       "appId": 6761863941,
       "previous_rank": 156,
-      "current_rank": 49,
-      "rank_change": 107,
+      "current_rank": 46,
+      "rank_change": 110,
       "category": "6012",
       "date": "2026-08-06",
       "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/de/3b/37/de3b376b-672c-0cd7-e9a1-2d97b5a1696d/AppIcon-0-1x_U007ephone-0-1-85-220-0.jpeg/180x180bb.png",
@@ -14,10 +14,21 @@
       "publisher": "Dat Dao Manh"
     },
     {
+      "appId": 6480463426,
+      "previous_rank": 174,
+      "current_rank": 110,
+      "rank_change": 64,
+      "category": "6012",
+      "date": "2026-08-06",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/45/8e/5f/458e5fd1-89fb-5336-b223-1dfcf22cbb13/AppIconNewLight-0-0-1x_U007ephone-0-1-0-0-85-220.png/180x180bb.png",
+      "app_name": "SuperAlarm - Loud Alarm Clock",
+      "publisher": "Jiseop Han"
+    },
+    {
       "appId": 6775974979,
       "previous_rank": 135,
-      "current_rank": 81,
-      "rank_change": 54,
+      "current_rank": 73,
+      "rank_change": 62,
       "category": "6012",
       "date": "2026-08-06",
       "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d7/90/f2/d790f245-f91d-4af8-00cc-11743a724069/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/180x180bb.png",
@@ -25,10 +36,21 @@
       "publisher": "Orbit Intelligence, Inc."
     },
     {
+      "appId": 351091731,
+      "previous_rank": 247,
+      "current_rank": 192,
+      "rank_change": 55,
+      "category": "6012",
+      "date": "2026-08-06",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/58/c0/0e/58c00e11-7803-733a-1bce-5daf7226c721/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/100x100bb.jpg",
+      "app_name": "Dianping: Discover Good Places",
+      "publisher": "Hanhai Information Technology (Shanghai) Co.Ltd"
+    },
+    {
       "appId": 1664083251,
       "previous_rank": 208,
-      "current_rank": 161,
-      "rank_change": 47,
+      "current_rank": 158,
+      "rank_change": 50,
       "category": "6012",
       "date": "2026-08-06",
       "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/50/ad/d7/50add77c-488a-6676-c02c-127497323773/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/180x180bb.png",
@@ -36,37 +58,15 @@
       "publisher": "Codenhagen.IO ApS"
     },
     {
-      "appId": 1055281310,
-      "previous_rank": 222,
-      "current_rank": 182,
-      "rank_change": 40,
+      "appId": 423084029,
+      "previous_rank": 237,
+      "current_rank": 193,
+      "rank_change": 44,
       "category": "6012",
       "date": "2026-08-06",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/93/c2/09/93c2095a-8d29-1b44-8cd1-2a1ab4957e4b/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/180x180bb.png",
-      "app_name": "Philips Hue",
-      "publisher": "Signify Netherlands B.V."
-    },
-    {
-      "appId": 1544694845,
-      "previous_rank": 248,
-      "current_rank": 209,
-      "rank_change": 39,
-      "category": "6012",
-      "date": "2026-08-06",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/64/8e/15/648e153a-b3e5-a8fc-4081-b1a123ffaa30/AppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.png/180x180bb.png",
-      "app_name": "eufy Baby",
-      "publisher": "Power Mobile Life LLC"
-    },
-    {
-      "appId": 6450612690,
-      "previous_rank": 241,
-      "current_rank": 203,
-      "rank_change": 38,
-      "category": "6012",
-      "date": "2026-08-06",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0a/2b/b1/0a2bb1f2-829e-09a7-e751-2f6a4befb90d/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/180x180bb.png",
-      "app_name": "222 - find your people.",
-      "publisher": "TwoTwoTwo Inc."
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/de/44/7e/de447ee7-33b4-fb43-96e8-f7754154a8e0/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-85-220.png/180x180bb.png",
+      "app_name": "美团-美好生活小帮手",
+      "publisher": "美团"
     }
   ]
 }
