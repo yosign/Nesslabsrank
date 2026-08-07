@@ -1,0 +1,363 @@
+{
+  "date": "2026-08-07",
+  "changes": {
+    "6012": {
+      "added": [
+        {
+          "appId": 1299313149,
+          "name": "PNM Companion",
+          "publisher": "TechniPhi, Inc",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/da/d5/48/dad54837-68d7-a82d-9aed-35d7c9d87834/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/180x180bb.png",
+          "rating": 1.5,
+          "ratingCount": 62,
+          "price": "0.00",
+          "rank": 55,
+          "category": "6012"
+        },
+        {
+          "appId": 6760149692,
+          "name": "\\'47: Sports Hats & Fan Apparel",
+          "publisher": "'47 Brand",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/dc/5f/f3/dc5ff397-72f8-2466-d1e6-6a4c2e8b70cd/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/180x180bb.png",
+          "rating": 5,
+          "ratingCount": 9,
+          "price": "0.00",
+          "rank": 63,
+          "category": "6012"
+        },
+        {
+          "appId": 1212205667,
+          "name": "iVueit: Earn Cash For Surveys",
+          "publisher": "TruPic Media LLC",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f4/e4/66/f4e4663f-1cd8-2b2e-d210-f100d03d7186/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/180x180bb.png",
+          "rating": 4.2,
+          "ratingCount": 3315,
+          "price": "0.00",
+          "rank": 99,
+          "category": "6012"
+        },
+        {
+          "appId": 1672660475,
+          "name": "Kale - Creator Rewards",
+          "publisher": "Palette Technologies Inc",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/94/d6/61/94d661ca-e43d-afd7-3d23-57572a76633d/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/180x180bb.png",
+          "rating": 4.9,
+          "ratingCount": 6095,
+          "price": "0.00",
+          "rank": 115,
+          "category": "6012"
+        },
+        {
+          "appId": 351091731,
+          "name": "Dianping: Discover Good Places",
+          "publisher": "Hanhai Information Technology (Shanghai) Co.Ltd",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/58/c0/0e/58c00e11-7803-733a-1bce-5daf7226c721/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/100x100bb.jpg",
+          "rating": 4.7,
+          "ratingCount": 7021,
+          "price": "0.00",
+          "rank": 188,
+          "category": "6012"
+        },
+        {
+          "appId": 6452803631,
+          "name": "Investfest",
+          "publisher": "Earn Your Leisure LLC",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e6/92/aa/e692aaab-6311-98ad-f04f-9d0b9d0c2dcc/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/180x180bb.png",
+          "rating": 4.5,
+          "ratingCount": 15,
+          "price": "0.00",
+          "rank": 194,
+          "category": "6012"
+        },
+        {
+          "appId": 1520070391,
+          "name": "GHOST Lifestyle",
+          "publisher": "GHOST Lifestyle",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5a/d7/01/5ad70123-f326-bf6a-7475-99328ba6dd1b/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/180x180bb.png",
+          "rating": 4.6,
+          "ratingCount": 373,
+          "price": "0.00",
+          "rank": 203,
+          "category": "6012"
+        },
+        {
+          "appId": 994098803,
+          "name": "Findmykids: GPS Phone Tracker",
+          "publisher": "LETEM LTD",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0f/a9/20/0fa9206c-575f-ba93-b829-d77c7f2ce9c4/AppIcon-Kids-0-0-1x_U007ephone-0-1-0-sRGB-0-85-220.png/180x180bb.png",
+          "rating": 4.7,
+          "ratingCount": 22300,
+          "price": "0.00",
+          "rank": 214,
+          "category": "6012"
+        },
+        {
+          "appId": 1376880637,
+          "name": "Surveymonkey Rewards",
+          "publisher": "SurveyMonkey",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/32/a6/80/32a680a0-f705-c347-8789-0399e40c9175/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/180x180bb.png",
+          "rating": 4.7,
+          "ratingCount": 23900,
+          "price": "0.00",
+          "rank": 215,
+          "category": "6012"
+        },
+        {
+          "appId": 6754930176,
+          "name": "AI Interior Decor: Home Design",
+          "publisher": "Bloomion Tech",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e6/df/60/e6df6018-7259-c499-d087-e915d8efe7a1/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-0-85-220.png/180x180bb.png",
+          "rating": 4.8,
+          "ratingCount": 599,
+          "price": "0.00",
+          "rank": 217,
+          "category": "6012"
+        },
+        {
+          "appId": 6475792735,
+          "name": "Nymph: Open-Minded Dating App",
+          "publisher": "Nymph GmbH",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d0/71/8b/d0718bcb-649f-2ce8-1271-48904a3fc20d/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/180x180bb.png",
+          "rating": 4.3,
+          "ratingCount": 513,
+          "price": "0.00",
+          "rank": 241,
+          "category": "6012"
+        },
+        {
+          "appId": 1570374552,
+          "name": "FanLamp Pro",
+          "publisher": "Shenzhen Jingyuan Micro Control Technology Co., Ltd.",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7f/bd/d6/7fbdd6ad-7d9b-3225-417f-c043a143bac9/AppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.png/180x180bb.png",
+          "rating": 2,
+          "ratingCount": 707,
+          "price": "0.00",
+          "rank": 243,
+          "category": "6012"
+        },
+        {
+          "appId": 1532791252,
+          "name": "CHANI: Your Astrology Guide",
+          "publisher": "Chani Nicholas Incorporated",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/fd/01/71/fd017107-b6ee-bfa7-86ae-90dd7fc107fc/AppIcon-0-0-1x_U007epad-0-1-85-220.png/180x180bb.png",
+          "rating": 4.9,
+          "ratingCount": 56500,
+          "price": "0.00",
+          "rank": 244,
+          "category": "6012"
+        },
+        {
+          "appId": 1591156837,
+          "name": "ToChat - Meet New Friends",
+          "publisher": "ByteWave Corporation",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f4/4f/aa/f44faafa-265c-2376-2990-280181b5d190/AppIconNew-1x_U007emarketing-0-8-0-85-220-0.png/180x180bb.png",
+          "rating": 4.5,
+          "ratingCount": 5714,
+          "price": "0.00",
+          "rank": 247,
+          "category": "6012"
+        },
+        {
+          "appId": 6451155639,
+          "name": "Vet Tix",
+          "publisher": "Veteran Tickets Foundation",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/da/5b/7c/da5b7c88-44a8-81f8-9ea1-15a6d24d9b3a/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/180x180bb.png",
+          "rating": 3.6,
+          "ratingCount": 314,
+          "price": "0.00",
+          "rank": 248,
+          "category": "6012"
+        },
+        {
+          "appId": 1587679090,
+          "name": "Led Light Controller LedRemote",
+          "publisher": "Kain Suite Pte. Ltd.",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/18/bb/fe/18bbfeb6-6571-d912-0bbb-ee63292247c2/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/180x180bb.png",
+          "rating": 3.9,
+          "ratingCount": 60199.99999999999,
+          "price": "0.00",
+          "rank": 249,
+          "category": "6012"
+        }
+      ],
+      "removed": [
+        {
+          "appId": 1638796139,
+          "name": "favorited",
+          "publisher": "Like Labs, Inc.",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f8/f0/a3/f8f0a30c-f07d-89f7-abb4-f365afe23313/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/180x180bb.png",
+          "rating": 4.6,
+          "ratingCount": 8265,
+          "price": "0.00",
+          "rank": 162,
+          "category": "6012"
+        },
+        {
+          "appId": 1118127167,
+          "name": "MyVote by TechniPhi",
+          "publisher": "TechniPhi, Inc",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/19/50/75/1950756d-5992-a3a0-ca73-3c8253261706/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/180x180bb.png",
+          "rating": 2.6,
+          "ratingCount": 9,
+          "price": "0.00",
+          "rank": 171,
+          "category": "6012"
+        },
+        {
+          "appId": 899058806,
+          "name": "Rave Panic Button",
+          "publisher": "Rave Mobile Safety",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/66/e2/56/66e25630-7de0-0339-5422-d768f1008e02/AppIcon-0-0-1x_U007emarketing-0-6-0-sRGB-85-220.png/180x180bb.png",
+          "rating": 4.7,
+          "ratingCount": 564,
+          "price": "0.00",
+          "rank": 190,
+          "category": "6012"
+        },
+        {
+          "appId": 6499445456,
+          "name": "AHS: American Home Shield",
+          "publisher": "Frontdoor Incorporated",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e4/5d/1d/e45d1db7-f1bb-c6a3-245c-5512bd111681/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/180x180bb.png",
+          "rating": 4.9,
+          "ratingCount": 52699.99999999999,
+          "price": "0.00",
+          "rank": 194,
+          "category": "6012"
+        },
+        {
+          "appId": 6738174180,
+          "name": "Dressly: AI Outfit Stylist",
+          "publisher": "TIKVEX LIMITED",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1d/3c/b2/1d3cb23e-466e-be34-0fc8-7876255ba8a0/AppIcon-0-0-1x_U007epad-0-1-85-220.png/180x180bb.png",
+          "rating": 4.4,
+          "ratingCount": 28500,
+          "price": "0.00",
+          "rank": 196,
+          "category": "6012"
+        },
+        {
+          "appId": 6471983227,
+          "name": "IDEXX Vello",
+          "publisher": "IDEXX Laboratories",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/97/a9/6a/97a96a38-cb33-b51c-6312-1e8a8969dc33/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/180x180bb.png",
+          "rating": 4.1,
+          "ratingCount": 10,
+          "price": "0.00",
+          "rank": 208,
+          "category": "6012"
+        },
+        {
+          "appId": 6768380647,
+          "name": "KidHub by Unleashed Brands",
+          "publisher": "Unleashed Services",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/bf/33/20/bf332034-60e9-442e-9fca-ed0e5d9bea36/AppIcon-0-0-1x_U007epad-0-1-85-220.png/180x180bb.png",
+          "rating": 4.7,
+          "ratingCount": 274,
+          "price": "0.00",
+          "rank": 219,
+          "category": "6012"
+        },
+        {
+          "appId": 1465996742,
+          "name": "Kwikset",
+          "publisher": "ASSA ABLOY AMERICAS RESIDENTIAL INC.",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e1/fb/c4/e1fbc4dc-1d8a-d865-c9d9-94a5052e26cb/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/180x180bb.png",
+          "rating": 4.8,
+          "ratingCount": 52600,
+          "price": "0.00",
+          "rank": 225,
+          "category": "6012"
+        },
+        {
+          "appId": 6736725704,
+          "name": "Nintendo Today!",
+          "publisher": "Nintendo Co., Ltd.",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d9/d4/ee/d9d4eefa-ab56-45b5-164d-b1121bf91cc0/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/180x180bb.png",
+          "rating": 4.3,
+          "ratingCount": 948,
+          "price": "0.00",
+          "rank": 235,
+          "category": "6012"
+        },
+        {
+          "appId": 1403308360,
+          "name": "Sport Clips Haircuts Check-In",
+          "publisher": "Sport Clips",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4c/7e/23/4c7e232f-71a2-2f3f-3a37-2a5349fd9811/AppIcon-1x_U007ephone-0-1-85-220-0.png/180x180bb.png",
+          "rating": 4.8,
+          "ratingCount": 55800,
+          "price": "0.00",
+          "rank": 238,
+          "category": "6012"
+        },
+        {
+          "appId": 1437699295,
+          "name": "Sniffspot - Private Dog Parks",
+          "publisher": "Sniffspot, Inc.",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/27/59/1a/27591a25-48fb-be3d-6123-5b9cea254997/AppIcon-0-0-1x_U007emarketing-0-9-0-85-220.png/180x180bb.png",
+          "rating": 4.9,
+          "ratingCount": 23000,
+          "price": "0.00",
+          "rank": 240,
+          "category": "6012"
+        },
+        {
+          "appId": 328453619,
+          "name": "Care.com: Hire Caregivers",
+          "publisher": "Care.com, Inc.",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/bd/84/f6/bd84f671-41ee-7573-7bc5-4dbee34416a9/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/180x180bb.png",
+          "rating": 4.4,
+          "ratingCount": 39600,
+          "price": "0.00",
+          "rank": 241,
+          "category": "6012"
+        },
+        {
+          "appId": 1629477748,
+          "name": "Survey Spin: Get paid cash!",
+          "publisher": "SocialLoop LLC",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e5/fd/94/e5fd94fe-8c8b-52d0-a755-9253ac1ec93a/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/180x180bb.png",
+          "rating": 4.7,
+          "ratingCount": 100000,
+          "price": "0.00",
+          "rank": 242,
+          "category": "6012"
+        },
+        {
+          "appId": 6767750481,
+          "name": "Solmira",
+          "publisher": "Nupur Rastogi",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b6/2e/0d/b62e0d01-98f3-f594-6315-a869d7af4bb6/AppIcon-1x_U007ephone-0-1-0-85-220-0.png/180x180bb.png",
+          "rating": 4.5,
+          "ratingCount": 8086,
+          "price": "0.00",
+          "rank": 248,
+          "category": "6012"
+        },
+        {
+          "appId": 6759252139,
+          "name": "Quick Family Tree Maker & DNA",
+          "publisher": "D J & F LLC",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3b/e1/4f/3be14fc1-49d9-93a9-7276-04ea5dba5471/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/180x180bb.png",
+          "rating": 4.6,
+          "ratingCount": 90,
+          "price": "0.00",
+          "rank": 249,
+          "category": "6012"
+        },
+        {
+          "appId": 6740480652,
+          "name": "TopSurveys: Earn Free Cash Now",
+          "publisher": "Top Survey AB",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5b/2c/a6/5b2ca602-664f-57c8-d845-556289ee5be5/AppIcon-0-0-1x_U007epad-0-1-85-220.png/180x180bb.png",
+          "rating": 4.7,
+          "ratingCount": 94100,
+          "price": "0.00",
+          "rank": 250,
+          "category": "6012"
+        }
+      ]
+    }
+  }
+}
