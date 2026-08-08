@@ -1,0 +1,209 @@
+{
+  "date": "2026-08-08",
+  "changes": {
+    "6012": {
+      "added": [
+        {
+          "appId": 6760149692,
+          "name": "\\'47: Sports Hats & Fan Apparel",
+          "publisher": "'47 Brand",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/dc/5f/f3/dc5ff397-72f8-2466-d1e6-6a4c2e8b70cd/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/180x180bb.png",
+          "rating": 5,
+          "ratingCount": 9,
+          "price": "0.00",
+          "rank": 66,
+          "category": "6012"
+        },
+        {
+          "appId": 1672660475,
+          "name": "Kale - Creator Rewards",
+          "publisher": "Palette Technologies Inc",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/94/d6/61/94d661ca-e43d-afd7-3d23-57572a76633d/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/180x180bb.png",
+          "rating": 4.9,
+          "ratingCount": 6095,
+          "price": "0.00",
+          "rank": 76,
+          "category": "6012"
+        },
+        {
+          "appId": 6452803631,
+          "name": "Investfest",
+          "publisher": "Earn Your Leisure LLC",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e6/92/aa/e692aaab-6311-98ad-f04f-9d0b9d0c2dcc/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/180x180bb.png",
+          "rating": 4.5,
+          "ratingCount": 15,
+          "price": "0.00",
+          "rank": 144,
+          "category": "6012"
+        },
+        {
+          "appId": 6473748536,
+          "name": "Astra - Life Advice",
+          "publisher": "Vert Ventures",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/19/b4/5e/19b45ef8-6ce8-2e66-3fe1-c0f3af4c9a2a/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/180x180bb.png",
+          "rating": 4.7,
+          "ratingCount": 38100,
+          "price": "0.00",
+          "rank": 163,
+          "category": "6012"
+        },
+        {
+          "appId": 1437699295,
+          "name": "Sniffspot - Private Dog Parks",
+          "publisher": "Sniffspot, Inc.",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/27/59/1a/27591a25-48fb-be3d-6123-5b9cea254997/AppIcon-0-0-1x_U007emarketing-0-9-0-85-220.png/180x180bb.png",
+          "rating": 4.9,
+          "ratingCount": 23000,
+          "price": "0.00",
+          "rank": 229,
+          "category": "6012"
+        },
+        {
+          "appId": 1367606835,
+          "name": "Ting",
+          "publisher": "Whisker Labs, Inc.",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/91/84/cf/9184cfa6-af30-2d3f-b4f2-6277e3cece5e/AppIcon-0-0-1x_U007epad-0-1-85-220.png/180x180bb.png",
+          "rating": 4.8,
+          "ratingCount": 105000,
+          "price": "0.00",
+          "rank": 236,
+          "category": "6012"
+        },
+        {
+          "appId": 6475792735,
+          "name": "Nymph: Open-Minded Dating App",
+          "publisher": "Nymph GmbH",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d0/71/8b/d0718bcb-649f-2ce8-1271-48904a3fc20d/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/180x180bb.png",
+          "rating": 4.3,
+          "ratingCount": 513,
+          "price": "0.00",
+          "rank": 245,
+          "category": "6012"
+        },
+        {
+          "appId": 792612452,
+          "name": "Sensi",
+          "publisher": "Copeland LP",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ad/10/42/ad104268-c365-132a-1881-7ecb56c1fa4b/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-85-220.png/180x180bb.png",
+          "rating": 4.6,
+          "ratingCount": 238000,
+          "price": "0.00",
+          "rank": 246,
+          "category": "6012"
+        },
+        {
+          "appId": 1222730617,
+          "name": "Parking Kitty",
+          "publisher": "City of Portland",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/57/d6/02/57d602dd-1866-679a-2f44-9f06eafa084f/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/180x180bb.png",
+          "rating": 4.9,
+          "ratingCount": 9235,
+          "price": "0.00",
+          "rank": 250,
+          "category": "6012"
+        }
+      ],
+      "removed": [
+        {
+          "appId": 6761863941,
+          "name": "Momently",
+          "publisher": "Dat Dao Manh",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/de/3b/37/de3b376b-672c-0cd7-e9a1-2d97b5a1696d/AppIcon-0-1x_U007ephone-0-1-85-220-0.jpeg/180x180bb.png",
+          "rating": 3.1,
+          "ratingCount": 12,
+          "price": "0.00",
+          "rank": 72,
+          "category": "6012"
+        },
+        {
+          "appId": 6756888991,
+          "name": "MyFision",
+          "publisher": "Hotwire Communications, Ltd",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4c/7b/71/4c7b7198-6e44-c4fe-c7a2-2d0a03dd7e64/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/180x180bb.png",
+          "rating": 4.1,
+          "ratingCount": 35,
+          "price": "0.00",
+          "rank": 141,
+          "category": "6012"
+        },
+        {
+          "appId": 955254528,
+          "name": "Flush Toilet Finder & Map",
+          "publisher": "JRustonApps B.V.",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/22/87/ca/2287ca7f-d5af-053f-bcc1-be5dcbbe6a45/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/180x180bb.png",
+          "rating": 4.7,
+          "ratingCount": 10000,
+          "price": "0.00",
+          "rank": 215,
+          "category": "6012"
+        },
+        {
+          "appId": 6776477513,
+          "name": "PetMira-Cat Translator&AI Care",
+          "publisher": "PAWNESE HK LIMITED",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4e/27/97/4e279791-e748-5aae-dffc-e6053df7f310/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/180x180bb.png",
+          "rating": 4.8,
+          "ratingCount": 65,
+          "price": "0.00",
+          "rank": 225,
+          "category": "6012"
+        },
+        {
+          "appId": 6740829034,
+          "name": "snag sublets",
+          "publisher": "OneRoof App, Co.",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/45/ab/25/45ab25f1-42dd-1638-6f76-6977ab9bef7a/AppIcon-1x_U007ephone-0-1-0-85-220-0.png/180x180bb.png",
+          "rating": 4.7,
+          "ratingCount": 519,
+          "price": "0.00",
+          "rank": 227,
+          "category": "6012"
+        },
+        {
+          "appId": 6450612690,
+          "name": "222 - find your people.",
+          "publisher": "TwoTwoTwo Inc.",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0a/2b/b1/0a2bb1f2-829e-09a7-e751-2f6a4befb90d/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/180x180bb.png",
+          "rating": 4.7,
+          "ratingCount": 5956,
+          "price": "0.00",
+          "rank": 240,
+          "category": "6012"
+        },
+        {
+          "appId": 328453619,
+          "name": "Care.com: Hire Caregivers",
+          "publisher": "Care.com, Inc.",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/bd/84/f6/bd84f671-41ee-7573-7bc5-4dbee34416a9/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/180x180bb.png",
+          "rating": 4.4,
+          "ratingCount": 39600,
+          "price": "0.00",
+          "rank": 243,
+          "category": "6012"
+        },
+        {
+          "appId": 1489209093,
+          "name": "Microsoft Family Safety",
+          "publisher": "Microsoft Corporation",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e0/77/d2/e077d2cd-e92c-97bc-beff-2cfaab27dfb2/AppIcon-prod-1x_U007emarketing-0-6-0-0-85-220-0.png/180x180bb.png",
+          "rating": 4.1,
+          "ratingCount": 7840,
+          "price": "0.00",
+          "rank": 244,
+          "category": "6012"
+        },
+        {
+          "appId": 6739810324,
+          "name": "Smoothspeak: AI Dating Coach",
+          "publisher": "ProdTrace, Inc",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/62/4d/50/624d5043-8dd4-eb0d-0fb1-7144a0b80612/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/180x180bb.png",
+          "rating": 4.8,
+          "ratingCount": 15200,
+          "price": "0.00",
+          "rank": 247,
+          "category": "6012"
+        }
+      ]
+    }
+  }
+}
