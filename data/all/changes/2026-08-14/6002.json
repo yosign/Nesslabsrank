@@ -5,8 +5,8 @@
     {
       "appId": 1485352913,
       "previous_rank": 238,
-      "current_rank": 132,
-      "rank_change": 106,
+      "current_rank": 138,
+      "rank_change": 100,
       "category": "6002",
       "date": "2026-08-14",
       "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/34/55/27/3455273b-5736-2e6c-1a88-c05860e9e4b2/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/180x180bb.png",
@@ -16,8 +16,8 @@
     {
       "appId": 6757016336,
       "previous_rank": 189,
-      "current_rank": 84,
-      "rank_change": 105,
+      "current_rank": 91,
+      "rank_change": 98,
       "category": "6002",
       "date": "2026-08-14",
       "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/77/59/31/7759310a-260a-6386-ed31-6473ee4b6f80/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/180x180bb.png",
@@ -27,8 +27,8 @@
     {
       "appId": 1667391175,
       "previous_rank": 216,
-      "current_rank": 139,
-      "rank_change": 77,
+      "current_rank": 141,
+      "rank_change": 75,
       "category": "6002",
       "date": "2026-08-14",
       "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/49/60/7f/49607f45-18b2-6c8c-c812-c495f20f9a39/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/180x180bb.png",
@@ -36,10 +36,21 @@
       "publisher": "Koodos, Inc."
     },
     {
+      "appId": 6757973175,
+      "previous_rank": 200,
+      "current_rank": 135,
+      "rank_change": 65,
+      "category": "6002",
+      "date": "2026-08-14",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/cc/1a/35/cc1a353d-b883-b10e-8026-57e34ff0fd46/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/180x180bb.png",
+      "app_name": "MoodPlayer - Media Player",
+      "publisher": "HK MILE"
+    },
+    {
       "appId": 1455009028,
       "previous_rank": 245,
-      "current_rank": 172,
-      "rank_change": 73,
+      "current_rank": 189,
+      "rank_change": 56,
       "category": "6002",
       "date": "2026-08-14",
       "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/34/0e/3d/340e3dfd-fe95-dc95-6c60-4a61e01ede8c/AppIcon-0-0-1x_U007emarketing-0-8-0-sRGB-85-220.png/180x180bb.png",
@@ -47,26 +58,15 @@
       "publisher": "Oz Shabbatth"
     },
     {
-      "appId": 6751788535,
-      "previous_rank": 141,
-      "current_rank": 76,
-      "rank_change": 65,
+      "appId": 1584764976,
+      "previous_rank": 155,
+      "current_rank": 100,
+      "rank_change": 55,
       "category": "6002",
       "date": "2026-08-14",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/50/5d/2b/505d2bdb-34b5-c6f4-55a1-3c4d77861804/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/180x180bb.png",
-      "app_name": "ImageSolver AI",
-      "publisher": "Bee Kuan Goh"
-    },
-    {
-      "appId": 6757973175,
-      "previous_rank": 200,
-      "current_rank": 137,
-      "rank_change": 63,
-      "category": "6002",
-      "date": "2026-08-14",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/cc/1a/35/cc1a353d-b883-b10e-8026-57e34ff0fd46/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/180x180bb.png",
-      "app_name": "MoodPlayer - Media Player",
-      "publisher": "HK MILE"
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5d/91/2d/5d912d68-2a91-bc20-a977-a99d7eb451cd/AppIcon-icon_v3_3-0-0-1x_U007ephone-0-11-0-sRGB-85-220.png/180x180bb.png",
+      "app_name": "QR Code Reader＊Barcode Scanner",
+      "publisher": "VISARGERD, S.L."
     }
   ]
 }
