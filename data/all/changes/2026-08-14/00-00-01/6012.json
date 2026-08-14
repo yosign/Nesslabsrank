@@ -1,0 +1,231 @@
+{
+  "date": "2026-08-14",
+  "changes": {
+    "6012": {
+      "added": [
+        {
+          "appId": 990655529,
+          "name": "Global Citizen: Take Action",
+          "publisher": "Global Poverty Project, Inc",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ea/a6/ae/eaa6aed3-2535-c192-a8e5-5f0af29c584e/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/180x180bb.png",
+          "rating": 3.7,
+          "ratingCount": 147,
+          "price": "0.00",
+          "rank": 159,
+          "category": "6012"
+        },
+        {
+          "appId": 6751680266,
+          "name": "UCHAD: See Your Potential",
+          "publisher": "Promi LLC",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fc/04/77/fc047711-8364-4c72-f705-3995d3e753fc/AppIcon-0-0-1x_U007epad-0-1-85-220.png/180x180bb.png",
+          "rating": 4.7,
+          "ratingCount": 13200,
+          "price": "0.00",
+          "rank": 168,
+          "category": "6012"
+        },
+        {
+          "appId": 6737127897,
+          "name": "Homeaglow",
+          "publisher": "homeaglow",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/58/38/34/58383459-f860-cfbb-78b3-a1e087affdb3/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/180x180bb.png",
+          "rating": 4.5,
+          "ratingCount": 81,
+          "price": "0.00",
+          "rank": 210,
+          "category": "6012"
+        },
+        {
+          "appId": 443052658,
+          "name": "Surveys On The Go",
+          "publisher": "MFour Mobile Research, Inc",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/17/cc/b4/17ccb406-7a6a-1f9c-3d38-1a3b432b3e60/AppIcon-0-0-1x_U007emarketing-0-10-0-sRGB-85-220.png/180x180bb.png",
+          "rating": 4.5,
+          "ratingCount": 92800,
+          "price": "0.00",
+          "rank": 232,
+          "category": "6012"
+        },
+        {
+          "appId": 1433915149,
+          "name": "Home by ShowingTime",
+          "publisher": "ShowingTime.com, LLC",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f5/45/07/f5450752-0b16-6d41-24be-9e28f6e069bf/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.jpg",
+          "rating": 4.9,
+          "ratingCount": 16100.000000000002,
+          "price": "0.00",
+          "rank": 240,
+          "category": "6012"
+        },
+        {
+          "appId": 6741428388,
+          "name": "Earn Money & Rewards: Prograd",
+          "publisher": "Prograd Limited",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ca/f2/a8/caf2a860-c238-e409-752f-fd9001f8de2a/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/180x180bb.png",
+          "rating": 4.7,
+          "ratingCount": 1580,
+          "price": "0.00",
+          "rank": 244,
+          "category": "6012"
+        },
+        {
+          "appId": 1626186138,
+          "name": "Roku Smart Home",
+          "publisher": "ROKU INC",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/91/97/a9/9197a9a5-df23-205b-286d-7a7850c98ae9/RokuAppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/180x180bb.png",
+          "rating": 4.7,
+          "ratingCount": 163000,
+          "price": "0.00",
+          "rank": 245,
+          "category": "6012"
+        },
+        {
+          "appId": 351091731,
+          "name": "Dianping: Discover Good Places",
+          "publisher": "Hanhai Information Technology (Shanghai) Co.Ltd",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/bd/25/9a/bd259a5a-5c07-f8d4-f648-8b32ac36c700/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/180x180bb.png",
+          "rating": 4.7,
+          "ratingCount": 7023,
+          "price": "0.00",
+          "rank": 246,
+          "category": "6012"
+        },
+        {
+          "appId": 552472249,
+          "name": "CARFAX Car Care",
+          "publisher": "CARFAX, Inc.",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d9/46/72/d94672ba-5df6-bccd-0168-3eddeaf17b5a/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/180x180bb.png",
+          "rating": 4.8,
+          "ratingCount": 126000,
+          "price": "0.00",
+          "rank": 248,
+          "category": "6012"
+        },
+        {
+          "appId": 6768380647,
+          "name": "KidHub by Unleashed Brands",
+          "publisher": "Unleashed Services",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/bf/33/20/bf332034-60e9-442e-9fca-ed0e5d9bea36/AppIcon-0-0-1x_U007epad-0-1-85-220.png/180x180bb.png",
+          "rating": 4.8,
+          "ratingCount": 341,
+          "price": "0.00",
+          "rank": 250,
+          "category": "6012"
+        }
+      ],
+      "removed": [
+        {
+          "appId": 6795967947,
+          "name": "Tide - Contraction Timer",
+          "publisher": "B Gilmore, LLC",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ef/12/4b/ef124be5-c36d-af73-97e7-cced3a8459f2/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/180x180bb.png",
+          "rating": 4.9,
+          "ratingCount": 61,
+          "price": "0.00",
+          "rank": 163,
+          "category": "6012"
+        },
+        {
+          "appId": 1103530261,
+          "name": "Precious - Baby Photo Art",
+          "publisher": "Curious Creators Co.",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/8d/db/36/8ddb36eb-c794-b7f1-05a5-a73b60318fe7/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/180x180bb.png",
+          "rating": 4.8,
+          "ratingCount": 137000,
+          "price": "0.00",
+          "rank": 192,
+          "category": "6012"
+        },
+        {
+          "appId": 6471983227,
+          "name": "IDEXX Vello",
+          "publisher": "IDEXX Laboratories",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/69/57/ae/6957aeff-758b-82a8-7cc7-c394c5f0c16b/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/180x180bb.png",
+          "rating": 4.2,
+          "ratingCount": 11,
+          "price": "0.00",
+          "rank": 218,
+          "category": "6012"
+        },
+        {
+          "appId": 6767473764,
+          "name": "Scoper: Profile Insights",
+          "publisher": "POINT ONE TECHNOLOGY LIMITED",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/10/91/a0/1091a0cb-ac36-66b0-6302-f16359eebd6c/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/180x180bb.png",
+          "rating": 4.7,
+          "ratingCount": 148,
+          "price": "0.00",
+          "rank": 222,
+          "category": "6012"
+        },
+        {
+          "appId": 955254528,
+          "name": "Flush Toilet Finder & Map",
+          "publisher": "JRustonApps B.V.",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/22/87/ca/2287ca7f-d5af-053f-bcc1-be5dcbbe6a45/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/180x180bb.png",
+          "rating": 4.7,
+          "ratingCount": 10000,
+          "price": "0.00",
+          "rank": 223,
+          "category": "6012"
+        },
+        {
+          "appId": 1591156837,
+          "name": "ToChat - Meet New Friends",
+          "publisher": "ByteWave Corporation",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f4/4f/aa/f44faafa-265c-2376-2990-280181b5d190/AppIconNew-1x_U007emarketing-0-8-0-85-220-0.png/180x180bb.png",
+          "rating": 4.5,
+          "ratingCount": 5732,
+          "price": "0.00",
+          "rank": 229,
+          "category": "6012"
+        },
+        {
+          "appId": 6449750416,
+          "name": "Plug AI: Texting Assistant",
+          "publisher": "Vert Media Partners LLC",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/85/df/73/85df739e-b361-eefe-82ad-e05f524d223c/AppIcon_old-0-0-1x_U007ephone-0-85-220.png/180x180bb.png",
+          "rating": 4.6,
+          "ratingCount": 15300,
+          "price": "0.00",
+          "rank": 231,
+          "category": "6012"
+        },
+        {
+          "appId": 1489209093,
+          "name": "Microsoft Family Safety",
+          "publisher": "Microsoft Corporation",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e0/77/d2/e077d2cd-e92c-97bc-beff-2cfaab27dfb2/AppIcon-prod-1x_U007emarketing-0-6-0-0-85-220-0.png/180x180bb.png",
+          "rating": 4.1,
+          "ratingCount": 7886,
+          "price": "0.00",
+          "rank": 235,
+          "category": "6012"
+        },
+        {
+          "appId": 899058806,
+          "name": "Rave Panic Button",
+          "publisher": "Rave Mobile Safety",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/66/e2/56/66e25630-7de0-0339-5422-d768f1008e02/AppIcon-0-0-1x_U007emarketing-0-6-0-sRGB-85-220.png/180x180bb.png",
+          "rating": 4.7,
+          "ratingCount": 582,
+          "price": "0.00",
+          "rank": 246,
+          "category": "6012"
+        },
+        {
+          "appId": 6450612690,
+          "name": "222 - find your people.",
+          "publisher": "TwoTwoTwo Inc.",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9a/d6/08/9ad608ff-0ec5-e834-371c-bcad993698b4/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/180x180bb.png",
+          "rating": 4.7,
+          "ratingCount": 6057,
+          "price": "0.00",
+          "rank": 249,
+          "category": "6012"
+        }
+      ]
+    }
+  }
+}
