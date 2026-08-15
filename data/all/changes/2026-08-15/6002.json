@@ -5,8 +5,8 @@
     {
       "appId": 6755061287,
       "previous_rank": 206,
-      "current_rank": 90,
-      "rank_change": 116,
+      "current_rank": 64,
+      "rank_change": 142,
       "category": "6002",
       "date": "2026-08-15",
       "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1d/6d/4f/1d6d4f0f-d7e2-c705-7bbf-4e5194a756ed/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/180x180bb.png",
@@ -16,8 +16,8 @@
     {
       "appId": 6760994727,
       "previous_rank": 239,
-      "current_rank": 127,
-      "rank_change": 112,
+      "current_rank": 125,
+      "rank_change": 114,
       "category": "6002",
       "date": "2026-08-15",
       "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5d/77/31/5d7731a3-8a53-cc4e-0154-77f42b85a4d9/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/180x180bb.png",
@@ -25,32 +25,10 @@
       "publisher": "麟浩 冯"
     },
     {
-      "appId": 1591238748,
-      "previous_rank": 247,
-      "current_rank": 169,
-      "rank_change": 78,
-      "category": "6002",
-      "date": "2026-08-15",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6f/6e/71/6f6e716a-bdeb-5a1f-1992-393d1c2eb143/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/180x180bb.png",
-      "app_name": "Universal Remote TV Control",
-      "publisher": "Desidari Holding Ltd."
-    },
-    {
-      "appId": 6755316041,
-      "previous_rank": 210,
-      "current_rank": 133,
-      "rank_change": 77,
-      "category": "6002",
-      "date": "2026-08-15",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/25/a7/db/25a7dbbe-8bc6-ed3e-4afa-d60308c54094/AppIcon-100-1x_U007epad-0-1-85-220-0.png/180x180bb.png",
-      "app_name": "TCL Remote Control for TV",
-      "publisher": "Apps Venture Inc."
-    },
-    {
       "appId": 6757973175,
       "previous_rank": 184,
-      "current_rank": 111,
-      "rank_change": 73,
+      "current_rank": 103,
+      "rank_change": 81,
       "category": "6002",
       "date": "2026-08-15",
       "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/cc/1a/35/cc1a353d-b883-b10e-8026-57e34ff0fd46/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/180x180bb.png",
@@ -58,15 +36,37 @@
       "publisher": "HK MILE"
     },
     {
+      "appId": 6755316041,
+      "previous_rank": 210,
+      "current_rank": 138,
+      "rank_change": 72,
+      "category": "6002",
+      "date": "2026-08-15",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/25/a7/db/25a7dbbe-8bc6-ed3e-4afa-d60308c54094/AppIcon-100-1x_U007epad-0-1-85-220-0.png/180x180bb.png",
+      "app_name": "TCL Remote Control for TV",
+      "publisher": "Apps Venture Inc."
+    },
+    {
       "appId": 1670649189,
       "previous_rank": 220,
-      "current_rank": 153,
-      "rank_change": 67,
+      "current_rank": 152,
+      "rank_change": 68,
       "category": "6002",
       "date": "2026-08-15",
       "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/90/af/c7/90afc738-52ad-3f95-93e4-cf6b6f014dd7/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/180x180bb.png",
       "app_name": "TV Remote - Universal",
       "publisher": "Zap Software Studio BV"
+    },
+    {
+      "appId": 1591238748,
+      "previous_rank": 247,
+      "current_rank": 179,
+      "rank_change": 68,
+      "category": "6002",
+      "date": "2026-08-15",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6f/6e/71/6f6e716a-bdeb-5a1f-1992-393d1c2eb143/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/180x180bb.png",
+      "app_name": "Universal Remote TV Control",
+      "publisher": "Desidari Holding Ltd."
     }
   ]
 }
