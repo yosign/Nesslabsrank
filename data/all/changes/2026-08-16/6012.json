@@ -5,8 +5,8 @@
     {
       "appId": 1299313149,
       "previous_rank": 182,
-      "current_rank": 41,
-      "rank_change": 141,
+      "current_rank": 48,
+      "rank_change": 134,
       "category": "6012",
       "date": "2026-08-16",
       "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/da/d5/48/dad54837-68d7-a82d-9aed-35d7c9d87834/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/180x180bb.png",
@@ -16,8 +16,8 @@
     {
       "appId": 1519461680,
       "previous_rank": 147,
-      "current_rank": 48,
-      "rank_change": 99,
+      "current_rank": 46,
+      "rank_change": 101,
       "category": "6012",
       "date": "2026-08-16",
       "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/51/d5/67/51d56728-0148-58ec-3e68-8cba5306a158/AppIcon-production-0-0-1x_U007emarketing-0-11-0-85-220.png/180x180bb.png",
@@ -25,10 +25,32 @@
       "publisher": "Whering Ltd"
     },
     {
+      "appId": 1664083251,
+      "previous_rank": 232,
+      "current_rank": 149,
+      "rank_change": 83,
+      "category": "6012",
+      "date": "2026-08-16",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/50/ad/d7/50add77c-488a-6676-c02c-127497323773/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/180x180bb.png",
+      "app_name": "LED Light Controller Universal",
+      "publisher": "Codenhagen.IO ApS"
+    },
+    {
+      "appId": 6760181919,
+      "previous_rank": 213,
+      "current_rank": 133,
+      "rank_change": 80,
+      "category": "6012",
+      "date": "2026-08-16",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4a/17/14/4a1714f4-4bd9-1c18-1db8-8ca988f67a56/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/180x180bb.png",
+      "app_name": "Sports Card Scanner: Spoly",
+      "publisher": "Scaling Engine Limited"
+    },
+    {
       "appId": 6751680266,
       "previous_rank": 189,
-      "current_rank": 101,
-      "rank_change": 88,
+      "current_rank": 115,
+      "rank_change": 74,
       "category": "6012",
       "date": "2026-08-16",
       "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fc/04/77/fc047711-8364-4c72-f705-3995d3e753fc/AppIcon-0-0-1x_U007epad-0-1-85-220.png/180x180bb.png",
@@ -36,37 +58,15 @@
       "publisher": "Promi LLC"
     },
     {
-      "appId": 6768380647,
-      "previous_rank": 225,
-      "current_rank": 141,
-      "rank_change": 84,
+      "appId": 6443709181,
+      "previous_rank": 243,
+      "current_rank": 172,
+      "rank_change": 71,
       "category": "6012",
       "date": "2026-08-16",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/bf/33/20/bf332034-60e9-442e-9fca-ed0e5d9bea36/AppIcon-0-0-1x_U007epad-0-1-85-220.png/180x180bb.png",
-      "app_name": "KidHub by Unleashed Brands",
-      "publisher": "Unleashed Services"
-    },
-    {
-      "appId": 1614637898,
-      "previous_rank": 217,
-      "current_rank": 150,
-      "rank_change": 67,
-      "category": "6012",
-      "date": "2026-08-16",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c8/0c/82/c80c82fa-e73f-2359-339c-6d245f49ba75/AppIcon-0-0-1x_U007epad-0-1-85-220.png/180x180bb.png",
-      "app_name": "Lounge - Groups & Events",
-      "publisher": "Lounge Technology"
-    },
-    {
-      "appId": 6760181919,
-      "previous_rank": 213,
-      "current_rank": 160,
-      "rank_change": 53,
-      "category": "6012",
-      "date": "2026-08-16",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4a/17/14/4a1714f4-4bd9-1c18-1db8-8ca988f67a56/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/180x180bb.png",
-      "app_name": "Sports Card Scanner: Spoly",
-      "publisher": "Scaling Engine Limited"
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/94/e5/64/94e5647f-d0ae-2501-dd14-cd8ff14f6e7c/AppIcon-0-1x_U007emarketing-0-11-0-85-220-0.png/180x180bb.png",
+      "app_name": "Sincerely: Vent & Confess",
+      "publisher": "MWM"
     }
   ]
 }
