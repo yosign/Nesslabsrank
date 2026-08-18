@@ -16,13 +16,24 @@
     {
       "appId": 6480463426,
       "previous_rank": 233,
-      "current_rank": 106,
-      "rank_change": 127,
+      "current_rank": 91,
+      "rank_change": 142,
       "category": "6012",
       "date": "2026-08-18",
       "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/70/83/e6/7083e67a-0d3d-f08c-7cbf-656507d30ef6/AppIconNewLight-0-0-1x_U007ephone-0-1-0-0-85-220.png/180x180bb.png",
       "app_name": "SuperAlarm - Loud Alarm Clock",
       "publisher": "Jiseop Han"
+    },
+    {
+      "appId": 6448704223,
+      "previous_rank": 250,
+      "current_rank": 190,
+      "rank_change": 60,
+      "category": "6012",
+      "date": "2026-08-18",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/93/fa/fc/93fafcd1-c329-e31a-b110-8d934ed0594b/AppIcon-0-0-1x_U007epad-0-1-85-220.png/180x180bb.png",
+      "app_name": "WingAI: Your AI Wingman",
+      "publisher": "Ignition Dating LLC"
     },
     {
       "appId": 6443709181,
@@ -36,37 +47,26 @@
       "publisher": "MWM"
     },
     {
-      "appId": 6448704223,
-      "previous_rank": 250,
-      "current_rank": 193,
-      "rank_change": 57,
-      "category": "6012",
-      "date": "2026-08-18",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/93/fa/fc/93fafcd1-c329-e31a-b110-8d934ed0594b/AppIcon-0-0-1x_U007epad-0-1-85-220.png/180x180bb.png",
-      "app_name": "WingAI: Your AI Wingman",
-      "publisher": "Ignition Dating LLC"
-    },
-    {
-      "appId": 917701230,
-      "previous_rank": 214,
-      "current_rank": 167,
-      "rank_change": 47,
-      "category": "6012",
-      "date": "2026-08-18",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b1/30/5a/b1305a6f-5b93-af7c-4dbc-2dbadbe1eee1/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/180x180bb.png",
-      "app_name": "Influenster: Try & Review",
-      "publisher": "Bazaarvoice"
-    },
-    {
       "appId": 6762411586,
       "previous_rank": 161,
-      "current_rank": 115,
-      "rank_change": 46,
+      "current_rank": 111,
+      "rank_change": 50,
       "category": "6012",
       "date": "2026-08-18",
       "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/08/78/b1/0878b10d-8d25-9ff3-b5f5-005bf1986483/AppIcon-0-0-1x_U007epad-0-1-85-220.png/180x180bb.png",
       "app_name": "Mentor: Your AI Bestie",
       "publisher": "Glassroom Studio"
+    },
+    {
+      "appId": 917701230,
+      "previous_rank": 214,
+      "current_rank": 164,
+      "rank_change": 50,
+      "category": "6012",
+      "date": "2026-08-18",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b1/30/5a/b1305a6f-5b93-af7c-4dbc-2dbadbe1eee1/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/180x180bb.png",
+      "app_name": "Influenster: Try & Review",
+      "publisher": "Bazaarvoice"
     }
   ]
 }
