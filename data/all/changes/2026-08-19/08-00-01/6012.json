@@ -1,0 +1,264 @@
+{
+  "date": "2026-08-19",
+  "changes": {
+    "6012": {
+      "added": [
+        {
+          "appId": 1042822181,
+          "name": "Meeting Guide",
+          "publisher": "Alcoholics Anonymous World Services, Inc.",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c5/2c/fd/c52cfdc9-c605-d71e-41f1-02ed486ed084/AppIcon-0-0-1x_U007epad-0-1-85-220.png/180x180bb.png",
+          "rating": 4.4,
+          "ratingCount": 1008,
+          "price": "0.00",
+          "rank": 211,
+          "category": "6012"
+        },
+        {
+          "appId": 6744029280,
+          "name": "Protego: GPS location tracker",
+          "publisher": "Hanna Tsylindz",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f8/18/95/f81895ec-958d-3cdd-6601-b273c0f72957/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/180x180bb.png",
+          "rating": 4.7,
+          "ratingCount": 76,
+          "price": "0.00",
+          "rank": 225,
+          "category": "6012"
+        },
+        {
+          "appId": 328453619,
+          "name": "Care.com: Hire Caregivers",
+          "publisher": "Care.com, Inc.",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a5/9e/6a/a59e6a50-f749-8dbc-1bd2-13a336e0b999/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/180x180bb.png",
+          "rating": 4.4,
+          "ratingCount": 40300,
+          "price": "0.00",
+          "rank": 233,
+          "category": "6012"
+        },
+        {
+          "appId": 557228073,
+          "name": "Petfinder - Adopt a Pet",
+          "publisher": "Nestlé",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4a/ae/3f/4aae3fda-3cda-bd20-37f6-f6a7465afead/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/180x180bb.png",
+          "rating": 4.8,
+          "ratingCount": 58900,
+          "price": "0.00",
+          "rank": 235,
+          "category": "6012"
+        },
+        {
+          "appId": 1565972415,
+          "name": "RAM®",
+          "publisher": "FCA US LLC",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c3/b7/d7/c3b7d7be-0071-0550-9538-9a7d2e9fcc20/AppIcon.ram.prod-0-0-1x_U007emarketing-0-6-0-85-220.png/180x180bb.png",
+          "rating": 4.8,
+          "ratingCount": 87000,
+          "price": "0.00",
+          "rank": 238,
+          "category": "6012"
+        },
+        {
+          "appId": 1475805212,
+          "name": "Whisker",
+          "publisher": "Automated Pet Care Products Inc. dba AutoPets",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6f/20/c7/6f20c70f-834d-2e0b-a606-cda7161d693f/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/180x180bb.png",
+          "rating": 4.8,
+          "ratingCount": 143000,
+          "price": "0.00",
+          "rank": 240,
+          "category": "6012"
+        },
+        {
+          "appId": 6450612690,
+          "name": "222 - find your people.",
+          "publisher": "TwoTwoTwo Inc.",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9a/d6/08/9ad608ff-0ec5-e834-371c-bcad993698b4/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/180x180bb.png",
+          "rating": 4.7,
+          "ratingCount": 6174,
+          "price": "0.00",
+          "rank": 241,
+          "category": "6012"
+        },
+        {
+          "appId": 664939913,
+          "name": "Tile - Find lost keys & phone",
+          "publisher": "Tile, Inc.",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d6/74/14/d67414e7-a300-b195-fd61-693930e1d886/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/180x180bb.png",
+          "rating": 4.8,
+          "ratingCount": 1010000,
+          "price": "0.00",
+          "rank": 242,
+          "category": "6012"
+        },
+        {
+          "appId": 1618979301,
+          "name": "myQQ – Quick Quack",
+          "publisher": "Quick Quack Car Wash Holdings, LLC",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/40/41/69/40416927-79e3-795d-78d8-8e39b9c7f499/AppIcon-0-0-1x_U007emarketing-0-0-0-8-0-0-85-220.png/180x180bb.png",
+          "rating": 4.8,
+          "ratingCount": 24300,
+          "price": "0.00",
+          "rank": 243,
+          "category": "6012"
+        }
+      ],
+      "removed": [
+        {
+          "appId": 951812684,
+          "name": "Glovo: Food Delivery, Takeaway",
+          "publisher": "Glovoapp 23 SL",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2e/31/0a/2e310aa6-bfa6-7b22-177a-c58cbd5af563/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/180x180bb.png",
+          "rating": 4.8,
+          "ratingCount": 232000,
+          "price": "0.00",
+          "rank": 148,
+          "category": "6012"
+        },
+        {
+          "appId": 1482867892,
+          "name": "STRATIS 2.0",
+          "publisher": "StratIS EMS, LLC",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/22/e2/ac/22e2ac0d-a6e7-f105-9f66-193cdb0e6496/AppIcon-1x_U007emarketing-0-11-0-85-220-0.png/180x180bb.png",
+          "rating": 4,
+          "ratingCount": 8426,
+          "price": "0.00",
+          "rank": 170,
+          "category": "6012"
+        },
+        {
+          "appId": 1472785554,
+          "name": "Swimply - Rent Private Pools",
+          "publisher": "Swimply Inc.",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0d/69/cb/0d69cb70-a484-2773-6f4e-0929f91b61d6/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/180x180bb.png",
+          "rating": 4.8,
+          "ratingCount": 31300,
+          "price": "0.00",
+          "rank": 179,
+          "category": "6012"
+        },
+        {
+          "appId": 6504895693,
+          "name": "Blood Pressure：Scan Health",
+          "publisher": "HUIDING (HONG KONG) TECHNOLOGY LIMITED",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/45/e3/84/45e3848d-8b4a-d90e-8cfd-8f34ca47ca67/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.jpeg/180x180bb.png",
+          "rating": 4.1,
+          "ratingCount": 1471,
+          "price": "0.00",
+          "rank": 201,
+          "category": "6012"
+        },
+        {
+          "appId": 1134525430,
+          "name": "Home Connect (America)",
+          "publisher": "BSH Home Appliances Corporation",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ce/71/fc/ce71fc5b-4a6a-39f9-c73e-de37f9c1b155/AppIconAppStore-0-0-1x_U007emarketing-0-10-0-85-220.png/180x180bb.png",
+          "rating": 4.5,
+          "ratingCount": 19000,
+          "price": "0.00",
+          "rank": 213,
+          "category": "6012"
+        },
+        {
+          "appId": 1403308360,
+          "name": "Sport Clips Haircuts Check-In",
+          "publisher": "Sport Clips",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4c/7e/23/4c7e232f-71a2-2f3f-3a37-2a5349fd9811/AppIcon-1x_U007ephone-0-1-85-220-0.png/180x180bb.png",
+          "rating": 4.8,
+          "ratingCount": 59300,
+          "price": "0.00",
+          "rank": 214,
+          "category": "6012"
+        },
+        {
+          "appId": 1465996742,
+          "name": "Kwikset",
+          "publisher": "ASSA ABLOY AMERICAS RESIDENTIAL INC.",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e1/fb/c4/e1fbc4dc-1d8a-d865-c9d9-94a5052e26cb/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/180x180bb.png",
+          "rating": 4.8,
+          "ratingCount": 53800,
+          "price": "0.00",
+          "rank": 217,
+          "category": "6012"
+        },
+        {
+          "appId": 351091731,
+          "name": "Dianping: Discover Good Places",
+          "publisher": "Hanhai Information Technology (Shanghai) Co.Ltd",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/bd/25/9a/bd259a5a-5c07-f8d4-f648-8b32ac36c700/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/180x180bb.png",
+          "rating": 4.7,
+          "ratingCount": 7025,
+          "price": "0.00",
+          "rank": 230,
+          "category": "6012"
+        },
+        {
+          "appId": 1410126781,
+          "name": "Planta: Plant & Garden Care",
+          "publisher": "Planta AB",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ff/1f/b1/ff1fb187-3d6b-5060-519a-8e1ad849aed4/AppIcon-Prod-0-0-1x_U007ephone-0-1-sRGB-85-220.png/180x180bb.png",
+          "rating": 4.8,
+          "ratingCount": 113000,
+          "price": "0.00",
+          "rank": 233,
+          "category": "6012"
+        },
+        {
+          "appId": 6743095634,
+          "name": "Critique AI: Habit Tracker",
+          "publisher": "With Bytes",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5c/32/ad/5c32addb-6844-23e3-c9d1-611c413b5c32/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/180x180bb.png",
+          "rating": 4.7,
+          "ratingCount": 9482,
+          "price": "0.00",
+          "rank": 235,
+          "category": "6012"
+        },
+        {
+          "appId": 6737127897,
+          "name": "Homeaglow",
+          "publisher": "homeaglow",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/28/22/95/282295ff-1c73-c301-12cb-ceef2447dd70/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/180x180bb.png",
+          "rating": 4.7,
+          "ratingCount": 130,
+          "price": "0.00",
+          "rank": 245,
+          "category": "6012"
+        },
+        {
+          "appId": 6737291521,
+          "name": "PlayStation Family",
+          "publisher": "PlayStation Mobile Inc.",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/07/5b/cd/075bcdf2-12ed-c0a9-7c2e-3fab80690970/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/180x180bb.png",
+          "rating": 3.3,
+          "ratingCount": 55,
+          "price": "0.00",
+          "rank": 247,
+          "category": "6012"
+        },
+        {
+          "appId": 955254528,
+          "name": "Flush Toilet Finder & Map",
+          "publisher": "JRustonApps B.V.",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c6/63/fb/c663fb38-cbe4-5f78-be23-c8d1c31e0805/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/180x180bb.png",
+          "rating": 4.7,
+          "ratingCount": 10100,
+          "price": "0.00",
+          "rank": 248,
+          "category": "6012"
+        },
+        {
+          "appId": 423084029,
+          "name": "美团-美好生活小帮手",
+          "publisher": "美团",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b0/b5/dd/b0b5dda2-9f78-166c-cd33-afd64b41bacc/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-85-220.png/180x180bb.png",
+          "rating": 3.1,
+          "ratingCount": 1758,
+          "price": "0.00",
+          "rank": 249,
+          "category": "6012"
+        }
+      ]
+    }
+  }
+}
