@@ -1,0 +1,264 @@
+{
+  "date": "2026-08-21",
+  "changes": {
+    "6013": {
+      "added": [
+        {
+          "appId": 6790916289,
+          "name": "Boston Y",
+          "publisher": "Attollo Technology LLC",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/1d/b2/f8/1db2f874-6a7a-8788-4ffe-4468e1ec9ef9/AppIcon-0-0-1x_U007epad-0-1-85-220.png/180x180bb.png",
+          "rating": 0,
+          "ratingCount": 0,
+          "price": "0.00",
+          "rank": 84,
+          "category": "6013"
+        },
+        {
+          "appId": 6756274597,
+          "name": "Mana",
+          "publisher": "Mana World LLC",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/cd/4c/a3/cd4ca34b-a370-ff2c-39f4-2ea26e3e0a3f/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/180x180bb.png",
+          "rating": 5,
+          "ratingCount": 15,
+          "price": "0.00",
+          "rank": 126,
+          "category": "6013"
+        },
+        {
+          "appId": 6751262332,
+          "name": "Calorie Counter: Kalee",
+          "publisher": "HARAKAT ALTIQNIAH COMPANY",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/be/ea/dd/beeaddc5-e19c-b4c4-50d4-8cbbd9e450a6/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/180x180bb.png",
+          "rating": 4.6,
+          "ratingCount": 413,
+          "price": "0.00",
+          "rank": 163,
+          "category": "6013"
+        },
+        {
+          "appId": 6474598021,
+          "name": "Blood Pressure App-BP Tracker",
+          "publisher": "AKRURA PTE. LTD",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/df/5c/b3/df5cb336-5b95-cfac-e358-ba0b10392723/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/180x180bb.png",
+          "rating": 4.5,
+          "ratingCount": 8552,
+          "price": "0.00",
+          "rank": 206,
+          "category": "6013"
+        },
+        {
+          "appId": 1446447749,
+          "name": "Muscle Booster Workout Tracker",
+          "publisher": "WELLTECH APPS LIMITED",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/eb/88/de/eb88deee-c3ba-4a58-121c-c299cd92d0b5/AppIcon-0-0-1x_U007ephone-0-11-0-0-85-220.png/180x180bb.png",
+          "rating": 4.5,
+          "ratingCount": 137000,
+          "price": "0.00",
+          "rank": 217,
+          "category": "6013"
+        },
+        {
+          "appId": 6738115267,
+          "name": "AI Calorie Tracker:FoodPilot",
+          "publisher": "Hong Kong Radiant Limited",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c8/03/0e/c8030edc-65e3-df6a-b584-15b81cf55fc2/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/180x180bb.png",
+          "rating": 4.7,
+          "ratingCount": 2407,
+          "price": "0.00",
+          "rank": 220,
+          "category": "6013"
+        },
+        {
+          "appId": 6762102880,
+          "name": "PeptidePal – Peptide Tracker",
+          "publisher": "Blank Labs LLC",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a4/08/25/a40825c3-6837-6791-ebd1-4ba291a2fda2/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/180x180bb.png",
+          "rating": 4.7,
+          "ratingCount": 4082,
+          "price": "0.00",
+          "rank": 225,
+          "category": "6013"
+        },
+        {
+          "appId": 965396894,
+          "name": "My School Menus",
+          "publisher": "Water Walkers Inc",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d0/c8/96/d0c896ac-4cf3-6392-fa58-66212451fc76/AppIcon-1x_U007emarketing-0-7-0-0-85-220-0.png/180x180bb.png",
+          "rating": 2.5,
+          "ratingCount": 77,
+          "price": "0.00",
+          "rank": 243,
+          "category": "6013"
+        },
+        {
+          "appId": 1564694267,
+          "name": "WalkPay: Walk & Earn Rewards",
+          "publisher": "Bussness xc",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/10/11/18/10111847-cac8-c3da-befe-2dd0ac51af7a/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/180x180bb.png",
+          "rating": 4.2,
+          "ratingCount": 5733,
+          "price": "0.00",
+          "rank": 245,
+          "category": "6013"
+        },
+        {
+          "appId": 1482581097,
+          "name": "Bearable - Symptom Tracker",
+          "publisher": "Bearable Ltd",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ba/12/2a/ba122a49-1842-da6d-98f9-6e07b725c3b7/AppIcon-0-0-1x_U007ephone-0-9-0-85-220.jpeg/180x180bb.png",
+          "rating": 4.8,
+          "ratingCount": 6134,
+          "price": "0.00",
+          "rank": 248,
+          "category": "6013"
+        },
+        {
+          "appId": 6754048419,
+          "name": "Sobo: Sober Best Friend",
+          "publisher": "Grata Health",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/cf/97/8b/cf978b9c-a591-7d16-34ac-21087ccab041/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/180x180bb.png",
+          "rating": 4.8,
+          "ratingCount": 414,
+          "price": "0.00",
+          "rank": 249,
+          "category": "6013"
+        },
+        {
+          "appId": 666822519,
+          "name": "BMI Calculator – Weight Loss",
+          "publisher": "Steffen Mayer",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f0/58/de/f058de4b-ad7d-a574-e0ed-a0efaacf09a6/AppIcon-0-0-1x_U007epad-0-1-85-220.png/180x180bb.png",
+          "rating": 4.5,
+          "ratingCount": 27799.999999999996,
+          "price": "0.00",
+          "rank": 250,
+          "category": "6013"
+        }
+      ],
+      "removed": [
+        {
+          "appId": 6475224891,
+          "name": "Strongest Vibrator",
+          "publisher": "Gabe Rogers",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/11/36/02/11360214-ee5e-c4b1-d765-1cf0a1f660c7/AppIcon-0-0-1x_U007emarketing-0-5-0-85-220.png/180x180bb.png",
+          "rating": 4.3,
+          "ratingCount": 1605,
+          "price": "0.00",
+          "rank": 176,
+          "category": "6013"
+        },
+        {
+          "appId": 6749520351,
+          "name": "75Me: 75 Day Reset Challenge",
+          "publisher": "75Me LLC",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/84/db/db/84dbdb9b-1dd4-ebfe-afa5-b23fe0f3a6e7/AppIcon-0-0-1x_U007ephone-0-1-0-sRGB-85-220.png/180x180bb.png",
+          "rating": 4.8,
+          "ratingCount": 1870,
+          "price": "0.00",
+          "rank": 194,
+          "category": "6013"
+        },
+        {
+          "appId": 889574511,
+          "name": "Счетчик калорий: Худеем вместе",
+          "publisher": "Valerii Pechenkin",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0e/da/79/0eda799a-2480-eec5-d9ec-8df78cd4722f/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/180x180bb.png",
+          "rating": 4.9,
+          "ratingCount": 474,
+          "price": "0.00",
+          "rank": 201,
+          "category": "6013"
+        },
+        {
+          "appId": 6754829116,
+          "name": "StridePay: Walk & Earn Rewards",
+          "publisher": "LemonGo Digital Technology Limited",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9d/99/32/9d9932d4-f78a-cd70-281e-fc9b01a7bfc7/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/180x180bb.png",
+          "rating": 4.3,
+          "ratingCount": 1430,
+          "price": "0.00",
+          "rank": 227,
+          "category": "6013"
+        },
+        {
+          "appId": 839285684,
+          "name": "Workout for Women: Home & Gym",
+          "publisher": "Fast Builder Limited",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5e/62/9d/5e629df0-b74a-1ed3-ac71-9f63e22b9f6a/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/180x180bb.png",
+          "rating": 4.8,
+          "ratingCount": 531000,
+          "price": "0.00",
+          "rank": 237,
+          "category": "6013"
+        },
+        {
+          "appId": 6741765734,
+          "name": "Pushscroll: Exercise To Scroll",
+          "publisher": "Pushscroll GmbH",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/af/c9/b9/afc9b903-acbc-0ef9-9ffb-6a1a79aa906d/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/180x180bb.png",
+          "rating": 4.7,
+          "ratingCount": 17100,
+          "price": "0.00",
+          "rank": 239,
+          "category": "6013"
+        },
+        {
+          "appId": 6747757018,
+          "name": "PureGym US",
+          "publisher": "Blink Holdings Inc.",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d4/76/08/d47608f8-2d69-b03a-0697-e39589477943/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/180x180bb.png",
+          "rating": 4.6,
+          "ratingCount": 16299.999999999998,
+          "price": "0.00",
+          "rank": 241,
+          "category": "6013"
+        },
+        {
+          "appId": 409625068,
+          "name": "Instant Heart Rate: HR Monitor",
+          "publisher": "Bodymatter, Inc.",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/05/ec/38/05ec38c4-2cdb-fbfc-3f0d-716a67c38541/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/180x180bb.png",
+          "rating": 4.9,
+          "ratingCount": 229000,
+          "price": "0.00",
+          "rank": 242,
+          "category": "6013"
+        },
+        {
+          "appId": 6744650800,
+          "name": "Gym Geek Calorie Counter",
+          "publisher": "Recoreo Ltd",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b8/ec/fd/b8ecfd2e-e4d3-1ce4-0834-a7d8c7e0d3eb/AppIcon-0-0-1x_U007epad-0-1-85-220.png/180x180bb.png",
+          "rating": 4.8,
+          "ratingCount": 1192,
+          "price": "0.00",
+          "rank": 244,
+          "category": "6013"
+        },
+        {
+          "appId": 6479605427,
+          "name": "Workout Planner MuscleFit",
+          "publisher": "Next Vision Limited",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7f/9b/a2/7f9ba25a-53d1-10ed-3152-14e688366ab3/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/180x180bb.png",
+          "rating": 4.6,
+          "ratingCount": 6849,
+          "price": "0.00",
+          "rank": 245,
+          "category": "6013"
+        },
+        {
+          "appId": 6755833852,
+          "name": "Gold’s Gym",
+          "publisher": "Gold's Gym",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/cc/fe/74/ccfe74ec-2171-69ce-ad4a-70a3c5fdbf5a/AppIcon-0-0-1x_U007emarketing-0-7-0-sRGB-85-220.png/180x180bb.png",
+          "rating": 1.6,
+          "ratingCount": 52,
+          "price": "0.00",
+          "rank": 248,
+          "category": "6013"
+        }
+      ]
+    }
+  }
+}
