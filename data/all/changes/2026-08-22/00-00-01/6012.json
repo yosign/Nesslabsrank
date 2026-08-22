@@ -1,0 +1,209 @@
+{
+  "date": "2026-08-22",
+  "changes": {
+    "6012": {
+      "added": [
+        {
+          "appId": 6553957231,
+          "name": "Gather: GPS Location Sharing",
+          "publisher": "gather.life",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/43/2b/50/432b50cb-acc8-0801-de0b-ee2500007434/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/180x180bb.png",
+          "rating": 4.7,
+          "ratingCount": 1546,
+          "price": "0.00",
+          "rank": 200,
+          "category": "6012"
+        },
+        {
+          "appId": 6757022204,
+          "name": "Zeydi",
+          "publisher": "HOSSEIN NASR",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/fb/a7/af/fba7af83-05db-22e2-194d-e7943ddf7020/AppIcon-0-0-1x_U007epad-0-1-85-220.png/180x180bb.png",
+          "rating": 0,
+          "ratingCount": 0,
+          "price": "0.00",
+          "rank": 215,
+          "category": "6012"
+        },
+        {
+          "appId": 955254528,
+          "name": "Flush Toilet Finder & Map",
+          "publisher": "JRustonApps B.V.",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c6/63/fb/c663fb38-cbe4-5f78-be23-c8d1c31e0805/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/180x180bb.png",
+          "rating": 4.7,
+          "ratingCount": 10100,
+          "price": "0.00",
+          "rank": 228,
+          "category": "6012"
+        },
+        {
+          "appId": 6768380647,
+          "name": "KidHub by Unleashed Brands",
+          "publisher": "Unleashed Services",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/bf/33/20/bf332034-60e9-442e-9fca-ed0e5d9bea36/AppIcon-0-0-1x_U007epad-0-1-85-220.png/180x180bb.png",
+          "rating": 4.8,
+          "ratingCount": 376,
+          "price": "0.00",
+          "rank": 240,
+          "category": "6012"
+        },
+        {
+          "appId": 1392492235,
+          "name": "UniFi Protect",
+          "publisher": "Ubiquiti Inc.",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ce/31/2b/ce312b96-82b6-95ce-e359-78e127f0d82c/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-0-85-220.png/180x180bb.png",
+          "rating": 4.8,
+          "ratingCount": 71400,
+          "price": "0.00",
+          "rank": 243,
+          "category": "6012"
+        },
+        {
+          "appId": 6471983227,
+          "name": "IDEXX Vello",
+          "publisher": "IDEXX Laboratories",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/69/57/ae/6957aeff-758b-82a8-7cc7-c394c5f0c16b/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/180x180bb.png",
+          "rating": 4.2,
+          "ratingCount": 11,
+          "price": "0.00",
+          "rank": 244,
+          "category": "6012"
+        },
+        {
+          "appId": 1475805212,
+          "name": "Whisker",
+          "publisher": "Automated Pet Care Products Inc. dba AutoPets",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6f/20/c7/6f20c70f-834d-2e0b-a606-cda7161d693f/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/180x180bb.png",
+          "rating": 4.8,
+          "ratingCount": 143000,
+          "price": "0.00",
+          "rank": 245,
+          "category": "6012"
+        },
+        {
+          "appId": 1018443930,
+          "name": "Estate Sales - EstateSales.NET",
+          "publisher": "EstateSales.NET",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/84/bc/27/84bc273e-bda8-e8f3-a04a-ad8dd9bc9caa/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-85-220.png/100x100bb.jpg",
+          "rating": 4.9,
+          "ratingCount": 12100,
+          "price": "0.00",
+          "rank": 248,
+          "category": "6012"
+        }
+      ],
+      "removed": [
+        {
+          "appId": 6761983452,
+          "name": "Mora: Unique Frequencies",
+          "publisher": "Silver State Apps Inc.",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/af/98/d6/af98d6d9-ce14-da3b-be86-7505cc7ecf86/AppIcon-0-0-1x_U007ephone-0-1-0-sRGB-85-220.png/180x180bb.png",
+          "rating": 4.5,
+          "ratingCount": 1550,
+          "price": "0.00",
+          "rank": 96,
+          "category": "6012"
+        },
+        {
+          "appId": 6775974979,
+          "name": "DeepFind AI Search Agent",
+          "publisher": "Orbit Intelligence, Inc.",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/55/43/8c/55438cb7-cb0c-3f85-1edb-0f3a198e6f0e/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/180x180bb.png",
+          "rating": 4.8,
+          "ratingCount": 2079,
+          "price": "0.00",
+          "rank": 214,
+          "category": "6012"
+        },
+        {
+          "appId": 6443709181,
+          "name": "Sincerely: Vent & Confess",
+          "publisher": "MWM",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/94/e5/64/94e5647f-d0ae-2501-dd14-cd8ff14f6e7c/AppIcon-0-1x_U007emarketing-0-11-0-85-220-0.png/180x180bb.png",
+          "rating": 4.7,
+          "ratingCount": 34800,
+          "price": "0.00",
+          "rank": 236,
+          "category": "6012"
+        },
+        {
+          "appId": 1485452102,
+          "name": "UserTesting",
+          "publisher": "UserTesting",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/02/fb/c8/02fbc8f6-0d13-0e1b-f34b-b4818b9ccd38/George-AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/180x180bb.png",
+          "rating": 2.7,
+          "ratingCount": 2286,
+          "price": "0.00",
+          "rank": 237,
+          "category": "6012"
+        },
+        {
+          "appId": 6759060652,
+          "name": "Home Platform - Agent",
+          "publisher": "Compass Inc.",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e9/27/97/e92797b0-9bc7-bfe2-6365-077608679f23/AgentAppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/180x180bb.png",
+          "rating": 5,
+          "ratingCount": 7,
+          "price": "0.00",
+          "rank": 239,
+          "category": "6012"
+        },
+        {
+          "appId": 6757144052,
+          "name": "outernet: go outside & explore",
+          "publisher": "Outernet Explorer Inc.",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e6/8a/dc/e68adc2e-3bb6-13e2-1bcd-7333ba1616f9/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/180x180bb.png",
+          "rating": 4.9,
+          "ratingCount": 163,
+          "price": "0.00",
+          "rank": 240,
+          "category": "6012"
+        },
+        {
+          "appId": 6749838351,
+          "name": "WellMe: Track & Boost Wellness",
+          "publisher": "Urbanwall",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c4/d6/cc/c4d6cc2f-a3a7-180f-4cc3-92a15ec9d84c/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-0-85-220.png/180x180bb.png",
+          "rating": 4.4,
+          "ratingCount": 596,
+          "price": "0.00",
+          "rank": 241,
+          "category": "6012"
+        },
+        {
+          "appId": 371390152,
+          "name": "Ligonier Ministries",
+          "publisher": "Ligonier",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d4/05/b6/d405b6b8-469f-ed0e-b92e-0c502862235f/AppIcon-0-0-1x_U007epad-0-1-85-220.png/180x180bb.png",
+          "rating": 4.4,
+          "ratingCount": 552,
+          "price": "0.00",
+          "rank": 242,
+          "category": "6012"
+        },
+        {
+          "appId": 1583154299,
+          "name": "OSAIO",
+          "publisher": "AFAR PTE. LTD",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b0/4d/86/b04d8621-439c-b039-1b40-fce5df5702e3/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/180x180bb.png",
+          "rating": 4.6,
+          "ratingCount": 2507,
+          "price": "0.00",
+          "rank": 245,
+          "category": "6012"
+        },
+        {
+          "appId": 1460848195,
+          "name": "Merryfield Everyday Rewards",
+          "publisher": "Klover Holdings, Inc.",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/63/7e/4d/637e4d54-4477-801b-4e10-d21fc2931efc/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/180x180bb.png",
+          "rating": 4.8,
+          "ratingCount": 14200,
+          "price": "0.00",
+          "rank": 249,
+          "category": "6012"
+        }
+      ]
+    }
+  }
+}
