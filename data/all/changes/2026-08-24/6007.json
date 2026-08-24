@@ -5,8 +5,8 @@
     {
       "appId": 6760768570,
       "previous_rank": 247,
-      "current_rank": 200,
-      "rank_change": 47,
+      "current_rank": 161,
+      "rank_change": 86,
       "category": "6007",
       "date": "2026-08-24",
       "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/94/4e/f5/944ef52e-04ca-64bd-2cef-36c326ac50d6/AppIcon-0-0-1x_U007epad-0-1-85-220.png/180x180bb.png",
@@ -14,10 +14,32 @@
       "publisher": "BrowseAI LLC"
     },
     {
+      "appId": 1227579630,
+      "previous_rank": 234,
+      "current_rank": 176,
+      "rank_change": 58,
+      "category": "6007",
+      "date": "2026-08-24",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ab/86/45/ab864533-27be-1528-1466-864569912d41/AppIcon-14-0-0-1x_U007epad-0-1-0-85-220.png/180x180bb.png",
+      "app_name": "Simple Calendar - SimpleCal",
+      "publisher": "Yohei Fujikawa"
+    },
+    {
+      "appId": 6670622037,
+      "previous_rank": 212,
+      "current_rank": 155,
+      "rank_change": 57,
+      "category": "6007",
+      "date": "2026-08-24",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/cf/56/97/cf56971a-3bc0-f977-7d25-9de66e58d7ec/AppIconMWM-0-0-1x_U007epad-0-1-0-sRGB-85-220.jpeg/180x180bb.png",
+      "app_name": "Translator Keyboard : Lingo",
+      "publisher": "MWM"
+    },
+    {
       "appId": 6470238006,
       "previous_rank": 250,
-      "current_rank": 205,
-      "rank_change": 45,
+      "current_rank": 193,
+      "rank_change": 57,
       "category": "6007",
       "date": "2026-08-24",
       "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9c/f9/eb/9cf9ebb2-44b3-44eb-c2a2-b515c24ed9c4/AppIcon-0-0-1x_U007epad-0-1-85-220.png/180x180bb.png",
@@ -25,48 +47,26 @@
       "publisher": "SOFYO DIJITAL"
     },
     {
-      "appId": 1606959035,
-      "previous_rank": 232,
-      "current_rank": 188,
-      "rank_change": 44,
+      "appId": 1607562761,
+      "previous_rank": 181,
+      "current_rank": 126,
+      "rank_change": 55,
       "category": "6007",
       "date": "2026-08-24",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9c/c3/cf/9cc3cfb2-b47b-4200-0203-1f1dd0bc3339/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/180x180bb.png",
-      "app_name": "Rove Dash Cam",
-      "publisher": "ROVE Dash Cam"
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0c/21/9c/0c219c10-40f7-69dd-8f7f-fb084fb2fc55/notion-calendar-0-0-1x_U007ephone-0-1-P3-85-220.png/180x180bb.png",
+      "app_name": "Notion Calendar",
+      "publisher": "Notion Labs, Incorporated"
     },
     {
-      "appId": 1236642119,
-      "previous_rank": 210,
-      "current_rank": 176,
-      "rank_change": 34,
+      "appId": 1544827472,
+      "previous_rank": 205,
+      "current_rank": 153,
+      "rank_change": 52,
       "category": "6007",
       "date": "2026-08-24",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/85/4b/a5/854ba5fd-a6d4-0006-aef3-12113a88c876/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/180x180bb.png",
-      "app_name": "Glo Café",
-      "publisher": "Globacom limited"
-    },
-    {
-      "appId": 6768545062,
-      "previous_rank": 158,
-      "current_rank": 125,
-      "rank_change": 33,
-      "category": "6007",
-      "date": "2026-08-24",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/76/80/2b/76802b06-45b8-59d8-db9a-ef268f3f38a3/AppIcon-0-0-1x_U007emarketing-0-11-0-sRGB-85-220.png/180x180bb.png",
-      "app_name": "TranslateAll: Live Translator",
-      "publisher": "Aurora Borealis Culture Media Limited"
-    },
-    {
-      "appId": 6761251368,
-      "previous_rank": 162,
-      "current_rank": 131,
-      "rank_change": 31,
-      "category": "6007",
-      "date": "2026-08-24",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6e/1d/dc/6e1ddce7-4e6a-4642-1512-fc634a4c0d3d/AppIcon-0-0-1x_U007ephone-0-1-0-sRGB-85-220.png/180x180bb.png",
-      "app_name": "PulseSweep: Speaker Test",
-      "publisher": "国杰 许"
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4c/cd/f8/4ccdf8c7-2cee-6683-fed1-1bdb9445db70/AppIcon-0-0-1x_U007emarketing-0-8-0-sRGB-85-220.png/100x100bb.jpg",
+      "app_name": "Forms+",
+      "publisher": "Amad Marwat"
     }
   ]
 }
