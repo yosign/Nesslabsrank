@@ -5,8 +5,8 @@
     {
       "appId": 6755174104,
       "previous_rank": 227,
-      "current_rank": 102,
-      "rank_change": 125,
+      "current_rank": 107,
+      "rank_change": 120,
       "category": "6007",
       "date": "2026-08-28",
       "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/71/68/1b/71681b24-8361-308d-4582-86b617082325/AppIcon-0-0-1x_U007epad-0-1-85-220.png/180x180bb.png",
@@ -16,8 +16,8 @@
     {
       "appId": 6760768570,
       "previous_rank": 235,
-      "current_rank": 135,
-      "rank_change": 100,
+      "current_rank": 136,
+      "rank_change": 99,
       "category": "6007",
       "date": "2026-08-28",
       "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/94/4e/f5/944ef52e-04ca-64bd-2cef-36c326ac50d6/AppIcon-0-0-1x_U007epad-0-1-85-220.png/180x180bb.png",
@@ -25,10 +25,21 @@
       "publisher": "BrowseAI LLC"
     },
     {
+      "appId": 6765715035,
+      "previous_rank": 209,
+      "current_rank": 134,
+      "rank_change": 75,
+      "category": "6007",
+      "date": "2026-08-28",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/52/70/94/5270941f-eb10-474b-075e-32808d2d85a1/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.jpeg/180x180bb.png",
+      "app_name": "Qianwen 千问 AI- Smart Assistant",
+      "publisher": "Corbin Winslow"
+    },
+    {
       "appId": 1526622816,
       "previous_rank": 200,
-      "current_rank": 130,
-      "rank_change": 70,
+      "current_rank": 133,
+      "rank_change": 67,
       "category": "6007",
       "date": "2026-08-28",
       "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/74/ca/6e/74ca6e53-6a7b-338b-e366-19382adffd6c/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/180x180bb.png",
@@ -38,8 +49,8 @@
     {
       "appId": 1477619146,
       "previous_rank": 194,
-      "current_rank": 138,
-      "rank_change": 56,
+      "current_rank": 153,
+      "rank_change": 41,
       "category": "6007",
       "date": "2026-08-28",
       "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e8/39/a2/e839a223-4f7d-08e8-131b-b19be0a5d395/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/180x180bb.png",
@@ -47,26 +58,15 @@
       "publisher": "Bark Technologies, Inc."
     },
     {
-      "appId": 1460407674,
-      "previous_rank": 248,
-      "current_rank": 210,
-      "rank_change": 38,
+      "appId": 473225145,
+      "previous_rank": 234,
+      "current_rank": 193,
+      "rank_change": 41,
       "category": "6007",
       "date": "2026-08-28",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9d/f1/a0/9df1a029-ff27-5f5f-5f31-32727bbd4283/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/180x180bb.png",
-      "app_name": "ManaBox MTG",
-      "publisher": "SkillDevs S.C."
-    },
-    {
-      "appId": 1639787026,
-      "previous_rank": 195,
-      "current_rank": 159,
-      "rank_change": 36,
-      "category": "6007",
-      "date": "2026-08-28",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/54/12/49/54124955-238f-551d-308f-884d581cbfc1/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/180x180bb.png",
-      "app_name": "Text Number-Phone Text Message",
-      "publisher": "兰 陈"
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6e/3f/ae/6e3fae31-d776-74a2-92de-25230e078dfa/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220-0.png/180x180bb.png",
+      "app_name": "QQ邮箱",
+      "publisher": "Tencent Technology (Shenzhen) Company Limited"
     }
   ]
 }
