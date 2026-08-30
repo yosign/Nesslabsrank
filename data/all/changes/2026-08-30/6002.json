@@ -3,21 +3,10 @@
   "genre": "6002",
   "topRisers": [
     {
-      "appId": 6444176737,
-      "previous_rank": 247,
-      "current_rank": 127,
-      "rank_change": 120,
-      "category": "6002",
-      "date": "2026-08-30",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/67/f6/39/67f6396c-71b0-dcf3-0551-9414dad625a2/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/180x180bb.png",
-      "app_name": "Cast for Chromecast",
-      "publisher": "Creative Zone"
-    },
-    {
       "appId": 6794783652,
       "previous_rank": 165,
-      "current_rank": 51,
-      "rank_change": 114,
+      "current_rank": 44,
+      "rank_change": 121,
       "category": "6002",
       "date": "2026-08-30",
       "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/cf/68/bd/cf68bd8b-3efb-b2e0-791a-ce83e8a721c5/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/180x180bb.png",
@@ -25,10 +14,21 @@
       "publisher": "Ahmad Jawad"
     },
     {
+      "appId": 6444176737,
+      "previous_rank": 247,
+      "current_rank": 136,
+      "rank_change": 111,
+      "category": "6002",
+      "date": "2026-08-30",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/67/f6/39/67f6396c-71b0-dcf3-0551-9414dad625a2/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/180x180bb.png",
+      "app_name": "Cast for Chromecast",
+      "publisher": "Creative Zone"
+    },
+    {
       "appId": 1619787473,
       "previous_rank": 198,
-      "current_rank": 88,
-      "rank_change": 110,
+      "current_rank": 90,
+      "rank_change": 108,
       "category": "6002",
       "date": "2026-08-30",
       "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/dd/a4/d4/dda4d406-b7e4-80e8-59e3-2526cc872e74/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/180x180bb.png",
@@ -36,21 +36,10 @@
       "publisher": "MARSHIS FLORIST CC"
     },
     {
-      "appId": 1016562846,
-      "previous_rank": 220,
-      "current_rank": 118,
-      "rank_change": 102,
-      "category": "6002",
-      "date": "2026-08-30",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f7/7a/ba/f77aba9d-f854-6e18-48d8-3dc1f17ad280/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/180x180bb.png",
-      "app_name": "Rokie - Remote for Roku Player",
-      "publisher": "KRAFTWERK 9 LTD"
-    },
-    {
       "appId": 6503708537,
       "previous_rank": 195,
-      "current_rank": 94,
-      "rank_change": 101,
+      "current_rank": 101,
+      "rank_change": 94,
       "category": "6002",
       "date": "2026-08-30",
       "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/64/48/b2/6448b2ce-d8d9-8113-1d1e-d31e98f61134/AppIcon-0-0-1x_U007epad-0-1-85-220.png/180x180bb.png",
@@ -58,15 +47,26 @@
       "publisher": "Sparktonic, LLC"
     },
     {
-      "appId": 6467252904,
-      "previous_rank": 218,
-      "current_rank": 132,
-      "rank_change": 86,
+      "appId": 1016562846,
+      "previous_rank": 220,
+      "current_rank": 127,
+      "rank_change": 93,
       "category": "6002",
       "date": "2026-08-30",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/22/91/d0/2291d041-f74d-3e43-1eed-5a90a4fb51c4/AppIcon-0-0-1x_U007ephone-0-1-0-sRGB-85-220.png/180x180bb.png",
-      "app_name": "Universal Remote・TV Control",
-      "publisher": "Ozuna Limited"
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f7/7a/ba/f77aba9d-f854-6e18-48d8-3dc1f17ad280/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/180x180bb.png",
+      "app_name": "Rokie - Remote for Roku Player",
+      "publisher": "KRAFTWERK 9 LTD"
+    },
+    {
+      "appId": 6755316041,
+      "previous_rank": 205,
+      "current_rank": 125,
+      "rank_change": 80,
+      "category": "6002",
+      "date": "2026-08-30",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6a/99/f3/6a99f337-d689-0f86-4e8d-6f05546b7b8b/AppIcon-100-0-0-1x_U007epad-0-1-85-220.png/180x180bb.png",
+      "app_name": "TCL Remote Control for TV",
+      "publisher": "Apps Venture Inc."
     }
   ]
 }
