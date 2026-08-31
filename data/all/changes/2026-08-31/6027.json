@@ -5,8 +5,8 @@
     {
       "appId": 6787910301,
       "previous_rank": 210,
-      "current_rank": 102,
-      "rank_change": 108,
+      "current_rank": 101,
+      "rank_change": 109,
       "category": "6027",
       "date": "2026-08-31",
       "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9f/6b/12/9f6b1244-1935-8918-7cb3-1db25dbb574e/AppIcon-1x_U007ephone-0-1-0-85-220-0.png/180x180bb.png",
@@ -16,8 +16,8 @@
     {
       "appId": 6756040750,
       "previous_rank": 239,
-      "current_rank": 177,
-      "rank_change": 62,
+      "current_rank": 156,
+      "rank_change": 83,
       "category": "6027",
       "date": "2026-08-31",
       "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/83/f1/52/83f1520f-5d9a-08d8-5fda-d5e11d236b5c/AppIcon-0-0-1x_U007epad-0-1-0-85-220.jpeg/180x180bb.png",
@@ -27,8 +27,8 @@
     {
       "appId": 6767499295,
       "previous_rank": 194,
-      "current_rank": 142,
-      "rank_change": 52,
+      "current_rank": 131,
+      "rank_change": 63,
       "category": "6027",
       "date": "2026-08-31",
       "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5f/eb/35/5feb3559-2811-488b-72fd-057f756ffd24/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/180x180bb.png",
@@ -36,10 +36,21 @@
       "publisher": "Hong Kong Deepscape Technology Limited"
     },
     {
+      "appId": 6781167791,
+      "previous_rank": 145,
+      "current_rank": 88,
+      "rank_change": 57,
+      "category": "6027",
+      "date": "2026-08-31",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6b/a2/d8/6ba2d8ac-b763-49c5-df4f-9e452e7c7fc6/AppIcon-1x_U007ephone-0-1-85-220-0.png/180x180bb.png",
+      "app_name": "OmniAero",
+      "publisher": "Dayal Gaikwad"
+    },
+    {
       "appId": 6764794279,
       "previous_rank": 236,
-      "current_rank": 187,
-      "rank_change": 49,
+      "current_rank": 181,
+      "rank_change": 55,
       "category": "6027",
       "date": "2026-08-31",
       "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6a/d0/eb/6ad0eb98-1828-4cd2-1ba3-0754dccae3da/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/180x180bb.png",
@@ -47,26 +58,15 @@
       "publisher": "Cardinal Blue"
     },
     {
-      "appId": 6752714700,
-      "previous_rank": 183,
-      "current_rank": 143,
-      "rank_change": 40,
+      "appId": 1562661709,
+      "previous_rank": 220,
+      "current_rank": 174,
+      "rank_change": 46,
       "category": "6027",
       "date": "2026-08-31",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b4/30/a4/b430a442-a091-c4ab-cad3-ec143f89eac5/AppIcon-0-1x_U007ephone-0-11-0-85-220-0.png/180x180bb.png",
-      "app_name": "Emoji Battery Widget",
-      "publisher": "Yassir Hrout"
-    },
-    {
-      "appId": 1617601717,
-      "previous_rank": 192,
-      "current_rank": 153,
-      "rank_change": 39,
-      "category": "6027",
-      "date": "2026-08-31",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c8/05/87/c80587c1-161f-a6aa-f3f9-e366e90db975/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/180x180bb.png",
-      "app_name": "MagiScan - AI 3D Scanner app",
-      "publisher": "Magiscan Inc."
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/09/e9/f5/09e9f5f6-9d23-91f5-2307-e9b70266e765/caro_appicon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/180x180bb.png",
+      "app_name": "Panorama Scroll Carousel Maker",
+      "publisher": "Hashone Tech LLP"
     }
   ]
 }
