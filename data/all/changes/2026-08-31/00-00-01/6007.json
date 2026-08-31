@@ -1,0 +1,209 @@
+{
+  "date": "2026-08-31",
+  "changes": {
+    "6007": {
+      "added": [
+        {
+          "appId": 391093033,
+          "name": "Member Tools",
+          "publisher": "The Church of Jesus Christ of Latter-day Saints",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ed/79/f6/ed79f6a7-f52d-8c5a-09f4-168d441dd0e8/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-85-220.png/180x180bb.png",
+          "rating": 4.9,
+          "ratingCount": 90399.99999999999,
+          "price": "0.00",
+          "rank": 199,
+          "category": "6007"
+        },
+        {
+          "appId": 6758133226,
+          "name": "PDF Editor - Convert File",
+          "publisher": "Wellresion Limited",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d1/7f/5d/d17f5d95-29ba-361a-a7ec-aded35084990/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/180x180bb.png",
+          "rating": 4.2,
+          "ratingCount": 25,
+          "price": "0.00",
+          "rank": 203,
+          "category": "6007"
+        },
+        {
+          "appId": 6802613256,
+          "name": "صوتك وصل",
+          "publisher": "MOFA SY",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9c/ad/b6/9cadb663-bb21-ef35-a90d-c37f28619ea7/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
+          "rating": 0,
+          "ratingCount": 0,
+          "price": "0.00",
+          "rank": 208,
+          "category": "6007"
+        },
+        {
+          "appId": 6758457625,
+          "name": "Focustown: Pomodoro Timer",
+          "publisher": "Second Round Inc.",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/93/d0/6a/93d06a8b-b767-292c-f299-e1c16893a2b8/AppIcon-0-0-1x_U007epad-0-1-85-220.png/180x180bb.png",
+          "rating": 4.8,
+          "ratingCount": 5709,
+          "price": "0.00",
+          "rank": 223,
+          "category": "6007"
+        },
+        {
+          "appId": 6759947633,
+          "name": "Freaky AI Chat",
+          "publisher": "Adnan Hameed",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f6/0e/13/f60e1387-5a11-7d21-f56b-4bc1c67201ab/AppIcon-1x_U007emarketing-0-11-0-85-220-0.png/180x180bb.png",
+          "rating": 1.8,
+          "ratingCount": 18,
+          "price": "0.00",
+          "rank": 235,
+          "category": "6007"
+        },
+        {
+          "appId": 6742278016,
+          "name": "Focus Friend, by Hank Green",
+          "publisher": "B-Tech Consulting Group LLC",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/86/fe/ca/86feca92-165a-d41c-db69-9e25a85781ee/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/180x180bb.png",
+          "rating": 4.8,
+          "ratingCount": 5213,
+          "price": "0.00",
+          "rank": 239,
+          "category": "6007"
+        },
+        {
+          "appId": 6751657545,
+          "name": "Planning Center",
+          "publisher": "Ministry Centered Technologies",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/62/7d/8f/627d8f78-6e6d-8923-d324-72fcde2c9bb1/icon-ios-0-0-1x_U007epad-0-1-sRGB-85-220.png/180x180bb.png",
+          "rating": 4.6,
+          "ratingCount": 32,
+          "price": "0.00",
+          "rank": 240,
+          "category": "6007"
+        },
+        {
+          "appId": 1553473179,
+          "name": "Hola ***",
+          "publisher": "Hola VPN Ltd",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a2/0f/17/a20f1783-bd92-8ca2-05b2-bf38f0d589e3/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.jpg",
+          "rating": 4.8,
+          "ratingCount": 7358,
+          "price": "0.00",
+          "rank": 241,
+          "category": "6007"
+        },
+        {
+          "appId": 6468764490,
+          "name": "SpeakApp AI: Voice Notes",
+          "publisher": "VoicePop Inc.",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/90/d2/56/90d256ea-2c2a-93e6-aae2-950c95934771/AppIcon-0-0-1x_U007ephone-0-1-0-0-85-220.png/180x180bb.png",
+          "rating": 4.6,
+          "ratingCount": 8896,
+          "price": "0.00",
+          "rank": 249,
+          "category": "6007"
+        }
+      ],
+      "removed": [
+        {
+          "appId": 6756703231,
+          "name": "PDF Reader - Smart Reader",
+          "publisher": "truong nguyen xuan",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5f/ff/ea/5fffeaa2-5b40-a69e-9815-021159e70627/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/180x180bb.png",
+          "rating": 4,
+          "ratingCount": 4,
+          "price": "0.00",
+          "rank": 188,
+          "category": "6007"
+        },
+        {
+          "appId": 743974925,
+          "name": "PDF Expert: Editor & Converter",
+          "publisher": "Readdle Technologies Limited",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7d/b1/48/7db14845-418d-2abc-2991-18007bbc3b3f/AppIcon-Production-0-0-1x_U007epad-0-1-0-sRGB-0-85-220.png/180x180bb.png",
+          "rating": 4.7,
+          "ratingCount": 216000,
+          "price": "0.00",
+          "rank": 226,
+          "category": "6007"
+        },
+        {
+          "appId": 909262651,
+          "name": "Zoho Mail - Email and Calendar",
+          "publisher": "Zoho Corporation",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/19/e8/c2/19e8c2ed-502f-dcdc-836d-7d93905fb5c1/AppIcon-0-0-1x_U007epad-0-1-sRGB-85-220.png/180x180bb.png",
+          "rating": 4.6,
+          "ratingCount": 7972,
+          "price": "0.00",
+          "rank": 227,
+          "category": "6007"
+        },
+        {
+          "appId": 1236642119,
+          "name": "Glo Café",
+          "publisher": "Globacom limited",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6f/78/2e/6f782e83-26b4-e489-30d4-f628bb036445/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/180x180bb.png",
+          "rating": 2.2,
+          "ratingCount": 913,
+          "price": "0.00",
+          "rank": 232,
+          "category": "6007"
+        },
+        {
+          "appId": 287170072,
+          "name": "Keeper Password Manager",
+          "publisher": "Callpod Inc.",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/fa/8a/e0/fa8ae0cd-16bf-4645-a56b-2c643137533b/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/180x180bb.png",
+          "rating": 4.9,
+          "ratingCount": 230000,
+          "price": "0.00",
+          "rank": 244,
+          "category": "6007"
+        },
+        {
+          "appId": 1080558159,
+          "name": "QR Code Reader: Quick Scan",
+          "publisher": "Komorebi Inc.",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/95/11/61/951161c6-de24-db36-1161-114531902d0b/AppIcon-0-0-1x_U007epad-0-1-0-85-220.jpeg/180x180bb.png",
+          "rating": 4.7,
+          "ratingCount": 161000,
+          "price": "0.00",
+          "rank": 245,
+          "category": "6007"
+        },
+        {
+          "appId": 914172636,
+          "name": "Airtable",
+          "publisher": "Formagrid",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/44/16/23/44162397-b3a1-c9a6-593e-454ccadabc1a/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/180x180bb.png",
+          "rating": 4.8,
+          "ratingCount": 24900.000000000004,
+          "price": "0.00",
+          "rank": 247,
+          "category": "6007"
+        },
+        {
+          "appId": 6463116243,
+          "name": "Quillbot-AI Writing & Keyboard",
+          "publisher": "QuillBot, a Learneo Inc. business",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a4/25/59/a4255993-a335-544b-d174-19559a5aba17/qb_app_icon-0-0-1x_U007ephone-0-1-0-sRGB-85-220.png/180x180bb.png",
+          "rating": 4.7,
+          "ratingCount": 2923,
+          "price": "0.00",
+          "rank": 248,
+          "category": "6007"
+        },
+        {
+          "appId": 6502340091,
+          "name": "Text to Speech - Listen AI",
+          "publisher": "DEEP FLOW SOFTWARE SERVICES",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b0/04/f4/b004f4fd-743e-7dd4-24ca-0e48ef47a9b3/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/180x180bb.png",
+          "rating": 4.5,
+          "ratingCount": 5470,
+          "price": "0.00",
+          "rank": 249,
+          "category": "6007"
+        }
+      ]
+    }
+  }
+}
