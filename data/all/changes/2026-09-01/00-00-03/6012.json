@@ -1,0 +1,319 @@
+{
+  "date": "2026-09-01",
+  "changes": {
+    "6012": {
+      "added": [
+        {
+          "appId": 6480463426,
+          "name": "SuperAlarm - Loud Alarm Clock",
+          "publisher": "Jiseop Han",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/01/34/b9/0134b90b-c138-1109-9f90-a34887e69c2e/AppIconNewLight-0-0-1x_U007ephone-0-1-0-0-85-220.png/180x180bb.png",
+          "rating": 4.6,
+          "ratingCount": 4804,
+          "price": "0.00",
+          "rank": 132,
+          "category": "6012"
+        },
+        {
+          "appId": 691246562,
+          "name": "Rave Guardian",
+          "publisher": "Rave Mobile Safety",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/cf/dd/cc/cfddcc0a-ec99-f9db-ab17-7b2a1ef69f6a/AppIcon-0-0-1x_U007emarketing-0-6-0-sRGB-85-220.png/180x180bb.png",
+          "rating": 4.6,
+          "ratingCount": 2924,
+          "price": "0.00",
+          "rank": 152,
+          "category": "6012"
+        },
+        {
+          "appId": 1138970986,
+          "name": "MyChoice Benefits",
+          "publisher": "Businessolver",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9c/b7/1c/9cb71c47-8112-7d5e-dcf8-6b9f3165b1ec/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/180x180bb.png",
+          "rating": 4.8,
+          "ratingCount": 23200,
+          "price": "0.00",
+          "rank": 178,
+          "category": "6012"
+        },
+        {
+          "appId": 1516518499,
+          "name": "myQ Community",
+          "publisher": "The Chamberlain Group, Inc.",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/23/a3/9a/23a39a2e-fa61-cba2-332b-9c6f55da7dfc/AppIcon-0-0-1x_U007epad-0-1-85-220.png/180x180bb.png",
+          "rating": 4.6,
+          "ratingCount": 37700,
+          "price": "0.00",
+          "rank": 197,
+          "category": "6012"
+        },
+        {
+          "appId": 1621725230,
+          "name": "PassPlay for Memberships",
+          "publisher": "Speak Creative, LLC",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/45/5c/c9/455cc909-b57a-fcee-a268-799e70b851b6/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/180x180bb.png",
+          "rating": 3.3,
+          "ratingCount": 9,
+          "price": "0.00",
+          "rank": 204,
+          "category": "6012"
+        },
+        {
+          "appId": 1519726353,
+          "name": "Waffle: Shared Journal",
+          "publisher": "Poppy AI, Inc.",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5d/5a/70/5d5a70b1-5a31-bbe0-e5a6-a7ae97ec5461/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/180x180bb.png",
+          "rating": 4.6,
+          "ratingCount": 9541,
+          "price": "0.00",
+          "rank": 219,
+          "category": "6012"
+        },
+        {
+          "appId": 1577975475,
+          "name": "Cosmos: Search & Discover",
+          "publisher": "Cosmos Entity",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c8/21/8f/c8218fbe-a4b3-64eb-beda-70c0bcd993d9/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/180x180bb.png",
+          "rating": 4.7,
+          "ratingCount": 4856,
+          "price": "0.00",
+          "rank": 224,
+          "category": "6012"
+        },
+        {
+          "appId": 1042822181,
+          "name": "Meeting Guide",
+          "publisher": "Alcoholics Anonymous World Services, Inc.",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/dd/8a/46/dd8a46fd-5650-370f-2b95-b0fe41eab781/AppIcon-0-0-1x_U007epad-0-1-85-220.png/180x180bb.png",
+          "rating": 4.4,
+          "ratingCount": 1014,
+          "price": "0.00",
+          "rank": 231,
+          "category": "6012"
+        },
+        {
+          "appId": 1482867892,
+          "name": "STRATIS 2.0",
+          "publisher": "StratIS EMS, LLC",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/22/e2/ac/22e2ac0d-a6e7-f105-9f66-193cdb0e6496/AppIcon-1x_U007emarketing-0-11-0-85-220-0.png/180x180bb.png",
+          "rating": 4,
+          "ratingCount": 8499,
+          "price": "0.00",
+          "rank": 235,
+          "category": "6012"
+        },
+        {
+          "appId": 6450182934,
+          "name": "Prime Opinion: Paid Surveys",
+          "publisher": "Prime Opinion AB",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/88/b4/e1/88b4e18c-053c-0e1b-96b3-e11fa3014cc8/AppIcon-0-0-1x_U007epad-0-1-85-220.png/180x180bb.png",
+          "rating": 4.7,
+          "ratingCount": 42400,
+          "price": "0.00",
+          "rank": 240,
+          "category": "6012"
+        },
+        {
+          "appId": 6783283534,
+          "name": "Streamo IPTV: M3U Xtream",
+          "publisher": "BarCode Scanner",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/36/78/60/367860c3-b1da-0a4d-5f72-3ed3b9882b87/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/180x180bb.png",
+          "rating": 4.5,
+          "ratingCount": 150,
+          "price": "0.00",
+          "rank": 245,
+          "category": "6012"
+        },
+        {
+          "appId": 6499445456,
+          "name": "AHS: American Home Shield",
+          "publisher": "Frontdoor Incorporated",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/94/db/e3/94dbe37a-4a53-a0bc-0503-33a63f02aa09/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/180x180bb.png",
+          "rating": 4.9,
+          "ratingCount": 55599.99999999999,
+          "price": "0.00",
+          "rank": 247,
+          "category": "6012"
+        },
+        {
+          "appId": 1618979301,
+          "name": "myQQ – Quick Quack",
+          "publisher": "Quick Quack Car Wash Holdings, LLC",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2c/ba/be/2cbabe58-9e92-ef8f-0151-6e58d0291826/AppIcon-0-0-1x_U007emarketing-0-0-0-8-0-0-85-220.png/180x180bb.png",
+          "rating": 4.8,
+          "ratingCount": 24800,
+          "price": "0.00",
+          "rank": 248,
+          "category": "6012"
+        },
+        {
+          "appId": 552472249,
+          "name": "CARFAX Car Care",
+          "publisher": "CARFAX, Inc.",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/30/c2/71/30c27136-4e75-cfea-9297-ca9dfa9339b4/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/180x180bb.png",
+          "rating": 4.8,
+          "ratingCount": 127000,
+          "price": "0.00",
+          "rank": 250,
+          "category": "6012"
+        }
+      ],
+      "removed": [
+        {
+          "appId": 1245330433,
+          "name": "Gospel Living",
+          "publisher": "The Church of Jesus Christ of Latter-day Saints",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d8/62/a6/d862a675-ee52-0e08-6307-03fd5941dd52/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-85-220.png/180x180bb.png",
+          "rating": 4.2,
+          "ratingCount": 1697,
+          "price": "0.00",
+          "rank": 178,
+          "category": "6012"
+        },
+        {
+          "appId": 1375330146,
+          "name": "Super Slime Simulator",
+          "publisher": "Dramaton LTD",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5c/e4/74/5ce474e7-5d68-0626-8261-ba4f207c18b4/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/180x180bb.png",
+          "rating": 4.7,
+          "ratingCount": 415000,
+          "price": "0.00",
+          "rank": 194,
+          "category": "6012"
+        },
+        {
+          "appId": 6505107527,
+          "name": "Listful - Wishlist & Shopping",
+          "publisher": "Listful LLC",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/39/16/e4/3916e4b2-5b72-eac4-2196-d3f90b3f802a/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/180x180bb.png",
+          "rating": 4.8,
+          "ratingCount": 21400,
+          "price": "0.00",
+          "rank": 208,
+          "category": "6012"
+        },
+        {
+          "appId": 6578454904,
+          "name": "Azizam - Persian Dating App",
+          "publisher": "Inno Lynx UG (haftungsbeschrankt)",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7f/80/5c/7f805cff-ca4d-514b-3413-62d79df5710b/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/180x180bb.png",
+          "rating": 4.7,
+          "ratingCount": 2987,
+          "price": "0.00",
+          "rank": 217,
+          "category": "6012"
+        },
+        {
+          "appId": 1475805212,
+          "name": "Whisker",
+          "publisher": "Automated Pet Care Products Inc. dba AutoPets",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d6/49/1c/d6491c26-3984-46ef-1aa7-fd5d3eabe4b8/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/180x180bb.png",
+          "rating": 4.8,
+          "ratingCount": 144000,
+          "price": "0.00",
+          "rank": 219,
+          "category": "6012"
+        },
+        {
+          "appId": 1456133366,
+          "name": "DexterPay",
+          "publisher": "Dexter Laundry, Inc.",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ca/04/5f/ca045fa4-3485-5a69-3743-d85cdea21fdb/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/180x180bb.png",
+          "rating": 1.9,
+          "ratingCount": 186,
+          "price": "0.00",
+          "rank": 223,
+          "category": "6012"
+        },
+        {
+          "appId": 6791480852,
+          "name": "Artera: Blood Pressure App Log",
+          "publisher": "BEGAMOB GLOBAL LIMITED",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/41/11/03/411103a3-c8ba-f10a-99eb-fe40c7cdc242/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/180x180bb.png",
+          "rating": 4.9,
+          "ratingCount": 37,
+          "price": "0.00",
+          "rank": 230,
+          "category": "6012"
+        },
+        {
+          "appId": 1410126781,
+          "name": "Planta: Plant & Garden Care",
+          "publisher": "Planta AB",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7e/f2/e0/7ef2e058-5a56-9ae4-2083-2f4fd3816739/AppIcon-Prod-0-0-1x_U007ephone-0-1-sRGB-85-220.png/180x180bb.png",
+          "rating": 4.8,
+          "ratingCount": 113000,
+          "price": "0.00",
+          "rank": 233,
+          "category": "6012"
+        },
+        {
+          "appId": 6762411586,
+          "name": "Mentor: Your Life Coach",
+          "publisher": "Glassroom Studio",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/31/99/1c/31991ca7-3eeb-3704-9857-06c2c7508368/AppIcon-0-0-1x_U007epad-0-1-85-220.png/180x180bb.png",
+          "rating": 4.8,
+          "ratingCount": 8436,
+          "price": "0.00",
+          "rank": 234,
+          "category": "6012"
+        },
+        {
+          "appId": 1066451939,
+          "name": "B-hyve",
+          "publisher": "Orbit Irrigation",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a1/d9/82/a1d982b1-d227-1e75-0aa3-9c82038cb92f/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/180x180bb.png",
+          "rating": 4.7,
+          "ratingCount": 326000,
+          "price": "0.00",
+          "rank": 244,
+          "category": "6012"
+        },
+        {
+          "appId": 1018443930,
+          "name": "Estate Sales - EstateSales.NET",
+          "publisher": "EstateSales.NET",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/84/bc/27/84bc273e-bda8-e8f3-a04a-ad8dd9bc9caa/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-85-220.png/100x100bb.jpg",
+          "rating": 4.9,
+          "ratingCount": 12200,
+          "price": "0.00",
+          "rank": 245,
+          "category": "6012"
+        },
+        {
+          "appId": 6758685096,
+          "name": "Hairify - AI Hairstyle Try On",
+          "publisher": "Techbot Co., Limited",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d3/14/5c/d3145cbc-73cc-774a-5439-7ddb7bbed70b/AppIcon-0-0-1x_U007epad-0-1-0-P3-0-85-220.png/180x180bb.png",
+          "rating": 4.6,
+          "ratingCount": 1266,
+          "price": "0.00",
+          "rank": 247,
+          "category": "6012"
+        },
+        {
+          "appId": 1222730617,
+          "name": "Parking Kitty",
+          "publisher": "City of Portland",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/57/d6/02/57d602dd-1866-679a-2f44-9f06eafa084f/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/180x180bb.png",
+          "rating": 4.9,
+          "ratingCount": 9272,
+          "price": "0.00",
+          "rank": 248,
+          "category": "6012"
+        },
+        {
+          "appId": 1587679090,
+          "name": "Led Light Controller LedRemote",
+          "publisher": "Kain Suite Pte. Ltd.",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/18/bb/fe/18bbfeb6-6571-d912-0bbb-ee63292247c2/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/180x180bb.png",
+          "rating": 3.9,
+          "ratingCount": 60199.99999999999,
+          "price": "0.00",
+          "rank": 250,
+          "category": "6012"
+        }
+      ]
+    }
+  }
+}
