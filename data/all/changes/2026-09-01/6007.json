@@ -3,43 +3,10 @@
   "genre": "6007",
   "topRisers": [
     {
-      "appId": 6741380655,
-      "previous_rank": 214,
-      "current_rank": 99,
-      "rank_change": 115,
-      "category": "6007",
-      "date": "2026-09-01",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/91/f9/74/91f97484-fd9f-6d44-6832-b70f76149eac/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/180x180bb.png",
-      "app_name": "Workcloud Shift",
-      "publisher": "Reflexis Systems Inc"
-    },
-    {
-      "appId": 412650768,
-      "previous_rank": 250,
-      "current_rank": 151,
-      "rank_change": 99,
-      "category": "6007",
-      "date": "2026-09-01",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fa/33/ae/fa33ae7f-edad-6fda-9c1f-e6303642b940/appIcon-0-1x_U007epad-0-11-0-85-220-0.png/180x180bb.png",
-      "app_name": "EZ Receipts",
-      "publisher": "HealthEquity"
-    },
-    {
-      "appId": 1559538995,
-      "previous_rank": 190,
-      "current_rank": 94,
-      "rank_change": 96,
-      "category": "6007",
-      "date": "2026-09-01",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1f/ff/0f/1fff0fdf-59ff-19c7-a643-8f8e2e421c9a/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/180x180bb.png",
-      "app_name": "Pikmykid Parent",
-      "publisher": "PikMyKid"
-    },
-    {
       "appId": 6478655348,
       "previous_rank": 198,
-      "current_rank": 104,
-      "rank_change": 94,
+      "current_rank": 93,
+      "rank_change": 105,
       "category": "6007",
       "date": "2026-09-01",
       "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/02/1a/51/021a51f1-6f01-1784-c3c8-89a08b48ad46/AppIcon-0-0-1x_U007epad-0-11-0-85-220.png/180x180bb.png",
@@ -47,26 +14,59 @@
       "publisher": "Tuling Network Limited"
     },
     {
-      "appId": 1544827472,
-      "previous_rank": 230,
-      "current_rank": 146,
-      "rank_change": 84,
+      "appId": 6741380655,
+      "previous_rank": 214,
+      "current_rank": 116,
+      "rank_change": 98,
       "category": "6007",
       "date": "2026-09-01",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4c/cd/f8/4ccdf8c7-2cee-6683-fed1-1bdb9445db70/AppIcon-0-0-1x_U007emarketing-0-8-0-sRGB-85-220.png/100x100bb.jpg",
-      "app_name": "Forms+",
-      "publisher": "Amad Marwat"
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/91/f9/74/91f97484-fd9f-6d44-6832-b70f76149eac/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/180x180bb.png",
+      "app_name": "Workcloud Shift",
+      "publisher": "Reflexis Systems Inc"
     },
     {
-      "appId": 1448454304,
-      "previous_rank": 138,
-      "current_rank": 55,
-      "rank_change": 83,
+      "appId": 441785419,
+      "previous_rank": 242,
+      "current_rank": 154,
+      "rank_change": 88,
       "category": "6007",
       "date": "2026-09-01",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f1/36/0e/f1360e42-f7e2-9b9c-71c2-5dad144d4d1b/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/180x180bb.png",
-      "app_name": "Wepa Print",
-      "publisher": "WEPA Inc."
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/54/99/4b/54994be5-4b1e-cfde-c939-18a3ccb8996d/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/180x180bb.png",
+      "app_name": "Yandex Mail",
+      "publisher": "Direct Cursus Computer Systems Trading"
+    },
+    {
+      "appId": 1559538995,
+      "previous_rank": 190,
+      "current_rank": 105,
+      "rank_change": 85,
+      "category": "6007",
+      "date": "2026-09-01",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1f/ff/0f/1fff0fdf-59ff-19c7-a643-8f8e2e421c9a/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/180x180bb.png",
+      "app_name": "Pikmykid Parent",
+      "publisher": "PikMyKid"
+    },
+    {
+      "appId": 412650768,
+      "previous_rank": 250,
+      "current_rank": 182,
+      "rank_change": 68,
+      "category": "6007",
+      "date": "2026-09-01",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fa/33/ae/fa33ae7f-edad-6fda-9c1f-e6303642b940/appIcon-0-1x_U007epad-0-11-0-85-220-0.png/180x180bb.png",
+      "app_name": "EZ Receipts",
+      "publisher": "HealthEquity"
+    },
+    {
+      "appId": 1091505266,
+      "previous_rank": 176,
+      "current_rank": 112,
+      "rank_change": 64,
+      "category": "6007",
+      "date": "2026-09-01",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6d/7f/e2/6d7fe265-598d-f78e-80ee-3e88a5f07a26/SharePointAppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.png/180x180bb.png",
+      "app_name": "Microsoft SharePoint",
+      "publisher": "Microsoft Corporation"
     }
   ]
 }
