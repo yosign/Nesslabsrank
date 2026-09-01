@@ -5,8 +5,8 @@
     {
       "appId": 6471596320,
       "previous_rank": 244,
-      "current_rank": 104,
-      "rank_change": 140,
+      "current_rank": 116,
+      "rank_change": 128,
       "category": "6013",
       "date": "2026-09-01",
       "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1b/af/11/1baf1106-70a6-3f3b-374b-79b00218c7f2/AppIconLimberV3-0-0-1x_U007emarketing-0-7-0-85-220.png/180x180bb.png",
@@ -14,43 +14,10 @@
       "publisher": "Limber Health, Inc."
     },
     {
-      "appId": 938497148,
-      "previous_rank": 209,
-      "current_rank": 117,
-      "rank_change": 92,
-      "category": "6013",
-      "date": "2026-09-01",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5d/8a/2a/5d8a2a05-c538-a1d5-a42b-821c68c07b4d/AppIcon-0-0-1x_U007epad-0-1-85-220.png/180x180bb.png",
-      "app_name": "VSP Vision Care",
-      "publisher": "VSP Global"
-    },
-    {
-      "appId": 703761434,
-      "previous_rank": 200,
-      "current_rank": 109,
-      "rank_change": 91,
-      "category": "6013",
-      "date": "2026-09-01",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ad/81/41/ad814195-6d94-ec03-1d04-9487ebc871cd/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/180x180bb.png",
-      "app_name": "Wellhub (Gympass)",
-      "publisher": "GymPass"
-    },
-    {
-      "appId": 779622024,
-      "previous_rank": 210,
-      "current_rank": 124,
-      "rank_change": 86,
-      "category": "6013",
-      "date": "2026-09-01",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1a/3f/5c/1a3f5c28-9624-2bd0-1667-d057385be700/AppIcon-prod-0-0-1x_U007epad-0-1-sRGB-85-220.png/180x180bb.png",
-      "app_name": "MyHumana",
-      "publisher": "Humana Inc."
-    },
-    {
       "appId": 666822519,
       "previous_rank": 218,
-      "current_rank": 136,
-      "rank_change": 82,
+      "current_rank": 112,
+      "rank_change": 106,
       "category": "6013",
       "date": "2026-09-01",
       "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f0/58/de/f058de4b-ad7d-a574-e0ed-a0efaacf09a6/AppIcon-0-0-1x_U007epad-0-1-85-220.png/180x180bb.png",
@@ -58,15 +25,48 @@
       "publisher": "Steffen Mayer"
     },
     {
+      "appId": 6755126064,
+      "previous_rank": 193,
+      "current_rank": 106,
+      "rank_change": 87,
+      "category": "6013",
+      "date": "2026-09-01",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c6/f6/72/c6f6728b-b83a-f5b2-60b8-75d142ab9de1/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/180x180bb.png",
+      "app_name": "Steppa - Step Challenges",
+      "publisher": "Steppa, LLC"
+    },
+    {
+      "appId": 1201324762,
+      "previous_rank": 241,
+      "current_rank": 160,
+      "rank_change": 81,
+      "category": "6013",
+      "date": "2026-09-01",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/57/2b/84/572b84fa-758f-db56-e3b2-b4d5806d3082/AppIcon-0-0-1x_U007emarketing-0-6-0-sRGB-85-220.png/180x180bb.png",
+      "app_name": "Onelife Fitness",
+      "publisher": "MotionVibe Innovations LLC"
+    },
+    {
       "appId": 571088532,
       "previous_rank": 230,
-      "current_rank": 149,
-      "rank_change": 81,
+      "current_rank": 152,
+      "rank_change": 78,
       "category": "6013",
       "date": "2026-09-01",
       "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/39/0f/ab/390fabe3-f593-43a9-0c80-e2b9ec5e1d99/AppIcon-IL-0-0-1x_U007emarketing-0-8-0-85-220.png/180x180bb.png",
       "app_name": "BCBSIL",
       "publisher": "Blue Cross and Blue Shield of Illinois"
+    },
+    {
+      "appId": 6454791879,
+      "previous_rank": 178,
+      "current_rank": 107,
+      "rank_change": 71,
+      "category": "6013",
+      "date": "2026-09-01",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/93/27/2b/93272bf1-baeb-4f69-fdf7-b448814b5a03/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/180x180bb.png",
+      "app_name": "Chuze Fitness",
+      "publisher": "Chuze Fitness"
     }
   ]
 }
