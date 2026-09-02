@@ -1,0 +1,286 @@
+{
+  "date": "2026-09-02",
+  "changes": {
+    "6007": {
+      "added": [
+        {
+          "appId": 1104165041,
+          "name": "Supershift - Shift Calendar",
+          "publisher": "Supershift GmbH",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3a/82/4c/3a824ccd-30bc-ad4f-e7e5-19f267bc2b51/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-85-220.png/180x180bb.png",
+          "rating": 4.9,
+          "ratingCount": 5326,
+          "price": "0.00",
+          "rank": 57,
+          "category": "6007"
+        },
+        {
+          "appId": 6480253221,
+          "name": "Authenticator ® App",
+          "publisher": "MatechMobile Software JSC",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a0/f8/7b/a0f87bb0-a31b-81b7-b81d-ecdd79fc556f/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/180x180bb.png",
+          "rating": 4.4,
+          "ratingCount": 3277,
+          "price": "0.00",
+          "rank": 188,
+          "category": "6007"
+        },
+        {
+          "appId": 1314654833,
+          "name": "SignUpGenius",
+          "publisher": "SignUpGenius, Inc.",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/eb/61/cc/eb61cc59-6e9d-a145-0226-3af31ff107da/AppIcon-0-0-1x_U007epad-0-11-0-85-220.png/180x180bb.png",
+          "rating": 1.3,
+          "ratingCount": 134,
+          "price": "0.00",
+          "rank": 213,
+          "category": "6007"
+        },
+        {
+          "appId": 1590868801,
+          "name": "DoorLoop",
+          "publisher": "DoorLoop Inc",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/41/ca/aa/41caaa4c-654e-7f07-ee6d-4a36b78f2702/AppIcon-0-0-1x_U007epad-0-1-85-220.png/180x180bb.png",
+          "rating": 4.8,
+          "ratingCount": 1388,
+          "price": "0.00",
+          "rank": 223,
+          "category": "6007"
+        },
+        {
+          "appId": 6759581694,
+          "name": "ChatGPT for Intune",
+          "publisher": "OpenAI OpCo, LLC",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ec/bb/01/ecbb0199-f0f2-6b83-3fe7-97b465a7d06b/AppIcon-Intune-0-0-1x_U007epad-0-0-0-1-0-sRGB-85-220.png/180x180bb.png",
+          "rating": 2.3,
+          "ratingCount": 3,
+          "price": "0.00",
+          "rank": 226,
+          "category": "6007"
+        },
+        {
+          "appId": 1439897444,
+          "name": "TeamFunded",
+          "publisher": "TeamFunded",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e4/8e/01/e48e015d-fc5d-8cc6-ee83-89fb23ecf59f/prodAppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/180x180bb.png",
+          "rating": 3.7,
+          "ratingCount": 273,
+          "price": "0.00",
+          "rank": 230,
+          "category": "6007"
+        },
+        {
+          "appId": 6759094568,
+          "name": "Text to Speech Reader－Speechee",
+          "publisher": "Laraun",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1c/fc/8e/1cfc8ee7-32f9-c1a7-6a23-d54a1b936c5a/AppIcon-0-0-1x_U007ephone-0-1-sRGB-85-220.png/180x180bb.png",
+          "rating": 4.6,
+          "ratingCount": 169,
+          "price": "0.00",
+          "rank": 231,
+          "category": "6007"
+        },
+        {
+          "appId": 1515671684,
+          "name": "ArcGIS Field Maps",
+          "publisher": "ESRI",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/76/ed/76/76ed7630-8e59-2a39-9f6f-8af988b283ff/AppIcon-0-0-1x_U007epad-0-0-0-1-0-85-220.png/180x180bb.png",
+          "rating": 2.2,
+          "ratingCount": 44,
+          "price": "0.00",
+          "rank": 233,
+          "category": "6007"
+        },
+        {
+          "appId": 553266487,
+          "name": "Yandex Disk secure storage",
+          "publisher": "Direct Cursus Computer Systems Trading",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5e/d7/5b/5ed75bf7-32c5-86aa-2812-5234ba280228/AppIconDisk-0-0-1x_U007epad-0-1-sRGB-85-220.png/180x180bb.png",
+          "rating": 4.7,
+          "ratingCount": 5300,
+          "price": "0.00",
+          "rank": 245,
+          "category": "6007"
+        },
+        {
+          "appId": 1487572960,
+          "name": "NaturalReader - Text To Speech",
+          "publisher": "NaturalSoft Limited",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/49/1d/44/491d444a-e6c5-d095-491b-102e0c4a6f2e/AppIcon-0-0-1x_U007emarketing-0-8-0-0-0-85-220.png/180x180bb.png",
+          "rating": 4.6,
+          "ratingCount": 8885,
+          "price": "0.00",
+          "rank": 247,
+          "category": "6007"
+        },
+        {
+          "appId": 1446749209,
+          "name": "*** Clean - Secure Fast Proxy",
+          "publisher": "FITACK TECHNOLOGIES PRIVATE LIMITED",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/52/7e/0c/527e0cc3-9548-cb65-6627-d1d778b52c00/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/180x180bb.png",
+          "rating": 4.6,
+          "ratingCount": 37100,
+          "price": "0.00",
+          "rank": 248,
+          "category": "6007"
+        },
+        {
+          "appId": 281796108,
+          "name": "Evernote: AI Notes & Notebook",
+          "publisher": "Evernote Corporation",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ec/a2/6a/eca26aa5-cfc2-127f-9d2c-83b0d7281418/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-85-220.png/180x180bb.png",
+          "rating": 4.4,
+          "ratingCount": 77400,
+          "price": "0.00",
+          "rank": 249,
+          "category": "6007"
+        }
+      ],
+      "removed": [
+        {
+          "appId": 6755174104,
+          "name": "Mavixdra",
+          "publisher": "思宇 袁",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/71/68/1b/71681b24-8361-308d-4582-86b617082325/AppIcon-0-0-1x_U007epad-0-1-85-220.png/180x180bb.png",
+          "rating": 4.8,
+          "ratingCount": 6960,
+          "price": "0.00",
+          "rank": 139,
+          "category": "6007"
+        },
+        {
+          "appId": 6782631621,
+          "name": "Lotus *** - Private Browser",
+          "publisher": "Prox Technologies Limited",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/40/6f/45/406f4546-4459-33cc-b48f-90b7ad9cdeab/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/180x180bb.png",
+          "rating": 3.7,
+          "ratingCount": 18,
+          "price": "0.00",
+          "rank": 169,
+          "category": "6007"
+        },
+        {
+          "appId": 1638261219,
+          "name": "Chptr",
+          "publisher": "CHPTR SOCIAL MANAGEMENT",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e7/49/b4/e749b44a-b6dd-4296-7a5c-d791e16e4727/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/180x180bb.png",
+          "rating": 4.5,
+          "ratingCount": 42,
+          "price": "0.00",
+          "rank": 203,
+          "category": "6007"
+        },
+        {
+          "appId": 1641447627,
+          "name": "Color Widgets: Photo Themes",
+          "publisher": "BarCode Scanner",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c9/d9/77/c9d977ce-68d0-45d8-20c7-d7d6a88790ee/AppIcon-0-0-1x_U007emarketing-0-11-0-sRGB-85-220.png/180x180bb.png",
+          "rating": 4.4,
+          "ratingCount": 496,
+          "price": "0.00",
+          "rank": 208,
+          "category": "6007"
+        },
+        {
+          "appId": 1460407674,
+          "name": "ManaBox MTG",
+          "publisher": "SkillDevs S.C.",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9d/f1/a0/9df1a029-ff27-5f5f-5f31-32727bbd4283/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/180x180bb.png",
+          "rating": 4.6,
+          "ratingCount": 1701,
+          "price": "0.00",
+          "rank": 215,
+          "category": "6007"
+        },
+        {
+          "appId": 6463116243,
+          "name": "Quillbot-AI Writing & Keyboard",
+          "publisher": "QuillBot, a Learneo Inc. business",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a4/25/59/a4255993-a335-544b-d174-19559a5aba17/qb_app_icon-0-0-1x_U007ephone-0-1-0-sRGB-85-220.png/180x180bb.png",
+          "rating": 4.7,
+          "ratingCount": 2934,
+          "price": "0.00",
+          "rank": 222,
+          "category": "6007"
+        },
+        {
+          "appId": 6791479660,
+          "name": "Heremoov",
+          "publisher": "佳庆 王",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/79/7d/9b/797d9b26-e5d1-bd53-0f04-e49da428529b/AppIcon-0-1x_U007epad-0-1-85-220-0.png/180x180bb.png",
+          "rating": 4,
+          "ratingCount": 15,
+          "price": "0.00",
+          "rank": 235,
+          "category": "6007"
+        },
+        {
+          "appId": 6756668632,
+          "name": "Axiom Pro: Focus",
+          "publisher": "I.B.C. BLUE LIMITED",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7f/6f/fe/7f6ffe07-5a95-91ae-4cae-f8bb5af63734/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/180x180bb.png",
+          "rating": 4.5,
+          "ratingCount": 104,
+          "price": "0.00",
+          "rank": 237,
+          "category": "6007"
+        },
+        {
+          "appId": 491945275,
+          "name": "iPersia Calendar تقویم ارز",
+          "publisher": "Exeersoft Inc",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/97/b1/0c/97b10c0b-bedb-12f8-e1ed-09925999b8a2/AppIcon-0-0-1x_U007emarketing-0-11-85-220.jpeg/180x180bb.png",
+          "rating": 4.8,
+          "ratingCount": 235000,
+          "price": "0.00",
+          "rank": 241,
+          "category": "6007"
+        },
+        {
+          "appId": 804641004,
+          "name": "Speak & Translate - Translator",
+          "publisher": "Mosaic S.r.l.",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/75/a1/7a/75a17ae9-a844-f4cc-1a6c-d44a326ea89d/AppIcon-0-0-1x_U007emarketing-0-8-0-sRGB-85-220.png/180x180bb.png",
+          "rating": 4.5,
+          "ratingCount": 258000,
+          "price": "0.00",
+          "rank": 243,
+          "category": "6007"
+        },
+        {
+          "appId": 6742405001,
+          "name": "Deep Cleaner - Phone Cleaning",
+          "publisher": "Queencross Global",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e6/59/b5/e659b5c4-58a6-270a-8d2c-5bf6bf53a921/AppIcon-0-0-1x_U007epad-0-1-0-P3-0-85-220.png/180x180bb.png",
+          "rating": 4.6,
+          "ratingCount": 3195,
+          "price": "0.00",
+          "rank": 244,
+          "category": "6007"
+        },
+        {
+          "appId": 1569476289,
+          "name": "Secure ***: Fast net locations",
+          "publisher": "Inspiritum",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/08/e3/04/08e304b2-26f9-8c86-651e-d08f183060ee/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/180x180bb.png",
+          "rating": 3.3,
+          "ratingCount": 86,
+          "price": "0.00",
+          "rank": 245,
+          "category": "6007"
+        },
+        {
+          "appId": 6770396797,
+          "name": "MegaClean:Cleaner&Compressor",
+          "publisher": "Sharpmobi ltd",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/20/77/8a/20778ad1-9097-8bd0-b28a-10eb4370f973/AppIcon-1x_U007ephone-0-1-0-85-220-0.png/180x180bb.png",
+          "rating": 4.3,
+          "ratingCount": 146,
+          "price": "0.00",
+          "rank": 246,
+          "category": "6007"
+        }
+      ]
+    }
+  }
+}
