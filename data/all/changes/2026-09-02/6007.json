@@ -5,8 +5,8 @@
     {
       "appId": 6758133226,
       "previous_rank": 166,
-      "current_rank": 98,
-      "rank_change": 68,
+      "current_rank": 96,
+      "rank_change": 70,
       "category": "6007",
       "date": "2026-09-02",
       "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d1/7f/5d/d17f5d95-29ba-361a-a7ec-aded35084990/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/180x180bb.png",
@@ -14,10 +14,21 @@
       "publisher": "Wellresion Limited"
     },
     {
+      "appId": 6447682225,
+      "previous_rank": 249,
+      "current_rank": 199,
+      "rank_change": 50,
+      "category": "6007",
+      "date": "2026-09-02",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/01/e0/d4/01e0d4be-106a-8a8c-f49d-fc9ec4de4a88/AppIcon-0-0-1x_U007ephone-0-10-0-85-220.png/180x180bb.png",
+      "app_name": "eGovPH",
+      "publisher": "DICT eGovernment"
+    },
+    {
       "appId": 1419778819,
       "previous_rank": 194,
-      "current_rank": 135,
-      "rank_change": 59,
+      "current_rank": 148,
+      "rank_change": 46,
       "category": "6007",
       "date": "2026-09-02",
       "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0f/5e/88/0f5e88e9-b1c5-5680-e8f6-ca05c24ed24c/AppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.png/180x180bb.png",
@@ -27,8 +38,8 @@
     {
       "appId": 6670622037,
       "previous_rank": 250,
-      "current_rank": 197,
-      "rank_change": 53,
+      "current_rank": 204,
+      "rank_change": 46,
       "category": "6007",
       "date": "2026-09-02",
       "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/cf/56/97/cf56971a-3bc0-f977-7d25-9de66e58d7ec/AppIconMWM-0-0-1x_U007epad-0-1-0-sRGB-85-220.jpeg/180x180bb.png",
@@ -36,37 +47,26 @@
       "publisher": "MWM"
     },
     {
-      "appId": 6447682225,
-      "previous_rank": 249,
-      "current_rank": 201,
-      "rank_change": 48,
-      "category": "6007",
-      "date": "2026-09-02",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/01/e0/d4/01e0d4be-106a-8a8c-f49d-fc9ec4de4a88/AppIcon-0-0-1x_U007ephone-0-10-0-85-220.png/180x180bb.png",
-      "app_name": "eGovPH",
-      "publisher": "DICT eGovernment"
-    },
-    {
-      "appId": 6758457625,
-      "previous_rank": 216,
-      "current_rank": 171,
-      "rank_change": 45,
-      "category": "6007",
-      "date": "2026-09-02",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/93/d0/6a/93d06a8b-b767-292c-f299-e1c16893a2b8/AppIcon-0-0-1x_U007epad-0-1-85-220.png/180x180bb.png",
-      "app_name": "Focustown: Pomodoro Timer",
-      "publisher": "Second Round Inc."
-    },
-    {
       "appId": 6770396797,
       "previous_rank": 246,
-      "current_rank": 205,
-      "rank_change": 41,
+      "current_rank": 207,
+      "rank_change": 39,
       "category": "6007",
       "date": "2026-09-02",
       "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/20/77/8a/20778ad1-9097-8bd0-b28a-10eb4370f973/AppIcon-1x_U007ephone-0-1-0-85-220-0.png/180x180bb.png",
       "app_name": "MegaClean:Cleaner&Compressor",
       "publisher": "Sharpmobi ltd"
+    },
+    {
+      "appId": 1420374639,
+      "previous_rank": 198,
+      "current_rank": 161,
+      "rank_change": 37,
+      "category": "6007",
+      "date": "2026-09-02",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ad/46/ca/ad46ca85-853d-84c7-b12d-cc96abf4fce1/AppIcon-0-0-1x_U007epad-0-11-0-85-220.png/180x180bb.png",
+      "app_name": "Guru ***: Fast, Secure Proxy",
+      "publisher": "Tapgeneration LP"
     }
   ]
 }
