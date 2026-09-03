@@ -3,21 +3,10 @@
   "genre": "6007",
   "topRisers": [
     {
-      "appId": 6760209491,
-      "previous_rank": 217,
-      "current_rank": 142,
-      "rank_change": 75,
-      "category": "6007",
-      "date": "2026-09-03",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/8f/55/c8/8f55c8aa-9f31-5d12-073d-143ef9c9293b/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/180x180bb.png",
-      "app_name": "PushClock - Loud Alarm Clock",
-      "publisher": "Kaizen Technologies LLC."
-    },
-    {
       "appId": 6758133226,
       "previous_rank": 113,
-      "current_rank": 48,
-      "rank_change": 65,
+      "current_rank": 47,
+      "rank_change": 66,
       "category": "6007",
       "date": "2026-09-03",
       "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d1/7f/5d/d17f5d95-29ba-361a-a7ec-aded35084990/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/180x180bb.png",
@@ -25,10 +14,43 @@
       "publisher": "Wellresion Limited"
     },
     {
+      "appId": 6760209491,
+      "previous_rank": 217,
+      "current_rank": 151,
+      "rank_change": 66,
+      "category": "6007",
+      "date": "2026-09-03",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/8f/55/c8/8f55c8aa-9f31-5d12-073d-143ef9c9293b/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/180x180bb.png",
+      "app_name": "PushClock - Loud Alarm Clock",
+      "publisher": "Kaizen Technologies LLC."
+    },
+    {
+      "appId": 1525373602,
+      "previous_rank": 179,
+      "current_rank": 117,
+      "rank_change": 62,
+      "category": "6007",
+      "date": "2026-09-03",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b3/ab/01/b3ab011f-4e1e-3fae-e976-b175f24b2720/VPN-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/180x180bb.png",
+      "app_name": "AdGuard ***: Free Your Privacy",
+      "publisher": "Adguard Software Limited"
+    },
+    {
+      "appId": 6756059656,
+      "previous_rank": 198,
+      "current_rank": 150,
+      "rank_change": 48,
+      "category": "6007",
+      "date": "2026-09-03",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/18/f4/3a/18f43af4-18c8-6fc4-edc0-ec5f5075488e/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/180x180bb.png",
+      "app_name": "EcoGPT - Regenerative AI",
+      "publisher": "EcoGPT Inc"
+    },
+    {
       "appId": 281796108,
       "previous_rank": 249,
-      "current_rank": 192,
-      "rank_change": 57,
+      "current_rank": 201,
+      "rank_change": 48,
       "category": "6007",
       "date": "2026-09-03",
       "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ec/a2/6a/eca26aa5-cfc2-127f-9d2c-83b0d7281418/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-85-220.png/180x180bb.png",
@@ -38,35 +60,13 @@
     {
       "appId": 6670622037,
       "previous_rank": 246,
-      "current_rank": 191,
-      "rank_change": 55,
+      "current_rank": 205,
+      "rank_change": 41,
       "category": "6007",
       "date": "2026-09-03",
       "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/cf/56/97/cf56971a-3bc0-f977-7d25-9de66e58d7ec/AppIconMWM-0-0-1x_U007epad-0-1-0-sRGB-85-220.jpeg/180x180bb.png",
       "app_name": "Translator Keyboard : Lingo",
       "publisher": "MWM"
-    },
-    {
-      "appId": 6756059656,
-      "previous_rank": 198,
-      "current_rank": 144,
-      "rank_change": 54,
-      "category": "6007",
-      "date": "2026-09-03",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/18/f4/3a/18f43af4-18c8-6fc4-edc0-ec5f5075488e/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/180x180bb.png",
-      "app_name": "EcoGPT - Regenerative AI",
-      "publisher": "EcoGPT Inc"
-    },
-    {
-      "appId": 1525373602,
-      "previous_rank": 179,
-      "current_rank": 137,
-      "rank_change": 42,
-      "category": "6007",
-      "date": "2026-09-03",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b3/ab/01/b3ab011f-4e1e-3fae-e976-b175f24b2720/VPN-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/180x180bb.png",
-      "app_name": "AdGuard ***: Free Your Privacy",
-      "publisher": "Adguard Software Limited"
     }
   ]
 }
