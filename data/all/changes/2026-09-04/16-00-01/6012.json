@@ -1,0 +1,363 @@
+{
+  "date": "2026-09-04",
+  "changes": {
+    "6012": {
+      "added": [
+        {
+          "appId": 1638777395,
+          "name": "Customer Spark",
+          "publisher": "Walmart",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ee/ec/6b/eeec6b45-a481-efd5-1e49-7765cf4b9d1c/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/180x180bb.png",
+          "rating": 4.9,
+          "ratingCount": 12000,
+          "price": "0.00",
+          "rank": 91,
+          "category": "6012"
+        },
+        {
+          "appId": 6755228595,
+          "name": "NightGrace：Sleep & Podcasts",
+          "publisher": "Forerunner Technology Limited (HK)",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/51/48/23/5148233f-468b-fb7a-893d-3e82a8c5e583/AppIcon-0-0-1x_U007ephone-0-1-0-0-85-220.png/180x180bb.png",
+          "rating": 4.9,
+          "ratingCount": 4695,
+          "price": "0.00",
+          "rank": 194,
+          "category": "6012"
+        },
+        {
+          "appId": 6751680266,
+          "name": "UCHAD: See Your Potential",
+          "publisher": "Promi LLC",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f2/e9/e9/f2e9e9ca-65ca-c278-07cb-65d2db58ef5a/AppIcon-0-0-1x_U007epad-0-1-85-220.png/180x180bb.png",
+          "rating": 4.7,
+          "ratingCount": 13200,
+          "price": "0.00",
+          "rank": 203,
+          "category": "6012"
+        },
+        {
+          "appId": 1489973476,
+          "name": "Sea Tow: Boat Towing & Weather",
+          "publisher": "Sea Tow Services International Inc.",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/25/e3/5a/25e35ac9-1af8-c1c8-1106-c2b9004e8bfa/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/180x180bb.png",
+          "rating": 4.6,
+          "ratingCount": 37,
+          "price": "0.00",
+          "rank": 209,
+          "category": "6012"
+        },
+        {
+          "appId": 6762411586,
+          "name": "Mentor: Your Life Coach",
+          "publisher": "Glassroom Studio",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/02/62/db/0262db18-ddf5-b30f-979b-26775bf6dc3e/AppIcon-0-0-1x_U007epad-0-1-85-220.png/180x180bb.png",
+          "rating": 4.8,
+          "ratingCount": 8698,
+          "price": "0.00",
+          "rank": 213,
+          "category": "6012"
+        },
+        {
+          "appId": 1670269554,
+          "name": "Led Light Controller Home App",
+          "publisher": "Maple Labs Co., Ltd",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7d/8a/73/7d8a7309-8fd0-1afa-4d3e-5fa03659443b/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/180x180bb.png",
+          "rating": 4.1,
+          "ratingCount": 11299.999999999998,
+          "price": "0.00",
+          "rank": 223,
+          "category": "6012"
+        },
+        {
+          "appId": 6473748536,
+          "name": "Astra - Life Advice",
+          "publisher": "Vert Ventures",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a1/1e/c3/a11ec382-80b5-a73e-eb51-af228fb4c91c/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/180x180bb.png",
+          "rating": 4.7,
+          "ratingCount": 38700,
+          "price": "0.00",
+          "rank": 225,
+          "category": "6012"
+        },
+        {
+          "appId": 6787076514,
+          "name": "Palora",
+          "publisher": "家昆 夏",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/83/15/01/8315015d-2c8d-47aa-163a-304410ad71cc/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/180x180bb.png",
+          "rating": 4.8,
+          "ratingCount": 13,
+          "price": "0.00",
+          "rank": 226,
+          "category": "6012"
+        },
+        {
+          "appId": 6771396826,
+          "name": "Carvia: Car Widgets",
+          "publisher": "Dali Parkett GmbH",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f4/5e/9d/f45e9d4e-ebd6-6c16-ce02-b1c72a704c32/AppIcon-0-0-1x_U007ephone-0-1-85-220.jpeg/180x180bb.png",
+          "rating": 3.2,
+          "ratingCount": 336,
+          "price": "0.00",
+          "rank": 228,
+          "category": "6012"
+        },
+        {
+          "appId": 6780787967,
+          "name": "Adult Chat，Hot Live：OnlineChat",
+          "publisher": "Hessa Al-Ghandi",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/1d/8f/e3/1d8fe3ec-069d-249e-6ab1-c42a14d7c93e/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/180x180bb.png",
+          "rating": 4.6,
+          "ratingCount": 88,
+          "price": "0.00",
+          "rank": 231,
+          "category": "6012"
+        },
+        {
+          "appId": 1475805212,
+          "name": "Whisker",
+          "publisher": "Automated Pet Care Products Inc. dba AutoPets",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d6/49/1c/d6491c26-3984-46ef-1aa7-fd5d3eabe4b8/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/180x180bb.png",
+          "rating": 4.8,
+          "ratingCount": 144000,
+          "price": "0.00",
+          "rank": 233,
+          "category": "6012"
+        },
+        {
+          "appId": 1482681335,
+          "name": "Wink Dating: Meet, Chat & Date",
+          "publisher": "9 Count, Inc.",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7b/d4/49/7bd449c5-0960-74ab-912f-9bb18fe5012c/AppIcon-main-0-0-1x_U007emarketing-0-11-0-85-220.png/180x180bb.png",
+          "rating": 4.5,
+          "ratingCount": 309000,
+          "price": "0.00",
+          "rank": 241,
+          "category": "6012"
+        },
+        {
+          "appId": 6787005340,
+          "name": "MetUs-Memories & Chat",
+          "publisher": "Dynamic Connection LLC",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/09/32/ee/0932ee78-a193-2cda-3a0b-fd916bb8bc53/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/180x180bb.png",
+          "rating": 3.8,
+          "ratingCount": 55,
+          "price": "0.00",
+          "rank": 242,
+          "category": "6012"
+        },
+        {
+          "appId": 1455617149,
+          "name": "FitPro",
+          "publisher": "深圳市威尔健康管理科技有限公司",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/65/84/89/658489a5-c2fc-bbe0-65c6-8fee8e91e1b5/AppIcon-0-0-1x_U007emarketing-0-8-0-sRGB-85-220.png/180x180bb.png",
+          "rating": 2.6,
+          "ratingCount": 4444,
+          "price": "0.00",
+          "rank": 243,
+          "category": "6012"
+        },
+        {
+          "appId": 395563123,
+          "name": "Dscout",
+          "publisher": "dscout",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/22/b8/ef/22b8efbc-896c-e100-37b4-c966a969611e/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/180x180bb.png",
+          "rating": 4.4,
+          "ratingCount": 3627,
+          "price": "0.00",
+          "rank": 248,
+          "category": "6012"
+        },
+        {
+          "appId": 1367606835,
+          "name": "Ting",
+          "publisher": "Whisker Labs, Inc.",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/88/d2/c4/88d2c47a-5843-8e46-59aa-3bf09ddbda79/AppIcon-0-0-1x_U007epad-0-1-85-220.png/180x180bb.png",
+          "rating": 4.8,
+          "ratingCount": 109000,
+          "price": "0.00",
+          "rank": 249,
+          "category": "6012"
+        }
+      ],
+      "removed": [
+        {
+          "appId": 1427750529,
+          "name": "TOM: The Organised Method",
+          "publisher": "Mike Bray",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/04/b8/8f/04b88fe1-b8bd-4ab0-423e-822eb2ba6dd4/AppIcon-1x_U007emarketing-0-11-0-85-220-0.png/180x180bb.png",
+          "rating": 4.1,
+          "ratingCount": 46,
+          "price": "0.00",
+          "rank": 178,
+          "category": "6012"
+        },
+        {
+          "appId": 6759252139,
+          "name": "Quick Family Tree Maker & DNA",
+          "publisher": "D J & F LLC",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ab/72/7c/ab727c18-6b37-4423-6222-d06d18eb224b/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/180x180bb.png",
+          "rating": 4.5,
+          "ratingCount": 208,
+          "price": "0.00",
+          "rank": 190,
+          "category": "6012"
+        },
+        {
+          "appId": 1024626982,
+          "name": "Sense Home",
+          "publisher": "Sense Labs, Inc.",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/dd/7e/2a/dd7e2a95-9fc5-3f6d-6e41-80c72777af17/SenseIcon-0-0-1x_U007epad-0-0-0-1-0-0-85-220.png/180x180bb.png",
+          "rating": 4.6,
+          "ratingCount": 2215,
+          "price": "0.00",
+          "rank": 191,
+          "category": "6012"
+        },
+        {
+          "appId": 6499445456,
+          "name": "AHS: American Home Shield",
+          "publisher": "Frontdoor Incorporated",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/94/db/e3/94dbe37a-4a53-a0bc-0503-33a63f02aa09/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/180x180bb.png",
+          "rating": 4.9,
+          "ratingCount": 55599.99999999999,
+          "price": "0.00",
+          "rank": 201,
+          "category": "6012"
+        },
+        {
+          "appId": 6757022204,
+          "name": "Zeydi",
+          "publisher": "HOSSEIN NASR",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/43/e3/5a/43e35a15-94bb-48d6-cba0-2825a92ce69e/AppIcon-0-0-1x_U007epad-0-1-85-220.png/180x180bb.png",
+          "rating": 4.6,
+          "ratingCount": 76,
+          "price": "0.00",
+          "rank": 206,
+          "category": "6012"
+        },
+        {
+          "appId": 6471983227,
+          "name": "IDEXX Vello",
+          "publisher": "IDEXX Laboratories",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/69/57/ae/6957aeff-758b-82a8-7cc7-c394c5f0c16b/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/180x180bb.png",
+          "rating": 4.3,
+          "ratingCount": 12,
+          "price": "0.00",
+          "rank": 207,
+          "category": "6012"
+        },
+        {
+          "appId": 691246562,
+          "name": "Rave Guardian",
+          "publisher": "Rave Mobile Safety",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/cf/dd/cc/cfddcc0a-ec99-f9db-ab17-7b2a1ef69f6a/AppIcon-0-0-1x_U007emarketing-0-6-0-sRGB-85-220.png/180x180bb.png",
+          "rating": 4.6,
+          "ratingCount": 2929,
+          "price": "0.00",
+          "rank": 217,
+          "category": "6012"
+        },
+        {
+          "appId": 6478997398,
+          "name": "Blood Pressure Monitor-BP Log",
+          "publisher": "MA CHENG BUSINESS LIMITED",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/bf/17/38/bf17380b-86c4-eb5a-2950-a9353bfdca3f/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/180x180bb.png",
+          "rating": 4.4,
+          "ratingCount": 11700,
+          "price": "0.00",
+          "rank": 220,
+          "category": "6012"
+        },
+        {
+          "appId": 328453619,
+          "name": "Care.com: Hire Caregivers",
+          "publisher": "Care.com, Inc.",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3c/0e/34/3c0e34cf-b26f-80ec-a486-e037ce38d19d/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/180x180bb.png",
+          "rating": 4.4,
+          "ratingCount": 41100,
+          "price": "0.00",
+          "rank": 229,
+          "category": "6012"
+        },
+        {
+          "appId": 6758685096,
+          "name": "Hairify - AI Hairstyle Try On",
+          "publisher": "Techbot Co., Limited",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/12/24/e5/1224e5dd-98bb-a197-e3f7-ab83c6ee8180/AppIcon-0-0-1x_U007epad-0-1-0-P3-0-85-220.png/180x180bb.png",
+          "rating": 4.6,
+          "ratingCount": 1290,
+          "price": "0.00",
+          "rank": 231,
+          "category": "6012"
+        },
+        {
+          "appId": 1392492235,
+          "name": "UniFi Protect",
+          "publisher": "Ubiquiti Inc.",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/36/c7/38/36c73862-cb1b-57cc-7ed7-b9461ff51c1c/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-0-85-220.png/180x180bb.png",
+          "rating": 4.8,
+          "ratingCount": 72800,
+          "price": "0.00",
+          "rank": 234,
+          "category": "6012"
+        },
+        {
+          "appId": 628215241,
+          "name": "Punchbowl: Invitations & Cards",
+          "publisher": "Punchbowl, Inc.",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/44/b3/41/44b34148-43af-c23d-a985-48450259fe58/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/180x180bb.png",
+          "rating": 4.9,
+          "ratingCount": 110000,
+          "price": "0.00",
+          "rank": 236,
+          "category": "6012"
+        },
+        {
+          "appId": 1437699295,
+          "name": "Sniffspot - Private Dog Parks",
+          "publisher": "Sniffspot, Inc.",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f3/e2/cf/f3e2cf1b-9ed6-5e94-e79b-74170ef9d26c/AppIcon-0-0-1x_U007emarketing-0-9-0-85-220.png/180x180bb.png",
+          "rating": 4.9,
+          "ratingCount": 23800,
+          "price": "0.00",
+          "rank": 237,
+          "category": "6012"
+        },
+        {
+          "appId": 1612792132,
+          "name": "Plant Parent: Plant Care Guide",
+          "publisher": "Glority Global Group Ltd.",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/06/3a/b5/063ab5bf-e75c-3718-6507-1de3502f0eb3/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/180x180bb.png",
+          "rating": 4.7,
+          "ratingCount": 90900,
+          "price": "0.00",
+          "rank": 241,
+          "category": "6012"
+        },
+        {
+          "appId": 6737127897,
+          "name": "Homeaglow",
+          "publisher": "homeaglow",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/28/22/95/282295ff-1c73-c301-12cb-ceef2447dd70/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/180x180bb.png",
+          "rating": 4.7,
+          "ratingCount": 426,
+          "price": "0.00",
+          "rank": 242,
+          "category": "6012"
+        },
+        {
+          "appId": 6768380647,
+          "name": "KidHub by Unleashed Brands",
+          "publisher": "Unleashed Services",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2f/cc/a0/2fcca0f9-a460-f09e-77f1-cc49c35f3532/AppIcon-0-0-1x_U007epad-0-1-85-220.png/180x180bb.png",
+          "rating": 4.7,
+          "ratingCount": 457,
+          "price": "0.00",
+          "rank": 246,
+          "category": "6012"
+        }
+      ]
+    }
+  }
+}
