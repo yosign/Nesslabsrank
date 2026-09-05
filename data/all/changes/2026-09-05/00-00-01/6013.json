@@ -1,0 +1,319 @@
+{
+  "date": "2026-09-05",
+  "changes": {
+    "6013": {
+      "added": [
+        {
+          "appId": 1438036784,
+          "name": "Fi - GPS Dog Tracker",
+          "publisher": "Barking Labs Corp.",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/12/44/9e/12449e43-4340-12af-8377-8961cfed579d/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/180x180bb.png",
+          "rating": 4.7,
+          "ratingCount": 40000,
+          "price": "0.00",
+          "rank": 195,
+          "category": "6013"
+        },
+        {
+          "appId": 6474598021,
+          "name": "Blood Pressure App-BP Tracker",
+          "publisher": "AKRURA PTE. LTD",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/df/5c/b3/df5cb336-5b95-cfac-e358-ba0b10392723/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/180x180bb.png",
+          "rating": 4.5,
+          "ratingCount": 8919,
+          "price": "0.00",
+          "rank": 196,
+          "category": "6013"
+        },
+        {
+          "appId": 292987597,
+          "name": "White Noise Lite",
+          "publisher": "TMSOFT",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/17/f9/1d/17f91d03-221c-6aaa-e8cd-21748069e41d/AppIconFree-0-0-1x_U007emarketing-0-8-0-85-220.png/180x180bb.png",
+          "rating": 4.8,
+          "ratingCount": 275000,
+          "price": "0.00",
+          "rank": 202,
+          "category": "6013"
+        },
+        {
+          "appId": 6767251972,
+          "name": "Skorva – AI Form Coach",
+          "publisher": "Skorva Inc.",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/24/f6/bc/24f6bc7d-dc26-4601-25f2-da9aa62938cd/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/180x180bb.png",
+          "rating": 4.4,
+          "ratingCount": 12,
+          "price": "0.00",
+          "rank": 210,
+          "category": "6013"
+        },
+        {
+          "appId": 6695758303,
+          "name": "Taller - Maximize your height",
+          "publisher": "Romandie.com",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a6/f4/10/a6f41042-44cc-2034-95cf-783316d90961/AppIcon-0-0-1x_U007epad-0-1-85-220.png/180x180bb.png",
+          "rating": 4.7,
+          "ratingCount": 17400,
+          "price": "0.00",
+          "rank": 216,
+          "category": "6013"
+        },
+        {
+          "appId": 6742006017,
+          "name": "Health Scan: Heart & Sugar",
+          "publisher": "Hong Kong Vivid Limited",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/79/dc/fc/79dcfc0d-91ef-e520-ff5a-76241a8c1d7e/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/180x180bb.png",
+          "rating": 4.2,
+          "ratingCount": 5434,
+          "price": "0.00",
+          "rank": 220,
+          "category": "6013"
+        },
+        {
+          "appId": 6475388563,
+          "name": "SweatHouz",
+          "publisher": "Legendary Sweat LLC",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e4/2b/bc/e42bbc7a-8ce2-a1a4-0b72-0be8a049342b/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/180x180bb.png",
+          "rating": 4.9,
+          "ratingCount": 8952,
+          "price": "0.00",
+          "rank": 225,
+          "category": "6013"
+        },
+        {
+          "appId": 1564694267,
+          "name": "WalkPay: Walk & Earn Rewards",
+          "publisher": "Bussness xc",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/69/70/b2/6970b282-617f-f9b5-acf5-03a208cdd3fb/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/180x180bb.png",
+          "rating": 4.2,
+          "ratingCount": 6076,
+          "price": "0.00",
+          "rank": 230,
+          "category": "6013"
+        },
+        {
+          "appId": 1450500729,
+          "name": "SmartHealth",
+          "publisher": "Shenzhen Yucheng Innovation Technology Co., Ltd.",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d5/68/01/d56801ca-f962-e303-73a0-073131100d97/AppIcon-0-0-1x_U007emarketing-0-8-0-sRGB-85-220.png/180x180bb.png",
+          "rating": 3,
+          "ratingCount": 2166,
+          "price": "0.00",
+          "rank": 233,
+          "category": "6013"
+        },
+        {
+          "appId": 6743009659,
+          "name": "The Joint Chiropractic",
+          "publisher": "The Joint Corp",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5e/62/38/5e623834-8b41-4b26-08e4-41af9624fe68/AppIcon-0-0-1x_U007epad-0-1-85-220.png/180x180bb.png",
+          "rating": 3.4,
+          "ratingCount": 116,
+          "price": "0.00",
+          "rank": 234,
+          "category": "6013"
+        },
+        {
+          "appId": 6714475500,
+          "name": "Aligned: AI Coach & Planner",
+          "publisher": "Mate academy",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2c/22/76/2c227643-6fb3-9194-f5fa-03f37f82f523/AppIcon-0-0-1x_U007epad-0-1-85-220.png/180x180bb.png",
+          "rating": 4.3,
+          "ratingCount": 610,
+          "price": "0.00",
+          "rank": 241,
+          "category": "6013"
+        },
+        {
+          "appId": 1512947756,
+          "name": "Wearfit Pro",
+          "publisher": "深圳市微克科技有限公司",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/85/64/dc/8564dc90-e499-ba16-e9f0-c0b65c70d7f2/AppIconWKOS-0-0-1x_U007emarketing-0-6-0-sRGB-85-220.png/180x180bb.png",
+          "rating": 3.1,
+          "ratingCount": 2346,
+          "price": "0.00",
+          "rank": 247,
+          "category": "6013"
+        },
+        {
+          "appId": 6455457586,
+          "name": "Vibrator App: Strong Massager",
+          "publisher": "SolidSoftware Apps",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ce/fe/3e/cefe3e86-4116-5728-431c-d1446fbe6753/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/180x180bb.png",
+          "rating": 4.4,
+          "ratingCount": 8214,
+          "price": "0.00",
+          "rank": 248,
+          "category": "6013"
+        },
+        {
+          "appId": 6443568264,
+          "name": "PetPage",
+          "publisher": "AllyDVM",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c7/f2/56/c7f25641-8fb7-3eed-eec2-afc9ed532fb9/AppIcon-0-0-1x_U007epad-0-1-85-220.png/180x180bb.png",
+          "rating": 4.9,
+          "ratingCount": 5687,
+          "price": "0.00",
+          "rank": 249,
+          "category": "6013"
+        }
+      ],
+      "removed": [
+        {
+          "appId": 6755126064,
+          "name": "Steppa - Step Challenges",
+          "publisher": "Steppa, LLC",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/45/cc/49/45cc4924-1865-5bfc-f86d-dce0e2e72105/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/180x180bb.png",
+          "rating": 4.6,
+          "ratingCount": 1108,
+          "price": "0.00",
+          "rank": 186,
+          "category": "6013"
+        },
+        {
+          "appId": 6762102880,
+          "name": "PeptidePal – Peptide Tracker",
+          "publisher": "Blank Labs LLC",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/26/d1/9c/26d19ccd-09d1-dbf8-cebd-fc9fb55c5d28/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/180x180bb.png",
+          "rating": 4.7,
+          "ratingCount": 4472,
+          "price": "0.00",
+          "rank": 201,
+          "category": "6013"
+        },
+        {
+          "appId": 1482405410,
+          "name": "Caliber: Strength Training",
+          "publisher": "Caliber Fitness, Inc",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/1b/d8/6d/1bd86dfa-9a5a-23bb-80ba-a6461c65fe1c/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/180x180bb.png",
+          "rating": 4.8,
+          "ratingCount": 5903,
+          "price": "0.00",
+          "rank": 215,
+          "category": "6013"
+        },
+        {
+          "appId": 1283152937,
+          "name": "Surest",
+          "publisher": "Bind Benefits, Inc",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c8/21/d3/c821d3dd-107f-ab76-11c8-a6464e8698e6/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/180x180bb.png",
+          "rating": 4.6,
+          "ratingCount": 6396,
+          "price": "0.00",
+          "rank": 220,
+          "category": "6013"
+        },
+        {
+          "appId": 1669369516,
+          "name": "Calm Health",
+          "publisher": "Calm.com",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/52/a3/a8/52a3a88c-1699-a90f-9373-284f88fc5aab/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/180x180bb.png",
+          "rating": 4.8,
+          "ratingCount": 6007,
+          "price": "0.00",
+          "rank": 223,
+          "category": "6013"
+        },
+        {
+          "appId": 6448909309,
+          "name": "Intermittent Fasting Tracker:",
+          "publisher": "Kai Oelfke",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/32/31/dd/3231dd88-dd63-91ae-ab0b-e32546c4e50b/IconComposer-0-0-1x_U007ephone-0-1-sRGB-85-220.png/180x180bb.png",
+          "rating": 4.9,
+          "ratingCount": 50400,
+          "price": "0.00",
+          "rank": 226,
+          "category": "6013"
+        },
+        {
+          "appId": 1584405331,
+          "name": "Amped Fitness",
+          "publisher": "Amped Fitness, LLC",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/20/f8/b5/20f8b559-a1f1-8c4b-4730-bc93f8ffd23d/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/180x180bb.png",
+          "rating": 3.6,
+          "ratingCount": 201,
+          "price": "0.00",
+          "rank": 231,
+          "category": "6013"
+        },
+        {
+          "appId": 1574460221,
+          "name": "JustFit: Lazy Workout & Fit",
+          "publisher": "Enerjoy Pte. Ltd.",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a7/a2/e2/a7a2e2b4-9563-70ae-57f6-349f0c4fea66/AppIcon-0-0-1x_U007emarketing-0-8-0-sRGB-85-220.png/180x180bb.png",
+          "rating": 4.8,
+          "ratingCount": 215000,
+          "price": "0.00",
+          "rank": 232,
+          "category": "6013"
+        },
+        {
+          "appId": 6499554412,
+          "name": "Death Clock: The Life Lab",
+          "publisher": "Most Days",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7d/1c/02/7d1c0206-6f68-e4b7-e15d-68796dbd4c4f/Icon-0-0-1x_U007ephone-0-1-sRGB-85-220.png/180x180bb.png",
+          "rating": 4.8,
+          "ratingCount": 15800,
+          "price": "0.00",
+          "rank": 234,
+          "category": "6013"
+        },
+        {
+          "appId": 1549559068,
+          "name": "My Starkey",
+          "publisher": "Starkey Laboratories",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/bb/e3/65/bbe36509-5195-507f-1263-240aee938911/AppIcon-0-1x_U007epad-0-11-0-85-220-0.png/180x180bb.png",
+          "rating": 3.2,
+          "ratingCount": 189,
+          "price": "0.00",
+          "rank": 236,
+          "category": "6013"
+        },
+        {
+          "appId": 6448703360,
+          "name": "MyRepeat: Patient Rewards",
+          "publisher": "RepeatMD, Inc.",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5b/ab/f1/5babf1ed-180b-d692-2a47-1021d3eb6a8d/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/180x180bb.png",
+          "rating": 4.9,
+          "ratingCount": 25800,
+          "price": "0.00",
+          "rank": 239,
+          "category": "6013"
+        },
+        {
+          "appId": 6741707862,
+          "name": "Welmi - Calorie Counter & Diet",
+          "publisher": "T-SHAPED APPS LTD",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/cf/c4/9c/cfc49c31-faf6-7f18-dadf-a275a98a595b/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/180x180bb.png",
+          "rating": 4.8,
+          "ratingCount": 20000,
+          "price": "0.00",
+          "rank": 241,
+          "category": "6013"
+        },
+        {
+          "appId": 6469338436,
+          "name": "FivePointFive: Breathwork",
+          "publisher": "fivepointfive",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ce/6a/8a/ce6a8aeb-403a-97cb-c64a-e69390f0e1e6/AppIcon-0-0-1x_U007ephone-0-1-0-P3-85-220.png/180x180bb.png",
+          "rating": 4.8,
+          "ratingCount": 4155,
+          "price": "0.00",
+          "rank": 247,
+          "category": "6013"
+        },
+        {
+          "appId": 6474862947,
+          "name": "Ash - AI for Mental Health",
+          "publisher": "Slingshot AI",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2b/13/06/2b13064a-45ac-c3ce-8160-724ad6f291bb/AppIcon-production-0-0-1x_U007emarketing-0-11-0-85-220.png/180x180bb.png",
+          "rating": 4.8,
+          "ratingCount": 4386,
+          "price": "0.00",
+          "rank": 249,
+          "category": "6013"
+        }
+      ]
+    }
+  }
+}
