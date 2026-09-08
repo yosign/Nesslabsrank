@@ -1,0 +1,319 @@
+{
+  "date": "2026-09-08",
+  "changes": {
+    "6013": {
+      "added": [
+        {
+          "appId": 6739960903,
+          "name": "Theta Wellness",
+          "publisher": "Theta Health Inc.",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/53/1f/a8/531fa8ac-8610-3bb5-edbc-9c064a35fba2/NewIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/180x180bb.png",
+          "rating": 4.6,
+          "ratingCount": 11,
+          "price": "0.00",
+          "rank": 128,
+          "category": "6013"
+        },
+        {
+          "appId": 6450723685,
+          "name": "75 Days Challenge Tough & Soft",
+          "publisher": "BeHard, Inc.",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/86/55/06/865506d6-3025-2e45-b76b-d0eeef702795/AppIcon-0-1x_U007emarketing-0-7-0-85-220-0.png/180x180bb.png",
+          "rating": 4.8,
+          "ratingCount": 8654,
+          "price": "0.00",
+          "rank": 182,
+          "category": "6013"
+        },
+        {
+          "appId": 6478134595,
+          "name": "ARBloodPressure:Health record",
+          "publisher": "NUMBER THREE TECH LIMITED",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/74/29/b4/7429b455-2182-0375-153f-b764f45e33c3/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/180x180bb.png",
+          "rating": 3.2,
+          "ratingCount": 35,
+          "price": "0.00",
+          "rank": 188,
+          "category": "6013"
+        },
+        {
+          "appId": 6754058817,
+          "name": "PulseGuard Ai",
+          "publisher": "DIAMOND WHEEL LIMITED",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2b/cf/fe/2bcffe0e-6dd4-783d-29a5-d3a25e2f7132/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/180x180bb.png",
+          "rating": 2.9,
+          "ratingCount": 16,
+          "price": "0.00",
+          "rank": 205,
+          "category": "6013"
+        },
+        {
+          "appId": 1253012487,
+          "name": "MacrosFirst - Macro Tracker",
+          "publisher": "MacrosFirst, Inc.",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4f/ed/4b/4fed4b97-d1c5-282f-7fa4-f69933855578/AppIcon-0-0-1x_U007epad-0-1-85-220.png/180x180bb.png",
+          "rating": 4.9,
+          "ratingCount": 21400,
+          "price": "0.00",
+          "rank": 220,
+          "category": "6013"
+        },
+        {
+          "appId": 1487751824,
+          "name": "Solin: Challenges & Nutrition",
+          "publisher": "Solin",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/fe/1b/a2/fe1ba2e4-76d0-6bc8-9b0c-a2009e315426/AppIcon-0-0-1x_U007epad-0-1-85-220.png/180x180bb.png",
+          "rating": 4.9,
+          "ratingCount": 3454,
+          "price": "0.00",
+          "rank": 222,
+          "category": "6013"
+        },
+        {
+          "appId": 1560604814,
+          "name": "Grow: Health & Fitness",
+          "publisher": "Floating Island Technology Co., Ltd.",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/68/3b/ff/683bff27-bef1-053c-4846-6c8257d10192/Grow-0-0-1x_U007ephone-0-0-0-1-0-0-sRGB-85-220.png/180x180bb.png",
+          "rating": 4.7,
+          "ratingCount": 4392,
+          "price": "0.00",
+          "rank": 226,
+          "category": "6013"
+        },
+        {
+          "appId": 6504586102,
+          "name": "Musa: Period & Pregnancy",
+          "publisher": "Musa Health, Inc",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6c/89/92/6c899255-dcd3-6547-1b1d-870d8f269a35/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/180x180bb.png",
+          "rating": 4.8,
+          "ratingCount": 11299.999999999998,
+          "price": "0.00",
+          "rank": 228,
+          "category": "6013"
+        },
+        {
+          "appId": 6754829116,
+          "name": "StridePay: Walk & Earn Rewards",
+          "publisher": "LemonGo Digital Technology Limited",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8f/d3/96/8fd39605-b304-ea75-fd51-ca6595282fc0/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/180x180bb.png",
+          "rating": 4.3,
+          "ratingCount": 1636,
+          "price": "0.00",
+          "rank": 231,
+          "category": "6013"
+        },
+        {
+          "appId": 318815572,
+          "name": "Equinox+",
+          "publisher": "Equinox",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0f/3b/9c/0f3b9ce1-6a63-15a6-770e-880d4f68bd19/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/180x180bb.png",
+          "rating": 4.7,
+          "ratingCount": 42900,
+          "price": "0.00",
+          "rank": 239,
+          "category": "6013"
+        },
+        {
+          "appId": 6447589030,
+          "name": "Pain Coach by VA",
+          "publisher": "US Department of Veterans Affairs (VA)",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d7/5e/03/d75e0303-dd3a-d94a-8f28-a7e2fda4bb33/AppIcon-0-0-1x_U007epad-0-85-220.png/180x180bb.png",
+          "rating": 4.5,
+          "ratingCount": 15,
+          "price": "0.00",
+          "rank": 242,
+          "category": "6013"
+        },
+        {
+          "appId": 6468623712,
+          "name": "Life Fitness Connect",
+          "publisher": "Life Fitness LLC",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/06/bc/9b/06bc9bd6-3b90-74ec-2abc-4f36808cbc7c/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/180x180bb.png",
+          "rating": 4.7,
+          "ratingCount": 3762,
+          "price": "0.00",
+          "rank": 243,
+          "category": "6013"
+        },
+        {
+          "appId": 1357527742,
+          "name": "Workout for Women: Fit at Home",
+          "publisher": "Leap Health",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2d/fd/0f/2dfd0f7e-652c-94fb-d170-f13564547045/AppIcon-0-0-1x_U007emarketing-0-0-0-4-0-0-85-220.jpeg/180x180bb.png",
+          "rating": 4.8,
+          "ratingCount": 29700.000000000004,
+          "price": "0.00",
+          "rank": 246,
+          "category": "6013"
+        },
+        {
+          "appId": 839285684,
+          "name": "Workout for Women: Home & Gym",
+          "publisher": "Fast Builder Limited",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/34/a6/70/34a67076-ca2e-84f0-9850-9e7766210268/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/180x180bb.png",
+          "rating": 4.8,
+          "ratingCount": 531000,
+          "price": "0.00",
+          "rank": 247,
+          "category": "6013"
+        }
+      ],
+      "removed": [
+        {
+          "appId": 1361619409,
+          "name": "Yoga-Go: Tai Chi & Pilates",
+          "publisher": "WELLTECH APPS LIMITED",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d4/cf/b9/d4cfb9c3-569b-60c4-ad34-f6d82330b940/AppIcon-0-0-1x_U007epad-0-1-0-0-sRGB-85-220.png/180x180bb.png",
+          "rating": 4.6,
+          "ratingCount": 88800.00000000001,
+          "price": "0.00",
+          "rank": 174,
+          "category": "6013"
+        },
+        {
+          "appId": 6695758303,
+          "name": "Taller - Maximize your height",
+          "publisher": "Romandie.com",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a6/f4/10/a6f41042-44cc-2034-95cf-783316d90961/AppIcon-0-0-1x_U007epad-0-1-85-220.png/180x180bb.png",
+          "rating": 4.7,
+          "ratingCount": 17400,
+          "price": "0.00",
+          "rank": 203,
+          "category": "6013"
+        },
+        {
+          "appId": 6747369487,
+          "name": "AI Health Pulse - Heart Rate",
+          "publisher": "COHESION NETWORK PTE LIMITED",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ee/47/0e/ee470eb2-38d6-9a3f-a979-76f486fc478a/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/180x180bb.png",
+          "rating": 4.1,
+          "ratingCount": 42,
+          "price": "0.00",
+          "rank": 219,
+          "category": "6013"
+        },
+        {
+          "appId": 409625068,
+          "name": "Instant Heart Rate: HR Monitor",
+          "publisher": "Bodymatter, Inc.",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/05/ec/38/05ec38c4-2cdb-fbfc-3f0d-716a67c38541/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/180x180bb.png",
+          "rating": 4.9,
+          "ratingCount": 229000,
+          "price": "0.00",
+          "rank": 224,
+          "category": "6013"
+        },
+        {
+          "appId": 6762130998,
+          "name": "Tipple: Alcohol Moderation Pet",
+          "publisher": "Myrtle",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2e/c8/64/2ec864bb-12ba-734b-e960-0871c9845dce/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/180x180bb.png",
+          "rating": 4.7,
+          "ratingCount": 400,
+          "price": "0.00",
+          "rank": 228,
+          "category": "6013"
+        },
+        {
+          "appId": 6743036247,
+          "name": "Arise: Level Up In Real Life",
+          "publisher": "DIGITAL LIONS APPS",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c2/15/14/c2151497-9034-df00-f102-0673bf4a3e42/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/180x180bb.png",
+          "rating": 4.8,
+          "ratingCount": 20900,
+          "price": "0.00",
+          "rank": 229,
+          "category": "6013"
+        },
+        {
+          "appId": 1446447749,
+          "name": "Muscle Booster Workout Tracker",
+          "publisher": "WELLTECH APPS LIMITED",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/77/e6/02/77e602fb-ec30-03a5-49be-7e7353cf8475/AppIcon-0-0-1x_U007ephone-0-11-0-0-85-220.png/180x180bb.png",
+          "rating": 4.5,
+          "ratingCount": 137000,
+          "price": "0.00",
+          "rank": 232,
+          "category": "6013"
+        },
+        {
+          "appId": 6471596320,
+          "name": "Limber Health Home Exercise",
+          "publisher": "Limber Health, Inc.",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1b/af/11/1baf1106-70a6-3f3b-374b-79b00218c7f2/AppIconLimberV3-0-0-1x_U007emarketing-0-7-0-85-220.png/180x180bb.png",
+          "rating": 4,
+          "ratingCount": 452,
+          "price": "0.00",
+          "rank": 233,
+          "category": "6013"
+        },
+        {
+          "appId": 805711008,
+          "name": "Omada",
+          "publisher": "Omada Health, inc.",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a5/b8/9e/a5b89eac-9a50-c9bf-01b1-c25a9c8c302e/OmadaAppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/180x180bb.png",
+          "rating": 4.7,
+          "ratingCount": 94600.00000000001,
+          "price": "0.00",
+          "rank": 234,
+          "category": "6013"
+        },
+        {
+          "appId": 6474598021,
+          "name": "Blood Pressure App-BP Tracker",
+          "publisher": "AKRURA PTE. LTD",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/df/5c/b3/df5cb336-5b95-cfac-e358-ba0b10392723/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/180x180bb.png",
+          "rating": 4.5,
+          "ratingCount": 8919,
+          "price": "0.00",
+          "rank": 236,
+          "category": "6013"
+        },
+        {
+          "appId": 6479605427,
+          "name": "Workout Planner MuscleFit",
+          "publisher": "Next Vision Limited",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7f/9b/a2/7f9ba25a-53d1-10ed-3152-14e688366ab3/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/180x180bb.png",
+          "rating": 4.6,
+          "ratingCount": 6979,
+          "price": "0.00",
+          "rank": 237,
+          "category": "6013"
+        },
+        {
+          "appId": 596132953,
+          "name": "RaceJoy",
+          "publisher": "TriPerta LLC",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ff/b8/61/ffb86107-6522-ae67-f1a8-d86131b2e6ca/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/180x180bb.png",
+          "rating": 0,
+          "ratingCount": 0,
+          "price": "0.00",
+          "rank": 239,
+          "category": "6013"
+        },
+        {
+          "appId": 952516687,
+          "name": "23andMe - DNA Testing",
+          "publisher": "23andMe, Inc.",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ee/86/fc/ee86fc06-9acf-ca59-c80c-88e43481400d/AppIcon-0-0-1x_U007epad-0-11-0-85-220.png/100x100bb.jpg",
+          "rating": 4.8,
+          "ratingCount": 558000,
+          "price": "0.00",
+          "rank": 243,
+          "category": "6013"
+        },
+        {
+          "appId": 6471547318,
+          "name": "Muscle Monster Workout Planner",
+          "publisher": "TechPioneers Limited",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/64/9f/95/649f95d5-6474-8feb-a723-fae96c1fdf9b/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/180x180bb.png",
+          "rating": 4.7,
+          "ratingCount": 10500,
+          "price": "0.00",
+          "rank": 247,
+          "category": "6013"
+        }
+      ]
+    }
+  }
+}
