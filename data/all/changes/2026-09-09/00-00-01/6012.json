@@ -1,0 +1,473 @@
+{
+  "date": "2026-09-09",
+  "changes": {
+    "6012": {
+      "added": [
+        {
+          "appId": 6736725704,
+          "name": "Nintendo Today!",
+          "publisher": "Nintendo Co., Ltd.",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f7/4e/ba/f74ebaca-cfdc-dbf8-1d71-5aa8c34ad66e/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.jpg",
+          "rating": 4.3,
+          "ratingCount": 989,
+          "price": "0.00",
+          "rank": 42,
+          "category": "6012"
+        },
+        {
+          "appId": 6769250805,
+          "name": "Ink: Lockscreen Calendar, Note",
+          "publisher": "SilverAI Joint Stock Company",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/38/0f/15/380f15ae-6cba-f983-286f-c4fea7f9b715/AppIcon-0-0-1x_U007epad-0-1-85-220.png/180x180bb.png",
+          "rating": 4,
+          "ratingCount": 95,
+          "price": "0.00",
+          "rank": 79,
+          "category": "6012"
+        },
+        {
+          "appId": 1212205667,
+          "name": "iVueit: Earn Cash For Surveys",
+          "publisher": "TruPic Media LLC",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7c/ce/ac/7cceac7c-f792-4c8a-729e-5d3e0a1bf792/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/180x180bb.png",
+          "rating": 4.2,
+          "ratingCount": 3376,
+          "price": "0.00",
+          "rank": 102,
+          "category": "6012"
+        },
+        {
+          "appId": 315010649,
+          "name": "Alarm.com",
+          "publisher": "Alarm.com",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/09/0a/c4/090ac481-6d59-40df-d633-b53dd5fed9dd/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/180x180bb.png",
+          "rating": 4.7,
+          "ratingCount": 141000,
+          "price": "0.00",
+          "rank": 147,
+          "category": "6012"
+        },
+        {
+          "appId": 1138970986,
+          "name": "MyChoice Benefits",
+          "publisher": "Businessolver",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9c/b7/1c/9cb71c47-8112-7d5e-dcf8-6b9f3165b1ec/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/180x180bb.png",
+          "rating": 4.8,
+          "ratingCount": 23300,
+          "price": "0.00",
+          "rank": 179,
+          "category": "6012"
+        },
+        {
+          "appId": 1280670682,
+          "name": "SmartRent",
+          "publisher": "Smartrent.com, LLC",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/15/9f/21/159f21fd-5dbd-614b-2643-2dd45b6027f9/AppIcon-0-0-1x_U007epad-0-1-85-220.png/180x180bb.png",
+          "rating": 4.7,
+          "ratingCount": 118000,
+          "price": "0.00",
+          "rank": 199,
+          "category": "6012"
+        },
+        {
+          "appId": 6761342025,
+          "name": "beloud.now",
+          "publisher": "Lydia Ickler",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/95/7f/cf/957fcfd2-4390-9cbd-c841-6da5fca045c1/AppIcon-0-0-1x_U007epad-0-1-85-220.png/180x180bb.png",
+          "rating": 4.7,
+          "ratingCount": 40,
+          "price": "0.00",
+          "rank": 200,
+          "category": "6012"
+        },
+        {
+          "appId": 6791808503,
+          "name": "Documented: Parenting Record",
+          "publisher": "Rise Advertising LLC",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0e/0e/74/0e0e7426-8095-eddd-0b4e-959d6e66d07e/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/180x180bb.png",
+          "rating": 5,
+          "ratingCount": 4,
+          "price": "0.00",
+          "rank": 201,
+          "category": "6012"
+        },
+        {
+          "appId": 1604464354,
+          "name": "ADT+",
+          "publisher": "ADT LLC",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/54/8f/10/548f10a8-7a89-662a-74f3-7a2532ed8f12/ADT_U002b_AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/180x180bb.png",
+          "rating": 4.8,
+          "ratingCount": 57100,
+          "price": "0.00",
+          "rank": 202,
+          "category": "6012"
+        },
+        {
+          "appId": 6471983227,
+          "name": "IDEXX Vello",
+          "publisher": "IDEXX Laboratories",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/69/57/ae/6957aeff-758b-82a8-7cc7-c394c5f0c16b/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/180x180bb.png",
+          "rating": 4.3,
+          "ratingCount": 13,
+          "price": "0.00",
+          "rank": 210,
+          "category": "6012"
+        },
+        {
+          "appId": 6475391035,
+          "name": "Sweet Translate AI Translator",
+          "publisher": "LITTLE STAR PARADISE PTE. LTD.",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6a/19/81/6a198175-308e-e646-ee1f-420c17cbd827/AppIcon-0-0-1x_U007ephone-0-1-0-0-85-220.png/180x180bb.png",
+          "rating": 4.3,
+          "ratingCount": 6,
+          "price": "0.00",
+          "rank": 214,
+          "category": "6012"
+        },
+        {
+          "appId": 1581584704,
+          "name": "S\\'hail | سهيل",
+          "publisher": "KATARA",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d2/ce/04/d2ce0436-019a-8703-24e7-eaec0e61cd65/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/180x180bb.png",
+          "rating": 4.3,
+          "ratingCount": 18,
+          "price": "0.00",
+          "rank": 218,
+          "category": "6012"
+        },
+        {
+          "appId": 6451412538,
+          "name": "Homebody: Better Renting",
+          "publisher": "Entrata, Inc.",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/13/01/5e/13015e12-74cb-9c3d-de35-4bea026a3652/AppIcon-0-0-1x_U007ephone-0-1-0-sRGB-85-220.png/180x180bb.png",
+          "rating": 4.3,
+          "ratingCount": 655,
+          "price": "0.00",
+          "rank": 225,
+          "category": "6012"
+        },
+        {
+          "appId": 1516518499,
+          "name": "myQ Community",
+          "publisher": "The Chamberlain Group, Inc.",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/07/ba/ee/07baee20-753d-413d-cc4c-b8fe5b70825b/AppIcon-0-0-1x_U007epad-0-1-85-220.png/180x180bb.png",
+          "rating": 4.6,
+          "ratingCount": 37900,
+          "price": "0.00",
+          "rank": 227,
+          "category": "6012"
+        },
+        {
+          "appId": 6754725037,
+          "name": "Tethered: Couples Games Daily",
+          "publisher": "Kazuo Corp",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a7/ca/0b/a7ca0b75-2eb6-729b-cccb-96f30907a472/AppIcon-0-0-1x_U007epad-0-1-85-220.png/180x180bb.png",
+          "rating": 4.5,
+          "ratingCount": 755,
+          "price": "0.00",
+          "rank": 229,
+          "category": "6012"
+        },
+        {
+          "appId": 1623569698,
+          "name": "JoinBrands: UGC Creator Jobs",
+          "publisher": "Join Brands",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/01/1e/da/011eda78-9b7f-3938-5066-f18013140812/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/180x180bb.png",
+          "rating": 4.6,
+          "ratingCount": 874,
+          "price": "0.00",
+          "rank": 231,
+          "category": "6012"
+        },
+        {
+          "appId": 1042822181,
+          "name": "Meeting Guide",
+          "publisher": "Alcoholics Anonymous World Services, Inc.",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/dd/8a/46/dd8a46fd-5650-370f-2b95-b0fe41eab781/AppIcon-0-0-1x_U007epad-0-1-85-220.png/180x180bb.png",
+          "rating": 4.4,
+          "ratingCount": 1015,
+          "price": "0.00",
+          "rank": 233,
+          "category": "6012"
+        },
+        {
+          "appId": 6499445456,
+          "name": "AHS: American Home Shield",
+          "publisher": "Frontdoor Incorporated",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/94/db/e3/94dbe37a-4a53-a0bc-0503-33a63f02aa09/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/180x180bb.png",
+          "rating": 4.9,
+          "ratingCount": 57400,
+          "price": "0.00",
+          "rank": 235,
+          "category": "6012"
+        },
+        {
+          "appId": 905177575,
+          "name": "Be My Eyes",
+          "publisher": "Be My Eyes",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d1/02/9b/d1029bd2-7564-1004-5e71-418d0e5d4053/AppIcon-0-0-1x_U007emarketing-0-0-0-8-0-0-85-220.png/180x180bb.png",
+          "rating": 4.8,
+          "ratingCount": 11299.999999999998,
+          "price": "0.00",
+          "rank": 236,
+          "category": "6012"
+        },
+        {
+          "appId": 6786198017,
+          "name": "Decorly: AI Home Design",
+          "publisher": "JOYLINK NETWORK TECH LIMITED",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9d/3e/52/9d3e5276-7603-a0bb-c942-131056704fe1/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/180x180bb.png",
+          "rating": 4.2,
+          "ratingCount": 445,
+          "price": "0.00",
+          "rank": 242,
+          "category": "6012"
+        },
+        {
+          "appId": 628215241,
+          "name": "Punchbowl: Invitations & Cards",
+          "publisher": "Punchbowl, Inc.",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/44/b3/41/44b34148-43af-c23d-a985-48450259fe58/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/180x180bb.png",
+          "rating": 4.9,
+          "ratingCount": 110000,
+          "price": "0.00",
+          "rank": 244,
+          "category": "6012"
+        }
+      ],
+      "removed": [
+        {
+          "appId": 1375330146,
+          "name": "Super Slime Simulator",
+          "publisher": "Dramaton LTD",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5c/e4/74/5ce474e7-5d68-0626-8261-ba4f207c18b4/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/180x180bb.png",
+          "rating": 4.7,
+          "ratingCount": 416000,
+          "price": "0.00",
+          "rank": 172,
+          "category": "6012"
+        },
+        {
+          "appId": 6737291521,
+          "name": "PlayStation Family",
+          "publisher": "PlayStation Mobile Inc.",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/07/5b/cd/075bcdf2-12ed-c0a9-7c2e-3fab80690970/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/180x180bb.png",
+          "rating": 3.3,
+          "ratingCount": 55,
+          "price": "0.00",
+          "rank": 176,
+          "category": "6012"
+        },
+        {
+          "appId": 1612792132,
+          "name": "Plant Parent: Plant Care Guide",
+          "publisher": "Glority Global Group Ltd.",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/06/3a/b5/063ab5bf-e75c-3718-6507-1de3502f0eb3/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/180x180bb.png",
+          "rating": 4.7,
+          "ratingCount": 91100,
+          "price": "0.00",
+          "rank": 186,
+          "category": "6012"
+        },
+        {
+          "appId": 1190074407,
+          "name": "Nintendo Switch Parental Cont…",
+          "publisher": "Nintendo Co., Ltd.",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4f/a0/1d/4fa01d83-224b-7929-79e0-c7b80eaa7cc5/AppIcon-0-0-1x_U007epad-0-1-85-220.png/180x180bb.png",
+          "rating": 4.7,
+          "ratingCount": 164000,
+          "price": "0.00",
+          "rank": 190,
+          "category": "6012"
+        },
+        {
+          "appId": 1456133366,
+          "name": "DexterPay",
+          "publisher": "Dexter Laundry, Inc.",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ca/04/5f/ca045fa4-3485-5a69-3743-d85cdea21fdb/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/180x180bb.png",
+          "rating": 1.9,
+          "ratingCount": 194,
+          "price": "0.00",
+          "rank": 206,
+          "category": "6012"
+        },
+        {
+          "appId": 6755099390,
+          "name": "Pet Chat: Cat & Dog Translator",
+          "publisher": "Valiant Cat",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/07/c0/30/07c03023-db4a-21ba-00f0-e86ccde41175/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/180x180bb.png",
+          "rating": 4.6,
+          "ratingCount": 1341,
+          "price": "0.00",
+          "rank": 212,
+          "category": "6012"
+        },
+        {
+          "appId": 6759082078,
+          "name": "Security Camera: Smart Home",
+          "publisher": "OmniSafe Group",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/38/d2/fa/38d2fa17-b768-2676-816d-74d19e48399d/AppIcon-0-0-1x_U007ephone-0-1-0-sRGB-85-220.png/180x180bb.png",
+          "rating": 4.5,
+          "ratingCount": 215,
+          "price": "0.00",
+          "rank": 221,
+          "category": "6012"
+        },
+        {
+          "appId": 6751680266,
+          "name": "UCHAD: See Your Potential",
+          "publisher": "Promi LLC",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f2/e9/e9/f2e9e9ca-65ca-c278-07cb-65d2db58ef5a/AppIcon-0-0-1x_U007epad-0-1-85-220.png/180x180bb.png",
+          "rating": 4.7,
+          "ratingCount": 13200,
+          "price": "0.00",
+          "rank": 225,
+          "category": "6012"
+        },
+        {
+          "appId": 557228073,
+          "name": "Petfinder - Adopt a Pet",
+          "publisher": "Nestlé",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4a/ae/3f/4aae3fda-3cda-bd20-37f6-f6a7465afead/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/180x180bb.png",
+          "rating": 4.8,
+          "ratingCount": 59200,
+          "price": "0.00",
+          "rank": 228,
+          "category": "6012"
+        },
+        {
+          "appId": 1222730617,
+          "name": "Parking Kitty",
+          "publisher": "City of Portland",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/57/d6/02/57d602dd-1866-679a-2f44-9f06eafa084f/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/180x180bb.png",
+          "rating": 4.9,
+          "ratingCount": 9279,
+          "price": "0.00",
+          "rank": 231,
+          "category": "6012"
+        },
+        {
+          "appId": 1449109039,
+          "name": "LED LAMP",
+          "publisher": "Shenzhen Zhongji Technology Co., Ltd.",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/64/96/43/6496433c-fcf1-7c1a-0fc3-32677f564959/AppIcon-1x_U007emarketing-0-8-0-0-sRGB-85-220-0.png/180x180bb.png",
+          "rating": 1.9,
+          "ratingCount": 2003,
+          "price": "0.00",
+          "rank": 232,
+          "category": "6012"
+        },
+        {
+          "appId": 1475805212,
+          "name": "Whisker",
+          "publisher": "Automated Pet Care Products Inc. dba AutoPets",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d6/49/1c/d6491c26-3984-46ef-1aa7-fd5d3eabe4b8/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/180x180bb.png",
+          "rating": 4.8,
+          "ratingCount": 145000,
+          "price": "0.00",
+          "rank": 235,
+          "category": "6012"
+        },
+        {
+          "appId": 1066451939,
+          "name": "B-hyve",
+          "publisher": "Orbit Irrigation",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a1/d9/82/a1d982b1-d227-1e75-0aa3-9c82038cb92f/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/180x180bb.png",
+          "rating": 4.7,
+          "ratingCount": 326000,
+          "price": "0.00",
+          "rank": 238,
+          "category": "6012"
+        },
+        {
+          "appId": 1543351744,
+          "name": "Keepsmile",
+          "publisher": "深圳市优智达科技有限公司",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e3/16/37/e316374f-f7cc-b243-3c8a-b724ac096f36/AppIcon-0-0-1x_U007epad-0-11-0-0-85-220.png/180x180bb.png",
+          "rating": 2.5,
+          "ratingCount": 4838,
+          "price": "0.00",
+          "rank": 240,
+          "category": "6012"
+        },
+        {
+          "appId": 1455617149,
+          "name": "FitPro",
+          "publisher": "深圳市威尔健康管理科技有限公司",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/65/84/89/658489a5-c2fc-bbe0-65c6-8fee8e91e1b5/AppIcon-0-0-1x_U007emarketing-0-8-0-sRGB-85-220.png/180x180bb.png",
+          "rating": 2.6,
+          "ratingCount": 4444,
+          "price": "0.00",
+          "rank": 242,
+          "category": "6012"
+        },
+        {
+          "appId": 1403308360,
+          "name": "Sport Clips Haircuts Check-In",
+          "publisher": "Sport Clips",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d4/4a/2f/d44a2fde-1ee8-aba4-a6ce-c91164dbc985/AppIcon-1x_U007ephone-0-1-85-220-0.png/180x180bb.png",
+          "rating": 4.8,
+          "ratingCount": 66100,
+          "price": "0.00",
+          "rank": 243,
+          "category": "6012"
+        },
+        {
+          "appId": 6780787967,
+          "name": "Adult Chat，Hot Live：OnlineChat",
+          "publisher": "Hessa Al-Ghandi",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/1d/8f/e3/1d8fe3ec-069d-249e-6ab1-c42a14d7c93e/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/180x180bb.png",
+          "rating": 4.6,
+          "ratingCount": 131,
+          "price": "0.00",
+          "rank": 244,
+          "category": "6012"
+        },
+        {
+          "appId": 1565972415,
+          "name": "RAM®",
+          "publisher": "FCA US LLC",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c3/b7/d7/c3b7d7be-0071-0550-9538-9a7d2e9fcc20/AppIcon.ram.prod-0-0-1x_U007emarketing-0-6-0-85-220.png/180x180bb.png",
+          "rating": 4.8,
+          "ratingCount": 89400,
+          "price": "0.00",
+          "rank": 245,
+          "category": "6012"
+        },
+        {
+          "appId": 6450182934,
+          "name": "Prime Opinion: Earn Real Money",
+          "publisher": "Prime Opinion AB",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3d/9c/55/3d9c55b8-04ec-07bf-7a40-589dabdc3c67/AppIcon-0-0-1x_U007epad-0-1-85-220.png/180x180bb.png",
+          "rating": 4.7,
+          "ratingCount": 42600,
+          "price": "0.00",
+          "rank": 246,
+          "category": "6012"
+        },
+        {
+          "appId": 664939913,
+          "name": "Tile - Find lost keys & phone",
+          "publisher": "Tile, Inc.",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d6/74/14/d67414e7-a300-b195-fd61-693930e1d886/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/180x180bb.png",
+          "rating": 4.8,
+          "ratingCount": 1020000,
+          "price": "0.00",
+          "rank": 248,
+          "category": "6012"
+        },
+        {
+          "appId": 1629477748,
+          "name": "Survey Spin: Get paid cash!",
+          "publisher": "SocialLoop LLC",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/02/15/11/0215112d-e224-31a0-0e62-ab4c9726c65f/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/180x180bb.png",
+          "rating": 4.7,
+          "ratingCount": 103000,
+          "price": "0.00",
+          "rank": 249,
+          "category": "6012"
+        }
+      ]
+    }
+  }
+}
