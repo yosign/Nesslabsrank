@@ -1,0 +1,176 @@
+{
+  "date": "2026-09-12",
+  "changes": {
+    "6012": {
+      "added": [
+        {
+          "appId": 1299313149,
+          "name": "PNM Companion",
+          "publisher": "TechniPhi, Inc",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3c/23/d4/3c23d400-2535-0c45-8727-7de8691f5066/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/180x180bb.png",
+          "rating": 1.5,
+          "ratingCount": 65,
+          "price": "0.00",
+          "rank": 199,
+          "category": "6012"
+        },
+        {
+          "appId": 1376880637,
+          "name": "Surveymonkey Rewards",
+          "publisher": "SurveyMonkey",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/45/38/2d/45382da5-e45a-4757-40cf-ee4650af28c3/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/180x180bb.png",
+          "rating": 4.7,
+          "ratingCount": 24600,
+          "price": "0.00",
+          "rank": 214,
+          "category": "6012"
+        },
+        {
+          "appId": 1482867892,
+          "name": "STRATIS 2.0",
+          "publisher": "StratIS EMS, LLC",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ed/01/e4/ed01e42b-8c4c-2abd-8456-da65936be03d/AppIcon-1x_U007emarketing-0-11-0-85-220-0.png/180x180bb.png",
+          "rating": 4,
+          "ratingCount": 8525,
+          "price": "0.00",
+          "rank": 236,
+          "category": "6012"
+        },
+        {
+          "appId": 6695762481,
+          "name": "RoadClub",
+          "publisher": "Cambridge Mobile Telematics Inc.",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ec/ab/1d/ecab1d57-8edc-3f1d-a13e-23897006d57d/AppIcon-0-0-1x_U007ephone-0-1-0-sRGB-85-220.png/180x180bb.png",
+          "rating": 4.5,
+          "ratingCount": 2427,
+          "price": "0.00",
+          "rank": 240,
+          "category": "6012"
+        },
+        {
+          "appId": 1367606835,
+          "name": "Ting",
+          "publisher": "Whisker Labs, Inc.",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/88/d2/c4/88d2c47a-5843-8e46-59aa-3bf09ddbda79/AppIcon-0-0-1x_U007epad-0-1-85-220.png/180x180bb.png",
+          "rating": 4.8,
+          "ratingCount": 109000,
+          "price": "0.00",
+          "rank": 244,
+          "category": "6012"
+        },
+        {
+          "appId": 6778253318,
+          "name": "Winkr: As simple as candy",
+          "publisher": "Harold Bender",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f6/77/f7/f677f75b-4f2c-272c-d93a-5cba3a180799/AppIcon-0-0-1x_U007ephone-0-1-85-220.jpeg/180x180bb.png",
+          "rating": 4.7,
+          "ratingCount": 262,
+          "price": "0.00",
+          "rank": 247,
+          "category": "6012"
+        },
+        {
+          "appId": 6748778630,
+          "name": "Dreambeans",
+          "publisher": "Google",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fa/14/db/fa14dbe7-025b-ad00-5980-a15aa997c7d0/AppIcon-0-0-1x_U007emarketing-0-0-0-8-0-0-0-0-85-220.png/180x180bb.png",
+          "rating": 4.8,
+          "ratingCount": 395,
+          "price": "0.00",
+          "rank": 249,
+          "category": "6012"
+        }
+      ],
+      "removed": [
+        {
+          "appId": 6739350749,
+          "name": "Dream Mate: AI Roleplay Chat",
+          "publisher": "BOBY AI YAZILIM ANONIM SIRKETI",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ae/d3/f1/aed3f126-a86b-f75f-2b1a-231a773d1d87/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/180x180bb.png",
+          "rating": 4,
+          "ratingCount": 604,
+          "price": "0.00",
+          "rank": 83,
+          "category": "6012"
+        },
+        {
+          "appId": 6791808503,
+          "name": "Documented: Parenting Record",
+          "publisher": "Rise Advertising LLC",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a0/9a/e7/a09ae74b-bfad-2f01-28f5-6c7b0915fdfc/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/180x180bb.png",
+          "rating": 4.6,
+          "ratingCount": 8,
+          "price": "0.00",
+          "rank": 199,
+          "category": "6012"
+        },
+        {
+          "appId": 6761958634,
+          "name": "Contracted",
+          "publisher": "Contracted AI",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/07/7b/cf/077bcfe1-4430-920b-9696-115101a460b6/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/180x180bb.png",
+          "rating": 4.1,
+          "ratingCount": 41,
+          "price": "0.00",
+          "rank": 233,
+          "category": "6012"
+        },
+        {
+          "appId": 328453619,
+          "name": "Care.com: Hire Caregivers",
+          "publisher": "Care.com, Inc.",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8c/9c/ea/8c9cea83-5a94-b8b8-8868-9b97b7b74b75/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/180x180bb.png",
+          "rating": 4.4,
+          "ratingCount": 41400,
+          "price": "0.00",
+          "rank": 234,
+          "category": "6012"
+        },
+        {
+          "appId": 1455617149,
+          "name": "FitPro",
+          "publisher": "深圳市威尔健康管理科技有限公司",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/65/84/89/658489a5-c2fc-bbe0-65c6-8fee8e91e1b5/AppIcon-0-0-1x_U007emarketing-0-8-0-sRGB-85-220.png/180x180bb.png",
+          "rating": 2.6,
+          "ratingCount": 4444,
+          "price": "0.00",
+          "rank": 236,
+          "category": "6012"
+        },
+        {
+          "appId": 1155596188,
+          "name": "Insense: Brand Collabs",
+          "publisher": "Insense Ads, Inc.",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/1c/62/9e/1c629e6a-bd0e-86c3-4529-60886e45be8a/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/180x180bb.png",
+          "rating": 4.6,
+          "ratingCount": 2938,
+          "price": "0.00",
+          "rank": 246,
+          "category": "6012"
+        },
+        {
+          "appId": 1397726277,
+          "name": "Wansview Cloud",
+          "publisher": "Ajcloud Labs Inc.",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/cd/73/78/cd737899-49e4-e4cd-f868-651ca8abb487/AppIcon_WanviewCloud-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/180x180bb.png",
+          "rating": 4.7,
+          "ratingCount": 55199.99999999999,
+          "price": "0.00",
+          "rank": 249,
+          "category": "6012"
+        },
+        {
+          "appId": 6473748536,
+          "name": "Astra - Life Advice",
+          "publisher": "Vert Ventures",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c7/ab/42/c7ab42b5-bc0e-f5b8-f26a-7ed64c952b0f/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/180x180bb.png",
+          "rating": 4.7,
+          "ratingCount": 38700,
+          "price": "0.00",
+          "rank": 250,
+          "category": "6012"
+        }
+      ]
+    }
+  }
+}
