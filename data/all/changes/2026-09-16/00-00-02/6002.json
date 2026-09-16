@@ -1,0 +1,539 @@
+{
+  "date": "2026-09-16",
+  "changes": {
+    "6002": {
+      "added": [
+        {
+          "appId": 6758482875,
+          "name": "Siri",
+          "publisher": "Apple",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/bd/f7/bf/bdf7bfe2-d2b3-85ab-7584-8b9048872c3d/siriCalistoga-0-0-1x_U007epad-0-1-sRGB-85-220.png/180x180bb.png",
+          "rating": 0,
+          "ratingCount": 0,
+          "price": "0.00",
+          "rank": 2,
+          "category": "6002"
+        },
+        {
+          "appId": 6793789938,
+          "name": "LocateFam: Live Location",
+          "publisher": "Temporalux",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/84/ba/e9/84bae9cf-1c18-d92c-6135-57c7823c22d9/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/180x180bb.png",
+          "rating": 4.5,
+          "ratingCount": 23,
+          "price": "0.00",
+          "rank": 134,
+          "category": "6002"
+        },
+        {
+          "appId": 6502760201,
+          "name": "PDF Converter ‧",
+          "publisher": "CodeEx Technology",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/39/9b/dc/399bdc0d-dc0b-d940-f273-e0f5caf7eeab/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.jpeg/180x180bb.png",
+          "rating": 4.2,
+          "ratingCount": 153,
+          "price": "0.00",
+          "rank": 143,
+          "category": "6002"
+        },
+        {
+          "appId": 6755230383,
+          "name": "Nielsen Pulse",
+          "publisher": "The Nielsen Company",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/cf/51/e1/cf51e171-4348-78ec-6a40-63dcf4b84f40/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/180x180bb.png",
+          "rating": 2.7,
+          "ratingCount": 177,
+          "price": "0.00",
+          "rank": 172,
+          "category": "6002"
+        },
+        {
+          "appId": 6636543626,
+          "name": "Authenticator App－2FAS・MFA・OTP",
+          "publisher": "FLOOMIX LTD",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/14/35/b5/1435b555-fa07-ea9d-142b-cbfc07e94c15/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/180x180bb.png",
+          "rating": 4.6,
+          "ratingCount": 588,
+          "price": "0.00",
+          "rank": 175,
+          "category": "6002"
+        },
+        {
+          "appId": 6738374645,
+          "name": "Family Tracker - GPS Locator",
+          "publisher": "杰 曾",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/67/4e/f9/674ef9ec-9b79-ade5-5e3c-468d66a46dde/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/180x180bb.png",
+          "rating": 4.5,
+          "ratingCount": 517,
+          "price": "0.00",
+          "rank": 187,
+          "category": "6002"
+        },
+        {
+          "appId": 6746229869,
+          "name": "Photo Maker：Frame,Filter,Lock",
+          "publisher": "瑶瑶 张",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/78/41/8e/78418e53-b228-3047-25ac-d99ca220b3cf/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/180x180bb.png",
+          "rating": 4.6,
+          "ratingCount": 602,
+          "price": "0.00",
+          "rank": 193,
+          "category": "6002"
+        },
+        {
+          "appId": 6752760780,
+          "name": "DeFlock.me",
+          "publisher": "Tech BS LLC",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ac/46/60/ac46609f-1e63-9f61-c226-36695534ac05/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/180x180bb.png",
+          "rating": 4.7,
+          "ratingCount": 273,
+          "price": "0.00",
+          "rank": 210,
+          "category": "6002"
+        },
+        {
+          "appId": 6746845735,
+          "name": "Pocket - AI Personal Assistant",
+          "publisher": "Open Vision Engineering, Inc",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/67/b4/ed/67b4edcb-ec2c-bbdf-f5e1-69b6bac1ad1a/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/180x180bb.png",
+          "rating": 4.9,
+          "ratingCount": 5526,
+          "price": "0.00",
+          "rank": 217,
+          "category": "6002"
+        },
+        {
+          "appId": 1237328534,
+          "name": "FPL",
+          "publisher": "NextEra Energy, Inc",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e0/3b/4d/e03b4dc9-ee6a-5cd2-36fe-8b00219ef3fc/AppIcon-0-0-1x_U007emarketing-0-11-0-sRGB-85-220.png/180x180bb.png",
+          "rating": 4.5,
+          "ratingCount": 23400,
+          "price": "0.00",
+          "rank": 218,
+          "category": "6002"
+        },
+        {
+          "appId": 6785326793,
+          "name": "sing-box MT",
+          "publisher": "Metamerism LLC",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/68/8e/2b/688e2b7d-52d5-bca4-df89-9bf6d6905f9e/AppIcon-0-0-1x_U007epad-0-1-85-220.png/180x180bb.png",
+          "rating": 4.7,
+          "ratingCount": 66,
+          "price": "0.00",
+          "rank": 224,
+          "category": "6002"
+        },
+        {
+          "appId": 6756063147,
+          "name": "CardCosmic",
+          "publisher": "CardCosmic, Inc.",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d2/9a/e9/d29ae9fd-e088-5b73-0491-0ef9e96e4af1/AppIcon-0-0-1x_U007epad-0-1-85-220.png/180x180bb.png",
+          "rating": 4.3,
+          "ratingCount": 3237,
+          "price": "0.00",
+          "rank": 225,
+          "category": "6002"
+        },
+        {
+          "appId": 6755528973,
+          "name": "CardSale - We buy gift cards",
+          "publisher": "Ansheer, Inc.",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/58/9b/ea/589beac8-a6f4-529e-de94-cecdba74c8e0/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/180x180bb.png",
+          "rating": 4.5,
+          "ratingCount": 1417,
+          "price": "0.00",
+          "rank": 231,
+          "category": "6002"
+        },
+        {
+          "appId": 1327105431,
+          "name": "Malwarebytes - Mobile Security",
+          "publisher": "Malwarebytes",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/da/03/01/da030162-a754-bded-7615-82f66a56fb7b/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/180x180bb.png",
+          "rating": 4.5,
+          "ratingCount": 109000,
+          "price": "0.00",
+          "rank": 232,
+          "category": "6002"
+        },
+        {
+          "appId": 6760576261,
+          "name": "MemeVault -Stickers & Memes",
+          "publisher": "小娥 吕",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fd/ea/a8/fdeaa840-842d-67ef-2949-98a4be56c5aa/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/180x180bb.png",
+          "rating": 4.2,
+          "ratingCount": 10,
+          "price": "0.00",
+          "rank": 234,
+          "category": "6002"
+        },
+        {
+          "appId": 6788673825,
+          "name": "Reps - Get Paid Real Money",
+          "publisher": "Born Labs, Inc.",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/09/2d/6a/092d6a82-8e20-36de-102d-54ef484ac11d/AppIcon-0-0-1x_U007epad-0-1-85-220.png/180x180bb.png",
+          "rating": 4.8,
+          "ratingCount": 4868,
+          "price": "0.00",
+          "rank": 239,
+          "category": "6002"
+        },
+        {
+          "appId": 6746534819,
+          "name": "RateTracker:Blood Sugar",
+          "publisher": "X-SPARK HK LIMITED",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/36/c8/55/36c8556a-9ae6-a7c1-dad1-7ceb31c3cec1/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/180x180bb.png",
+          "rating": 4.1,
+          "ratingCount": 4839,
+          "price": "0.00",
+          "rank": 240,
+          "category": "6002"
+        },
+        {
+          "appId": 6444485605,
+          "name": "Plato***: Super *** Fast Proxy",
+          "publisher": "MogoTech Inc.",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/26/3b/e2/263be27f-abb5-87ac-fa4e-254ff8942107/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/180x180bb.png",
+          "rating": 4.7,
+          "ratingCount": 35400,
+          "price": "0.00",
+          "rank": 241,
+          "category": "6002"
+        },
+        {
+          "appId": 6755186846,
+          "name": "MeMiner: Cloud Mining",
+          "publisher": "St. Timothy Parish",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f0/0f/ab/f00fab59-05b3-d164-64ab-c060b11aaed4/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/180x180bb.png",
+          "rating": 4.3,
+          "ratingCount": 803,
+          "price": "0.00",
+          "rank": 242,
+          "category": "6002"
+        },
+        {
+          "appId": 6762224896,
+          "name": "Music : Stream Songs, Videos",
+          "publisher": "Tjark Oermann",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/cb/98/1c/cb981c85-5f05-e053-07f6-bb6b40df3c70/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/180x180bb.png",
+          "rating": 4.6,
+          "ratingCount": 1793,
+          "price": "0.00",
+          "rank": 244,
+          "category": "6002"
+        },
+        {
+          "appId": 1641291989,
+          "name": "Offline Music Player:Mp3&Video",
+          "publisher": "Offline Music Limited",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5f/7c/83/5f7c833f-7604-6732-3680-18e582a50eaa/AppIcon-1x_U007emarketing-0-5-0-85-220-0.png/180x180bb.png",
+          "rating": 4.3,
+          "ratingCount": 8049,
+          "price": "0.00",
+          "rank": 245,
+          "category": "6002"
+        },
+        {
+          "appId": 1176131273,
+          "name": "AnyDesk Remote Desktop",
+          "publisher": "AnyDesk Software GmbH",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/00/ee/be/00eebe50-7337-f778-ce46-ab965ab20f76/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/180x180bb.png",
+          "rating": 4.5,
+          "ratingCount": 28000,
+          "price": "0.00",
+          "rank": 248,
+          "category": "6002"
+        },
+        {
+          "appId": 1005186680,
+          "name": "MySubaru",
+          "publisher": "Subaru of America",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e9/93/e6/e993e6c5-2f63-96b6-d07d-91397543240f/AppIcon-SOA-0-0-1x_U007ephone-0-1-85-220.png/180x180bb.png",
+          "rating": 4.8,
+          "ratingCount": 327000,
+          "price": "0.00",
+          "rank": 249,
+          "category": "6002"
+        },
+        {
+          "appId": 6790715187,
+          "name": "Holy Bible-Large Print",
+          "publisher": "Gospel For All Inc.",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b2/0d/c7/b20dc7f6-4ac7-d281-45ec-92b8ed595b50/AppIcon-0-0-1x_U007ephone-0-11-0-85-220.png/180x180bb.png",
+          "rating": 4.8,
+          "ratingCount": 735,
+          "price": "0.00",
+          "rank": 250,
+          "category": "6002"
+        }
+      ],
+      "removed": [
+        {
+          "appId": 6788312316,
+          "name": "Fabora: Steel & Metal Tools",
+          "publisher": "jason bennett",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5b/bf/7c/5bbf7c78-c0db-c820-29af-84ee56ac7d0d/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/180x180bb.png",
+          "rating": 0,
+          "ratingCount": 0,
+          "price": "0.00",
+          "rank": 132,
+          "category": "6002"
+        },
+        {
+          "appId": 6749749218,
+          "name": "Rewrite AI: Quick Notes",
+          "publisher": "蕊 安",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/88/e2/27/88e22727-8cfd-6523-e5f8-24634bed5160/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/180x180bb.png",
+          "rating": 4.8,
+          "ratingCount": 113,
+          "price": "0.00",
+          "rank": 136,
+          "category": "6002"
+        },
+        {
+          "appId": 6794222707,
+          "name": "Smart Connect Stream Instantly",
+          "publisher": "Vaibhav Tadha",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/dd/3a/46/dd3a468d-10ca-7000-2127-934f431b003b/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/180x180bb.png",
+          "rating": 0,
+          "ratingCount": 0,
+          "price": "0.00",
+          "rank": 193,
+          "category": "6002"
+        },
+        {
+          "appId": 6758612546,
+          "name": "MovieBox Pro : Movie & TV Show",
+          "publisher": "Taha Mirza",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b4/f6/62/b4f66278-fe44-b3e2-2e57-ab149aad793d/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/180x180bb.png",
+          "rating": 4.5,
+          "ratingCount": 2279,
+          "price": "0.00",
+          "rank": 199,
+          "category": "6002"
+        },
+        {
+          "appId": 6447767167,
+          "name": "Coverage Map",
+          "publisher": "Coverage Map LLC",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/89/c9/1a/89c91a11-1a0c-d450-3e4b-4399cfae065b/AppIcon-CoverageMap-0-0-1x_U007epad-0-9-0-85-220.png/180x180bb.png",
+          "rating": 4.7,
+          "ratingCount": 784,
+          "price": "0.00",
+          "rank": 201,
+          "category": "6002"
+        },
+        {
+          "appId": 6755378034,
+          "name": "iGlam: 4K Themes, Wallpapers",
+          "publisher": "Dao thi Ngoc Mai",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/12/4e/ec/124eecc9-1a4c-130a-2c51-054f0cef5b02/AppIcon-0-0-1x_U007epad-0-11-0-85-220.png/180x180bb.png",
+          "rating": 4.5,
+          "ratingCount": 233,
+          "price": "0.00",
+          "rank": 213,
+          "category": "6002"
+        },
+        {
+          "appId": 6758510102,
+          "name": "*** - Super Bear Proxy Master",
+          "publisher": "Gansu Maige Network Technology Co., Ltd.",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5a/9e/53/5a9e537f-44b4-9764-ea93-ac2aacb746f8/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/180x180bb.png",
+          "rating": 4,
+          "ratingCount": 61,
+          "price": "0.00",
+          "rank": 214,
+          "category": "6002"
+        },
+        {
+          "appId": 6502992988,
+          "name": "ONN TV Remote",
+          "publisher": "Ihsan Ullah",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/bf/dd/87/bfdd87b3-5776-8e5c-2242-017781aab084/AppIcon-0-1x_U007emarketing-0-8-0-85-220-0.png/180x180bb.png",
+          "rating": 3.5,
+          "ratingCount": 1913,
+          "price": "0.00",
+          "rank": 222,
+          "category": "6002"
+        },
+        {
+          "appId": 6795516207,
+          "name": "ClearPulse: Wave Guard",
+          "publisher": "炎 刘",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/30/7e/d0/307ed0f9-f83f-dd48-6142-28499e8c5c7d/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/180x180bb.png",
+          "rating": 3.9,
+          "ratingCount": 11,
+          "price": "0.00",
+          "rank": 223,
+          "category": "6002"
+        },
+        {
+          "appId": 6752649156,
+          "name": "SafeKey - 2FAuth",
+          "publisher": "SHPEL AB",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c4/89/1a/c4891ac2-8e4d-76ca-8f12-2015e89f98d0/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.jpeg/180x180bb.png",
+          "rating": 4.3,
+          "ratingCount": 88,
+          "price": "0.00",
+          "rank": 225,
+          "category": "6002"
+        },
+        {
+          "appId": 6451212658,
+          "name": "QR Code & Barcode Scanner app.",
+          "publisher": "Minimodev Technologies LTD",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/00/ac/54/00ac54a6-4f99-1726-65ee-96e45d1fbc27/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/180x180bb.png",
+          "rating": 4.7,
+          "ratingCount": 5306,
+          "price": "0.00",
+          "rank": 228,
+          "category": "6002"
+        },
+        {
+          "appId": 6753685856,
+          "name": "Fast Internet Booster",
+          "publisher": "Hitendra Chaube",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/73/42/f5/7342f5bf-73fc-de7d-7744-72fe44c0065f/AppIcon-0-0-1x_U007ephone-0-11-0-85-220.png/180x180bb.png",
+          "rating": 0,
+          "ratingCount": 0,
+          "price": "0.00",
+          "rank": 229,
+          "category": "6002"
+        },
+        {
+          "appId": 6737124937,
+          "name": "Amor Cleaner:AI Clean Up",
+          "publisher": "Esame Marketing Limited",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/db/13/7c/db137c24-4284-a495-1364-76caad9b497c/AppIcon-0-0-1x_U007epad-0-11-0-85-220.png/180x180bb.png",
+          "rating": 4.5,
+          "ratingCount": 578,
+          "price": "0.00",
+          "rank": 230,
+          "category": "6002"
+        },
+        {
+          "appId": 6444176737,
+          "name": "Cast for Chromecast",
+          "publisher": "Creative Zone",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/84/68/0e/84680ee2-03df-9eff-c813-8ff61f905ced/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/180x180bb.png",
+          "rating": 4.1,
+          "ratingCount": 7954,
+          "price": "0.00",
+          "rank": 231,
+          "category": "6002"
+        },
+        {
+          "appId": 1053139327,
+          "name": "Яндекс Клавиатура",
+          "publisher": "Direct Cursus Computer Systems Trading",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/60/0d/ed/600ded17-87f2-c3b2-7801-8c88581febd7/AppIcon-0-1x_U007ephone-0-6-0-85-220-0.png/180x180bb.png",
+          "rating": 4.6,
+          "ratingCount": 3271,
+          "price": "0.00",
+          "rank": 234,
+          "category": "6002"
+        },
+        {
+          "appId": 1484302191,
+          "name": "Segway Mobility",
+          "publisher": "Ninebot (Beijing) Tech Co., Ltd.",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f2/9f/ee/f29fee8c-02e8-f8fa-9079-eeabc113e622/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/180x180bb.png",
+          "rating": 3.3,
+          "ratingCount": 503,
+          "price": "0.00",
+          "rank": 237,
+          "category": "6002"
+        },
+        {
+          "appId": 1143920524,
+          "name": "Poke Genie -Remote Raid IV PvP",
+          "publisher": "Poke Genie Inc.",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/31/74/1e/31741eff-e67a-f5b1-2a92-695e513d7381/AppIcon-0-0-1x_U007emarketing-0-5-85-220.png/180x180bb.png",
+          "rating": 4.8,
+          "ratingCount": 207000,
+          "price": "0.00",
+          "rank": 240,
+          "category": "6002"
+        },
+        {
+          "appId": 6741686691,
+          "name": "Tin Can - Companion App",
+          "publisher": "Tin Can",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/22/75/58/22755824-98b0-4592-e10b-2b128614917f/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/180x180bb.png",
+          "rating": 4.1,
+          "ratingCount": 273,
+          "price": "0.00",
+          "rank": 241,
+          "category": "6002"
+        },
+        {
+          "appId": 1571506312,
+          "name": "AutoPaste - Keyboard",
+          "publisher": "Sociaaal LLC",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5b/d7/a8/5bd7a8dd-b8cf-5ce0-1181-b750288a2780/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/180x180bb.png",
+          "rating": 4.6,
+          "ratingCount": 122000,
+          "price": "0.00",
+          "rank": 243,
+          "category": "6002"
+        },
+        {
+          "appId": 6787864450,
+          "name": "WaveClean - Dust & Water Eject",
+          "publisher": "辉新 梁",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/28/7e/eb/287eeb41-6b48-335d-ebfe-833249cf801a/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/180x180bb.png",
+          "rating": 2.1,
+          "ratingCount": 22,
+          "price": "0.00",
+          "rank": 244,
+          "category": "6002"
+        },
+        {
+          "appId": 6745496179,
+          "name": "EasyQR Code Scan",
+          "publisher": "HAHA TECHNOLOGY LIMITED",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/8a/8f/ec/8a8fec19-39d5-9541-4894-42353975c9b7/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.jpeg/180x180bb.png",
+          "rating": 4.4,
+          "ratingCount": 1715,
+          "price": "0.00",
+          "rank": 246,
+          "category": "6002"
+        },
+        {
+          "appId": 1667391175,
+          "name": "Shelf: music, books, movies",
+          "publisher": "Koodos, Inc.",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d8/7e/e7/d87ee7d5-9d9b-0d9f-d21f-aa782aa69d71/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/180x180bb.png",
+          "rating": 4.5,
+          "ratingCount": 3476,
+          "price": "0.00",
+          "rank": 247,
+          "category": "6002"
+        },
+        {
+          "appId": 6444299466,
+          "name": "GearUP: Lower Lag Game Booster",
+          "publisher": "GearUP Portal PTE. LTD.",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/96/a1/1c/96a11c50-91eb-1218-bf0f-04833c362ca3/AppIcon.release-0-0-1x_U007emarketing-0-11-0-85-220.png/180x180bb.png",
+          "rating": 4,
+          "ratingCount": 10400,
+          "price": "0.00",
+          "rank": 249,
+          "category": "6002"
+        },
+        {
+          "appId": 6784653548,
+          "name": "SnapLo: Location Sharing",
+          "publisher": "Cloudify Tech Limited",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/51/b3/a6/51b3a696-ee12-e7ef-a66f-88f46e0a23e2/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/180x180bb.png",
+          "rating": 2.6,
+          "ratingCount": 9,
+          "price": "0.00",
+          "rank": 250,
+          "category": "6002"
+        }
+      ]
+    }
+  }
+}
