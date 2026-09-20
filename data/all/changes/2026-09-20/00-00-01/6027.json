@@ -1,0 +1,473 @@
+{
+  "date": "2026-09-20",
+  "changes": {
+    "6027": {
+      "added": [
+        {
+          "appId": 6762256329,
+          "name": "Shareani",
+          "publisher": "云攀 朱",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/54/d4/0e/54d40eb4-60b9-aabc-f86a-c6b2b77f5c47/AppIcon-0-1x_U007epad-0-1-85-220-0.png/180x180bb.png",
+          "rating": 0,
+          "ratingCount": 0,
+          "price": "0.00",
+          "rank": 138,
+          "category": "6027"
+        },
+        {
+          "appId": 6758865476,
+          "name": "Widget & Wallpaper: Widgetmoji",
+          "publisher": "Mobile entertainment srl",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7d/87/70/7d8770d6-b243-a82c-6fe5-541bef53ce9f/AppIcon-0-0-1x_U007ephone-0-1-sRGB-85-220.png/180x180bb.png",
+          "rating": 3.4,
+          "ratingCount": 10,
+          "price": "0.00",
+          "rank": 163,
+          "category": "6027"
+        },
+        {
+          "appId": 6769335798,
+          "name": "iThemes - Widgets & Wallpaper",
+          "publisher": "FutureThink Tech Company Limited",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3a/b0/b3/3ab0b3fd-862b-e9d5-9951-b057f3f378b4/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/180x180bb.png",
+          "rating": 4.6,
+          "ratingCount": 464,
+          "price": "0.00",
+          "rank": 195,
+          "category": "6027"
+        },
+        {
+          "appId": 1529189247,
+          "name": "Castle - Make and Play",
+          "publisher": "Monterey's Coast, Inc.",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ec/73/5d/ec735d7c-a8a3-4e7d-c447-5ff943fac370/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/180x180bb.png",
+          "rating": 4.7,
+          "ratingCount": 39000,
+          "price": "0.00",
+          "rank": 201,
+          "category": "6027"
+        },
+        {
+          "appId": 6752994709,
+          "name": "AgeMe – Face & Photo AI",
+          "publisher": "HONG KONG GUANGSHANG TRADING CO.,LIMITED",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/cd/94/58/cd945828-5da7-5204-f540-b0375c5bad41/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/180x180bb.png",
+          "rating": 4.7,
+          "ratingCount": 71,
+          "price": "0.00",
+          "rank": 202,
+          "category": "6027"
+        },
+        {
+          "appId": 6443969105,
+          "name": "Thematic - Top Color Widgets",
+          "publisher": "Big Mood Apps LLC",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/99/05/76/990576cb-b4f5-a7b7-0e5e-411633f5b963/AppIcon-0-1x_U007emarketing-0-7-0-85-220-0.png/180x180bb.png",
+          "rating": 4.7,
+          "ratingCount": 681,
+          "price": "0.00",
+          "rank": 208,
+          "category": "6027"
+        },
+        {
+          "appId": 6761878815,
+          "name": "Themefy: Widgets & Wallpaper",
+          "publisher": "Pinjal Maniya",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/fd/e7/43/fde74307-cfe7-4ebf-bdcc-fa8a2d2571df/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/180x180bb.png",
+          "rating": 4.2,
+          "ratingCount": 123,
+          "price": "0.00",
+          "rank": 210,
+          "category": "6027"
+        },
+        {
+          "appId": 6798161594,
+          "name": "Color Dictionary: Sanzo",
+          "publisher": "Fableso",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9d/ef/08/9def0820-21eb-4953-1644-d39428fd9326/AppIcon-0-0-1x_U007epad-0-1-85-220.jpeg/180x180bb.png",
+          "rating": 0,
+          "ratingCount": 0,
+          "price": "0.00",
+          "rank": 217,
+          "category": "6027"
+        },
+        {
+          "appId": 1522087125,
+          "name": "Photo Widget - Themes",
+          "publisher": "Laid-back Lion Apps Ltd",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1d/c0/03/1dc00360-40f6-c59b-fb89-488a6a0e0e7c/AppIcon-0-0-1x_U007emarketing-0-11-0-sRGB-85-220.png/180x180bb.png",
+          "rating": 4.5,
+          "ratingCount": 32900,
+          "price": "0.00",
+          "rank": 218,
+          "category": "6027"
+        },
+        {
+          "appId": 1183817887,
+          "name": "Picsart Color: Draw & Paint",
+          "publisher": "PicsArt, Inc.",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/9d/1b/44/9d1b4433-0698-5979-abc0-d7a14f711547/AppIcon-1x_U007emarketing-0-7-0-85-220.png/180x180bb.png",
+          "rating": 4.5,
+          "ratingCount": 22300,
+          "price": "0.00",
+          "rank": 220,
+          "category": "6027"
+        },
+        {
+          "appId": 1466744353,
+          "name": "Photo to Sketch Drawing Maker",
+          "publisher": "LIE KUN JI",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/24/b1/f0/24b1f030-bfde-03d9-c827-61002ceaab94/icon_composer_sketch-0-0-1x_U007epad-0-1-0-P3-85-220.png/180x180bb.png",
+          "rating": 4.5,
+          "ratingCount": 5876,
+          "price": "0.00",
+          "rank": 221,
+          "category": "6027"
+        },
+        {
+          "appId": 641900855,
+          "name": "Tayasui Sketches",
+          "publisher": "SKETCHES SRL",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/45/8e/65/458e6571-e148-a24e-6b35-9a2c29f1bdea/AppIcon-0-0-1x_U007emarketing-0-11-0-0-85-220.png/180x180bb.png",
+          "rating": 4.5,
+          "ratingCount": 53800,
+          "price": "0.00",
+          "rank": 224,
+          "category": "6027"
+        },
+        {
+          "appId": 1660398427,
+          "name": "Gacha Outfit Ideas Life 4K",
+          "publisher": "Youssef Amine",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/4c/3c/45/4c3c451f-ec9f-578f-89cc-7df36ec7eec2/AppIcon-1x_U007emarketing-0-7-0-85-220.png/180x180bb.png",
+          "rating": 4.7,
+          "ratingCount": 4200,
+          "price": "0.00",
+          "rank": 226,
+          "category": "6027"
+        },
+        {
+          "appId": 6445975134,
+          "name": "Pixel Pet Widget: Island Pet",
+          "publisher": "雪萍 雷",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/ff/19/d9/ff19d968-c1cb-2fce-0286-6319e7aca92c/AppIconFrog-1x_U007ephone-0-10-0-85-220.png/180x180bb.png",
+          "rating": 4.5,
+          "ratingCount": 3078,
+          "price": "0.00",
+          "rank": 228,
+          "category": "6027"
+        },
+        {
+          "appId": 6747580630,
+          "name": "AI Video Generator - LUHM",
+          "publisher": "HONK International",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/cb/bc/ac/cbbcac39-98ea-656d-2872-346ccc5c0c5c/LUHM-AI-ICON-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/180x180bb.png",
+          "rating": 4.7,
+          "ratingCount": 2315,
+          "price": "0.00",
+          "rank": 229,
+          "category": "6027"
+        },
+        {
+          "appId": 6759766959,
+          "name": "Wallio - DIY Live Wallpapers",
+          "publisher": "VOLIO VIET NAM COMPANY LIMITED",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/bb/47/5e/bb475e26-5839-5a6e-8f10-578b396546f3/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/180x180bb.png",
+          "rating": 3.9,
+          "ratingCount": 8,
+          "price": "0.00",
+          "rank": 233,
+          "category": "6027"
+        },
+        {
+          "appId": 6738916284,
+          "name": "Emojify: AI Emoji & Image",
+          "publisher": "APPWINGS Ltd",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a8/9f/9b/a89f9bd7-4a71-3491-0ba6-568dde19f7cb/AppIcon-0-0-1x_U007ephone-0-1-0-sRGB-85-220.jpeg/180x180bb.png",
+          "rating": 4.5,
+          "ratingCount": 4045,
+          "price": "0.00",
+          "rank": 235,
+          "category": "6027"
+        },
+        {
+          "appId": 6744179402,
+          "name": "AI Garden Design: Landscape AI",
+          "publisher": "MOBIVERSITE YAZILIM BILISIM REKLAM VE DANISMANLIK HIZMETLERI SANAYI TICARET LIMITED STI",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c5/eb/15/c5eb15d3-ffe5-977e-eeaf-bce14dbc83e0/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/180x180bb.png",
+          "rating": 4.6,
+          "ratingCount": 8140,
+          "price": "0.00",
+          "rank": 237,
+          "category": "6027"
+        },
+        {
+          "appId": 1533330948,
+          "name": "Aesthetic Kit: Live Wallpapers",
+          "publisher": "CELESTIAN GOLDEN APPS",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3b/c9/0a/3bc90a49-3b60-94d3-7a23-b47385236e78/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-85-220.png/180x180bb.png",
+          "rating": 4.6,
+          "ratingCount": 126000,
+          "price": "0.00",
+          "rank": 240,
+          "category": "6027"
+        },
+        {
+          "appId": 6502416347,
+          "name": "Recraft: AI Images and Videos",
+          "publisher": "Recraft",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/79/82/5f/79825f4f-de6b-0c6d-57fe-bdd7df1e7fb3/ios-icon-0-0-1x_U007epad-0-1-sRGB-85-220.png/180x180bb.png",
+          "rating": 4.8,
+          "ratingCount": 150,
+          "price": "0.00",
+          "rank": 241,
+          "category": "6027"
+        },
+        {
+          "appId": 6451083449,
+          "name": "AR Tracing: Drawing by Tayasui",
+          "publisher": "SKETCHES SRL",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/32/9f/5a/329f5af3-5d1b-1607-3126-74f8f37b5229/AppIcon-0-0-1x_U007epad-0-11-0-85-220.png/180x180bb.png",
+          "rating": 4.3,
+          "ratingCount": 2622,
+          "price": "0.00",
+          "rank": 242,
+          "category": "6027"
+        },
+        {
+          "appId": 1546795392,
+          "name": "Motion Ninja Video Editor",
+          "publisher": "立亚 林",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f6/de/47/f6de4700-17a6-164c-147c-1283e642e369/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/180x180bb.png",
+          "rating": 4.5,
+          "ratingCount": 1509,
+          "price": "0.00",
+          "rank": 248,
+          "category": "6027"
+        }
+      ],
+      "removed": [
+        {
+          "appId": 6757927202,
+          "name": "AI Video Generator&Hot - Vorio",
+          "publisher": "Yusuf Ihsan Gul",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/68/f3/ba/68f3ba22-8ad7-5ceb-65b1-e26c34c77348/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/180x180bb.png",
+          "rating": 4.8,
+          "ratingCount": 318,
+          "price": "0.00",
+          "rank": 134,
+          "category": "6027"
+        },
+        {
+          "appId": 1497430162,
+          "name": "GemsFlow Diamond Painting",
+          "publisher": "Andrii Zborovskyi",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/58/c4/f0/58c4f034-db90-96e9-e00d-ea4fb4a23fdc/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/180x180bb.png",
+          "rating": 4.8,
+          "ratingCount": 1636,
+          "price": "0.00",
+          "rank": 179,
+          "category": "6027"
+        },
+        {
+          "appId": 6781167791,
+          "name": "OmniAero",
+          "publisher": "Dayal Gaikwad",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6b/a2/d8/6ba2d8ac-b763-49c5-df4f-9e452e7c7fc6/AppIcon-1x_U007ephone-0-1-85-220-0.png/180x180bb.png",
+          "rating": 0,
+          "ratingCount": 0,
+          "price": "0.00",
+          "rank": 188,
+          "category": "6027"
+        },
+        {
+          "appId": 6803618002,
+          "name": "Midjourney AI - Myxo",
+          "publisher": "Harsh Changela",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/00/6b/96/006b96aa-bd4c-e8a7-903f-f4ceca614875/AppIcon-0-0-1x_U007epad-0-1-0-85-220.jpeg/180x180bb.png",
+          "rating": 0,
+          "ratingCount": 0,
+          "price": "0.00",
+          "rank": 198,
+          "category": "6027"
+        },
+        {
+          "appId": 1489707025,
+          "name": "Leto: Font for Instagram Story",
+          "publisher": "Leto.Fonts FZCO",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/90/4d/b5/904db503-e26c-758a-7d0d-8e778cb1dfdc/AppIcon-0-0-1x_U007ephone-0-1-0-sRGB-85-220.png/180x180bb.png",
+          "rating": 4.8,
+          "ratingCount": 2494,
+          "price": "0.00",
+          "rank": 207,
+          "category": "6027"
+        },
+        {
+          "appId": 1469553582,
+          "name": "Clay – Story Templates Frames",
+          "publisher": "Plexagon s.r.l.",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6f/8d/b6/6f8db6b8-5df2-7bcc-9141-dd2799ae8ed8/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/180x180bb.png",
+          "rating": 4.7,
+          "ratingCount": 15400,
+          "price": "0.00",
+          "rank": 214,
+          "category": "6027"
+        },
+        {
+          "appId": 6738805390,
+          "name": "Garden AI: Landscape Design",
+          "publisher": "FATE YAZILIM VE TEKNOLOJI LIMITED SIRKETI",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/21/48/d0/2148d073-ecad-f52d-5b22-c8ffea81c412/AppIcon-0-0-1x_U007emarketing-0-8-85-220.jpeg/180x180bb.png",
+          "rating": 4.5,
+          "ratingCount": 2079,
+          "price": "0.00",
+          "rank": 215,
+          "category": "6027"
+        },
+        {
+          "appId": 6762469872,
+          "name": "AI Home Design: Decor Interior",
+          "publisher": "21APP",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7c/2e/98/7c2e989c-40d3-7a6e-a2bf-c516145bcc36/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/180x180bb.png",
+          "rating": 4.3,
+          "ratingCount": 66,
+          "price": "0.00",
+          "rank": 222,
+          "category": "6027"
+        },
+        {
+          "appId": 1628240669,
+          "name": "Image Playground",
+          "publisher": "Yudai Yamane",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/2c/05/6c/2c056c11-30f2-455e-21fb-ff4b71956cc0/AppIcon-1x_U007emarketing-0-10-0-85-220.png/180x180bb.png",
+          "rating": 1.6,
+          "ratingCount": 13,
+          "price": "0.00",
+          "rank": 225,
+          "category": "6027"
+        },
+        {
+          "appId": 1611358648,
+          "name": "Fast Chart - Chart maker plus",
+          "publisher": "朝勇 陈",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c2/16/72/c2167254-ae6c-78ed-f874-97517bff0ccd/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/180x180bb.png",
+          "rating": 4.5,
+          "ratingCount": 89,
+          "price": "0.00",
+          "rank": 226,
+          "category": "6027"
+        },
+        {
+          "appId": 6444282600,
+          "name": "DALL E 3 AI Art Generator",
+          "publisher": "Ellisapps Inc.",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/77/9f/c5/779fc5d3-341b-5a49-dedd-743e3a2e24a4/AppIconB-0-0-1x_U007ephone-0-1-0-85-220.png/180x180bb.png",
+          "rating": 4.6,
+          "ratingCount": 5907,
+          "price": "0.00",
+          "rank": 229,
+          "category": "6027"
+        },
+        {
+          "appId": 1620319650,
+          "name": "Passport Photo · ID Maker",
+          "publisher": "Appable Yazilim Hizmetleri Limited Sirketi",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3e/fe/50/3efe50f4-73f7-284d-d442-35eb64b867b8/AppIcon-old-0-0-1x_U007emarketing-0-8-0-sRGB-85-220.png/180x180bb.png",
+          "rating": 4.8,
+          "ratingCount": 4504,
+          "price": "0.00",
+          "rank": 232,
+          "category": "6027"
+        },
+        {
+          "appId": 6479305612,
+          "name": "FLUX AI: AI Image Generator",
+          "publisher": "Noble App Solution",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/31/f2/01/31f201cd-45b1-a44c-2269-58b22d7ce9f9/AppIcon-0-0-1x_U007epad-0-1-0-P3-85-220.png/180x180bb.png",
+          "rating": 4.3,
+          "ratingCount": 688,
+          "price": "0.00",
+          "rank": 234,
+          "category": "6027"
+        },
+        {
+          "appId": 1320828574,
+          "name": "Invitation Card Maker, RSVP",
+          "publisher": "Bhavesh Gabani",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f1/23/c9/f123c9e5-5c60-9b0c-b6b7-e6df79bf7098/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/180x180bb.png",
+          "rating": 4.9,
+          "ratingCount": 7557,
+          "price": "0.00",
+          "rank": 235,
+          "category": "6027"
+        },
+        {
+          "appId": 1672483469,
+          "name": "Cute Stickers | Sticker Book",
+          "publisher": "Ronnie Nguyen",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ef/4d/17/ef4d1741-1339-816f-8131-f0a61f7d6fcc/sticker-book-icon-0-0-1x_U007ephone-0-1-sRGB-85-220.png/180x180bb.png",
+          "rating": 4.8,
+          "ratingCount": 11700,
+          "price": "0.00",
+          "rank": 238,
+          "category": "6027"
+        },
+        {
+          "appId": 6451239387,
+          "name": "YouCam AI Pro: AI Photo &Video",
+          "publisher": "PERFECT MOBILE CORP.",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/cd/e9/50/cde95089-bc44-fd76-554c-81a419397cdc/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/180x180bb.png",
+          "rating": 4.4,
+          "ratingCount": 1009,
+          "price": "0.00",
+          "rank": 241,
+          "category": "6027"
+        },
+        {
+          "appId": 6444040056,
+          "name": "Improve Photo Quality - Phance",
+          "publisher": "GENOVA Softworks",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6c/20/9a/6c209a61-fcff-129d-29aa-8bd5791070a4/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/180x180bb.png",
+          "rating": 4.2,
+          "ratingCount": 5,
+          "price": "0.00",
+          "rank": 242,
+          "category": "6027"
+        },
+        {
+          "appId": 6448485512,
+          "name": "HTVRONT",
+          "publisher": "HK SIJIU INTERNATIONAL SHARE CO.,LIMITED",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2b/28/13/2b2813e8-8972-e96e-fbdd-cca14e58aed4/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/180x180bb.png",
+          "rating": 4.6,
+          "ratingCount": 251,
+          "price": "0.00",
+          "rank": 243,
+          "category": "6027"
+        },
+        {
+          "appId": 6761918369,
+          "name": "Ink Story: Tattoo Maker",
+          "publisher": "DigiTalya Studios, LLC",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/33/ad/55/33ad5591-50f1-fc95-f9d5-81664de38b58/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/180x180bb.png",
+          "rating": 0,
+          "ratingCount": 0,
+          "price": "0.00",
+          "rank": 245,
+          "category": "6027"
+        },
+        {
+          "appId": 1544212575,
+          "name": "Photo Enhancer - EnhanceFox AI",
+          "publisher": "Pixl Concerto Technology Limited",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/83/7d/1d/837d1d8f-abca-1623-39d2-88f602a675e9/AppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.png/180x180bb.png",
+          "rating": 4.3,
+          "ratingCount": 3264,
+          "price": "0.00",
+          "rank": 246,
+          "category": "6027"
+        }
+      ]
+    }
+  }
+}
