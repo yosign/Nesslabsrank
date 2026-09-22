@@ -1,0 +1,330 @@
+{
+  "date": "2026-09-22",
+  "changes": {
+    "6012": {
+      "added": [
+        {
+          "appId": 6803869918,
+          "name": "footnotes: notes for noticing",
+          "publisher": "Doppler HQ, Inc",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/22/0c/2b/220c2b3a-f8b6-32dc-ff22-cedcb6756910/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/180x180bb.png",
+          "rating": 0,
+          "ratingCount": 0,
+          "price": "0.00",
+          "rank": 101,
+          "category": "6012"
+        },
+        {
+          "appId": 6480463426,
+          "name": "SuperAlarm - Loud Alarm Clock",
+          "publisher": "Jiseop Han",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f7/54/1b/f7541b1a-3000-f1e8-e26f-b4a618c665f6/AppIconNewLight-0-0-1x_U007ephone-0-1-0-0-85-220.png/180x180bb.png",
+          "rating": 4.6,
+          "ratingCount": 5050,
+          "price": "0.00",
+          "rank": 158,
+          "category": "6012"
+        },
+        {
+          "appId": 1115477521,
+          "name": "FlyLady: Routines & Cleaning",
+          "publisher": "FLY Premium Services, inc.",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a8/b4/20/a8b4206e-31d8-09a4-a260-02c3326bf61e/AppIcon-prod-1x_U007emarketing-0-8-0-85-220-0.png/180x180bb.png",
+          "rating": 4.9,
+          "ratingCount": 22799.999999999996,
+          "price": "0.00",
+          "rank": 170,
+          "category": "6012"
+        },
+        {
+          "appId": 1138970986,
+          "name": "MyChoice Benefits",
+          "publisher": "Businessolver",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9c/b7/1c/9cb71c47-8112-7d5e-dcf8-6b9f3165b1ec/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/180x180bb.png",
+          "rating": 4.8,
+          "ratingCount": 23500,
+          "price": "0.00",
+          "rank": 177,
+          "category": "6012"
+        },
+        {
+          "appId": 1485452102,
+          "name": "UserTesting",
+          "publisher": "UserTesting",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6d/02/47/6d024728-d040-d46d-da47-108cb39d2dd2/George-AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/180x180bb.png",
+          "rating": 2.8,
+          "ratingCount": 2525,
+          "price": "0.00",
+          "rank": 203,
+          "category": "6012"
+        },
+        {
+          "appId": 307861492,
+          "name": "Map My Walk: Walking Tracker",
+          "publisher": "Outside Television Inc",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c2/b9/ab/c2b9ab96-66e5-bd3d-812a-0e1a461b8264/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/180x180bb.png",
+          "rating": 4.8,
+          "ratingCount": 482000,
+          "price": "0.00",
+          "rank": 209,
+          "category": "6012"
+        },
+        {
+          "appId": 6767473764,
+          "name": "Scoper: Profile Insights",
+          "publisher": "POINT ONE TECHNOLOGY LIMITED",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/69/31/1d/69311dd3-92be-e13d-5e06-94506a722804/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/180x180bb.png",
+          "rating": 3.9,
+          "ratingCount": 239,
+          "price": "0.00",
+          "rank": 211,
+          "category": "6012"
+        },
+        {
+          "appId": 6807374312,
+          "name": "Phone Tracker: Family Finder",
+          "publisher": "博 毕",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/17/82/65/17826520-626c-e69c-089f-4a066d5dcd13/AppIcon-0-0-1x_U007epad-0-1-85-220.png/180x180bb.png",
+          "rating": 0,
+          "ratingCount": 0,
+          "price": "0.00",
+          "rank": 213,
+          "category": "6012"
+        },
+        {
+          "appId": 6744415578,
+          "name": "MySimilac Rewards",
+          "publisher": "Abbott",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7e/0f/4d/7e0f4d5b-e59f-0350-c987-09178a7c4a51/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/180x180bb.png",
+          "rating": 2.4,
+          "ratingCount": 78,
+          "price": "0.00",
+          "rank": 233,
+          "category": "6012"
+        },
+        {
+          "appId": 1042822181,
+          "name": "Meeting Guide",
+          "publisher": "Alcoholics Anonymous World Services, Inc.",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/dd/8a/46/dd8a46fd-5650-370f-2b95-b0fe41eab781/AppIcon-0-0-1x_U007epad-0-1-85-220.png/180x180bb.png",
+          "rating": 4.4,
+          "ratingCount": 1024,
+          "price": "0.00",
+          "rank": 236,
+          "category": "6012"
+        },
+        {
+          "appId": 6740829034,
+          "name": "snag sublets",
+          "publisher": "OneRoof App, Co.",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ac/da/a7/acdaa791-6f98-095e-55fc-46c11ca87623/AppIcon-1x_U007ephone-0-1-0-85-220-0.png/180x180bb.png",
+          "rating": 4.7,
+          "ratingCount": 785,
+          "price": "0.00",
+          "rank": 239,
+          "category": "6012"
+        },
+        {
+          "appId": 6449750416,
+          "name": "Plug AI: Texting Assistant",
+          "publisher": "Vert Media Partners LLC",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/85/df/73/85df739e-b361-eefe-82ad-e05f524d223c/AppIcon_old-0-0-1x_U007ephone-0-85-220.png/180x180bb.png",
+          "rating": 4.6,
+          "ratingCount": 15600,
+          "price": "0.00",
+          "rank": 243,
+          "category": "6012"
+        },
+        {
+          "appId": 1629477748,
+          "name": "Survey Spin: Get paid cash!",
+          "publisher": "SocialLoop LLC",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9d/fd/f9/9dfdf9c7-24f7-2af7-7a2a-492a64c7125a/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/180x180bb.png",
+          "rating": 4.7,
+          "ratingCount": 105000,
+          "price": "0.00",
+          "rank": 246,
+          "category": "6012"
+        },
+        {
+          "appId": 6479488889,
+          "name": "Try Rewards-Survey & Gift Card",
+          "publisher": "TYRADS PTE. LTD.",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/05/9d/96/059d96d9-6676-a8d8-ce4a-e4d85e7b4b55/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/180x180bb.png",
+          "rating": 4.6,
+          "ratingCount": 5734,
+          "price": "0.00",
+          "rank": 249,
+          "category": "6012"
+        }
+      ],
+      "removed": [
+        {
+          "appId": 6783283534,
+          "name": "Streamo IPTV: M3U Xtream",
+          "publisher": "BarCode Scanner",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ee/7d/8c/ee7d8c39-2370-2ce3-fea2-ef43ab266c26/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/180x180bb.png",
+          "rating": 4.5,
+          "ratingCount": 1630,
+          "price": "0.00",
+          "rank": 66,
+          "category": "6012"
+        },
+        {
+          "appId": 6760181919,
+          "name": "Sports Card Scanner: Spoly",
+          "publisher": "Scaling Engine Limited",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fb/e3/ab/fbe3ab94-61b0-5c10-b5c2-a99ccc1957d2/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/180x180bb.png",
+          "rating": 4.6,
+          "ratingCount": 4520,
+          "price": "0.00",
+          "rank": 154,
+          "category": "6012"
+        },
+        {
+          "appId": 6737291521,
+          "name": "PlayStation Family",
+          "publisher": "PlayStation Mobile Inc.",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/07/5b/cd/075bcdf2-12ed-c0a9-7c2e-3fab80690970/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/180x180bb.png",
+          "rating": 3.2,
+          "ratingCount": 54,
+          "price": "0.00",
+          "rank": 194,
+          "category": "6012"
+        },
+        {
+          "appId": 1475805212,
+          "name": "Whisker",
+          "publisher": "Automated Pet Care Products Inc. dba AutoPets",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d6/49/1c/d6491c26-3984-46ef-1aa7-fd5d3eabe4b8/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/180x180bb.png",
+          "rating": 4.8,
+          "ratingCount": 146000,
+          "price": "0.00",
+          "rank": 207,
+          "category": "6012"
+        },
+        {
+          "appId": 1489209093,
+          "name": "Microsoft Family Safety",
+          "publisher": "Microsoft Corporation",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e0/77/d2/e077d2cd-e92c-97bc-beff-2cfaab27dfb2/AppIcon-prod-1x_U007emarketing-0-6-0-0-85-220-0.png/180x180bb.png",
+          "rating": 4.1,
+          "ratingCount": 8114,
+          "price": "0.00",
+          "rank": 214,
+          "category": "6012"
+        },
+        {
+          "appId": 1437699295,
+          "name": "Sniffspot - Private Dog Parks",
+          "publisher": "Sniffspot, Inc.",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ad/be/e3/adbee3b4-5bb6-5000-9362-286dbcf21ed9/AppIcon-0-0-1x_U007emarketing-0-9-0-85-220.png/180x180bb.png",
+          "rating": 4.9,
+          "ratingCount": 24200,
+          "price": "0.00",
+          "rank": 230,
+          "category": "6012"
+        },
+        {
+          "appId": 557228073,
+          "name": "Petfinder - Adopt a Pet",
+          "publisher": "Nestlé",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4a/ae/3f/4aae3fda-3cda-bd20-37f6-f6a7465afead/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/180x180bb.png",
+          "rating": 4.8,
+          "ratingCount": 59200,
+          "price": "0.00",
+          "rank": 231,
+          "category": "6012"
+        },
+        {
+          "appId": 6801322823,
+          "name": "You&Me",
+          "publisher": "Dmitry Keller",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/67/56/c5/6756c56a-c50a-e4de-7a09-72ede8c303b3/AppIcon-0-0-1x_U007epad-0-1-85-220.png/180x180bb.png",
+          "rating": 4.7,
+          "ratingCount": 63,
+          "price": "0.00",
+          "rank": 234,
+          "category": "6012"
+        },
+        {
+          "appId": 6738174180,
+          "name": "Dressly: AI Outfit Maker",
+          "publisher": "TIKVEX LIMITED",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/74/b8/ed/74b8ed12-721c-a426-16c7-43ced36d818c/AppIcon-0-0-1x_U007epad-0-1-85-220.png/180x180bb.png",
+          "rating": 4.4,
+          "ratingCount": 30000,
+          "price": "0.00",
+          "rank": 237,
+          "category": "6012"
+        },
+        {
+          "appId": 1570374552,
+          "name": "FanLamp Pro",
+          "publisher": "Shenzhen Jingyuan Micro Control Technology Co., Ltd.",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7f/bd/d6/7fbdd6ad-7d9b-3225-417f-c043a143bac9/AppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.png/180x180bb.png",
+          "rating": 2,
+          "ratingCount": 754,
+          "price": "0.00",
+          "rank": 241,
+          "category": "6012"
+        },
+        {
+          "appId": 994098803,
+          "name": "Findmykids: GPS Phone Tracker",
+          "publisher": "LETEM LTD",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/74/14/c4/7414c487-70e3-f16d-e435-7a46835a3119/AppIcon-Kids-0-0-1x_U007ephone-0-1-0-sRGB-0-85-220.png/180x180bb.png",
+          "rating": 4.7,
+          "ratingCount": 23000,
+          "price": "0.00",
+          "rank": 245,
+          "category": "6012"
+        },
+        {
+          "appId": 6755099390,
+          "name": "Pet Chat: Cat & Dog Translator",
+          "publisher": "Valiant Cat",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/94/40/4e/94404e3c-3282-0a92-ff26-988aa98fc43f/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/180x180bb.png",
+          "rating": 4.6,
+          "ratingCount": 1374,
+          "price": "0.00",
+          "rank": 246,
+          "category": "6012"
+        },
+        {
+          "appId": 1367606835,
+          "name": "Ting",
+          "publisher": "Whisker Labs, Inc.",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/88/d2/c4/88d2c47a-5843-8e46-59aa-3bf09ddbda79/AppIcon-0-0-1x_U007epad-0-1-85-220.png/180x180bb.png",
+          "rating": 4.8,
+          "ratingCount": 109000,
+          "price": "0.00",
+          "rank": 247,
+          "category": "6012"
+        },
+        {
+          "appId": 1222730617,
+          "name": "Parking Kitty",
+          "publisher": "City of Portland",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/57/d6/02/57d602dd-1866-679a-2f44-9f06eafa084f/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/180x180bb.png",
+          "rating": 4.9,
+          "ratingCount": 9298,
+          "price": "0.00",
+          "rank": 248,
+          "category": "6012"
+        },
+        {
+          "appId": 1410126781,
+          "name": "Planta: Plant & Garden Care",
+          "publisher": "Planta AB",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a2/d3/92/a2d392a9-122e-71a2-5889-c3d0c5b377d1/AppIcon-Prod-0-0-1x_U007epad-0-1-85-220.png/180x180bb.png",
+          "rating": 4.8,
+          "ratingCount": 114000,
+          "price": "0.00",
+          "rank": 249,
+          "category": "6012"
+        }
+      ]
+    }
+  }
+}
