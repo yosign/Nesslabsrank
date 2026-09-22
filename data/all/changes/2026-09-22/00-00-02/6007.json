@@ -1,0 +1,418 @@
+{
+  "date": "2026-09-22",
+  "changes": {
+    "6007": {
+      "added": [
+        {
+          "appId": 6767830430,
+          "name": "Miraivo AI",
+          "publisher": "MediaJel, Inc.",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/19/9c/f7/199cf788-74e6-deec-1d93-d41398a121cf/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/180x180bb.png",
+          "rating": 1.6,
+          "ratingCount": 10,
+          "price": "0.00",
+          "rank": 171,
+          "category": "6007"
+        },
+        {
+          "appId": 6743227246,
+          "name": "Text to Speech App - ListenMe",
+          "publisher": "SCALEUP YAZILIM HIZMETLERI",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/72/8f/b5/728fb5ff-a940-f4ce-bf5e-57524d4db0db/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/180x180bb.png",
+          "rating": 4.2,
+          "ratingCount": 975,
+          "price": "0.00",
+          "rank": 191,
+          "category": "6007"
+        },
+        {
+          "appId": 1121088244,
+          "name": "DayCount",
+          "publisher": "Zaminiti Pty Ltd",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/80/2b/a9/802ba9e1-659f-70b0-9116-22d824879f6d/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/180x180bb.png",
+          "rating": 4.7,
+          "ratingCount": 26300,
+          "price": "0.00",
+          "rank": 195,
+          "category": "6007"
+        },
+        {
+          "appId": 743974925,
+          "name": "PDF Expert: Editor & Reader",
+          "publisher": "Readdle Technologies Limited",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a2/ee/fd/a2eefddd-cd82-31a2-db1b-19a2ececa453/AppIcon-Production-0-0-1x_U007epad-0-1-0-sRGB-0-85-220.png/180x180bb.png",
+          "rating": 4.7,
+          "ratingCount": 216000,
+          "price": "0.00",
+          "rank": 200,
+          "category": "6007"
+        },
+        {
+          "appId": 692002098,
+          "name": "pCloud - Cloud Storage",
+          "publisher": "PCLOUD LTD",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a9/b7/c6/a9b7c65e-29c2-68ea-bd96-68094ce52ea3/app_icon_classic-0-0-1x_U007epad-0-1-P3-85-220.png/180x180bb.png",
+          "rating": 4.7,
+          "ratingCount": 8134,
+          "price": "0.00",
+          "rank": 202,
+          "category": "6007"
+        },
+        {
+          "appId": 489262811,
+          "name": "SignNow: e-Signature app",
+          "publisher": "airSlate, Inc.",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c6/0b/41/c60b41e3-6884-8110-58cf-6d23fbda7816/AppIcon-0-0-1x_U007emarketing-0-11-0-0-GLES2_U002c0-85-220.png/180x180bb.png",
+          "rating": 4.5,
+          "ratingCount": 18000,
+          "price": "0.00",
+          "rank": 204,
+          "category": "6007"
+        },
+        {
+          "appId": 1590978658,
+          "name": "EquateAccess",
+          "publisher": "Equatex AG",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b3/6c/89/b36c89d1-2955-67b1-c1ed-41eab23d7718/app_icon-0-0-1x_U007ephone-0-0-0-11-0-0-85-220.png/180x180bb.png",
+          "rating": 1.3,
+          "ratingCount": 189,
+          "price": "0.00",
+          "rank": 211,
+          "category": "6007"
+        },
+        {
+          "appId": 1609286976,
+          "name": "Empower, by ISN",
+          "publisher": "ISNetworld",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/86/6a/82/866a82e1-e2e9-bbd1-0946-5d8e9db686ec/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/180x180bb.png",
+          "rating": 4.8,
+          "ratingCount": 28700,
+          "price": "0.00",
+          "rank": 214,
+          "category": "6007"
+        },
+        {
+          "appId": 6736834691,
+          "name": "Note AI: Smart Note Taker",
+          "publisher": "HUBX",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6b/44/44/6b444442-ff0b-a592-4823-db669a4906ac/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/180x180bb.png",
+          "rating": 4.5,
+          "ratingCount": 652,
+          "price": "0.00",
+          "rank": 215,
+          "category": "6007"
+        },
+        {
+          "appId": 1540124885,
+          "name": "rmResident",
+          "publisher": "LCS",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c0/41/ed/c041ed90-9f5f-f387-f4ee-8f9bbf495793/AppIcon-2-1x_U007emarketing-0-8-0-85-220-0.png/180x180bb.png",
+          "rating": 3.5,
+          "ratingCount": 2017,
+          "price": "0.00",
+          "rank": 221,
+          "category": "6007"
+        },
+        {
+          "appId": 6736898512,
+          "name": "Word Editor: Edit Office Word",
+          "publisher": "A1Apps",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/df/d2/c8/dfd2c8fd-b8a5-5ed1-91e8-180f6ca68e78/AppIcon-0-0-1x_U007epad-0-1-0-85-220.jpeg/180x180bb.png",
+          "rating": 4.7,
+          "ratingCount": 1426,
+          "price": "0.00",
+          "rank": 227,
+          "category": "6007"
+        },
+        {
+          "appId": 6443812921,
+          "name": "Cubbily:Shared Family Calendar",
+          "publisher": "DISCOVERY BAY PTE. LTD.",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/71/dc/5f/71dc5fa1-cacc-c128-b934-f1225ffc2c94/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220-0.png/180x180bb.png",
+          "rating": 4.9,
+          "ratingCount": 1153,
+          "price": "0.00",
+          "rank": 230,
+          "category": "6007"
+        },
+        {
+          "appId": 1515671684,
+          "name": "ArcGIS Field Maps",
+          "publisher": "ESRI",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/76/ed/76/76ed7630-8e59-2a39-9f6f-8af988b283ff/AppIcon-0-0-1x_U007epad-0-0-0-1-0-85-220.png/180x180bb.png",
+          "rating": 2.1,
+          "ratingCount": 47,
+          "price": "0.00",
+          "rank": 233,
+          "category": "6007"
+        },
+        {
+          "appId": 1607562761,
+          "name": "Notion Calendar",
+          "publisher": "Notion Labs, Incorporated",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0c/21/9c/0c219c10-40f7-69dd-8f7f-fb084fb2fc55/notion-calendar-0-0-1x_U007ephone-0-1-P3-85-220.png/180x180bb.png",
+          "rating": 4.7,
+          "ratingCount": 7450,
+          "price": "0.00",
+          "rank": 236,
+          "category": "6007"
+        },
+        {
+          "appId": 6745355931,
+          "name": "IDNet AI",
+          "publisher": "AureKA",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/49/a0/a4/49a0a47d-e703-cd23-bb45-cb518b60bb51/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/180x180bb.png",
+          "rating": 4.6,
+          "ratingCount": 4681,
+          "price": "0.00",
+          "rank": 237,
+          "category": "6007"
+        },
+        {
+          "appId": 909262651,
+          "name": "Zoho Mail - Email and Calendar",
+          "publisher": "Zoho Corporation",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/46/50/9f/46509f40-92bb-5b62-789d-46c877f6fa1c/AppIcon-0-0-1x_U007epad-0-1-sRGB-85-220.png/180x180bb.png",
+          "rating": 4.6,
+          "ratingCount": 7990,
+          "price": "0.00",
+          "rank": 241,
+          "category": "6007"
+        },
+        {
+          "appId": 6448949389,
+          "name": "Exocus: Gamified Focus Timer",
+          "publisher": "Byland Technology (Shanghai) Co., Ltd.",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/50/1f/cc/501fcc5a-34a6-a92b-cccc-9e57684eb958/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/180x180bb.png",
+          "rating": 4.9,
+          "ratingCount": 132,
+          "price": "0.00",
+          "rank": 244,
+          "category": "6007"
+        },
+        {
+          "appId": 1314654833,
+          "name": "SignUpGenius",
+          "publisher": "SignUpGenius, Inc.",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/eb/61/cc/eb61cc59-6e9d-a145-0226-3af31ff107da/AppIcon-0-0-1x_U007epad-0-11-0-85-220.png/180x180bb.png",
+          "rating": 1.3,
+          "ratingCount": 140,
+          "price": "0.00",
+          "rank": 245,
+          "category": "6007"
+        }
+      ],
+      "removed": [
+        {
+          "appId": 1641447627,
+          "name": "Color Widgets: Photo Themes",
+          "publisher": "BarCode Scanner",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c9/d9/77/c9d977ce-68d0-45d8-20c7-d7d6a88790ee/AppIcon-0-0-1x_U007emarketing-0-11-0-sRGB-85-220.png/180x180bb.png",
+          "rating": 4.3,
+          "ratingCount": 495,
+          "price": "0.00",
+          "rank": 106,
+          "category": "6007"
+        },
+        {
+          "appId": 985692119,
+          "name": "Clean Swell",
+          "publisher": "Ocean Conservancy",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7f/a4/f4/7fa4f4ed-4b8e-ffdb-3305-c7132ae94984/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/180x180bb.png",
+          "rating": 4.4,
+          "ratingCount": 27,
+          "price": "0.00",
+          "rank": 166,
+          "category": "6007"
+        },
+        {
+          "appId": 1630305902,
+          "name": "Manafith | منافذ",
+          "publisher": "MANAFITH FOR INSURANCE SERVICES",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/76/1b/d1/761bd1e2-d0ec-9679-5937-2b6dfd62ee09/AppIcon-0-0-1x_U007epad-0-1-85-220.png/180x180bb.png",
+          "rating": 1.7,
+          "ratingCount": 91,
+          "price": "0.00",
+          "rank": 187,
+          "category": "6007"
+        },
+        {
+          "appId": 391093033,
+          "name": "Member Tools",
+          "publisher": "The Church of Jesus Christ of Latter-day Saints",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/55/d8/19/55d8194e-b282-e461-d783-4b7dae69e484/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-85-220.png/180x180bb.png",
+          "rating": 4.9,
+          "ratingCount": 97400,
+          "price": "0.00",
+          "rank": 190,
+          "category": "6007"
+        },
+        {
+          "appId": 1583175414,
+          "name": "Mistero ***: Privacy & Proxy",
+          "publisher": "Mistero VPN",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c7/54/91/c75491e7-fdea-aa28-a576-8a3d4df67bf6/AppIcon-0-1x_U007emarketing-0-8-0-85-220-0.png/180x180bb.png",
+          "rating": 4.4,
+          "ratingCount": 1115,
+          "price": "0.00",
+          "rank": 199,
+          "category": "6007"
+        },
+        {
+          "appId": 1460407674,
+          "name": "ManaBox MTG",
+          "publisher": "SkillDevs S.C.",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7b/66/3b/7b663bff-8564-d6e0-927c-f4ec4273a087/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/180x180bb.png",
+          "rating": 4.6,
+          "ratingCount": 1714,
+          "price": "0.00",
+          "rank": 212,
+          "category": "6007"
+        },
+        {
+          "appId": 6759892782,
+          "name": "iClean: Phone Security&Cleaner",
+          "publisher": "InnoMotion Interactive Technology Limited",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6c/8d/1c/6c8d1c5c-84bc-f8b3-795f-6d124a51db87/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/180x180bb.png",
+          "rating": 4.3,
+          "ratingCount": 1323,
+          "price": "0.00",
+          "rank": 213,
+          "category": "6007"
+        },
+        {
+          "appId": 1669513811,
+          "name": "OneSearch: DeepSearch Finder",
+          "publisher": "Tung To Dinh",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2e/89/f7/2e89f7f3-00d2-d695-8fb1-4f825d46e0cc/AppIconLiquidGlass-0-0-1x_U007ephone-0-1-0-sRGB-85-220.png/180x180bb.png",
+          "rating": 4.6,
+          "ratingCount": 1489,
+          "price": "0.00",
+          "rank": 218,
+          "category": "6007"
+        },
+        {
+          "appId": 1065360416,
+          "name": "BimmerLink",
+          "publisher": "SG Software GmbH & Co. KG",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9a/de/69/9ade692d-f65a-daac-eb63-e3b209224ecf/AppIcon-0-0-1x_U007epad-0-1-0-85-220-0.png/180x180bb.png",
+          "rating": 4.7,
+          "ratingCount": 8961,
+          "price": "0.00",
+          "rank": 228,
+          "category": "6007"
+        },
+        {
+          "appId": 6741426692,
+          "name": "Locally AI by LM Studio",
+          "publisher": "Element Labs Inc",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fd/34/99/fd349926-0ec9-4794-9d61-4721907687bf/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-85-220.png/180x180bb.png",
+          "rating": 4.7,
+          "ratingCount": 1591,
+          "price": "0.00",
+          "rank": 229,
+          "category": "6007"
+        },
+        {
+          "appId": 1526622816,
+          "name": "***.lat: unlimited and secure",
+          "publisher": "https://www.vpn.lat",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/98/cf/4e/98cf4eeb-9977-1d16-d37a-de8dbeeadc1f/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/180x180bb.png",
+          "rating": 4.6,
+          "ratingCount": 7620,
+          "price": "0.00",
+          "rank": 233,
+          "category": "6007"
+        },
+        {
+          "appId": 1080558159,
+          "name": "QR Code Reader: Quick Scan",
+          "publisher": "Komorebi Inc.",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/95/11/61/951161c6-de24-db36-1161-114531902d0b/AppIcon-0-0-1x_U007epad-0-1-0-85-220.jpeg/180x180bb.png",
+          "rating": 4.7,
+          "ratingCount": 161000,
+          "price": "0.00",
+          "rank": 234,
+          "category": "6007"
+        },
+        {
+          "appId": 1386930269,
+          "name": "LA Wallet",
+          "publisher": "Louisiana Division of Administration",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fd/f1/8d/fdf18ded-888c-8325-3c10-b1dd7ef3d00c/appicon-1x_U007emarketing-0-8-0-85-220-0.png/180x180bb.png",
+          "rating": 3.4,
+          "ratingCount": 1174,
+          "price": "0.00",
+          "rank": 236,
+          "category": "6007"
+        },
+        {
+          "appId": 1509667851,
+          "name": "Proton Drive: Cloud Storage",
+          "publisher": "Proton AG",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/88/6d/9f/886d9f66-855f-9c8c-90fe-eedfd9a6f8ed/AppIcon-Release-External-0-1x_U007epad-0-1-0-85-220-0.png/180x180bb.png",
+          "rating": 4.1,
+          "ratingCount": 1148,
+          "price": "0.00",
+          "rank": 238,
+          "category": "6007"
+        },
+        {
+          "appId": 922793622,
+          "name": "Email - Edison Mail",
+          "publisher": "Edison Software Inc.",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f2/a8/3c/f2a83c61-02af-d3a0-6911-68f21566468e/app-icon-0-0-1x_U007epad-0-1-0-85-220.png/180x180bb.png",
+          "rating": 4.5,
+          "ratingCount": 78600,
+          "price": "0.00",
+          "rank": 240,
+          "category": "6007"
+        },
+        {
+          "appId": 1018949559,
+          "name": "Microsoft Translator",
+          "publisher": "Microsoft Corporation",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2c/14/3d/2c143da8-2998-a6aa-a03c-7e7f1a0b0703/AppIcon-0-1x_U007emarketing-0-11-0-0-85-220-0.png/180x180bb.png",
+          "rating": 4.8,
+          "ratingCount": 158000,
+          "price": "0.00",
+          "rank": 242,
+          "category": "6007"
+        },
+        {
+          "appId": 6755873784,
+          "name": "Super V2ray Tunnel 2026",
+          "publisher": "Free Secure VPN Co., Limited",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/24/86/d9/2486d9e6-75a9-0279-282b-aaaca51db8d8/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/180x180bb.png",
+          "rating": 4.3,
+          "ratingCount": 4743,
+          "price": "0.00",
+          "rank": 246,
+          "category": "6007"
+        },
+        {
+          "appId": 6784084106,
+          "name": "Auto Clicker™: Automatic Tap",
+          "publisher": "Muhammad Fatthullah Bin Iskandar",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/bb/71/ae/bb71aeb3-a5af-d05a-2f1c-c10188587b9a/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/180x180bb.png",
+          "rating": 3.5,
+          "ratingCount": 124,
+          "price": "0.00",
+          "rank": 248,
+          "category": "6007"
+        },
+        {
+          "appId": 1614088226,
+          "name": "Cloud Storage: Cloud Drive App",
+          "publisher": "Fazcon PTY LTD",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ae/55/53/ae55537d-e07e-2469-9915-fb7c17eab812/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/180x180bb.png",
+          "rating": 4.5,
+          "ratingCount": 1659,
+          "price": "0.00",
+          "rank": 250,
+          "category": "6007"
+        }
+      ]
+    }
+  }
+}
