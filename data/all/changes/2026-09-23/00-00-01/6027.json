@@ -1,0 +1,473 @@
+{
+  "date": "2026-09-23",
+  "changes": {
+    "6027": {
+      "added": [
+        {
+          "appId": 6803416197,
+          "name": "Drawee.",
+          "publisher": "LISE KRUITHOF",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/82/a0/f9/82a0f9d9-f9e9-df3c-b2d8-f849d75e0967/AppIcon-1x_U007ephone-0-1-85-220-0.png/180x180bb.png",
+          "rating": 4.3,
+          "ratingCount": 10,
+          "price": "0.00",
+          "rank": 158,
+          "category": "6027"
+        },
+        {
+          "appId": 1040200189,
+          "name": "Adobe Capture: Illustrator, Ps",
+          "publisher": "Adobe Inc.",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/16/ec/b9/16ecb9c7-c2ea-4b01-2e3a-43a74172f9f3/AppIcon-0-1x_U007emarketing-0-7-0-85-220.png/180x180bb.png",
+          "rating": 4.8,
+          "ratingCount": 24300,
+          "price": "0.00",
+          "rank": 191,
+          "category": "6027"
+        },
+        {
+          "appId": 6743636833,
+          "name": "Driftshot - AI Car Photography",
+          "publisher": "iDec Apps S.L.",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b0/20/17/b0201735-2754-a23b-5f1b-8853c4867c8f/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/180x180bb.png",
+          "rating": 4.6,
+          "ratingCount": 1573,
+          "price": "0.00",
+          "rank": 194,
+          "category": "6027"
+        },
+        {
+          "appId": 1532641230,
+          "name": "TapeKit・Lab of Top Widgets・GIF",
+          "publisher": "Pavel Serdziukou",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fe/c2/ec/fec2ec96-46c0-0518-6ac2-0b2d2d3f4c65/AppIcon-0-0-1x_U007epad-0-1-sRGB-85-220.png/180x180bb.png",
+          "rating": 4.6,
+          "ratingCount": 5666,
+          "price": "0.00",
+          "rank": 210,
+          "category": "6027"
+        },
+        {
+          "appId": 1641085395,
+          "name": "Color Identifier: Color Picker",
+          "publisher": "Irina Metelkina",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/aa/4d/bd/aa4dbdb7-0193-3587-b554-a0f5ec90c274/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/180x180bb.png",
+          "rating": 4.6,
+          "ratingCount": 1982,
+          "price": "0.00",
+          "rank": 214,
+          "category": "6027"
+        },
+        {
+          "appId": 6755596422,
+          "name": "Logo Maker: Creator, Designer",
+          "publisher": "Jesus Anderson",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9d/a9/ad/9da9ad7e-a101-77b1-0675-5afee11d510d/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.jpeg/180x180bb.png",
+          "rating": 0,
+          "ratingCount": 0,
+          "price": "0.00",
+          "rank": 216,
+          "category": "6027"
+        },
+        {
+          "appId": 6469189292,
+          "name": "Creador (Party Designer)",
+          "publisher": "Ariane Leon",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/01/3a/3b/013a3b26-af07-f9b6-fb88-c79efe17b872/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/180x180bb.png",
+          "rating": 4.5,
+          "ratingCount": 71,
+          "price": "0.00",
+          "rank": 220,
+          "category": "6027"
+        },
+        {
+          "appId": 1609584814,
+          "name": "PicWish: AI Photo Editor",
+          "publisher": "Wangxu Technology Co., Ltd",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/db/1c/c9/db1cc9c6-dcdc-c428-6f85-15d69590263d/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/180x180bb.png",
+          "rating": 4,
+          "ratingCount": 362,
+          "price": "0.00",
+          "rank": 226,
+          "category": "6027"
+        },
+        {
+          "appId": 1546795392,
+          "name": "Motion Ninja Video Editor",
+          "publisher": "立亚 林",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f6/de/47/f6de4700-17a6-164c-147c-1283e642e369/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/180x180bb.png",
+          "rating": 4.5,
+          "ratingCount": 1510,
+          "price": "0.00",
+          "rank": 227,
+          "category": "6027"
+        },
+        {
+          "appId": 6502416347,
+          "name": "Recraft: AI Images and Videos",
+          "publisher": "Recraft",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/79/82/5f/79825f4f-de6b-0c6d-57fe-bdd7df1e7fb3/ios-icon-0-0-1x_U007epad-0-1-sRGB-85-220.png/180x180bb.png",
+          "rating": 4.8,
+          "ratingCount": 150,
+          "price": "0.00",
+          "rank": 230,
+          "category": "6027"
+        },
+        {
+          "appId": 1553029371,
+          "name": "Animaker: AI Animation Maker",
+          "publisher": "Animaker Inc.",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/13/6f/45/136f4549-e608-f3ea-2b78-61e974f97835/AppIcon-0-0-1x_U007emarketing-0-8-0-sRGB-85-220.png/180x180bb.png",
+          "rating": 4.7,
+          "ratingCount": 1614,
+          "price": "0.00",
+          "rank": 232,
+          "category": "6027"
+        },
+        {
+          "appId": 6468676714,
+          "name": "ImaginAI - AI Art & Video",
+          "publisher": "Scate",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/03/bc/1e/03bc1e28-b393-f1b7-c9b2-8ee98973dfd3/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/180x180bb.png",
+          "rating": 4.6,
+          "ratingCount": 3250,
+          "price": "0.00",
+          "rank": 235,
+          "category": "6027"
+        },
+        {
+          "appId": 6798161594,
+          "name": "Color Dictionary: Sanzo",
+          "publisher": "Fableso",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9d/ef/08/9def0820-21eb-4953-1644-d39428fd9326/AppIcon-0-0-1x_U007epad-0-1-85-220.jpeg/180x180bb.png",
+          "rating": 0,
+          "ratingCount": 0,
+          "price": "0.00",
+          "rank": 237,
+          "category": "6027"
+        },
+        {
+          "appId": 1533330948,
+          "name": "Aesthetic Kit: Live Wallpapers",
+          "publisher": "CELESTIAN GOLDEN APPS",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3b/c9/0a/3bc90a49-3b60-94d3-7a23-b47385236e78/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-85-220.png/180x180bb.png",
+          "rating": 4.6,
+          "ratingCount": 126000,
+          "price": "0.00",
+          "rank": 239,
+          "category": "6027"
+        },
+        {
+          "appId": 6482847344,
+          "name": "RemakeFace Ai: Face Swap AI",
+          "publisher": "Salsabila Qurrota A'yunina",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/21/d2/5a/21d25a80-6c13-86f8-e6e2-0e47b705b74b/AppIcon-0-0-1x_U007epad-0-1-85-220.png/180x180bb.png",
+          "rating": 4.5,
+          "ratingCount": 2519,
+          "price": "0.00",
+          "rank": 241,
+          "category": "6027"
+        },
+        {
+          "appId": 6806555079,
+          "name": "Photorealism: Grid Method",
+          "publisher": "Dylan Eakin",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d7/29/96/d7299625-e314-bd8d-684f-80a8bbd52d0f/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/180x180bb.png",
+          "rating": 0,
+          "ratingCount": 0,
+          "price": "0.00",
+          "rank": 242,
+          "category": "6027"
+        },
+        {
+          "appId": 6445975134,
+          "name": "Pixel Pet Widget: Island Pet",
+          "publisher": "雪萍 雷",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/ff/19/d9/ff19d968-c1cb-2fce-0286-6319e7aca92c/AppIconFrog-1x_U007ephone-0-10-0-85-220.png/180x180bb.png",
+          "rating": 4.5,
+          "ratingCount": 3078,
+          "price": "0.00",
+          "rank": 243,
+          "category": "6027"
+        },
+        {
+          "appId": 6444282600,
+          "name": "DALL E 3 AI Art Generator",
+          "publisher": "Ellisapps Inc.",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/77/9f/c5/779fc5d3-341b-5a49-dedd-743e3a2e24a4/AppIconB-0-0-1x_U007ephone-0-1-0-85-220.png/180x180bb.png",
+          "rating": 4.6,
+          "ratingCount": 5919,
+          "price": "0.00",
+          "rank": 244,
+          "category": "6027"
+        },
+        {
+          "appId": 1492235157,
+          "name": "Passport Booth",
+          "publisher": "TAPUNIVERSE LLC",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ad/1f/0c/ad1f0c72-4b36-2cf8-f148-3fb7b4412a21/PassportBooth-0-0-1x_U007epad-0-1-0-0-sRGB-85-220.png/180x180bb.png",
+          "rating": 4.8,
+          "ratingCount": 16600,
+          "price": "0.00",
+          "rank": 246,
+          "category": "6027"
+        },
+        {
+          "appId": 6593679852,
+          "name": "Ai Tattoo Ideas-Art Generator",
+          "publisher": "Shenzhen Yunduoduo Technology Co., Ltd",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7c/00/9b/7c009bef-7f4e-e24b-e32d-713d84aba9f3/AppIcon-0-0-1x_U007epad-0-1-85-220.png/180x180bb.png",
+          "rating": 4.7,
+          "ratingCount": 3824,
+          "price": "0.00",
+          "rank": 247,
+          "category": "6027"
+        },
+        {
+          "appId": 6756230463,
+          "name": "Mockup Clothing Design Tool",
+          "publisher": "Nikita Cheremisinov",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7b/7d/9f/7b7d9f7d-17ad-8784-0085-e8007f9c86b4/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/180x180bb.png",
+          "rating": 4.5,
+          "ratingCount": 272,
+          "price": "0.00",
+          "rank": 249,
+          "category": "6027"
+        }
+      ],
+      "removed": [
+        {
+          "appId": 1599503739,
+          "name": "Canvas AI Logo + Poster Maker",
+          "publisher": "Ghanshyambhai Gabani",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9d/f4/23/9df4234a-14c9-d344-463f-293c5aee560c/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/180x180bb.png",
+          "rating": 4.7,
+          "ratingCount": 4225,
+          "price": "0.00",
+          "rank": 110,
+          "category": "6027"
+        },
+        {
+          "appId": 1665148098,
+          "name": "Aviart: AI Photo Generator",
+          "publisher": "Walme LLC",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/12/fa/95/12fa9545-75a8-5062-8606-27be93ac8725/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/180x180bb.png",
+          "rating": 4.3,
+          "ratingCount": 4999,
+          "price": "0.00",
+          "rank": 147,
+          "category": "6027"
+        },
+        {
+          "appId": 6797916388,
+          "name": "Redo AI",
+          "publisher": "Kiril Zhyla",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/83/03/79/8303796b-b568-3421-6dca-e613e06407fb/RedoAI-0-0-1x_U007epad-0-1-sRGB-85-220.png/180x180bb.png",
+          "rating": 0,
+          "ratingCount": 0,
+          "price": "0.00",
+          "rank": 154,
+          "category": "6027"
+        },
+        {
+          "appId": 6751643529,
+          "name": "Merge & Mix Emoji: Mixermoji",
+          "publisher": "Mobile entertainment srl",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fd/c5/77/fdc5770b-424d-477d-40f0-83671d49c0ac/AppIcon-B-0-0-1x_U007epad-0-1-85-220.png/180x180bb.png",
+          "rating": 4.7,
+          "ratingCount": 7284,
+          "price": "0.00",
+          "rank": 183,
+          "category": "6027"
+        },
+        {
+          "appId": 6738272757,
+          "name": "Moshicam Photo Editor & Frames",
+          "publisher": "Moshicam Studio LLC",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/39/5d/e4/395de4b6-bea8-3e91-e1fc-b6a836f9a812/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/180x180bb.png",
+          "rating": 4.9,
+          "ratingCount": 513,
+          "price": "0.00",
+          "rank": 188,
+          "category": "6027"
+        },
+        {
+          "appId": 6758757448,
+          "name": "AI Room Design: House Goals",
+          "publisher": "Innovative Social Limited",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/70/92/4d/70924d80-614e-aa97-ce1d-9bd556e91632/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/180x180bb.png",
+          "rating": 0,
+          "ratingCount": 0,
+          "price": "0.00",
+          "rank": 194,
+          "category": "6027"
+        },
+        {
+          "appId": 6758865476,
+          "name": "Widget & Wallpaper: Widgetmoji",
+          "publisher": "Mobile entertainment srl",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7d/87/70/7d8770d6-b243-a82c-6fe5-541bef53ce9f/AppIcon-0-0-1x_U007ephone-0-1-sRGB-85-220.png/180x180bb.png",
+          "rating": 3.4,
+          "ratingCount": 10,
+          "price": "0.00",
+          "rank": 206,
+          "category": "6027"
+        },
+        {
+          "appId": 1562661709,
+          "name": "Panorama Scroll Carousel Maker",
+          "publisher": "Hashone Tech LLP",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/92/c4/a1/92c4a1f4-6165-0695-3ae6-1d20244c01b9/caro_appicon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/180x180bb.png",
+          "rating": 4.6,
+          "ratingCount": 1405,
+          "price": "0.00",
+          "rank": 213,
+          "category": "6027"
+        },
+        {
+          "appId": 6464542768,
+          "name": "Island Widgets",
+          "publisher": "Tianjin Nankai Xuewei Technology Studio (Individually Owned Business)",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/53/f7/d0/53f7d0f9-6fa8-0331-cf48-3d0c0c98cbe0/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/180x180bb.png",
+          "rating": 4.1,
+          "ratingCount": 176,
+          "price": "0.00",
+          "rank": 218,
+          "category": "6027"
+        },
+        {
+          "appId": 6757910128,
+          "name": "Komiko: Character AI, Art, OCs",
+          "publisher": "Story Engine Inc.",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/19/7f/86/197f8679-4b2a-e525-3342-ec77293dc2bb/AppIcon-0-0-1x_U007epad-0-1-85-220.png/180x180bb.png",
+          "rating": 4.6,
+          "ratingCount": 130,
+          "price": "0.00",
+          "rank": 221,
+          "category": "6027"
+        },
+        {
+          "appId": 1580512844,
+          "name": "starryai - AI Photo Generator",
+          "publisher": "starryai",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a4/fa/a6/a4faa67c-13fe-555b-bc06-7a05ee97fab7/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/180x180bb.png",
+          "rating": 4.6,
+          "ratingCount": 22200.000000000004,
+          "price": "0.00",
+          "rank": 224,
+          "category": "6027"
+        },
+        {
+          "appId": 6784165006,
+          "name": "PeanutArts",
+          "publisher": "Banwali Prasad",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/58/8e/0d/588e0d51-3e69-6805-a09c-a01e7e8f1693/AppIcon-0-1x_U007ephone-0-1-85-220-0.png/180x180bb.png",
+          "rating": 0,
+          "ratingCount": 0,
+          "price": "0.00",
+          "rank": 225,
+          "category": "6027"
+        },
+        {
+          "appId": 1522087125,
+          "name": "Photo Widget - Themes",
+          "publisher": "Laid-back Lion Apps Ltd",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1d/c0/03/1dc00360-40f6-c59b-fb89-488a6a0e0e7c/AppIcon-0-0-1x_U007emarketing-0-11-0-sRGB-85-220.png/180x180bb.png",
+          "rating": 4.5,
+          "ratingCount": 32900,
+          "price": "0.00",
+          "rank": 227,
+          "category": "6027"
+        },
+        {
+          "appId": 6762469872,
+          "name": "AI Home Design: Decor Interior",
+          "publisher": "21APP",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7c/2e/98/7c2e989c-40d3-7a6e-a2bf-c516145bcc36/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/180x180bb.png",
+          "rating": 4.4,
+          "ratingCount": 68,
+          "price": "0.00",
+          "rank": 231,
+          "category": "6027"
+        },
+        {
+          "appId": 1573555217,
+          "name": "Themes: Fancy Widgets, Icons",
+          "publisher": "晓夏 卢",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e1/6a/60/e16a60de-18ff-7bdd-2148-17979ebd6a8b/AppIcon-1x_U007emarketing-0-10-0-sRGB-85-220.png/100x100bb.jpg",
+          "rating": 4.7,
+          "ratingCount": 80200,
+          "price": "0.00",
+          "rank": 240,
+          "category": "6027"
+        },
+        {
+          "appId": 1672483469,
+          "name": "Cute Stickers | Sticker Book",
+          "publisher": "Ronnie Nguyen",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9e/2d/15/9e2d1578-ddf2-dc8b-1c7a-cbdb60f5d55c/sticker-book-icon-0-0-1x_U007ephone-0-1-sRGB-85-220.png/180x180bb.png",
+          "rating": 4.8,
+          "ratingCount": 11700,
+          "price": "0.00",
+          "rank": 241,
+          "category": "6027"
+        },
+        {
+          "appId": 6443671711,
+          "name": "FARBA AI Video & Photo Editor",
+          "publisher": "Wergames OU",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5d/4d/7c/5d4d7ce6-b6db-2be9-c86d-81b8f1ce8037/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/180x180bb.png",
+          "rating": 4.3,
+          "ratingCount": 881,
+          "price": "0.00",
+          "rank": 242,
+          "category": "6027"
+        },
+        {
+          "appId": 6752294225,
+          "name": "Drawing pad®",
+          "publisher": "Gaurav Singh",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c9/a6/a2/c9a6a26a-0b3f-2fb2-927f-9e1c269ed799/AppIcon-0-0-1x_U007ephone-0-1-85-220.jpeg/180x180bb.png",
+          "rating": 0,
+          "ratingCount": 0,
+          "price": "0.00",
+          "rank": 243,
+          "category": "6027"
+        },
+        {
+          "appId": 6748286813,
+          "name": "Tchpack",
+          "publisher": "OpenTi LLC",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3d/71/c3/3d71c3ae-8d8f-a5cd-5f4f-d76c2671c927/AppIcon-0-0-1x_U007epad-0-1-85-220.png/180x180bb.png",
+          "rating": 4.5,
+          "ratingCount": 198,
+          "price": "0.00",
+          "rank": 245,
+          "category": "6027"
+        },
+        {
+          "appId": 6785433248,
+          "name": "Procreate Brushes · BrushKit",
+          "publisher": "DeepFocusLab Tech",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/35/53/5d/35535d4b-d566-016a-06ec-604b3704fa10/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/180x180bb.png",
+          "rating": 3,
+          "ratingCount": 3,
+          "price": "0.00",
+          "rank": 246,
+          "category": "6027"
+        },
+        {
+          "appId": 6755325764,
+          "name": "Void Widgets - Retro & Minimal",
+          "publisher": "Yeasir Arafat",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/16/7f/02/167f02bf-1484-6db8-8940-f86af161d646/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/180x180bb.png",
+          "rating": 4.7,
+          "ratingCount": 55,
+          "price": "0.00",
+          "rank": 247,
+          "category": "6027"
+        }
+      ]
+    }
+  }
+}
