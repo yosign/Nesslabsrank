@@ -1,0 +1,231 @@
+{
+  "date": "2026-09-24",
+  "changes": {
+    "6012": {
+      "added": [
+        {
+          "appId": 1299313149,
+          "name": "PNM Companion",
+          "publisher": "TechniPhi, Inc",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3c/23/d4/3c23d400-2535-0c45-8727-7de8691f5066/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/180x180bb.png",
+          "rating": 1.5,
+          "ratingCount": 66,
+          "price": "0.00",
+          "rank": 181,
+          "category": "6012"
+        },
+        {
+          "appId": 6766737525,
+          "name": "Blood Pressure Health Scan",
+          "publisher": "JOYLINK NETWORK TECH LIMITED",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/eb/5c/24/eb5c24c5-a7f3-ca0b-8a29-926a8bb19ef3/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/180x180bb.png",
+          "rating": 4.2,
+          "ratingCount": 100,
+          "price": "0.00",
+          "rank": 190,
+          "category": "6012"
+        },
+        {
+          "appId": 1103530261,
+          "name": "Precious - Baby Photo Art",
+          "publisher": "Curious Creators Co.",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/53/66/01/536601ff-2eaf-a4a3-7f51-0a9e15b2b95d/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/180x180bb.png",
+          "rating": 4.8,
+          "ratingCount": 138000,
+          "price": "0.00",
+          "rank": 211,
+          "category": "6012"
+        },
+        {
+          "appId": 6761958634,
+          "name": "Contracted",
+          "publisher": "Contracted AI",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/07/7b/cf/077bcfe1-4430-920b-9696-115101a460b6/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/180x180bb.png",
+          "rating": 4.7,
+          "ratingCount": 228,
+          "price": "0.00",
+          "rank": 229,
+          "category": "6012"
+        },
+        {
+          "appId": 716262008,
+          "name": "Noonlight: Feel Protected 24/7",
+          "publisher": "Noonlight, Inc.",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/cc/93/6f/cc936fe1-d3f4-f2d3-30af-8376637ee074/AppIcon-0-0-1x_U007emarketing-0-9-0-85-220.png/180x180bb.png",
+          "rating": 4.7,
+          "ratingCount": 16600,
+          "price": "0.00",
+          "rank": 231,
+          "category": "6012"
+        },
+        {
+          "appId": 1392492235,
+          "name": "UniFi Protect",
+          "publisher": "Ubiquiti Inc.",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/10/25/b4/1025b48c-a2cf-29af-0eeb-bffd00cd51b1/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-0-85-220.png/180x180bb.png",
+          "rating": 4.8,
+          "ratingCount": 74300,
+          "price": "0.00",
+          "rank": 242,
+          "category": "6012"
+        },
+        {
+          "appId": 1565972415,
+          "name": "RAM®",
+          "publisher": "FCA US LLC",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2d/93/da/2d93da30-536a-f64e-7be3-eebec1bbc2d3/AppIcon.ram.prod-0-0-1x_U007emarketing-0-6-0-85-220.png/180x180bb.png",
+          "rating": 4.8,
+          "ratingCount": 91000,
+          "price": "0.00",
+          "rank": 243,
+          "category": "6012"
+        },
+        {
+          "appId": 328453619,
+          "name": "Care.com: Hire Caregivers",
+          "publisher": "Care.com, Inc.",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/37/fb/d0/37fbd023-21a6-143d-e364-b741b56d7b99/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/180x180bb.png",
+          "rating": 4.4,
+          "ratingCount": 41900.00000000001,
+          "price": "0.00",
+          "rank": 245,
+          "category": "6012"
+        },
+        {
+          "appId": 6756569878,
+          "name": "Pookie: Couple Widgets + Games",
+          "publisher": "TYLER JAMES ROBINSON VOSS",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/52/9f/98/529f983a-3044-5ae4-2cde-4e7940563364/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/180x180bb.png",
+          "rating": 4.6,
+          "ratingCount": 1202,
+          "price": "0.00",
+          "rank": 248,
+          "category": "6012"
+        },
+        {
+          "appId": 1397726277,
+          "name": "Wansview Cloud",
+          "publisher": "Ajcloud Labs Inc.",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f5/1c/73/f51c7313-219e-63bb-a12d-d9dbf54c39c5/AppIcon_WanviewCloud-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/180x180bb.png",
+          "rating": 4.7,
+          "ratingCount": 55199.99999999999,
+          "price": "0.00",
+          "rank": 250,
+          "category": "6012"
+        }
+      ],
+      "removed": [
+        {
+          "appId": 6738506984,
+          "name": "Scrambly: Money for Walking",
+          "publisher": "Scrambly",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/32/0a/82/320a82ee-bb49-6316-0f5b-14a69d0d43df/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/180x180bb.png",
+          "rating": 4.7,
+          "ratingCount": 91300.00000000001,
+          "price": "0.00",
+          "rank": 16,
+          "category": "6012"
+        },
+        {
+          "appId": 6760149692,
+          "name": "\\'47: Sports Hats & Fan Apparel",
+          "publisher": "'47 Brand",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/dc/5f/f3/dc5ff397-72f8-2466-d1e6-6a4c2e8b70cd/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/180x180bb.png",
+          "rating": 4.3,
+          "ratingCount": 12,
+          "price": "0.00",
+          "rank": 162,
+          "category": "6012"
+        },
+        {
+          "appId": 6769250805,
+          "name": "Ink: Lockscreen Calendar, Note",
+          "publisher": "SilverAI Joint Stock Company",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/06/99/d8/0699d892-0ca1-b249-34b0-7bc39fb891d5/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/180x180bb.png",
+          "rating": 4.2,
+          "ratingCount": 164,
+          "price": "0.00",
+          "rank": 207,
+          "category": "6012"
+        },
+        {
+          "appId": 6759038918,
+          "name": "Family Tree Maker & Ancestry",
+          "publisher": "VN-Consult doo",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8a/d0/b9/8ad0b9a9-2bfd-134e-e090-09417775437c/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/180x180bb.png",
+          "rating": 4.3,
+          "ratingCount": 758,
+          "price": "0.00",
+          "rank": 231,
+          "category": "6012"
+        },
+        {
+          "appId": 1600195477,
+          "name": "yope: friends-only social game",
+          "publisher": "Salo App, Inc.",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d1/11/07/d11107a1-a8c5-2449-628d-74ab8fa6c2a4/AppIcon-yope-0-0-1x_U007emarketing-0-11-0-85-220.png/180x180bb.png",
+          "rating": 4.7,
+          "ratingCount": 10500,
+          "price": "0.00",
+          "rank": 235,
+          "category": "6012"
+        },
+        {
+          "appId": 1375330146,
+          "name": "Super Slime Simulator",
+          "publisher": "Dramaton LTD",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5c/e4/74/5ce474e7-5d68-0626-8261-ba4f207c18b4/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/180x180bb.png",
+          "rating": 4.7,
+          "ratingCount": 417000,
+          "price": "0.00",
+          "rank": 246,
+          "category": "6012"
+        },
+        {
+          "appId": 1532791252,
+          "name": "CHANI: Your Astrology Guide",
+          "publisher": "Chani Nicholas Incorporated",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c6/50/15/c6501548-8c3c-5772-9f33-687a14f1e839/AppIcon-0-0-1x_U007epad-0-1-85-220.png/180x180bb.png",
+          "rating": 4.9,
+          "ratingCount": 58900,
+          "price": "0.00",
+          "rank": 247,
+          "category": "6012"
+        },
+        {
+          "appId": 6479642952,
+          "name": "Essembl: Outfit Planner",
+          "publisher": "Essembl SA",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/bb/a9/68/bba968bf-fbe2-be06-0655-17cd038d5f0e/AppIcon-0-0-1x_U007epad-0-1-85-220.png/180x180bb.png",
+          "rating": 4.5,
+          "ratingCount": 4434,
+          "price": "0.00",
+          "rank": 248,
+          "category": "6012"
+        },
+        {
+          "appId": 1024722275,
+          "name": "Aladdin Connect",
+          "publisher": "Overhead Door Corporation",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e0/4b/14/e04b1432-3ccf-ed18-2d72-b15c2db47198/AppIcon-0-0-1x_U007emarketing-0-8-0-sRGB-85-220.png/180x180bb.png",
+          "rating": 4.8,
+          "ratingCount": 110000,
+          "price": "0.00",
+          "rank": 249,
+          "category": "6012"
+        },
+        {
+          "appId": 6754165797,
+          "name": "ero - earn rewards online",
+          "publisher": "EarnOS",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3a/09/a3/3a09a3e5-bc2b-65e1-6a0d-c6c23174dcba/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/180x180bb.png",
+          "rating": 4.6,
+          "ratingCount": 235,
+          "price": "0.00",
+          "rank": 250,
+          "category": "6012"
+        }
+      ]
+    }
+  }
+}
