@@ -1,0 +1,363 @@
+{
+  "date": "2026-09-24",
+  "changes": {
+    "6002": {
+      "added": [
+        {
+          "appId": 6747655578,
+          "name": "O***Spider lite",
+          "publisher": "ARCNICE PTE. LTD.",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d6/eb/89/d6eb8949-533a-e058-7f4f-8d04e8e8d0be/AppIcon-0-0-1x_U007emarketing-0-0-0-11-0-0-85-220.png/180x180bb.png",
+          "rating": 3.6,
+          "ratingCount": 8,
+          "price": "0.00",
+          "rank": 170,
+          "category": "6002"
+        },
+        {
+          "appId": 6502760201,
+          "name": "PDF Converter ‧",
+          "publisher": "CodeEx Technology",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/39/9b/dc/399bdc0d-dc0b-d940-f273-e0f5caf7eeab/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.jpeg/180x180bb.png",
+          "rating": 4.2,
+          "ratingCount": 164,
+          "price": "0.00",
+          "rank": 182,
+          "category": "6002"
+        },
+        {
+          "appId": 6739428735,
+          "name": "PheedLoop Go",
+          "publisher": "PheedLoop Inc.",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/41/70/e6/4170e6dc-9e79-83fc-f92f-7edb1618218d/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/180x180bb.png",
+          "rating": 0,
+          "ratingCount": 0,
+          "price": "0.00",
+          "rank": 202,
+          "category": "6002"
+        },
+        {
+          "appId": 6443674175,
+          "name": "Octohide ***: Private & Secure",
+          "publisher": "Digiteka, UAB",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/33/09/6e/33096ea2-9159-2666-9577-8aadf0e57f88/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/180x180bb.png",
+          "rating": 3.6,
+          "ratingCount": 314,
+          "price": "0.00",
+          "rank": 212,
+          "category": "6002"
+        },
+        {
+          "appId": 6446624307,
+          "name": "Mysterium ***: Fast & Secure",
+          "publisher": "UAB MN Technologijos",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/38/fe/5f/38fe5f13-ad43-7c5f-5851-3cd04b45fc5f/AppIcon-prod-0-0-1x_U007emarketing-0-11-0-85-220.png/180x180bb.png",
+          "rating": 4.7,
+          "ratingCount": 5050,
+          "price": "0.00",
+          "rank": 214,
+          "category": "6002"
+        },
+        {
+          "appId": 6755528973,
+          "name": "CardSale - We buy gift cards",
+          "publisher": "Ansheer, Inc.",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/98/3a/d2/983ad2c7-5e7e-3003-afee-500a5f37ce28/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/180x180bb.png",
+          "rating": 4.5,
+          "ratingCount": 1452,
+          "price": "0.00",
+          "rank": 222,
+          "category": "6002"
+        },
+        {
+          "appId": 1626884549,
+          "name": "Genasys Protect",
+          "publisher": "GENASYS",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/78/30/0a/78300acd-01f4-74d0-d889-10be202b994b/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/180x180bb.png",
+          "rating": 0,
+          "ratingCount": 0,
+          "price": "0.00",
+          "rank": 225,
+          "category": "6002"
+        },
+        {
+          "appId": 6755505608,
+          "name": "Drimix – Mini Drama Hub",
+          "publisher": "HAHA TECHNOLOGY LIMITED",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e6/33/32/e6333218-8918-aa74-4c28-c253ed1d38a3/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/180x180bb.png",
+          "rating": 4.5,
+          "ratingCount": 1827,
+          "price": "0.00",
+          "rank": 226,
+          "category": "6002"
+        },
+        {
+          "appId": 6754002454,
+          "name": "Nextin",
+          "publisher": "NEXTIN INC",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/8f/b5/47/8fb547ed-01fa-adfd-c5ba-dcd9ef11d4cd/nextinIcon-0-0-1x_U007epad-0-1-sRGB-85-220.png/180x180bb.png",
+          "rating": 3.5,
+          "ratingCount": 676,
+          "price": "0.00",
+          "rank": 237,
+          "category": "6002"
+        },
+        {
+          "appId": 1453880000,
+          "name": "Verizon Protect",
+          "publisher": "Verizon Wireless",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/38/60/fb/3860fbbb-5c44-73d5-97f7-ab9ba5402ffc/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/180x180bb.png",
+          "rating": 4.7,
+          "ratingCount": 45400,
+          "price": "0.00",
+          "rank": 238,
+          "category": "6002"
+        },
+        {
+          "appId": 6760985637,
+          "name": "QR Code Barcode Ai Reader",
+          "publisher": "Quke Technology",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/74/f1/49/74f14968-4abb-265a-6abf-ecce1294531a/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/180x180bb.png",
+          "rating": 4.6,
+          "ratingCount": 783,
+          "price": "0.00",
+          "rank": 243,
+          "category": "6002"
+        },
+        {
+          "appId": 6465173251,
+          "name": "AI Phone:Call&Voice Translator",
+          "publisher": "Second Phone Number Inc",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ea/37/8c/ea378cdf-bf7d-fdaa-1486-b2204c4667d1/AppIcon-0-0-1x_U007ephone-0-1-0-0-0-85-220.png/180x180bb.png",
+          "rating": 4.7,
+          "ratingCount": 80700,
+          "price": "0.00",
+          "rank": 246,
+          "category": "6002"
+        },
+        {
+          "appId": 6762351298,
+          "name": "AI Smart Cleaner: Clean it up",
+          "publisher": "文坚 谢",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/64/e4/17/64e417d6-5ad4-c004-0b9c-16263bfc54bf/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/180x180bb.png",
+          "rating": 4.3,
+          "ratingCount": 221,
+          "price": "0.00",
+          "rank": 247,
+          "category": "6002"
+        },
+        {
+          "appId": 6754776113,
+          "name": "Location Tracker: Find My Hub",
+          "publisher": "Hoang Vixtor",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0e/8f/8d/0e8f8d0f-c83b-c01a-83e7-f54974c093fb/AppIcon-0-0-1x_U007ephone-0-1-0-sRGB-85-220.png/180x180bb.png",
+          "rating": 4.4,
+          "ratingCount": 1553,
+          "price": "0.00",
+          "rank": 248,
+          "category": "6002"
+        },
+        {
+          "appId": 6751323772,
+          "name": "Smart Cleaner : Cleanup Now",
+          "publisher": "SCAN MASTER",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/99/71/38/9971383a-3eb3-41e7-11dc-89a0eadbf7b0/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.jpeg/180x180bb.png",
+          "rating": 4.1,
+          "ratingCount": 67,
+          "price": "0.00",
+          "rank": 249,
+          "category": "6002"
+        },
+        {
+          "appId": 6463403383,
+          "name": "Mix *** - Fast & Unlimited",
+          "publisher": "Consiliora Nexus Consulting LTD",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/05/16/1c/05161ca3-eaea-29f6-f243-4b27aa9c4531/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/180x180bb.png",
+          "rating": 4.2,
+          "ratingCount": 1199,
+          "price": "0.00",
+          "rank": 250,
+          "category": "6002"
+        }
+      ],
+      "removed": [
+        {
+          "appId": 6795234035,
+          "name": "ZuckOff",
+          "publisher": "Pawel Szydlowski",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7d/58/31/7d583162-0fd2-d7db-a37e-4e93f07f9f26/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/180x180bb.png",
+          "rating": 4.1,
+          "ratingCount": 13,
+          "price": "0.00",
+          "rank": 195,
+          "category": "6002"
+        },
+        {
+          "appId": 6754126953,
+          "name": "ClapTrack : Clap to Find Phone",
+          "publisher": "80ugame limited",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/df/23/e6/df23e673-a1b5-53f4-6239-154b59fed402/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/180x180bb.png",
+          "rating": 4.5,
+          "ratingCount": 1403,
+          "price": "0.00",
+          "rank": 205,
+          "category": "6002"
+        },
+        {
+          "appId": 1468092377,
+          "name": "Hours Tracker: Time Calculator",
+          "publisher": "Appostrophe AB",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/73/64/3d/73643d7a-9dea-18e2-d98c-319c2edcb973/AppIcon-1-0-0-1x_U007emarketing-0-7-0-85-220.png/180x180bb.png",
+          "rating": 4.7,
+          "ratingCount": 82400,
+          "price": "0.00",
+          "rank": 217,
+          "category": "6002"
+        },
+        {
+          "appId": 6761052285,
+          "name": "Keenscan: QR & Barcode Reader",
+          "publisher": "WONDERFUL IDEAS TECHNOLOGY LIMITED",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5a/ba/13/5aba131c-ceb6-7128-0d8a-8ca35e4df522/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/180x180bb.png",
+          "rating": 4.4,
+          "ratingCount": 712,
+          "price": "0.00",
+          "rank": 221,
+          "category": "6002"
+        },
+        {
+          "appId": 1455009028,
+          "name": "Remote for Samsung",
+          "publisher": "Oz Shabbatth",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/34/0e/3d/340e3dfd-fe95-dc95-6c60-4a61e01ede8c/AppIcon-0-0-1x_U007emarketing-0-8-0-sRGB-85-220.png/180x180bb.png",
+          "rating": 4.6,
+          "ratingCount": 58000,
+          "price": "0.00",
+          "rank": 222,
+          "category": "6002"
+        },
+        {
+          "appId": 1226650677,
+          "name": "QR Code Reader，Barcode Scanner",
+          "publisher": "Air Apps Systems",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/37/ff/c2/37ffc297-c67b-bd4d-5c29-b395092b86c7/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/180x180bb.png",
+          "rating": 4.7,
+          "ratingCount": 72200,
+          "price": "0.00",
+          "rank": 223,
+          "category": "6002"
+        },
+        {
+          "appId": 1670649189,
+          "name": "TV Remote - Universal",
+          "publisher": "Zap Software Studio BV",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a5/14/be/a514beb4-cf8f-53e0-47e0-3c6ba80da3ff/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/180x180bb.png",
+          "rating": 4.6,
+          "ratingCount": 58300,
+          "price": "0.00",
+          "rank": 225,
+          "category": "6002"
+        },
+        {
+          "appId": 6740205332,
+          "name": "Universal TV Remote Control .",
+          "publisher": "Apps Venture Inc.",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c1/4c/15/c14c1552-39c6-25bc-e008-164638440879/AppIcon-104-0-0-1x_U007epad-0-1-85-220.png/180x180bb.png",
+          "rating": 4.8,
+          "ratingCount": 9868,
+          "price": "0.00",
+          "rank": 227,
+          "category": "6002"
+        },
+        {
+          "appId": 1381226716,
+          "name": "Secure ***: Private & Fast",
+          "publisher": "DUY KY TRADING PRODUCTION ONE MEMBER COMPANY LIMITED",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/35/31/dc/3531dc67-c27c-69e4-1b7c-b48ae11c5341/AppIcon-0-0-1x_U007epad-0-1-0-85-220.jpeg/180x180bb.png",
+          "rating": 4.3,
+          "ratingCount": 110,
+          "price": "0.00",
+          "rank": 233,
+          "category": "6002"
+        },
+        {
+          "appId": 1460013401,
+          "name": "US Mobile",
+          "publisher": "US Mobile Inc.",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c3/fb/24/c3fb24b4-62aa-7d4c-e86c-afc58b010786/AppIcon-0-0-1x_U007epad-0-11-0-85-220.png/180x180bb.png",
+          "rating": 4,
+          "ratingCount": 1788,
+          "price": "0.00",
+          "rank": 234,
+          "category": "6002"
+        },
+        {
+          "appId": 6502992988,
+          "name": "ONN TV Remote",
+          "publisher": "Ihsan Ullah",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/bf/dd/87/bfdd87b3-5776-8e5c-2242-017781aab084/AppIcon-0-1x_U007emarketing-0-8-0-85-220-0.png/180x180bb.png",
+          "rating": 3.5,
+          "ratingCount": 1930,
+          "price": "0.00",
+          "rank": 236,
+          "category": "6002"
+        },
+        {
+          "appId": 1016562846,
+          "name": "Rokie - Remote for Roku Player",
+          "publisher": "KRAFTWERK 9 LTD",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f7/7a/ba/f77aba9d-f854-6e18-48d8-3dc1f17ad280/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/180x180bb.png",
+          "rating": 4.5,
+          "ratingCount": 710000,
+          "price": "0.00",
+          "rank": 242,
+          "category": "6002"
+        },
+        {
+          "appId": 6761163367,
+          "name": "StreamLink-Seamless Continue",
+          "publisher": "ZA-STROY, TOO - 46L32B2XRL",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/68/9a/0f/689a0fda-86a0-24fc-de7d-f34a2876697c/AppIcon-0-0-1x_U007emarketing-0-11-0-P3-85-220.png/180x180bb.png",
+          "rating": 0,
+          "ratingCount": 0,
+          "price": "0.00",
+          "rank": 244,
+          "category": "6002"
+        },
+        {
+          "appId": 1327105431,
+          "name": "Malwarebytes - Mobile Security",
+          "publisher": "Malwarebytes",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/da/03/01/da030162-a754-bded-7615-82f66a56fb7b/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/180x180bb.png",
+          "rating": 4.5,
+          "ratingCount": 110000,
+          "price": "0.00",
+          "rank": 245,
+          "category": "6002"
+        },
+        {
+          "appId": 6748551704,
+          "name": "Screen Mirroring + Cast To TV",
+          "publisher": "CoreBit Solutions",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/37/56/ad/3756adfc-e17f-be60-3617-4d85b5950900/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/180x180bb.png",
+          "rating": 4.6,
+          "ratingCount": 3675,
+          "price": "0.00",
+          "rank": 246,
+          "category": "6002"
+        },
+        {
+          "appId": 6444176737,
+          "name": "Cast for Chromecast",
+          "publisher": "Creative Zone",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/88/81/6b/88816b47-7c3a-9ea8-e528-e9ef29fa1775/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/180x180bb.png",
+          "rating": 4.1,
+          "ratingCount": 8189,
+          "price": "0.00",
+          "rank": 249,
+          "category": "6002"
+        }
+      ]
+    }
+  }
+}
