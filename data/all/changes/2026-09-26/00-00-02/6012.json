@@ -1,0 +1,209 @@
+{
+  "date": "2026-09-26",
+  "changes": {
+    "6012": {
+      "added": [
+        {
+          "appId": 6497652326,
+          "name": "Mitsubishi Motors",
+          "publisher": "Mitsubishi Motors Corporation",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d6/a9/85/d6a985be-66f3-aa16-e24b-a1566b2ae2f1/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/180x180bb.png",
+          "rating": 0,
+          "ratingCount": 0,
+          "price": "0.00",
+          "rank": 197,
+          "category": "6012"
+        },
+        {
+          "appId": 1018443930,
+          "name": "Estate Sales - EstateSales.NET",
+          "publisher": "EstateSales.NET",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/84/bc/27/84bc273e-bda8-e8f3-a04a-ad8dd9bc9caa/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-85-220.png/100x100bb.jpg",
+          "rating": 4.9,
+          "ratingCount": 12400,
+          "price": "0.00",
+          "rank": 213,
+          "category": "6012"
+        },
+        {
+          "appId": 6761958634,
+          "name": "Contracted",
+          "publisher": "Contracted AI",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/07/7b/cf/077bcfe1-4430-920b-9696-115101a460b6/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/180x180bb.png",
+          "rating": 4.8,
+          "ratingCount": 295,
+          "price": "0.00",
+          "rank": 219,
+          "category": "6012"
+        },
+        {
+          "appId": 1482867892,
+          "name": "STRATIS 2.0",
+          "publisher": "StratIS EMS, LLC",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/31/1f/44/311f44bd-b7ae-7613-fc2c-a4e5a58f2c5d/AppIcon-1x_U007emarketing-0-11-0-85-220-0.png/180x180bb.png",
+          "rating": 4,
+          "ratingCount": 8670,
+          "price": "0.00",
+          "rank": 231,
+          "category": "6012"
+        },
+        {
+          "appId": 1403308360,
+          "name": "Sport Clips Haircuts Check-In",
+          "publisher": "Sport Clips",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4b/94/d2/4b94d2d0-4419-f694-3cd7-4125f94cc3fc/AppIcon-1x_U007ephone-0-1-85-220-0.png/180x180bb.png",
+          "rating": 4.8,
+          "ratingCount": 72100,
+          "price": "0.00",
+          "rank": 241,
+          "category": "6012"
+        },
+        {
+          "appId": 1367606835,
+          "name": "Ting",
+          "publisher": "Whisker Labs, Inc.",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ee/c0/6f/eec06f98-2e31-2e39-d059-638bc414e676/AppIcon-0-0-1x_U007epad-0-1-85-220.png/180x180bb.png",
+          "rating": 4.8,
+          "ratingCount": 109000,
+          "price": "0.00",
+          "rank": 245,
+          "category": "6012"
+        },
+        {
+          "appId": 1392492235,
+          "name": "UniFi Protect",
+          "publisher": "Ubiquiti Inc.",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/10/25/b4/1025b48c-a2cf-29af-0eeb-bffd00cd51b1/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-0-85-220.png/180x180bb.png",
+          "rating": 4.8,
+          "ratingCount": 74700,
+          "price": "0.00",
+          "rank": 246,
+          "category": "6012"
+        },
+        {
+          "appId": 1473555286,
+          "name": "BIGCASH: Make Money",
+          "publisher": "Nayan Jain",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2e/98/84/2e9884cb-6601-ed8d-347f-a749dc48b1a5/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/180x180bb.png",
+          "rating": 4.6,
+          "ratingCount": 1964,
+          "price": "0.00",
+          "rank": 247,
+          "category": "6012"
+        },
+        {
+          "appId": 6810858942,
+          "name": "Daily Motivation & Positivity",
+          "publisher": "SocialLoop LLC",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/42/dd/4d/42dd4dd3-5b06-19ca-724b-16e0f98dc8a9/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/180x180bb.png",
+          "rating": 0,
+          "ratingCount": 0,
+          "price": "0.00",
+          "rank": 249,
+          "category": "6012"
+        }
+      ],
+      "removed": [
+        {
+          "appId": 6766737525,
+          "name": "Blood Pressure Health Scan",
+          "publisher": "JOYLINK NETWORK TECH LIMITED",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/eb/5c/24/eb5c24c5-a7f3-ca0b-8a29-926a8bb19ef3/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/180x180bb.png",
+          "rating": 4.1,
+          "ratingCount": 143,
+          "price": "0.00",
+          "rank": 177,
+          "category": "6012"
+        },
+        {
+          "appId": 1600195477,
+          "name": "yope: friends-only social game",
+          "publisher": "Salo App, Inc.",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d1/11/07/d11107a1-a8c5-2449-628d-74ab8fa6c2a4/AppIcon-yope-0-0-1x_U007emarketing-0-11-0-85-220.png/180x180bb.png",
+          "rating": 4.7,
+          "ratingCount": 10500,
+          "price": "0.00",
+          "rank": 195,
+          "category": "6012"
+        },
+        {
+          "appId": 534289239,
+          "name": "Explore.org: Live Animal Cams",
+          "publisher": "explore Annenberg LLC",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5f/b0/b7/5fb0b7d3-31d4-aca7-0e57-c422d554b83a/AppIcon-0-0-1x_U007epad-0-1-85-220.png/180x180bb.png",
+          "rating": 4.2,
+          "ratingCount": 448,
+          "price": "0.00",
+          "rank": 205,
+          "category": "6012"
+        },
+        {
+          "appId": 6449750416,
+          "name": "Plug AI: Texting Assistant",
+          "publisher": "Vert Media Partners LLC",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/85/df/73/85df739e-b361-eefe-82ad-e05f524d223c/AppIcon_old-0-0-1x_U007ephone-0-85-220.png/180x180bb.png",
+          "rating": 4.6,
+          "ratingCount": 15600,
+          "price": "0.00",
+          "rank": 215,
+          "category": "6012"
+        },
+        {
+          "appId": 6743355635,
+          "name": "Candle: Couples & Relationship",
+          "publisher": "Encore AI Labs, Inc.",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e6/4b/d5/e64bd58b-c876-e1df-de05-fe1a8e4fc286/AppIcon-0-0-1x_U007epad-0-1-85-220.png/180x180bb.png",
+          "rating": 4.8,
+          "ratingCount": 11200.000000000002,
+          "price": "0.00",
+          "rank": 233,
+          "category": "6012"
+        },
+        {
+          "appId": 6755420531,
+          "name": "QR Scanner App: Code Reader",
+          "publisher": "Yuenhe Innovations Co., Ltd.",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e8/3c/3e/e83c3e97-29ce-fd1c-df7d-4c7b8a94c087/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/180x180bb.png",
+          "rating": 4.1,
+          "ratingCount": 102,
+          "price": "0.00",
+          "rank": 245,
+          "category": "6012"
+        },
+        {
+          "appId": 6499445456,
+          "name": "AHS: American Home Shield",
+          "publisher": "Frontdoor Incorporated",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/81/b9/2b/81b92b67-4bd1-808b-8439-8a4b2eecab0e/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/180x180bb.png",
+          "rating": 4.9,
+          "ratingCount": 59300,
+          "price": "0.00",
+          "rank": 247,
+          "category": "6012"
+        },
+        {
+          "appId": 6479642952,
+          "name": "Essembl: Outfit Planner",
+          "publisher": "Essembl SA",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/bb/a9/68/bba968bf-fbe2-be06-0655-17cd038d5f0e/AppIcon-0-0-1x_U007epad-0-1-85-220.png/180x180bb.png",
+          "rating": 4.5,
+          "ratingCount": 4434,
+          "price": "0.00",
+          "rank": 249,
+          "category": "6012"
+        },
+        {
+          "appId": 395563123,
+          "name": "Dscout",
+          "publisher": "dscout",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/24/3d/c6/243dc616-7d6f-2abf-1153-ed0a06675917/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/180x180bb.png",
+          "rating": 4.4,
+          "ratingCount": 3634,
+          "price": "0.00",
+          "rank": 250,
+          "category": "6012"
+        }
+      ]
+    }
+  }
+}
