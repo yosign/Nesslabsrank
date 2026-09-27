@@ -1,0 +1,341 @@
+{
+  "date": "2026-09-27",
+  "changes": {
+    "6012": {
+      "added": [
+        {
+          "appId": 6760181919,
+          "name": "Sports Card Scanner: Spoly",
+          "publisher": "Scaling Engine Limited",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0b/69/d3/0b69d3b5-c7f4-fd6a-d17f-cb2dd0ee542d/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/180x180bb.png",
+          "rating": 4.6,
+          "ratingCount": 4592,
+          "price": "0.00",
+          "rank": 166,
+          "category": "6012"
+        },
+        {
+          "appId": 1375330146,
+          "name": "Super Slime Simulator",
+          "publisher": "Dramaton LTD",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5c/e4/74/5ce474e7-5d68-0626-8261-ba4f207c18b4/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/180x180bb.png",
+          "rating": 4.7,
+          "ratingCount": 418000,
+          "price": "0.00",
+          "rank": 200,
+          "category": "6012"
+        },
+        {
+          "appId": 1664083251,
+          "name": "LED Light Controller Universal",
+          "publisher": "Codenhagen.IO ApS",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/50/ad/d7/50add77c-488a-6676-c02c-127497323773/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/180x180bb.png",
+          "rating": 4.6,
+          "ratingCount": 9963,
+          "price": "0.00",
+          "rank": 211,
+          "category": "6012"
+        },
+        {
+          "appId": 1475805212,
+          "name": "Whisker",
+          "publisher": "Automated Pet Care Products Inc. dba AutoPets",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d6/49/1c/d6491c26-3984-46ef-1aa7-fd5d3eabe4b8/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/180x180bb.png",
+          "rating": 4.8,
+          "ratingCount": 146000,
+          "price": "0.00",
+          "rank": 217,
+          "category": "6012"
+        },
+        {
+          "appId": 1190074407,
+          "name": "Nintendo Switch Parental Cont…",
+          "publisher": "Nintendo Co., Ltd.",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0d/5a/00/0d5a008a-eac7-0a7b-af74-6b4c65721ad3/AppIcon-0-0-1x_U007epad-0-1-85-220.png/180x180bb.png",
+          "rating": 4.7,
+          "ratingCount": 165000,
+          "price": "0.00",
+          "rank": 226,
+          "category": "6012"
+        },
+        {
+          "appId": 854624810,
+          "name": "HomeGoods",
+          "publisher": "HomeGoods",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/39/e4/80/39e480cf-ddef-76d5-b420-104a62b3003e/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/180x180bb.png",
+          "rating": 2.6,
+          "ratingCount": 2122,
+          "price": "0.00",
+          "rank": 229,
+          "category": "6012"
+        },
+        {
+          "appId": 1449109039,
+          "name": "LED LAMP",
+          "publisher": "Shenzhen Zhongji Technology Co., Ltd.",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4e/49/a3/4e49a3a5-446b-58c7-047a-cdf37830595d/AppIcon-1x_U007emarketing-0-8-0-sRGB-85-220-0.png/180x180bb.png",
+          "rating": 1.9,
+          "ratingCount": 2010,
+          "price": "0.00",
+          "rank": 230,
+          "category": "6012"
+        },
+        {
+          "appId": 1222730617,
+          "name": "Parking Kitty",
+          "publisher": "City of Portland",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/57/d6/02/57d602dd-1866-679a-2f44-9f06eafa084f/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/180x180bb.png",
+          "rating": 4.9,
+          "ratingCount": 9300,
+          "price": "0.00",
+          "rank": 232,
+          "category": "6012"
+        },
+        {
+          "appId": 1670269554,
+          "name": "Led Light Controller Home App",
+          "publisher": "Maple Labs Co., Ltd",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a7/f5/b1/a7f5b1fa-7a20-35df-e681-e3a482dc6dbd/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/180x180bb.png",
+          "rating": 4.1,
+          "ratingCount": 11299.999999999998,
+          "price": "0.00",
+          "rank": 233,
+          "category": "6012"
+        },
+        {
+          "appId": 6747743408,
+          "name": "Color Widgets - Aesthetic Icon",
+          "publisher": "DUY KY TRADING PRODUCTION ONE MEMBER COMPANY LIMITED",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/25/bb/ea/25bbea00-2ecd-05c5-01b7-b8a41805d329/AppIcon-0-0-1x_U007ephone-0-0-0-1-0-0-85-220.png/180x180bb.png",
+          "rating": 3.2,
+          "ratingCount": 16,
+          "price": "0.00",
+          "rank": 236,
+          "category": "6012"
+        },
+        {
+          "appId": 398605251,
+          "name": "myCadillac",
+          "publisher": "General Motors Company",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a0/03/da/a003da5d-dac2-bfea-46cf-0eb4a49073f3/AppIcon-cadillac-0-0-1x_U007ephone-0-1-0-85-220.png/180x180bb.png",
+          "rating": 4.8,
+          "ratingCount": 162000,
+          "price": "0.00",
+          "rank": 238,
+          "category": "6012"
+        },
+        {
+          "appId": 1587134363,
+          "name": "DREO",
+          "publisher": "HESUNG INNOVATION LIMITED",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8b/9a/00/8b9a0005-aa31-c388-a6b6-8795138d4354/AppIcon-0-0-1x_U007epad-0-1-sRGB-85-220.png/180x180bb.png",
+          "rating": 4.9,
+          "ratingCount": 44300,
+          "price": "0.00",
+          "rank": 239,
+          "category": "6012"
+        },
+        {
+          "appId": 6737291521,
+          "name": "PlayStation Family",
+          "publisher": "PlayStation Mobile Inc.",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/07/5b/cd/075bcdf2-12ed-c0a9-7c2e-3fab80690970/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/180x180bb.png",
+          "rating": 3.2,
+          "ratingCount": 54,
+          "price": "0.00",
+          "rank": 240,
+          "category": "6012"
+        },
+        {
+          "appId": 1076159017,
+          "name": "Home Planner AI：Room Design 3D",
+          "publisher": "Room Planner Ltd",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ea/b8/3a/eab83a43-4d08-8224-f5ed-add0ece1d79c/AppIcon-0-0-1x_U007epad-0-8-0-85-220.png/180x180bb.png",
+          "rating": 4.6,
+          "ratingCount": 46100,
+          "price": "0.00",
+          "rank": 243,
+          "category": "6012"
+        },
+        {
+          "appId": 557228073,
+          "name": "Petfinder - Adopt a Pet",
+          "publisher": "Nestlé",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4a/ae/3f/4aae3fda-3cda-bd20-37f6-f6a7465afead/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/180x180bb.png",
+          "rating": 4.8,
+          "ratingCount": 59700,
+          "price": "0.00",
+          "rank": 244,
+          "category": "6012"
+        }
+      ],
+      "removed": [
+        {
+          "appId": 6806165621,
+          "name": "BuzzMe - New to a community",
+          "publisher": "ChaseLight Technology Limited",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/82/d9/4b/82d94bb4-a9df-7911-66fc-eb20f298bba5/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/180x180bb.png",
+          "rating": 4.1,
+          "ratingCount": 1316,
+          "price": "0.00",
+          "rank": 26,
+          "category": "6012"
+        },
+        {
+          "appId": 6478997398,
+          "name": "Blood Pressure Monitor-BP Log",
+          "publisher": "MA CHENG BUSINESS LIMITED",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/bf/17/38/bf17380b-86c4-eb5a-2950-a9353bfdca3f/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/180x180bb.png",
+          "rating": 4.3,
+          "ratingCount": 11800,
+          "price": "0.00",
+          "rank": 178,
+          "category": "6012"
+        },
+        {
+          "appId": 1138970986,
+          "name": "MyChoice Benefits",
+          "publisher": "Businessolver",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9c/b7/1c/9cb71c47-8112-7d5e-dcf8-6b9f3165b1ec/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/180x180bb.png",
+          "rating": 4.8,
+          "ratingCount": 23500,
+          "price": "0.00",
+          "rank": 180,
+          "category": "6012"
+        },
+        {
+          "appId": 443052658,
+          "name": "Surveys On The Go",
+          "publisher": "MFour Mobile Research, Inc",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/42/a6/d9/42a6d9d5-fa76-76e3-cf4b-1699be6d12bf/AppIcon-0-0-1x_U007emarketing-0-10-0-sRGB-85-220.png/180x180bb.png",
+          "rating": 4.5,
+          "ratingCount": 93800.00000000001,
+          "price": "0.00",
+          "rank": 188,
+          "category": "6012"
+        },
+        {
+          "appId": 6497652326,
+          "name": "Mitsubishi Motors",
+          "publisher": "Mitsubishi Motors Corporation",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d6/a9/85/d6a985be-66f3-aa16-e24b-a1566b2ae2f1/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/180x180bb.png",
+          "rating": 0,
+          "ratingCount": 0,
+          "price": "0.00",
+          "rank": 197,
+          "category": "6012"
+        },
+        {
+          "appId": 1376880637,
+          "name": "Surveymonkey Rewards",
+          "publisher": "SurveyMonkey",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/45/38/2d/45382da5-e45a-4757-40cf-ee4650af28c3/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/180x180bb.png",
+          "rating": 4.7,
+          "ratingCount": 24600,
+          "price": "0.00",
+          "rank": 207,
+          "category": "6012"
+        },
+        {
+          "appId": 1492307238,
+          "name": "BenefitHub",
+          "publisher": "BenefitHub",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/90/28/51/9028517c-9c59-610f-ab93-2aad30369a05/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/180x180bb.png",
+          "rating": 4.7,
+          "ratingCount": 2433,
+          "price": "0.00",
+          "rank": 228,
+          "category": "6012"
+        },
+        {
+          "appId": 1623569698,
+          "name": "JoinBrands: UGC Creator Jobs",
+          "publisher": "Join Brands",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/65/80/c4/6580c457-70ce-ac2e-eeea-ddb71a85b752/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/180x180bb.png",
+          "rating": 4.6,
+          "ratingCount": 879,
+          "price": "0.00",
+          "rank": 230,
+          "category": "6012"
+        },
+        {
+          "appId": 6746327655,
+          "name": "Just Well - Wellness Manager",
+          "publisher": "Veristen Labs",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6b/d0/bb/6bd0bb03-e95a-a2ac-b79c-7cbad5be70ce/AppIcon-0-0-1x_U007epad-0-1-0-P3-0-85-220.png/180x180bb.png",
+          "rating": 4.4,
+          "ratingCount": 681,
+          "price": "0.00",
+          "rank": 233,
+          "category": "6012"
+        },
+        {
+          "appId": 6751680266,
+          "name": "UCHAD: See Your Potential",
+          "publisher": "Promi LLC",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f2/e9/e9/f2e9e9ca-65ca-c278-07cb-65d2db58ef5a/AppIcon-0-0-1x_U007epad-0-1-85-220.png/180x180bb.png",
+          "rating": 4.7,
+          "ratingCount": 13200,
+          "price": "0.00",
+          "rank": 235,
+          "category": "6012"
+        },
+        {
+          "appId": 1433915149,
+          "name": "Home by ShowingTime",
+          "publisher": "ShowingTime.com, LLC",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f5/45/07/f5450752-0b16-6d41-24be-9e28f6e069bf/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.jpg",
+          "rating": 4.9,
+          "ratingCount": 16100.000000000002,
+          "price": "0.00",
+          "rank": 239,
+          "category": "6012"
+        },
+        {
+          "appId": 6762414154,
+          "name": "Military Benefits App",
+          "publisher": "Military Benefits App LLC",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f2/dd/97/f2dd97a2-8c36-d967-7751-1d0cc2cef459/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/180x180bb.png",
+          "rating": 4.7,
+          "ratingCount": 1869,
+          "price": "0.00",
+          "rank": 242,
+          "category": "6012"
+        },
+        {
+          "appId": 1392492235,
+          "name": "UniFi Protect",
+          "publisher": "Ubiquiti Inc.",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/10/25/b4/1025b48c-a2cf-29af-0eeb-bffd00cd51b1/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-0-85-220.png/180x180bb.png",
+          "rating": 4.8,
+          "ratingCount": 74700,
+          "price": "0.00",
+          "rank": 246,
+          "category": "6012"
+        },
+        {
+          "appId": 6810858942,
+          "name": "Daily Motivation & Positivity",
+          "publisher": "SocialLoop LLC",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/42/dd/4d/42dd4dd3-5b06-19ca-724b-16e0f98dc8a9/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/180x180bb.png",
+          "rating": 0,
+          "ratingCount": 0,
+          "price": "0.00",
+          "rank": 249,
+          "category": "6012"
+        },
+        {
+          "appId": 1103530261,
+          "name": "Precious - Baby Photo Art",
+          "publisher": "Curious Creators Co.",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/53/66/01/536601ff-2eaf-a4a3-7f51-0a9e15b2b95d/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/180x180bb.png",
+          "rating": 4.8,
+          "ratingCount": 138000,
+          "price": "0.00",
+          "rank": 250,
+          "category": "6012"
+        }
+      ]
+    }
+  }
+}
