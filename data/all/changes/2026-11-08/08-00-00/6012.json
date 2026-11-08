@@ -1,0 +1,319 @@
+{
+  "date": "2026-11-08",
+  "changes": {
+    "6012": {
+      "added": [
+        {
+          "appId": 6760787262,
+          "name": "Aisha: AI Chat, Culture First",
+          "publisher": "ChromaticsAI LLC",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/47/1c/6f/471c6fdf-74d7-0f4c-6acc-aebed364ec4a/aishalogo-0-0-1x_U007epad-0-1-85-220.png/180x180bb.png",
+          "rating": 4.5,
+          "ratingCount": 150,
+          "price": "0.00",
+          "rank": 126,
+          "category": "6012"
+        },
+        {
+          "appId": 1577975475,
+          "name": "Cosmos: Search & Discover",
+          "publisher": "Cosmos Entity",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3f/06/08/3f0608e6-b4c2-4fbe-8988-5f2dca1c4dc2/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/180x180bb.png",
+          "rating": 4.7,
+          "ratingCount": 5683,
+          "price": "0.00",
+          "rank": 192,
+          "category": "6012"
+        },
+        {
+          "appId": 1543351744,
+          "name": "Keepsmile",
+          "publisher": "深圳市优智达科技有限公司",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e3/16/37/e316374f-f7cc-b243-3c8a-b724ac096f36/AppIcon-0-0-1x_U007epad-0-11-0-0-85-220.png/180x180bb.png",
+          "rating": 2.5,
+          "ratingCount": 4869,
+          "price": "0.00",
+          "rank": 223,
+          "category": "6012"
+        },
+        {
+          "appId": 1519461680,
+          "name": "Whering: Your Digital Closet",
+          "publisher": "Whering Ltd",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c2/8c/68/c28c68bb-ad70-a6ff-df5a-da624cf00685/AppIcon-production-0-0-1x_U007emarketing-0-11-0-85-220.png/180x180bb.png",
+          "rating": 4.7,
+          "ratingCount": 12000,
+          "price": "0.00",
+          "rank": 230,
+          "category": "6012"
+        },
+        {
+          "appId": 1573869498,
+          "name": "Shuffles by Pinterest",
+          "publisher": "Pinterest, Inc.",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/62/2e/46/622e4638-54ba-5bb4-3bbb-e86c9d5c4540/AppIcon-0-0-1x_U007emarketing-0-11-0-0-85-220.png/180x180bb.png",
+          "rating": 4.8,
+          "ratingCount": 43800,
+          "price": "0.00",
+          "rank": 238,
+          "category": "6012"
+        },
+        {
+          "appId": 1329458504,
+          "name": "ECOVACS HOME",
+          "publisher": "Ecovacs",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5b/f5/61/5bf56185-046e-7233-41df-753bf10e5eeb/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/180x180bb.png",
+          "rating": 4.6,
+          "ratingCount": 58600,
+          "price": "0.00",
+          "rank": 239,
+          "category": "6012"
+        },
+        {
+          "appId": 6738174180,
+          "name": "Dressly: AI Outfit Maker",
+          "publisher": "TIKVEX LIMITED",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c7/41/be/c741be85-c69e-6985-d706-6ca7284ee1c5/AppIcon-0-0-1x_U007epad-0-1-85-220.png/180x180bb.png",
+          "rating": 4.4,
+          "ratingCount": 33100,
+          "price": "0.00",
+          "rank": 240,
+          "category": "6012"
+        },
+        {
+          "appId": 1222730617,
+          "name": "Parking Kitty",
+          "publisher": "City of Portland",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/57/d6/02/57d602dd-1866-679a-2f44-9f06eafa084f/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/180x180bb.png",
+          "rating": 4.9,
+          "ratingCount": 9347,
+          "price": "0.00",
+          "rank": 241,
+          "category": "6012"
+        },
+        {
+          "appId": 1455617149,
+          "name": "FitPro",
+          "publisher": "深圳市威尔健康管理科技有限公司",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/08/b3/67/08b367f3-fe93-6354-57d1-8493383728c9/AppIcon-0-0-1x_U007emarketing-0-8-0-sRGB-85-220.png/180x180bb.png",
+          "rating": 2.6,
+          "ratingCount": 4480,
+          "price": "0.00",
+          "rank": 242,
+          "category": "6012"
+        },
+        {
+          "appId": 1289812506,
+          "name": "Givi Mobile Donations",
+          "publisher": "Qgiv Inc",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/eb/be/dd/ebbedd44-93f9-d03e-f066-6ddde310d54e/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/180x180bb.png",
+          "rating": 2.8,
+          "ratingCount": 27,
+          "price": "0.00",
+          "rank": 245,
+          "category": "6012"
+        },
+        {
+          "appId": 1099568401,
+          "name": "Home Assistant",
+          "publisher": "Nabu Casa, Inc",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2d/d1/be/2dd1be9f-0cca-c656-6584-c13c5f48c5eb/AppIcon-0-0-1x_U007epad-0-0-0-1-0-85-220.png/180x180bb.png",
+          "rating": 4.7,
+          "ratingCount": 4051,
+          "price": "0.00",
+          "rank": 246,
+          "category": "6012"
+        },
+        {
+          "appId": 1024722275,
+          "name": "Aladdin Connect",
+          "publisher": "Overhead Door Corporation",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e0/4b/14/e04b1432-3ccf-ed18-2d72-b15c2db47198/AppIcon-0-0-1x_U007emarketing-0-8-0-sRGB-85-220.png/180x180bb.png",
+          "rating": 4.8,
+          "ratingCount": 114000,
+          "price": "0.00",
+          "rank": 247,
+          "category": "6012"
+        },
+        {
+          "appId": 1076159017,
+          "name": "Home Planner AI：Room Design 3D",
+          "publisher": "Room Planner Ltd",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/92/b6/70/92b67006-01da-4a01-05bc-921772f08987/AppIcon-0-0-1x_U007epad-0-8-0-85-220.png/180x180bb.png",
+          "rating": 4.6,
+          "ratingCount": 46500,
+          "price": "0.00",
+          "rank": 248,
+          "category": "6012"
+        },
+        {
+          "appId": 6446290569,
+          "name": "Watch Faces - WatchLab",
+          "publisher": "Live Wallpapers",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/89/9c/90/899c9096-a880-687c-f6da-1d1c978ae402/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/180x180bb.png",
+          "rating": 4.4,
+          "ratingCount": 18600,
+          "price": "0.00",
+          "rank": 250,
+          "category": "6012"
+        }
+      ],
+      "removed": [
+        {
+          "appId": 6803754196,
+          "name": "Berk: Ski Tracker & Community",
+          "publisher": "Berk SANDI",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/69/5c/16/695c1665-016a-cd9c-bc79-a426cdf47eb9/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/180x180bb.png",
+          "rating": 4.6,
+          "ratingCount": 58,
+          "price": "0.00",
+          "rank": 124,
+          "category": "6012"
+        },
+        {
+          "appId": 6670606352,
+          "name": "Community by SocialLadder",
+          "publisher": "RKI Apps LLC",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/84/f5/31/84f5315c-cf1c-bef6-e27b-aebbb1413eaf/AppIcon-1x_U007epad-0-1-85-220-0.png/180x180bb.png",
+          "rating": 4.2,
+          "ratingCount": 10,
+          "price": "0.00",
+          "rank": 194,
+          "category": "6012"
+        },
+        {
+          "appId": 6796448557,
+          "name": "Glow Up: reach your potential",
+          "publisher": "Tangent Apps",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7e/f4/da/7ef4dafc-8cd0-33c6-8dcd-5e94cbb052b7/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/180x180bb.png",
+          "rating": 4.5,
+          "ratingCount": 156,
+          "price": "0.00",
+          "rank": 207,
+          "category": "6012"
+        },
+        {
+          "appId": 6786220730,
+          "name": "Lento: DIY Bracelet Studio",
+          "publisher": "HELIX INNOVATIONS TECHNOLOGY LTD",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a2/a2/63/a2a2635d-cb45-8296-187c-c213b1ef96d8/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/180x180bb.png",
+          "rating": 3.9,
+          "ratingCount": 32,
+          "price": "0.00",
+          "rank": 215,
+          "category": "6012"
+        },
+        {
+          "appId": 1485452102,
+          "name": "UserTesting",
+          "publisher": "UserTesting",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2a/b7/b1/2ab7b1ba-71f4-a29b-f2a0-736cd8edc1df/George-AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/180x180bb.png",
+          "rating": 3,
+          "ratingCount": 2819,
+          "price": "0.00",
+          "rank": 218,
+          "category": "6012"
+        },
+        {
+          "appId": 1623569698,
+          "name": "JoinBrands: UGC Creator Jobs",
+          "publisher": "Join Brands",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/bc/2b/38/bc2b38ca-5d30-6606-921a-cc562fb5caf6/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/180x180bb.png",
+          "rating": 4.6,
+          "ratingCount": 891,
+          "price": "0.00",
+          "rank": 227,
+          "category": "6012"
+        },
+        {
+          "appId": 6819074674,
+          "name": "Super Lyve: Vibes With Friends",
+          "publisher": "Gerlinde Sassenberg",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/00/e5/08/00e5082d-2d1e-37b1-d5d6-66c61a77db33/AppIcon-0-0-1x_U007ephone-0-11-0-85-220.png/180x180bb.png",
+          "rating": 0,
+          "ratingCount": 0,
+          "price": "0.00",
+          "rank": 229,
+          "category": "6012"
+        },
+        {
+          "appId": 1376880637,
+          "name": "Surveymonkey Rewards",
+          "publisher": "SurveyMonkey",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a9/e5/e5/a9e5e5d9-d7bb-1744-57e8-c52f004ec5b8/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/180x180bb.png",
+          "rating": 4.7,
+          "ratingCount": 25200,
+          "price": "0.00",
+          "rank": 236,
+          "category": "6012"
+        },
+        {
+          "appId": 1042822181,
+          "name": "Meeting Guide",
+          "publisher": "Alcoholics Anonymous World Services, Inc.",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/10/d1/50/10d1509b-9e10-4bc7-99bb-d5a8a1a3070d/AppIcon-0-0-1x_U007epad-0-1-85-220.png/180x180bb.png",
+          "rating": 4.4,
+          "ratingCount": 1051,
+          "price": "0.00",
+          "rank": 238,
+          "category": "6012"
+        },
+        {
+          "appId": 1519726353,
+          "name": "Waffle: Shared Journal",
+          "publisher": "Poppy AI, Inc.",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7d/61/17/7d61178b-3098-8c83-8126-a5828acee51d/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/180x180bb.png",
+          "rating": 4.6,
+          "ratingCount": 10900,
+          "price": "0.00",
+          "rank": 242,
+          "category": "6012"
+        },
+        {
+          "appId": 6760680465,
+          "name": "Aesthetic - Decorate & Design",
+          "publisher": "Fliq Labs",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/80/35/14/803514d7-bf9d-55be-9ff8-0a0d8c6a77aa/AppIcon-0-0-1x_U007epad-0-1-85-220.png/180x180bb.png",
+          "rating": 4.7,
+          "ratingCount": 2568,
+          "price": "0.00",
+          "rank": 243,
+          "category": "6012"
+        },
+        {
+          "appId": 1482681335,
+          "name": "Wink Dating: Meet, Chat & Date",
+          "publisher": "Euphorica Inc",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3b/72/0e/3b720efc-7792-8c38-e2a0-e962479d7390/AppIcon-main-0-0-1x_U007emarketing-0-11-0-85-220.png/180x180bb.png",
+          "rating": 4.5,
+          "ratingCount": 309000,
+          "price": "0.00",
+          "rank": 246,
+          "category": "6012"
+        },
+        {
+          "appId": 1516518499,
+          "name": "myQ Community",
+          "publisher": "The Chamberlain Group, Inc.",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/84/0b/26/840b2643-0731-6470-c7bd-b64b691bcbc8/AppIcon-0-0-1x_U007epad-0-1-85-220.png/180x180bb.png",
+          "rating": 4.5,
+          "ratingCount": 40100,
+          "price": "0.00",
+          "rank": 247,
+          "category": "6012"
+        },
+        {
+          "appId": 1536584047,
+          "name": "Branded Surveys: Paid rewards",
+          "publisher": "brandedSURVEYS",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c7/3d/37/c73d3713-57b5-331d-f40f-56123590b7d2/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/180x180bb.png",
+          "rating": 4.6,
+          "ratingCount": 15400,
+          "price": "0.00",
+          "rank": 249,
+          "category": "6012"
+        }
+      ]
+    }
+  }
+}
