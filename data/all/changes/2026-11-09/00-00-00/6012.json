@@ -1,0 +1,187 @@
+{
+  "date": "2026-11-09",
+  "changes": {
+    "6012": {
+      "added": [
+        {
+          "appId": 1456133366,
+          "name": "DexterPay",
+          "publisher": "Dexter Laundry, Inc.",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e9/35/d9/e935d9d8-4225-91b3-18db-55a714f81c22/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/180x180bb.png",
+          "rating": 1.9,
+          "ratingCount": 225,
+          "price": "0.00",
+          "rank": 209,
+          "category": "6012"
+        },
+        {
+          "appId": 1587679090,
+          "name": "Led Light Controller LedRemote",
+          "publisher": "Kain Suite Pte. Ltd.",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/18/bb/fe/18bbfeb6-6571-d912-0bbb-ee63292247c2/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/180x180bb.png",
+          "rating": 3.9,
+          "ratingCount": 60500,
+          "price": "0.00",
+          "rank": 218,
+          "category": "6012"
+        },
+        {
+          "appId": 1519461680,
+          "name": "Whering: Your Digital Closet",
+          "publisher": "Whering Ltd",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c2/8c/68/c28c68bb-ad70-a6ff-df5a-da624cf00685/AppIcon-production-0-0-1x_U007emarketing-0-11-0-85-220.png/180x180bb.png",
+          "rating": 4.7,
+          "ratingCount": 12000,
+          "price": "0.00",
+          "rank": 227,
+          "category": "6012"
+        },
+        {
+          "appId": 6766795119,
+          "name": "PineReels",
+          "publisher": "TOP GENIUS TECHNOLOGY LIMITED",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/42/70/46/427046a0-bb9f-c85b-be5f-a629a04ed43c/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/180x180bb.png",
+          "rating": 2.3,
+          "ratingCount": 21,
+          "price": "0.00",
+          "rank": 232,
+          "category": "6012"
+        },
+        {
+          "appId": 1076159017,
+          "name": "Home Planner AI：Room Design 3D",
+          "publisher": "Room Planner Ltd",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/92/b6/70/92b67006-01da-4a01-05bc-921772f08987/AppIcon-0-0-1x_U007epad-0-8-0-85-220.png/180x180bb.png",
+          "rating": 4.6,
+          "ratingCount": 46500,
+          "price": "0.00",
+          "rank": 233,
+          "category": "6012"
+        },
+        {
+          "appId": 6756329076,
+          "name": "Sesame: Personal Agents",
+          "publisher": "Sesame AI",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b8/16/64/b816640f-f808-909d-567a-6dc6cb5d6bf5/AppIconStable-0-0-1x_U007ephone-0-0-0-1-0-0-85-220.png/180x180bb.png",
+          "rating": 4.9,
+          "ratingCount": 1979,
+          "price": "0.00",
+          "rank": 235,
+          "category": "6012"
+        },
+        {
+          "appId": 1099568401,
+          "name": "Home Assistant",
+          "publisher": "Nabu Casa, Inc",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2d/d1/be/2dd1be9f-0cca-c656-6584-c13c5f48c5eb/AppIcon-0-0-1x_U007epad-0-0-0-1-0-85-220.png/180x180bb.png",
+          "rating": 4.7,
+          "ratingCount": 4051,
+          "price": "0.00",
+          "rank": 244,
+          "category": "6012"
+        },
+        {
+          "appId": 1455617149,
+          "name": "FitPro",
+          "publisher": "深圳市威尔健康管理科技有限公司",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/08/b3/67/08b367f3-fe93-6354-57d1-8493383728c9/AppIcon-0-0-1x_U007emarketing-0-8-0-sRGB-85-220.png/180x180bb.png",
+          "rating": 2.6,
+          "ratingCount": 4480,
+          "price": "0.00",
+          "rank": 245,
+          "category": "6012"
+        }
+      ],
+      "removed": [
+        {
+          "appId": 1280670682,
+          "name": "SmartRent",
+          "publisher": "Smartrent.com, LLC",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/73/5e/fc/735efcc3-edc9-a728-b000-5d3b22c66d06/AppIcon-0-0-1x_U007epad-0-1-85-220.png/180x180bb.png",
+          "rating": 4.7,
+          "ratingCount": 123000,
+          "price": "0.00",
+          "rank": 163,
+          "category": "6012"
+        },
+        {
+          "appId": 6803754196,
+          "name": "Berk: Ski Tracker & Community",
+          "publisher": "Berk SANDI",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/69/5c/16/695c1665-016a-cd9c-bc79-a426cdf47eb9/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/180x180bb.png",
+          "rating": 4.6,
+          "ratingCount": 58,
+          "price": "0.00",
+          "rank": 207,
+          "category": "6012"
+        },
+        {
+          "appId": 1565972415,
+          "name": "RAM®",
+          "publisher": "FCA US LLC",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2d/93/da/2d93da30-536a-f64e-7be3-eebec1bbc2d3/AppIcon.ram.prod-0-0-1x_U007emarketing-0-6-0-85-220.png/180x180bb.png",
+          "rating": 4.8,
+          "ratingCount": 95500,
+          "price": "0.00",
+          "rank": 219,
+          "category": "6012"
+        },
+        {
+          "appId": 6786220730,
+          "name": "Lento: DIY Bracelet Studio",
+          "publisher": "HELIX INNOVATIONS TECHNOLOGY LTD",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a2/a2/63/a2a2635d-cb45-8296-187c-c213b1ef96d8/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/180x180bb.png",
+          "rating": 3.9,
+          "ratingCount": 32,
+          "price": "0.00",
+          "rank": 235,
+          "category": "6012"
+        },
+        {
+          "appId": 1042822181,
+          "name": "Meeting Guide",
+          "publisher": "Alcoholics Anonymous World Services, Inc.",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/10/d1/50/10d1509b-9e10-4bc7-99bb-d5a8a1a3070d/AppIcon-0-0-1x_U007epad-0-1-85-220.png/180x180bb.png",
+          "rating": 4.4,
+          "ratingCount": 1051,
+          "price": "0.00",
+          "rank": 238,
+          "category": "6012"
+        },
+        {
+          "appId": 1018443930,
+          "name": "Estate Sales - EstateSales.NET",
+          "publisher": "EstateSales.NET",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/84/bc/27/84bc273e-bda8-e8f3-a04a-ad8dd9bc9caa/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-85-220.png/100x100bb.jpg",
+          "rating": 4.9,
+          "ratingCount": 12800,
+          "price": "0.00",
+          "rank": 239,
+          "category": "6012"
+        },
+        {
+          "appId": 1103530261,
+          "name": "Precious - Baby Photo Art",
+          "publisher": "Curious Creators Co.",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3a/ee/a5/3aeea57f-3395-7c25-5c47-81657e8ea7c5/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/180x180bb.png",
+          "rating": 4.8,
+          "ratingCount": 139000,
+          "price": "0.00",
+          "rank": 243,
+          "category": "6012"
+        },
+        {
+          "appId": 6670606352,
+          "name": "Community by SocialLadder",
+          "publisher": "RKI Apps LLC",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/84/f5/31/84f5315c-cf1c-bef6-e27b-aebbb1413eaf/AppIcon-1x_U007epad-0-1-85-220-0.png/180x180bb.png",
+          "rating": 4.2,
+          "ratingCount": 10,
+          "price": "0.00",
+          "rank": 246,
+          "category": "6012"
+        }
+      ]
+    }
+  }
+}
