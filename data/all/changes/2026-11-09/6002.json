@@ -3,21 +3,21 @@
   "genre": "6002",
   "topRisers": [
     {
-      "appId": 6807341629,
-      "previous_rank": 245,
-      "current_rank": 157,
-      "rank_change": 88,
+      "appId": 6755528083,
+      "previous_rank": 227,
+      "current_rank": 127,
+      "rank_change": 100,
       "category": "6002",
       "date": "2026-11-09",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/bf/f2/ea/bff2ea11-13a0-8d2c-01f6-9c38d5523700/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/180x180bb.png",
-      "app_name": "PulseClean-Speaker Clean",
-      "publisher": "SeaMoon Link Tech Limited"
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5b/f7/f9/5bf7f9df-9ceb-fbd1-294d-f189369c8ef2/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/180x180bb.png",
+      "app_name": "Clean AI・Phone Storage Cleanup",
+      "publisher": "BAO Apps"
     },
     {
       "appId": 6480172308,
       "previous_rank": 235,
-      "current_rank": 164,
-      "rank_change": 71,
+      "current_rank": 145,
+      "rank_change": 90,
       "category": "6002",
       "date": "2026-11-09",
       "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d0/77/fe/d077fe40-24f0-82ea-7fd7-6ba5e701c492/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/180x180bb.png",
@@ -25,21 +25,32 @@
       "publisher": "SPARK TECH LIMITED"
     },
     {
-      "appId": 6787894841,
-      "previous_rank": 180,
-      "current_rank": 113,
-      "rank_change": 67,
+      "appId": 6807341629,
+      "previous_rank": 245,
+      "current_rank": 158,
+      "rank_change": 87,
       "category": "6002",
       "date": "2026-11-09",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9e/61/5f/9e615f76-8b5f-6b5f-99b0-2bf2c2d1b927/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/180x180bb.png",
-      "app_name": "Cleaner X: Storage Cleanup",
-      "publisher": "SPARK TECH LIMITED"
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/bf/f2/ea/bff2ea11-13a0-8d2c-01f6-9c38d5523700/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/180x180bb.png",
+      "app_name": "PulseClean-Speaker Clean",
+      "publisher": "SeaMoon Link Tech Limited"
+    },
+    {
+      "appId": 1485352913,
+      "previous_rank": 214,
+      "current_rank": 133,
+      "rank_change": 81,
+      "category": "6002",
+      "date": "2026-11-09",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/54/33/b8/5433b8f7-667b-0646-24b6-669e000072fb/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/180x180bb.png",
+      "app_name": "Pokémon HOME",
+      "publisher": "The Pokemon Company"
     },
     {
       "appId": 6505138540,
       "previous_rank": 221,
-      "current_rank": 184,
-      "rank_change": 37,
+      "current_rank": 140,
+      "rank_change": 81,
       "category": "6002",
       "date": "2026-11-09",
       "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/cd/78/58/cd785886-99cf-3fa4-2e01-20168de151be/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/180x180bb.png",
@@ -47,26 +58,15 @@
       "publisher": "Mild"
     },
     {
-      "appId": 6760792738,
-      "previous_rank": 177,
-      "current_rank": 141,
-      "rank_change": 36,
+      "appId": 6787894841,
+      "previous_rank": 180,
+      "current_rank": 103,
+      "rank_change": 77,
       "category": "6002",
       "date": "2026-11-09",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2d/31/32/2d313218-297d-e000-dd15-03660328d47f/AppIcon-0-0-1x_U007epad-0-1-85-220.jpeg/180x180bb.png",
-      "app_name": "Exo *** - Fast & Secure",
-      "publisher": "Exo Company"
-    },
-    {
-      "appId": 1485352913,
-      "previous_rank": 214,
-      "current_rank": 181,
-      "rank_change": 33,
-      "category": "6002",
-      "date": "2026-11-09",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/54/33/b8/5433b8f7-667b-0646-24b6-669e000072fb/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/180x180bb.png",
-      "app_name": "Pokémon HOME",
-      "publisher": "The Pokemon Company"
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9e/61/5f/9e615f76-8b5f-6b5f-99b0-2bf2c2d1b927/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/180x180bb.png",
+      "app_name": "Cleaner X: Storage Cleanup",
+      "publisher": "SPARK TECH LIMITED"
     }
   ]
 }
