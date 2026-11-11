@@ -3,32 +3,10 @@
   "genre": "6002",
   "topRisers": [
     {
-      "appId": 6749566371,
-      "previous_rank": 244,
-      "current_rank": 156,
-      "rank_change": 88,
-      "category": "6002",
-      "date": "2026-11-11",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2c/fa/77/2cfa77ad-2df8-ef56-3615-32c9bcf8cf76/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/180x180bb.png",
-      "app_name": "Pulse Monitor-Blood Sugar",
-      "publisher": "PIECES OF WOOD CO., LIMITED"
-    },
-    {
-      "appId": 494168017,
-      "previous_rank": 197,
-      "current_rank": 140,
-      "rank_change": 57,
-      "category": "6002",
-      "date": "2026-11-11",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/50/a5/88/50a58860-c32a-9cc1-845d-292d7a1b8dc6/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/180x180bb.png",
-      "app_name": "Twilio Authy",
-      "publisher": "Authy Inc."
-    },
-    {
       "appId": 1667391175,
       "previous_rank": 199,
-      "current_rank": 146,
-      "rank_change": 53,
+      "current_rank": 69,
+      "rank_change": 130,
       "category": "6002",
       "date": "2026-11-11",
       "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/28/b1/cc/28b1cc46-1641-d3ba-c5ab-ff31753fe4e1/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/180x180bb.png",
@@ -36,10 +14,43 @@
       "publisher": "Koodos, Inc."
     },
     {
+      "appId": 6749566371,
+      "previous_rank": 244,
+      "current_rank": 145,
+      "rank_change": 99,
+      "category": "6002",
+      "date": "2026-11-11",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2c/fa/77/2cfa77ad-2df8-ef56-3615-32c9bcf8cf76/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/180x180bb.png",
+      "app_name": "Pulse Monitor-Blood Sugar",
+      "publisher": "PIECES OF WOOD CO., LIMITED"
+    },
+    {
+      "appId": 6761452136,
+      "previous_rank": 215,
+      "current_rank": 135,
+      "rank_change": 80,
+      "category": "6002",
+      "date": "2026-11-11",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6a/34/cc/6a34cc50-d407-7241-9c2b-63c692970f25/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/180x180bb.png",
+      "app_name": "Cast To TV Screen Mirror",
+      "publisher": "Heer Patel"
+    },
+    {
+      "appId": 6748255435,
+      "previous_rank": 231,
+      "current_rank": 155,
+      "rank_change": 76,
+      "category": "6002",
+      "date": "2026-11-11",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/19/5b/47/195b471a-315d-0bc9-b95d-1f063a3bd2a2/AppIcon-0-0-1x_U007epad-0-1-0-85-220.jpeg/180x180bb.png",
+      "app_name": "AI Cleaner: Clean Up Now",
+      "publisher": "金旺 沈"
+    },
+    {
       "appId": 6467768006,
       "previous_rank": 229,
-      "current_rank": 176,
-      "rank_change": 53,
+      "current_rank": 161,
+      "rank_change": 68,
       "category": "6002",
       "date": "2026-11-11",
       "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e3/90/69/e39069ae-c122-ed36-51ee-fff405c61726/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/180x180bb.png",
@@ -49,24 +60,13 @@
     {
       "appId": 6753127459,
       "previous_rank": 184,
-      "current_rank": 134,
-      "rank_change": 50,
+      "current_rank": 125,
+      "rank_change": 59,
       "category": "6002",
       "date": "2026-11-11",
       "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/66/66/f2/6666f2c4-a656-cb47-8151-326042d0cffe/Predator-0-0-1x_U007ephone-0-1-85-220.png/180x180bb.png",
       "app_name": "Predator: Sex Offender Map",
       "publisher": "Prince Technologies"
-    },
-    {
-      "appId": 1106069401,
-      "previous_rank": 232,
-      "current_rank": 184,
-      "rank_change": 48,
-      "category": "6002",
-      "date": "2026-11-11",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b2/88/f0/b288f035-7a1d-6e23-50a2-457419ae2b0f/D2AppIcon-0-0-1x_U007epad-0-1-85-220.png/180x180bb.png",
-      "app_name": "Samsara Driver",
-      "publisher": "Samsara Networks, Inc."
     }
   ]
 }
