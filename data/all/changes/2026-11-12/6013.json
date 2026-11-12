@@ -5,8 +5,8 @@
     {
       "appId": 6514310473,
       "previous_rank": 149,
-      "current_rank": 54,
-      "rank_change": 95,
+      "current_rank": 58,
+      "rank_change": 91,
       "category": "6013",
       "date": "2026-11-12",
       "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2d/7c/38/2d7c38b1-e706-f284-5f0f-d89d003e1faa/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/180x180bb.png",
@@ -16,8 +16,8 @@
     {
       "appId": 1538397461,
       "previous_rank": 157,
-      "current_rank": 85,
-      "rank_change": 72,
+      "current_rank": 72,
+      "rank_change": 85,
       "category": "6013",
       "date": "2026-11-12",
       "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/8a/af/37/8aaf37de-1e69-38cc-411f-3c2f888c2fd5/AppIcon-0-0-1x_U007emarketing-0-0-0-2-0-0-sRGB-85-220.jpeg/180x180bb.png",
@@ -27,8 +27,8 @@
     {
       "appId": 6752903766,
       "previous_rank": 168,
-      "current_rank": 101,
-      "rank_change": 67,
+      "current_rank": 92,
+      "rank_change": 76,
       "category": "6013",
       "date": "2026-11-12",
       "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9b/00/79/9b0079e3-3d02-93f2-4bc7-7c0ae2e8bd5d/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/180x180bb.png",
@@ -36,10 +36,21 @@
       "publisher": "Nagia LLC"
     },
     {
+      "appId": 1346247457,
+      "previous_rank": 187,
+      "current_rank": 120,
+      "rank_change": 67,
+      "category": "6013",
+      "date": "2026-11-12",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d2/61/d0/d261d0fd-a022-20c1-78d5-08cc1beed71f/AppIcon-Original-0-0-1x_U007emarketing-0-11-0-85-220.png/180x180bb.png",
+      "app_name": "Endel: Focus & Sleep Sounds",
+      "publisher": "Endel"
+    },
+    {
       "appId": 1490078804,
       "previous_rank": 189,
-      "current_rank": 133,
-      "rank_change": 56,
+      "current_rank": 122,
+      "rank_change": 67,
       "category": "6013",
       "date": "2026-11-12",
       "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c3/7c/3f/c37c3ffb-2bce-8c9f-a097-79b47f4f91e7/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/180x180bb.png",
@@ -47,26 +58,15 @@
       "publisher": "Enerjoy Pte. Ltd."
     },
     {
-      "appId": 1562706384,
-      "previous_rank": 141,
-      "current_rank": 86,
-      "rank_change": 55,
+      "appId": 6760645911,
+      "previous_rank": 243,
+      "current_rank": 186,
+      "rank_change": 57,
       "category": "6013",
       "date": "2026-11-12",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/49/7b/3b/497b3b0b-95e1-a4a8-19b6-8d0a60dc128b/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/180x180bb.png",
-      "app_name": "How We Feel",
-      "publisher": "The How We Feel Project, Inc."
-    },
-    {
-      "appId": 6771587954,
-      "previous_rank": 209,
-      "current_rank": 154,
-      "rank_change": 55,
-      "category": "6013",
-      "date": "2026-11-12",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/51/39/7b/51397b10-abad-2ef2-bdd6-103ea5cd4b01/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/180x180bb.png",
-      "app_name": "Rage - Motivational Quotes",
-      "publisher": "CutCoach Inc."
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/30/91/5c/30915c81-4f4b-e14f-c896-65560a586f64/AppIcon-0-0-1x_U007ephone-0-11-0-85-220.png/180x180bb.png",
+      "app_name": "BP Easy Log",
+      "publisher": "BIG BRIDGE NETWORK TECHNOLOGY LIMITED"
     }
   ]
 }
