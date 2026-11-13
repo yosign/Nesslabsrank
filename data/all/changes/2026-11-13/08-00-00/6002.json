@@ -1,0 +1,550 @@
+{
+  "date": "2026-11-13",
+  "changes": {
+    "6002": {
+      "added": [
+        {
+          "appId": 6544783659,
+          "name": "Fileso: zip rar 7zip Extractor",
+          "publisher": "Space-Time Transformation Technology Co., Ltd.",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/74/85/bf/7485bf52-1b76-5dc2-3573-c83617d4198e/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/180x180bb.png",
+          "rating": 4.8,
+          "ratingCount": 91,
+          "price": "0.00",
+          "rank": 108,
+          "category": "6002"
+        },
+        {
+          "appId": 6804629968,
+          "name": "RingTune",
+          "publisher": "龙龙 曹",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6d/d7/a5/6dd7a525-74f3-3fda-2ef2-5c5e2579f3d7/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/180x180bb.png",
+          "rating": 0,
+          "ratingCount": 0,
+          "price": "0.00",
+          "rank": 146,
+          "category": "6002"
+        },
+        {
+          "appId": 6502992988,
+          "name": "ONN TV Remote",
+          "publisher": "Ihsan Ullah",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/48/35/82/4835829f-8cd9-ce79-8b80-770fcf156a7a/AppIcon-0-1x_U007emarketing-0-8-0-85-220-0.png/180x180bb.png",
+          "rating": 3.5,
+          "ratingCount": 2071,
+          "price": "0.00",
+          "rank": 194,
+          "category": "6002"
+        },
+        {
+          "appId": 6739829512,
+          "name": "Nada Print",
+          "publisher": "珠海久印科技有限公司",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/bd/25/5f/bd255fcf-ed3d-5e99-efde-34f011d558a7/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/180x180bb.png",
+          "rating": 2.9,
+          "ratingCount": 97,
+          "price": "0.00",
+          "rank": 201,
+          "category": "6002"
+        },
+        {
+          "appId": 1455009028,
+          "name": "Remote for Samsung",
+          "publisher": "Oz Shabbatth",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/34/0e/3d/340e3dfd-fe95-dc95-6c60-4a61e01ede8c/AppIcon-0-0-1x_U007emarketing-0-8-0-sRGB-85-220.png/180x180bb.png",
+          "rating": 4.6,
+          "ratingCount": 59000,
+          "price": "0.00",
+          "rank": 212,
+          "category": "6002"
+        },
+        {
+          "appId": 6756395679,
+          "name": "Scan QR Code&Barcode Scanner",
+          "publisher": "Xiaoyou Interactive",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/86/90/36/86903622-7260-646b-1a6c-2516c3c65374/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/180x180bb.png",
+          "rating": 4.3,
+          "ratingCount": 988,
+          "price": "0.00",
+          "rank": 216,
+          "category": "6002"
+        },
+        {
+          "appId": 6748596826,
+          "name": "Tripo AI: 3D Model Generator",
+          "publisher": "Holymolly Limited",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0d/18/ca/0d18ca8b-3bbd-a979-82e4-992e25b597a6/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/180x180bb.png",
+          "rating": 4.6,
+          "ratingCount": 2954,
+          "price": "0.00",
+          "rank": 218,
+          "category": "6002"
+        },
+        {
+          "appId": 6443842645,
+          "name": "UseePlus",
+          "publisher": "亮 连",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/23/ce/a4/23cea451-1c41-b3df-dc58-58be8e50ab3b/AppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.png/180x180bb.png",
+          "rating": 2.3,
+          "ratingCount": 332,
+          "price": "0.00",
+          "rank": 222,
+          "category": "6002"
+        },
+        {
+          "appId": 6461419341,
+          "name": "RemoTV: Universal TV Remote",
+          "publisher": "EpicScale Inc",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9d/f4/aa/9df4aa40-efb4-5330-25da-efcdcff4e21a/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/180x180bb.png",
+          "rating": 4.6,
+          "ratingCount": 18200,
+          "price": "0.00",
+          "rank": 223,
+          "category": "6002"
+        },
+        {
+          "appId": 1561954125,
+          "name": "Smart Remote for Sam TV",
+          "publisher": "EVOLLY.APP",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7d/97/ae/7d97aef2-bd4b-59d1-bcc3-745fa39cdecb/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/180x180bb.png",
+          "rating": 4.2,
+          "ratingCount": 10900,
+          "price": "0.00",
+          "rank": 225,
+          "category": "6002"
+        },
+        {
+          "appId": 448155923,
+          "name": "Decibel X:dB Sound Level Meter",
+          "publisher": "SkyPaw Co., Limited",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/71/7c/dd/717cdde3-14fe-c2fd-5acb-8bddc61c3523/AppIcon-Decibel-0-0-1x_U007emarketing-0-8-0-85-220.png/180x180bb.png",
+          "rating": 4.6,
+          "ratingCount": 164000,
+          "price": "0.00",
+          "rank": 230,
+          "category": "6002"
+        },
+        {
+          "appId": 6451399317,
+          "name": "Car Key Connect - Remote Start",
+          "publisher": "TV Cast Pte. Ltd.",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/22/fa/b2/22fab267-6b3c-9b81-3caa-6be005fab148/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/180x180bb.png",
+          "rating": 4.7,
+          "ratingCount": 27500,
+          "price": "0.00",
+          "rank": 232,
+          "category": "6002"
+        },
+        {
+          "appId": 6692621275,
+          "name": "Unlock-r",
+          "publisher": "RoadPass Trading LTD",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2d/4a/1f/2d4a1f6c-20fd-fd3f-170b-b1dcbe9e1df6/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/180x180bb.png",
+          "rating": 4,
+          "ratingCount": 3512,
+          "price": "0.00",
+          "rank": 233,
+          "category": "6002"
+        },
+        {
+          "appId": 6449987166,
+          "name": "Android Switch",
+          "publisher": "Google",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ad/68/56/ad685653-963c-457f-c8f4-ad09f6d02b04/logo_android_switch_color-0-0-1x_U007emarketing-0-0-0-7-0-0-0-85-220.png/180x180bb.png",
+          "rating": 3.5,
+          "ratingCount": 102,
+          "price": "0.00",
+          "rank": 234,
+          "category": "6002"
+        },
+        {
+          "appId": 6745784692,
+          "name": "Wifi Scan - Security",
+          "publisher": "Livehill",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d6/51/e3/d651e358-dcc4-6f9f-e2a1-059e15e5f4aa/AppIcon-1x_U007ephone-0-1-0-85-220-0.png/180x180bb.png",
+          "rating": 4,
+          "ratingCount": 12,
+          "price": "0.00",
+          "rank": 236,
+          "category": "6002"
+        },
+        {
+          "appId": 1016562846,
+          "name": "Rokie - Remote for Roku Player",
+          "publisher": "KRAFTWERK 9 LTD",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/1e/2e/ef/1e2eef59-137c-aafc-f9b9-a4651ba4a455/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/180x180bb.png",
+          "rating": 4.5,
+          "ratingCount": 715000,
+          "price": "0.00",
+          "rank": 237,
+          "category": "6002"
+        },
+        {
+          "appId": 6789369290,
+          "name": "Fish Audio",
+          "publisher": "Hanabi AI Inc.",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2a/c2/99/2ac2993c-003d-dbde-48d1-44afc42f263a/fish-app-icon-0-0-1x_U007epad-0-1-85-220.png/180x180bb.png",
+          "rating": 4.8,
+          "ratingCount": 1605,
+          "price": "0.00",
+          "rank": 238,
+          "category": "6002"
+        },
+        {
+          "appId": 6757854925,
+          "name": "Doll AI - Chat Assistant",
+          "publisher": "John Mckenzie",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/96/d3/43/96d3432b-96c7-5a61-adb7-09943306d09f/AppIcon-0-0-1x_U007epad-0-11-0-85-220.png/180x180bb.png",
+          "rating": 4.1,
+          "ratingCount": 344,
+          "price": "0.00",
+          "rank": 240,
+          "category": "6002"
+        },
+        {
+          "appId": 6502297763,
+          "name": "SteelSeries Arctis Companion",
+          "publisher": "GN Audio AS",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/59/7d/2f/597d2f7f-16da-7849-c3d6-47677b210efa/AppIcon-1x_U007ephone-0-1-0-85-220-0.png/180x180bb.png",
+          "rating": 4.6,
+          "ratingCount": 6943,
+          "price": "0.00",
+          "rank": 241,
+          "category": "6002"
+        },
+        {
+          "appId": 1460013401,
+          "name": "US Mobile",
+          "publisher": "US Mobile Inc.",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/92/b6/3e/92b63e5c-f6e6-f2d9-e699-5f4ca4f01be1/AppIcon-0-0-1x_U007epad-0-11-0-85-220.png/180x180bb.png",
+          "rating": 4.1,
+          "ratingCount": 2066,
+          "price": "0.00",
+          "rank": 243,
+          "category": "6002"
+        },
+        {
+          "appId": 6786565891,
+          "name": "Locato: Family GPS Locator",
+          "publisher": "Servaym Limited",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fb/ad/5b/fbad5b8d-b96e-952e-911e-d874b48709ed/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/180x180bb.png",
+          "rating": 4,
+          "ratingCount": 1372,
+          "price": "0.00",
+          "rank": 244,
+          "category": "6002"
+        },
+        {
+          "appId": 6452552789,
+          "name": "EarVision",
+          "publisher": "静 郭",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4b/97/18/4b971823-466f-3482-98a9-60fa0cc0134d/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/180x180bb.png",
+          "rating": 2.7,
+          "ratingCount": 207,
+          "price": "0.00",
+          "rank": 245,
+          "category": "6002"
+        }
+      ],
+      "removed": [
+        {
+          "appId": 6760792738,
+          "name": "Exo *** - Fast & Secure",
+          "publisher": "Exo Company",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2d/31/32/2d313218-297d-e000-dd15-03660328d47f/AppIcon-0-0-1x_U007epad-0-1-85-220.jpeg/180x180bb.png",
+          "rating": 4.9,
+          "ratingCount": 603,
+          "price": "0.00",
+          "rank": 101,
+          "category": "6002"
+        },
+        {
+          "appId": 6748106726,
+          "name": "SpeedTop ***: Fast & Secure",
+          "publisher": "SOON BODYWERKZ AUTO PTE. LTD.",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9f/30/a5/9f30a504-5ed0-57c2-46d7-3e6df5f02cae/AppIcon-0-0-1x_U007epad-0-1-85-220.jpeg/180x180bb.png",
+          "rating": 4.7,
+          "ratingCount": 1325,
+          "price": "0.00",
+          "rank": 110,
+          "category": "6002"
+        },
+        {
+          "appId": 6754443085,
+          "name": "Jamp Jamp *** - Fast Proxy",
+          "publisher": "TerraNova (HK) Limited",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/49/ce/94/49ce94bc-77b9-fdc8-5547-3c695f12e358/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.jpeg/180x180bb.png",
+          "rating": 4.7,
+          "ratingCount": 1221,
+          "price": "0.00",
+          "rank": 162,
+          "category": "6002"
+        },
+        {
+          "appId": 1273734740,
+          "name": "*** for iPhone ·",
+          "publisher": "Brain Craft Ltd",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/db/e0/9a/dbe09ad6-3179-2835-62ad-44f687ba927a/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.jpeg/180x180bb.png",
+          "rating": 4.5,
+          "ratingCount": 59200,
+          "price": "0.00",
+          "rank": 176,
+          "category": "6002"
+        },
+        {
+          "appId": 1409063862,
+          "name": "RedApp Browser",
+          "publisher": "Minh Tran",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/37/23/f1/3723f187-9256-a2b3-4b99-d4667b94021d/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/180x180bb.png",
+          "rating": 4.6,
+          "ratingCount": 2592,
+          "price": "0.00",
+          "rank": 177,
+          "category": "6002"
+        },
+        {
+          "appId": 1474675452,
+          "name": "*** - Fast & Secure *** Proxy",
+          "publisher": "Minoti Inc",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e7/f1/72/e7f172fa-309c-e013-3005-1f04c895db34/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/180x180bb.png",
+          "rating": 4.6,
+          "ratingCount": 54800.00000000001,
+          "price": "0.00",
+          "rank": 183,
+          "category": "6002"
+        },
+        {
+          "appId": 6746736688,
+          "name": "Storage Clean: Free Up Space",
+          "publisher": "C-JM LIMITED",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/8c/39/5b/8c395b2d-b649-1df7-07db-c7f2f4e91aa0/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/180x180bb.png",
+          "rating": 4.5,
+          "ratingCount": 1154,
+          "price": "0.00",
+          "rank": 191,
+          "category": "6002"
+        },
+        {
+          "appId": 6749566371,
+          "name": "Pulse Monitor-Blood Sugar",
+          "publisher": "PIECES OF WOOD CO., LIMITED",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2c/fa/77/2cfa77ad-2df8-ef56-3615-32c9bcf8cf76/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/180x180bb.png",
+          "rating": 1.6,
+          "ratingCount": 5,
+          "price": "0.00",
+          "rank": 199,
+          "category": "6002"
+        },
+        {
+          "appId": 6596777532,
+          "name": "Hiddify Proxy & ***",
+          "publisher": "Holistic Resilience",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/54/df/ea/54dfeaba-9b5e-40dc-464a-90be12f79a80/AppIcon-0-0-1x_U007epad-0-1-sRGB-85-220.png/180x180bb.png",
+          "rating": 4.4,
+          "ratingCount": 871,
+          "price": "0.00",
+          "rank": 207,
+          "category": "6002"
+        },
+        {
+          "appId": 1325217974,
+          "name": "Duke Energy",
+          "publisher": "Duke Energy",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e2/3c/04/e23c04a8-a4e2-c968-d1ed-18dae4e52a96/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-P3-85-220.png/180x180bb.png",
+          "rating": 4.8,
+          "ratingCount": 186000,
+          "price": "0.00",
+          "rank": 209,
+          "category": "6002"
+        },
+        {
+          "appId": 6673905322,
+          "name": "Super*** Fast *** Client",
+          "publisher": "NETWORKSUPER LTD",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/87/f6/7d/87f67ddb-812e-0814-b886-f167301030fc/AppIcon-0-0-1x_U007epad-0-1-85-220.png/180x180bb.png",
+          "rating": 4.3,
+          "ratingCount": 2957,
+          "price": "0.00",
+          "rank": 211,
+          "category": "6002"
+        },
+        {
+          "appId": 763638165,
+          "name": "IPVanish ***: Fast & Secure",
+          "publisher": "IPVanish, Inc.",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2a/68/6b/2a686bbc-7037-b83b-43ec-e75cd9e9ceac/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/180x180bb.png",
+          "rating": 4.6,
+          "ratingCount": 104000,
+          "price": "0.00",
+          "rank": 216,
+          "category": "6002"
+        },
+        {
+          "appId": 6630367408,
+          "name": "PDF Reader - Easy Editor",
+          "publisher": "SPARK TECH LIMITED",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/63/f4/a4/63f4a476-e5ad-fbbc-1f20-a4c8e41ecd8f/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/180x180bb.png",
+          "rating": 4.7,
+          "ratingCount": 4881,
+          "price": "0.00",
+          "rank": 219,
+          "category": "6002"
+        },
+        {
+          "appId": 6749863577,
+          "name": "Authenticator App • 2FA, MFA",
+          "publisher": "Solid Apps LLC",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/aa/23/c2/aa23c247-73ab-56a9-4426-c5fe1d763e59/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/180x180bb.png",
+          "rating": 4.1,
+          "ratingCount": 228,
+          "price": "0.00",
+          "rank": 220,
+          "category": "6002"
+        },
+        {
+          "appId": 6766755387,
+          "name": "Jumper ***: Secure Proxy",
+          "publisher": "Free VPN One Co., Limited",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/10/8b/be/108bbe6f-45f3-2fc2-d6ae-8c4c6bd53427/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/180x180bb.png",
+          "rating": 2.8,
+          "ratingCount": 10,
+          "price": "0.00",
+          "rank": 221,
+          "category": "6002"
+        },
+        {
+          "appId": 1460130689,
+          "name": "Cool *** Pro-Secure Proxy ***",
+          "publisher": "CTECH GLOBAL PTE LTD",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fd/32/fb/fd32fbcb-33a5-df72-0a96-574bec036c14/AppIcon-0-0-1x_U007epad-0-11-0-85-220.png/180x180bb.png",
+          "rating": 4.7,
+          "ratingCount": 42699.99999999999,
+          "price": "0.00",
+          "rank": 223,
+          "category": "6002"
+        },
+        {
+          "appId": 1050704155,
+          "name": "Yandex with Alice AI",
+          "publisher": "Direct Cursus Computer Systems Trading",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/27/7d/cf/277dcf79-78b9-a60e-d2fe-925bd3ba76cd/YandexAppIcon-0-0-1x_U007epad-0-11-0-85-220.png/180x180bb.png",
+          "rating": 4.5,
+          "ratingCount": 28200,
+          "price": "0.00",
+          "rank": 225,
+          "category": "6002"
+        },
+        {
+          "appId": 6751800020,
+          "name": "AI Clean-Phone Sweeper",
+          "publisher": "Fuzhou Jiange Technology Co., Ltd.",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/16/26/e5/1626e547-d28b-6506-6e19-cd94248dc62d/AppIcon-1x_U007ephone-0-1-0-85-220-0.png/180x180bb.png",
+          "rating": 3.9,
+          "ratingCount": 146,
+          "price": "0.00",
+          "rank": 226,
+          "category": "6002"
+        },
+        {
+          "appId": 1381226716,
+          "name": "Secure ***: Private & Fast",
+          "publisher": "DUY KY TRADING PRODUCTION ONE MEMBER COMPANY LIMITED",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/35/31/dc/3531dc67-c27c-69e4-1b7c-b48ae11c5341/AppIcon-0-0-1x_U007epad-0-1-0-85-220.jpeg/180x180bb.png",
+          "rating": 4.4,
+          "ratingCount": 374,
+          "price": "0.00",
+          "rank": 227,
+          "category": "6002"
+        },
+        {
+          "appId": 6756063147,
+          "name": "CardCosmic",
+          "publisher": "CardCosmic, Inc.",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7c/0a/30/7c0a30c8-c643-efcc-25e4-313ca76e5b0f/AppIcon-0-0-1x_U007epad-0-1-85-220.png/180x180bb.png",
+          "rating": 4.3,
+          "ratingCount": 3789,
+          "price": "0.00",
+          "rank": 231,
+          "category": "6002"
+        },
+        {
+          "appId": 6794257189,
+          "name": "Clash - Rule Based Proxy",
+          "publisher": "Open Sourced",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8c/ef/3e/8cef3e0d-1b1b-008a-bd51-b952f23875b2/AppIcon-0-0-1x_U007epad-0-0-0-1-0-85-220.png/180x180bb.png",
+          "rating": 4.6,
+          "ratingCount": 249,
+          "price": "0.00",
+          "rank": 240,
+          "category": "6002"
+        },
+        {
+          "appId": 1450980221,
+          "name": "Yale Access",
+          "publisher": "August Home, Inc.",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9f/9c/05/9f9c051e-14c0-c50d-038f-b03940a09a10/YaleAppIcon-0-0-1x_U007ephone-0-1-0-sRGB-85-220.png/180x180bb.png",
+          "rating": 4.9,
+          "ratingCount": 77600,
+          "price": "0.00",
+          "rank": 242,
+          "category": "6002"
+        },
+        {
+          "appId": 6811346640,
+          "name": "Hub ***: Fast & Secure ***",
+          "publisher": "Instaberry Technologies Private Limited",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a7/34/15/a73415b2-67be-bc8b-5408-e18cff0e8224/AppIcon-0-0-1x_U007epad-0-1-85-220.png/180x180bb.png",
+          "rating": 5,
+          "ratingCount": 5,
+          "price": "0.00",
+          "rank": 243,
+          "category": "6002"
+        },
+        {
+          "appId": 1477261074,
+          "name": "Verkada Pass",
+          "publisher": "Verkada Inc.",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/59/4c/33/594c33d9-2d51-f308-8c63-a5d61424751b/AppIcon-0-0-1x_U007epad-0-1-85-220.png/180x180bb.png",
+          "rating": 2.6,
+          "ratingCount": 83,
+          "price": "0.00",
+          "rank": 244,
+          "category": "6002"
+        },
+        {
+          "appId": 1600529900,
+          "name": "Amnezia***",
+          "publisher": "Privacy Technologies",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ee/d7/a3/eed7a3d8-105e-10e6-d3a1-9167b6996e82/AppIcon-0-0-1x_U007epad-0-1-sRGB-85-220.png/180x180bb.png",
+          "rating": 3.7,
+          "ratingCount": 798,
+          "price": "0.00",
+          "rank": 246,
+          "category": "6002"
+        },
+        {
+          "appId": 1010631459,
+          "name": "Getcontact: Spam Caller ID",
+          "publisher": "GETVERIFY LDA",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3a/a8/a5/3aa8a519-dd09-1b37-4850-01fbcfa2a53f/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/180x180bb.png",
+          "rating": 4.4,
+          "ratingCount": 61500,
+          "price": "0.00",
+          "rank": 247,
+          "category": "6002"
+        },
+        {
+          "appId": 1259128859,
+          "name": "Free *** by Free *** Pte Ltd.",
+          "publisher": "FREE VPN PTE LTD",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/33/d9/8b/33d98b97-a4ad-6064-24ae-a5a86196cff4/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/180x180bb.png",
+          "rating": 4.7,
+          "ratingCount": 11299.999999999998,
+          "price": "0.00",
+          "rank": 250,
+          "category": "6002"
+        }
+      ]
+    }
+  }
+}
