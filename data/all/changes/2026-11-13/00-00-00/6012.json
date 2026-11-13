@@ -1,0 +1,132 @@
+{
+  "date": "2026-11-13",
+  "changes": {
+    "6012": {
+      "added": [
+        {
+          "appId": 6737499843,
+          "name": "Talking-Buddy",
+          "publisher": "AHAN Apps LLC",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b7/a8/c5/b7a8c56a-0d42-7158-60e4-0f139a0c48f6/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/180x180bb.png",
+          "rating": 3.5,
+          "ratingCount": 8,
+          "price": "0.00",
+          "rank": 115,
+          "category": "6012"
+        },
+        {
+          "appId": 1638796139,
+          "name": "favorited",
+          "publisher": "Like Labs, Inc.",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a3/7e/57/a37e5732-897e-5cc0-d31b-161c35bd7912/AppIcon-0-0-1x_U007ephone-0-0-0-1-0-0-85-220.png/180x180bb.png",
+          "rating": 4.6,
+          "ratingCount": 8315,
+          "price": "0.00",
+          "rank": 217,
+          "category": "6012"
+        },
+        {
+          "appId": 6758342859,
+          "name": "Echo Grace",
+          "publisher": "爽 张",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/73/a3/bb/73a3bbfe-677e-163e-7723-3565d7b016f5/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/180x180bb.png",
+          "rating": 4.8,
+          "ratingCount": 4447,
+          "price": "0.00",
+          "rank": 239,
+          "category": "6012"
+        },
+        {
+          "appId": 6746327655,
+          "name": "Just Well - Wellness Manager",
+          "publisher": "Veristen Labs",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/67/21/f7/6721f76c-a5f3-5371-a1d5-3544aec88d98/AppIcon-0-0-1x_U007epad-0-1-0-P3-0-85-220.png/180x180bb.png",
+          "rating": 4.4,
+          "ratingCount": 886,
+          "price": "0.00",
+          "rank": 242,
+          "category": "6012"
+        },
+        {
+          "appId": 6760680465,
+          "name": "Aesthetic - Decorate & Design",
+          "publisher": "Fliq Labs",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/80/35/14/803514d7-bf9d-55be-9ff8-0a0d8c6a77aa/AppIcon-0-0-1x_U007epad-0-1-85-220.png/180x180bb.png",
+          "rating": 4.7,
+          "ratingCount": 2568,
+          "price": "0.00",
+          "rank": 243,
+          "category": "6012"
+        },
+        {
+          "appId": 1449109039,
+          "name": "LED LAMP",
+          "publisher": "Shenzhen Zhongji Technology Co., Ltd.",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/70/be/56/70be5627-45f3-711b-facd-74bf8480a26a/AppIcon-1x_U007emarketing-0-8-0-sRGB-85-220-0.png/180x180bb.png",
+          "rating": 1.9,
+          "ratingCount": 2040,
+          "price": "0.00",
+          "rank": 250,
+          "category": "6012"
+        }
+      ],
+      "removed": [
+        {
+          "appId": 1024722275,
+          "name": "Aladdin Connect",
+          "publisher": "Overhead Door Corporation",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e0/4b/14/e04b1432-3ccf-ed18-2d72-b15c2db47198/AppIcon-0-0-1x_U007emarketing-0-8-0-sRGB-85-220.png/180x180bb.png",
+          "rating": 4.8,
+          "ratingCount": 114000,
+          "price": "0.00",
+          "rank": 240,
+          "category": "6012"
+        },
+        {
+          "appId": 6737291521,
+          "name": "PlayStation Family",
+          "publisher": "PlayStation Mobile Inc.",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/71/06/b2/7106b235-557d-4f49-436c-0c5fd1001abf/PlayStation_Family-0-0-1x_U007ephone-0-1-0-sRGB-85-220.png/180x180bb.png",
+          "rating": 3,
+          "ratingCount": 62,
+          "price": "0.00",
+          "rank": 242,
+          "category": "6012"
+        },
+        {
+          "appId": 1190074407,
+          "name": "Nintendo Switch Parental Cont…",
+          "publisher": "Nintendo Co., Ltd.",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/48/32/fb/4832fbd7-d2be-621a-d2dd-5397d97de9eb/AppIcon-0-0-1x_U007epad-0-1-85-220.png/180x180bb.png",
+          "rating": 4.7,
+          "ratingCount": 166000,
+          "price": "0.00",
+          "rank": 246,
+          "category": "6012"
+        },
+        {
+          "appId": 6760414626,
+          "name": "Home by Landmark",
+          "publisher": "Entrata, Inc.",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e6/37/74/e6377486-c64e-7735-93f2-267e9a1682ff/AppIcon-0-0-1x_U007ephone-0-1-0-sRGB-85-220.png/180x180bb.png",
+          "rating": 0,
+          "ratingCount": 0,
+          "price": "0.00",
+          "rank": 248,
+          "category": "6012"
+        },
+        {
+          "appId": 1329458504,
+          "name": "ECOVACS HOME",
+          "publisher": "Ecovacs",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5b/f5/61/5bf56185-046e-7233-41df-753bf10e5eeb/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/180x180bb.png",
+          "rating": 4.6,
+          "ratingCount": 58600,
+          "price": "0.00",
+          "rank": 249,
+          "category": "6012"
+        }
+      ]
+    }
+  }
+}
