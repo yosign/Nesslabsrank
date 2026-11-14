@@ -1,0 +1,143 @@
+{
+  "date": "2026-11-14",
+  "changes": {
+    "6012": {
+      "added": [
+        {
+          "appId": 1099568401,
+          "name": "Home Assistant",
+          "publisher": "Nabu Casa, Inc",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8e/dd/4f/8edd4ff6-fe31-ea1d-9ca4-db3fa040fee6/AppIcon-0-0-1x_U007euniversal-0-0-0-1-0-0-85-220.png/180x180bb.png",
+          "rating": 4.7,
+          "ratingCount": 4071,
+          "price": "0.00",
+          "rank": 235,
+          "category": "6012"
+        },
+        {
+          "appId": 6756558210,
+          "name": "Rivet: Date & match new people",
+          "publisher": "MeantToBe Inc.",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ce/64/2c/ce642ce3-73ef-9c8a-d20d-0a67e5750a54/AppIcon-0-0-1x_U007ephone-0-1-0-sRGB-85-220.png/180x180bb.png",
+          "rating": 4.1,
+          "ratingCount": 183,
+          "price": "0.00",
+          "rank": 239,
+          "category": "6012"
+        },
+        {
+          "appId": 1392492235,
+          "name": "UniFi Protect",
+          "publisher": "Ubiquiti Inc.",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/14/41/9d/14419dbd-a409-3b09-e4bb-bfebac9a168b/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/180x180bb.png",
+          "rating": 4.8,
+          "ratingCount": 78000,
+          "price": "0.00",
+          "rank": 242,
+          "category": "6012"
+        },
+        {
+          "appId": 1462195529,
+          "name": "Survey Junkie",
+          "publisher": "Survey Junkie",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/28/05/8e/28058e92-e41b-336a-8645-d917f02cb26a/SJAppIcon-0-0-1x_U007ephone-0-0-0-1-0-0-85-220.png/180x180bb.png",
+          "rating": 4.6,
+          "ratingCount": 87300,
+          "price": "0.00",
+          "rank": 243,
+          "category": "6012"
+        },
+        {
+          "appId": 1619838114,
+          "name": "Everything 420",
+          "publisher": "Hed Technologies LLC",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/02/a7/b1/02a7b113-ebfb-6707-eaae-a6acd9eb9399/AppIcon-0-0-1x_U007epad-0-1-85-220.png/180x180bb.png",
+          "rating": 4.7,
+          "ratingCount": 4895,
+          "price": "0.00",
+          "rank": 245,
+          "category": "6012"
+        },
+        {
+          "appId": 1475805212,
+          "name": "Whisker",
+          "publisher": "Automated Pet Care Products Inc. dba AutoPets",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f1/fa/6e/f1fa6e02-53d5-6162-b500-c103457a3a99/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/180x180bb.png",
+          "rating": 4.8,
+          "ratingCount": 151000,
+          "price": "0.00",
+          "rank": 246,
+          "category": "6012"
+        }
+      ],
+      "removed": [
+        {
+          "appId": 1450826468,
+          "name": "Sell books with World of Books",
+          "publisher": "Ziffit.com",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d5/a2/34/d5a23448-9d7f-fa97-e289-b772726fe789/AppIcon-0-0-1x_U007epad-0-1-85-220.png/180x180bb.png",
+          "rating": 4.8,
+          "ratingCount": 10200,
+          "price": "0.00",
+          "rank": 175,
+          "category": "6012"
+        },
+        {
+          "appId": 6759089677,
+          "name": "PrayerWall: Devotion&Trust",
+          "publisher": "IGNITEDDY TECH SDN.BHD.",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/39/32/03/3932037b-f752-ca0f-0c33-2302ba5590ec/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/180x180bb.png",
+          "rating": 4.9,
+          "ratingCount": 1758,
+          "price": "0.00",
+          "rank": 228,
+          "category": "6012"
+        },
+        {
+          "appId": 395563123,
+          "name": "Dscout",
+          "publisher": "dscout",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/57/19/18/5719184c-bb50-0230-c903-0bf1571565e6/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/180x180bb.png",
+          "rating": 4.4,
+          "ratingCount": 3654,
+          "price": "0.00",
+          "rank": 238,
+          "category": "6012"
+        },
+        {
+          "appId": 6760680465,
+          "name": "Aesthetic - Decorate & Design",
+          "publisher": "Fliq Labs",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/80/35/14/803514d7-bf9d-55be-9ff8-0a0d8c6a77aa/AppIcon-0-0-1x_U007epad-0-1-85-220.png/180x180bb.png",
+          "rating": 4.7,
+          "ratingCount": 2568,
+          "price": "0.00",
+          "rank": 243,
+          "category": "6012"
+        },
+        {
+          "appId": 1403308360,
+          "name": "Sport Clips Haircuts Check-In",
+          "publisher": "Sport Clips",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/10/7e/8d/107e8dc6-d3d0-b886-5539-d5475a8258d5/AppIcon-1x_U007ephone-0-1-85-220-0.png/180x180bb.png",
+          "rating": 4.8,
+          "ratingCount": 82500,
+          "price": "0.00",
+          "rank": 247,
+          "category": "6012"
+        },
+        {
+          "appId": 1449109039,
+          "name": "LED LAMP",
+          "publisher": "Shenzhen Zhongji Technology Co., Ltd.",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/70/be/56/70be5627-45f3-711b-facd-74bf8480a26a/AppIcon-1x_U007emarketing-0-8-0-sRGB-85-220-0.png/180x180bb.png",
+          "rating": 1.9,
+          "ratingCount": 2040,
+          "price": "0.00",
+          "rank": 250,
+          "category": "6012"
+        }
+      ]
+    }
+  }
+}
