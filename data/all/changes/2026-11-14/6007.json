@@ -3,32 +3,10 @@
   "genre": "6007",
   "topRisers": [
     {
-      "appId": 1544804494,
-      "previous_rank": 229,
-      "current_rank": 117,
-      "rank_change": 112,
-      "category": "6007",
-      "date": "2026-11-14",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c8/53/2e/c8532e1b-b8b0-491e-4f26-0efc5b74333b/AppIconout-0-0-1x_U007emarketing-0-8-0-85-220.png/180x180bb.png",
-      "app_name": "Mail App for Outlook",
-      "publisher": "Intrepid"
-    },
-    {
-      "appId": 6479227698,
-      "previous_rank": 188,
-      "current_rank": 99,
-      "rank_change": 89,
-      "category": "6007",
-      "date": "2026-11-14",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/bd/5b/f7/bd5bf7da-40d9-129b-afad-a0296c35a3a2/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/180x180bb.png",
-      "app_name": "Fotli Cleaner",
-      "publisher": "CLAPS NETWORK TECHNOLOGY LIMITED"
-    },
-    {
       "appId": 6502579498,
       "previous_rank": 201,
-      "current_rank": 121,
-      "rank_change": 80,
+      "current_rank": 53,
+      "rank_change": 148,
       "category": "6007",
       "date": "2026-11-14",
       "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c6/59/d2/c659d20a-6050-7d76-5be6-e316dd99477c/AppIcon-0-0-1x_U007epad-0-1-85-220.png/180x180bb.png",
@@ -38,8 +16,8 @@
     {
       "appId": 1080871199,
       "previous_rank": 225,
-      "current_rank": 152,
-      "rank_change": 73,
+      "current_rank": 135,
+      "rank_change": 90,
       "category": "6007",
       "date": "2026-11-14",
       "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/8c/46/89/8c4689ab-a098-c715-053d-2c9b4675b630/AppIcon-0-0-1x_U007epad-0-1-85-220.png/180x180bb.png",
@@ -47,26 +25,48 @@
       "publisher": "Schlage Lock Company"
     },
     {
-      "appId": 1177964608,
-      "previous_rank": 113,
-      "current_rank": 42,
-      "rank_change": 71,
+      "appId": 6796594288,
+      "previous_rank": 231,
+      "current_rank": 156,
+      "rank_change": 75,
       "category": "6007",
       "date": "2026-11-14",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4d/63/dc/4d63dc89-3ec1-470e-1b6b-0541e42925fb/AppIcon-Old-0-0-1x_U007epad-0-1-0-0-85-220.png/180x180bb.png",
-      "app_name": "TOR Browser: OrNET Onion + ***",
-      "publisher": "Stronger Apps"
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b6/92/84/b6928498-cd60-abcd-0481-45be5fe16418/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/180x180bb.png",
+      "app_name": "Formi: Edit & Convert",
+      "publisher": "亚峰 王"
     },
     {
-      "appId": 1525373602,
-      "previous_rank": 200,
-      "current_rank": 148,
-      "rank_change": 52,
+      "appId": 6479227698,
+      "previous_rank": 188,
+      "current_rank": 120,
+      "rank_change": 68,
       "category": "6007",
       "date": "2026-11-14",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/dc/82/18/dc82185e-d0f2-2c91-1a46-d293ebf43dd5/VPN-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/180x180bb.png",
-      "app_name": "AdGuard ***: Free Your Privacy",
-      "publisher": "Adguard Software Limited"
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/bd/5b/f7/bd5bf7da-40d9-129b-afad-a0296c35a3a2/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/180x180bb.png",
+      "app_name": "Fotli Cleaner",
+      "publisher": "CLAPS NETWORK TECHNOLOGY LIMITED"
+    },
+    {
+      "appId": 6746162794,
+      "previous_rank": 222,
+      "current_rank": 154,
+      "rank_change": 68,
+      "category": "6007",
+      "date": "2026-11-14",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/73/28/74/732874d9-b196-8694-f8e1-ec31976e10f4/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/180x180bb.png",
+      "app_name": "TVRem Universal SmartTV Remote",
+      "publisher": "Electronic Team, Inc."
+    },
+    {
+      "appId": 1544804494,
+      "previous_rank": 229,
+      "current_rank": 161,
+      "rank_change": 68,
+      "category": "6007",
+      "date": "2026-11-14",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c8/53/2e/c8532e1b-b8b0-491e-4f26-0efc5b74333b/AppIconout-0-0-1x_U007emarketing-0-8-0-85-220.png/180x180bb.png",
+      "app_name": "Mail App for Outlook",
+      "publisher": "Intrepid"
     }
   ]
 }
