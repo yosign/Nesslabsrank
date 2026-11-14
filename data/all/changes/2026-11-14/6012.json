@@ -3,10 +3,21 @@
   "genre": "6012",
   "topRisers": [
     {
+      "appId": 351091731,
+      "previous_rank": 222,
+      "current_rank": 128,
+      "rank_change": 94,
+      "category": "6012",
+      "date": "2026-11-14",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/64/af/23/64af23fe-9ad0-665e-a65f-7bf5622f4efd/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/180x180bb.png",
+      "app_name": "Dianping: Discover Good Places",
+      "publisher": "Hanhai Information Technology (Shanghai) Co.Ltd"
+    },
+    {
       "appId": 6746632522,
       "previous_rank": 110,
-      "current_rank": 38,
-      "rank_change": 72,
+      "current_rank": 43,
+      "rank_change": 67,
       "category": "6012",
       "date": "2026-11-14",
       "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7a/e9/1d/7ae91dbd-c529-33e8-e85d-a85fb3a9ef46/AppIcon-0-0-1x_U007ephone-0-1-sRGB-85-220.png/180x180bb.png",
@@ -16,8 +27,8 @@
     {
       "appId": 350189835,
       "previous_rank": 198,
-      "current_rank": 131,
-      "rank_change": 67,
+      "current_rank": 136,
+      "rank_change": 62,
       "category": "6012",
       "date": "2026-11-14",
       "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/67/e1/92/67e1928a-3dce-922c-1984-05d6e5408c63/AppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.png/180x180bb.png",
@@ -25,32 +36,10 @@
       "publisher": "WeedMaps"
     },
     {
-      "appId": 6768380647,
-      "previous_rank": 207,
-      "current_rank": 146,
-      "rank_change": 61,
-      "category": "6012",
-      "date": "2026-11-14",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/33/74/24/337424e5-88c9-a423-e18a-52952ee4c7ab/AppIcon-0-0-1x_U007epad-0-1-85-220.png/180x180bb.png",
-      "app_name": "KidHub by Unleashed Brands",
-      "publisher": "Unleashed Services"
-    },
-    {
-      "appId": 6451121016,
-      "previous_rank": 153,
-      "current_rank": 93,
-      "rank_change": 60,
-      "category": "6012",
-      "date": "2026-11-14",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e2/c1/d3/e2c1d360-6bfa-d90d-0703-68ac1fbd49ce/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/180x180bb.png",
-      "app_name": "Monster Smart Lighting",
-      "publisher": "Jem Accessories, Inc"
-    },
-    {
       "appId": 1664083251,
       "previous_rank": 249,
-      "current_rank": 191,
-      "rank_change": 58,
+      "current_rank": 188,
+      "rank_change": 61,
       "category": "6012",
       "date": "2026-11-14",
       "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/50/ad/d7/50add77c-488a-6676-c02c-127497323773/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/180x180bb.png",
@@ -58,15 +47,26 @@
       "publisher": "Codenhagen.IO ApS"
     },
     {
-      "appId": 6746327655,
-      "previous_rank": 242,
-      "current_rank": 188,
-      "rank_change": 54,
+      "appId": 6451121016,
+      "previous_rank": 153,
+      "current_rank": 95,
+      "rank_change": 58,
       "category": "6012",
       "date": "2026-11-14",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/67/21/f7/6721f76c-a5f3-5371-a1d5-3544aec88d98/AppIcon-0-0-1x_U007epad-0-1-0-P3-0-85-220.png/180x180bb.png",
-      "app_name": "Just Well - Wellness Manager",
-      "publisher": "Veristen Labs"
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e2/c1/d3/e2c1d360-6bfa-d90d-0703-68ac1fbd49ce/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/180x180bb.png",
+      "app_name": "Monster Smart Lighting",
+      "publisher": "Jem Accessories, Inc"
+    },
+    {
+      "appId": 6752447819,
+      "previous_rank": 149,
+      "current_rank": 97,
+      "rank_change": 52,
+      "category": "6012",
+      "date": "2026-11-14",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/73/c5/d1/73c5d19e-8d1a-38bb-d52a-01cae144db59/Daimon-0-0-1x_U007ephone-0-1-0-sRGB-85-220.png/180x180bb.png",
+      "app_name": "Daimon: Honest Advice",
+      "publisher": "Prospinity Inc"
     }
   ]
 }
