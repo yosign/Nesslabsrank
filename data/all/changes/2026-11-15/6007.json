@@ -3,10 +3,21 @@
   "genre": "6007",
   "topRisers": [
     {
+      "appId": 6791895084,
+      "previous_rank": 183,
+      "current_rank": 100,
+      "rank_change": 83,
+      "category": "6007",
+      "date": "2026-11-15",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/20/f1/eb/20f1eb47-d23f-69a8-ee3e-af6e0d5c40c3/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/180x180bb.png",
+      "app_name": "Charge Win: Win Rewards",
+      "publisher": "Sunnrise Lab"
+    },
+    {
       "appId": 1544457390,
       "previous_rank": 240,
-      "current_rank": 134,
-      "rank_change": 106,
+      "current_rank": 159,
+      "rank_change": 81,
       "category": "6007",
       "date": "2026-11-15",
       "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/70/f5/18/70f518ac-ab08-fe01-21e9-86bf823b885f/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/180x180bb.png",
@@ -16,8 +27,8 @@
     {
       "appId": 6746162794,
       "previous_rank": 211,
-      "current_rank": 130,
-      "rank_change": 81,
+      "current_rank": 134,
+      "rank_change": 77,
       "category": "6007",
       "date": "2026-11-15",
       "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/73/28/74/732874d9-b196-8694-f8e1-ec31976e10f4/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/180x180bb.png",
@@ -27,8 +38,8 @@
     {
       "appId": 6796594288,
       "previous_rank": 207,
-      "current_rank": 136,
-      "rank_change": 71,
+      "current_rank": 133,
+      "rank_change": 74,
       "category": "6007",
       "date": "2026-11-15",
       "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b6/92/84/b6928498-cd60-abcd-0481-45be5fe16418/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/180x180bb.png",
@@ -36,37 +47,26 @@
       "publisher": "亚峰 王"
     },
     {
+      "appId": 1526622816,
+      "previous_rank": 223,
+      "current_rank": 152,
+      "rank_change": 71,
+      "category": "6007",
+      "date": "2026-11-15",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/76/72/23/767223c6-0385-420d-e7d3-273346f30dd3/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/180x180bb.png",
+      "app_name": "***.lat: unlimited and secure",
+      "publisher": "https://www.vpn.lat"
+    },
+    {
       "appId": 6502579498,
       "previous_rank": 121,
-      "current_rank": 51,
-      "rank_change": 70,
+      "current_rank": 52,
+      "rank_change": 69,
       "category": "6007",
       "date": "2026-11-15",
       "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c6/59/d2/c659d20a-6050-7d76-5be6-e316dd99477c/AppIcon-0-0-1x_U007epad-0-1-85-220.png/180x180bb.png",
       "app_name": "PocketPal AI",
       "publisher": "Gooya UG (haftungsbeschraenkt)"
-    },
-    {
-      "appId": 6742061900,
-      "previous_rank": 168,
-      "current_rank": 102,
-      "rank_change": 66,
-      "category": "6007",
-      "date": "2026-11-15",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ea/eb/48/eaeb4822-2f77-4480-3941-c273c53fa77a/AppIcon-0-0-1x_U007epad-0-1-85-220.png/180x180bb.png",
-      "app_name": "Venice AI",
-      "publisher": "VENICE.AI"
-    },
-    {
-      "appId": 6461268224,
-      "previous_rank": 186,
-      "current_rank": 120,
-      "rank_change": 66,
-      "category": "6007",
-      "date": "2026-11-15",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b6/fb/53/b6fb5399-27ab-2592-c8b3-5e1411bcfe6c/AppIcon_VoicesAI-0-0-1x_U007epad-0-1-85-220.png/180x180bb.png",
-      "app_name": "Voices AI: Change Your Voice",
-      "publisher": "Fiedler Tech LLC"
     }
   ]
 }
