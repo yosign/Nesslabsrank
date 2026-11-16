@@ -5,8 +5,8 @@
     {
       "appId": 1667391175,
       "previous_rank": 209,
-      "current_rank": 51,
-      "rank_change": 158,
+      "current_rank": 54,
+      "rank_change": 155,
       "category": "6002",
       "date": "2026-11-16",
       "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d0/d2/e9/d0d2e996-d5d2-99c7-4b7a-a62563806872/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/180x180bb.png",
@@ -16,8 +16,8 @@
     {
       "appId": 1568033706,
       "previous_rank": 232,
-      "current_rank": 139,
-      "rank_change": 93,
+      "current_rank": 147,
+      "rank_change": 85,
       "category": "6002",
       "date": "2026-11-16",
       "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/07/aa/77/07aa77ab-998f-c97f-ebcf-fab378fc628f/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/180x180bb.png",
@@ -25,10 +25,32 @@
       "publisher": "Nothing Technology Limited"
     },
     {
+      "appId": 1018301773,
+      "previous_rank": 240,
+      "current_rank": 184,
+      "rank_change": 56,
+      "category": "6002",
+      "date": "2026-11-16",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/21/27/32/21273225-b13f-ee55-9d15-ff269f1cb5fe/default-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/180x180bb.png",
+      "app_name": "AdBlock Pro for Safari",
+      "publisher": "Crypto Inc."
+    },
+    {
+      "appId": 6788673825,
+      "previous_rank": 250,
+      "current_rank": 194,
+      "rank_change": 56,
+      "category": "6002",
+      "date": "2026-11-16",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6b/b3/80/6bb3806a-ef9c-0b32-7677-fd851ae61ec1/AppIcon-0-0-1x_U007epad-0-1-85-220.png/180x180bb.png",
+      "app_name": "Reps - Get Paid Real Money",
+      "publisher": "Born Labs, Inc."
+    },
+    {
       "appId": 1670649189,
       "previous_rank": 204,
-      "current_rank": 142,
-      "rank_change": 62,
+      "current_rank": 150,
+      "rank_change": 54,
       "category": "6002",
       "date": "2026-11-16",
       "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/10/72/7c/10727c84-b66f-f8ef-24a9-1161e4de8174/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/180x180bb.png",
@@ -38,35 +60,13 @@
     {
       "appId": 1455009028,
       "previous_rank": 215,
-      "current_rank": 154,
-      "rank_change": 61,
+      "current_rank": 164,
+      "rank_change": 51,
       "category": "6002",
       "date": "2026-11-16",
       "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/34/0e/3d/340e3dfd-fe95-dc95-6c60-4a61e01ede8c/AppIcon-0-0-1x_U007emarketing-0-8-0-sRGB-85-220.png/180x180bb.png",
       "app_name": "Remote for Samsung",
       "publisher": "Oz Shabbatth"
-    },
-    {
-      "appId": 1561954125,
-      "previous_rank": 211,
-      "current_rank": 152,
-      "rank_change": 59,
-      "category": "6002",
-      "date": "2026-11-16",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7d/97/ae/7d97aef2-bd4b-59d1-bcc3-745fa39cdecb/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/180x180bb.png",
-      "app_name": "Smart Remote for Sam TV",
-      "publisher": "EVOLLY.APP"
-    },
-    {
-      "appId": 6444176737,
-      "previous_rank": 229,
-      "current_rank": 172,
-      "rank_change": 57,
-      "category": "6002",
-      "date": "2026-11-16",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/50/e8/20/50e8209d-92c8-45c5-db79-5ad3d6bd103c/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/180x180bb.png",
-      "app_name": "Cast for Chromecast",
-      "publisher": "Creative Zone"
     }
   ]
 }
