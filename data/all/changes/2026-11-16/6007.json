@@ -5,8 +5,8 @@
     {
       "appId": 1104165041,
       "previous_rank": 208,
-      "current_rank": 109,
-      "rank_change": 99,
+      "current_rank": 103,
+      "rank_change": 105,
       "category": "6007",
       "date": "2026-11-16",
       "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3a/e9/93/3ae993f7-7cc8-66f0-199b-a84dee0385e3/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-85-220.png/180x180bb.png",
@@ -16,8 +16,8 @@
     {
       "appId": 6463116243,
       "previous_rank": 249,
-      "current_rank": 164,
-      "rank_change": 85,
+      "current_rank": 167,
+      "rank_change": 82,
       "category": "6007",
       "date": "2026-11-16",
       "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ab/b6/28/abb628b6-afc4-44e4-f400-fb837664145f/qb_app_icon-0-0-1x_U007ephone-0-1-0-85-220.png/180x180bb.png",
@@ -36,6 +36,17 @@
       "publisher": "Sunnrise Lab"
     },
     {
+      "appId": 6752896753,
+      "previous_rank": 242,
+      "current_rank": 174,
+      "rank_change": 68,
+      "category": "6007",
+      "date": "2026-11-16",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/fe/32/9b/fe329b34-3b1d-6e4b-1847-74078998e848/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/180x180bb.png",
+      "app_name": "RepairBuddy: AI Repair & DIY",
+      "publisher": "DIJITAL ELMA MOBIL OYUN VE UYGULAMA ANONIM SIRKETI"
+    },
+    {
       "appId": 1438388363,
       "previous_rank": 169,
       "current_rank": 102,
@@ -49,24 +60,13 @@
     {
       "appId": 6788947658,
       "previous_rank": 229,
-      "current_rank": 162,
-      "rank_change": 67,
+      "current_rank": 170,
+      "rank_change": 59,
       "category": "6007",
       "date": "2026-11-16",
       "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/86/e4/a5/86e4a58a-febb-4150-e4be-f256c702b2b4/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/180x180bb.png",
       "app_name": "Latent: Focus Timelapse",
       "publisher": "Weaive, Inc."
-    },
-    {
-      "appId": 6758457625,
-      "previous_rank": 209,
-      "current_rank": 143,
-      "rank_change": 66,
-      "category": "6007",
-      "date": "2026-11-16",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b6/45/b3/b645b30a-89a8-951a-2d6d-982caa5dfc3f/AppIcon-0-0-1x_U007epad-0-1-85-220.png/180x180bb.png",
-      "app_name": "Focustown: Pomodoro Timer",
-      "publisher": "Second Round Inc."
     }
   ]
 }
