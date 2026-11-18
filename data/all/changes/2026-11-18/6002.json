@@ -3,10 +3,21 @@
   "genre": "6002",
   "topRisers": [
     {
+      "appId": 6471626032,
+      "previous_rank": 243,
+      "current_rank": 115,
+      "rank_change": 128,
+      "category": "6002",
+      "date": "2026-11-18",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5c/9f/8b/5c9f8b3d-e083-eedd-d8bc-92df4a905eb4/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/180x180bb.png",
+      "app_name": "TV Remote for Roku ·",
+      "publisher": "Netsis Mobile FZCO"
+    },
+    {
       "appId": 6795529595,
       "previous_rank": 209,
-      "current_rank": 118,
-      "rank_change": 91,
+      "current_rank": 109,
+      "rank_change": 100,
       "category": "6002",
       "date": "2026-11-18",
       "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/39/99/02/39990238-4a73-71e9-1f61-1b768c9f6e4f/AppIcon3-0-0-1x_U007epad-0-1-0-85-220.png/180x180bb.png",
@@ -14,21 +25,10 @@
       "publisher": "Phone Cleaner Tools"
     },
     {
-      "appId": 6467768006,
-      "previous_rank": 226,
-      "current_rank": 153,
-      "rank_change": 73,
-      "category": "6002",
-      "date": "2026-11-18",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e3/90/69/e39069ae-c122-ed36-51ee-fff405c61726/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/180x180bb.png",
-      "app_name": "Parcel Pending",
-      "publisher": "Quadient Shipping"
-    },
-    {
       "appId": 6825661328,
       "previous_rank": 222,
-      "current_rank": 155,
-      "rank_change": 67,
+      "current_rank": 123,
+      "rank_change": 99,
       "category": "6002",
       "date": "2026-11-18",
       "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/11/8a/64/118a64e6-2fe3-2d48-8d9c-2131103bbffe/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/180x180bb.png",
@@ -36,37 +36,37 @@
       "publisher": "少杰 郭"
     },
     {
-      "appId": 6749863577,
-      "previous_rank": 159,
-      "current_rank": 95,
-      "rank_change": 64,
-      "category": "6002",
-      "date": "2026-11-18",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/15/7c/d7/157cd790-fd7b-8975-93ed-7926ac65e0bd/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/180x180bb.png",
-      "app_name": "Authenticator App • 2FA, MFA",
-      "publisher": "Solid Apps LLC"
-    },
-    {
-      "appId": 6745494895,
-      "previous_rank": 199,
-      "current_rank": 136,
-      "rank_change": 63,
-      "category": "6002",
-      "date": "2026-11-18",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/13/c2/73/13c273af-d401-ea0e-f8e2-fa99dcfb2b8e/AppIcon-Default-0-0-1x_U007ephone-0-1-0-85-220.png/180x180bb.png",
-      "app_name": "iQR Scanner Pro",
-      "publisher": "thuy nguyen thi thu"
-    },
-    {
       "appId": 6816359797,
       "previous_rank": 133,
-      "current_rank": 71,
-      "rank_change": 62,
+      "current_rank": 47,
+      "rank_change": 86,
       "category": "6002",
       "date": "2026-11-18",
       "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/40/88/bb/4088bb28-1463-f1e5-cacd-26a648917399/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/180x180bb.png",
       "app_name": "AreaMap: Measure Land & Acres",
       "publisher": "NATHAN LA MAR BURNETT"
+    },
+    {
+      "appId": 6749566371,
+      "previous_rank": 250,
+      "current_rank": 167,
+      "rank_change": 83,
+      "category": "6002",
+      "date": "2026-11-18",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2c/fa/77/2cfa77ad-2df8-ef56-3615-32c9bcf8cf76/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/180x180bb.png",
+      "app_name": "Pulse Monitor-Blood Sugar",
+      "publisher": "PIECES OF WOOD CO., LIMITED"
+    },
+    {
+      "appId": 6745494895,
+      "previous_rank": 199,
+      "current_rank": 121,
+      "rank_change": 78,
+      "category": "6002",
+      "date": "2026-11-18",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/13/c2/73/13c273af-d401-ea0e-f8e2-fa99dcfb2b8e/AppIcon-Default-0-0-1x_U007ephone-0-1-0-85-220.png/180x180bb.png",
+      "app_name": "iQR Scanner Pro",
+      "publisher": "thuy nguyen thi thu"
     }
   ]
 }
