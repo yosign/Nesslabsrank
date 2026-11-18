@@ -3,21 +3,10 @@
   "genre": "6013",
   "topRisers": [
     {
-      "appId": 1669369516,
-      "previous_rank": 238,
-      "current_rank": 136,
-      "rank_change": 102,
-      "category": "6013",
-      "date": "2026-11-18",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9e/f3/30/9ef33082-41b0-1b96-70f8-ecffbd8946be/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/180x180bb.png",
-      "app_name": "Calm Health",
-      "publisher": "Calm.com"
-    },
-    {
       "appId": 6444737095,
       "previous_rank": 234,
-      "current_rank": 139,
-      "rank_change": 95,
+      "current_rank": 133,
+      "rank_change": 101,
       "category": "6013",
       "date": "2026-11-18",
       "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/06/34/6b/06346ba1-f498-035f-d7d5-48321d319cd5/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-0-85-220.png/180x180bb.png",
@@ -25,10 +14,21 @@
       "publisher": "One Hundred Bad Ideas Limited"
     },
     {
+      "appId": 1669369516,
+      "previous_rank": 238,
+      "current_rank": 141,
+      "rank_change": 97,
+      "category": "6013",
+      "date": "2026-11-18",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9e/f3/30/9ef33082-41b0-1b96-70f8-ecffbd8946be/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/180x180bb.png",
+      "app_name": "Calm Health",
+      "publisher": "Calm.com"
+    },
+    {
       "appId": 1490078804,
       "previous_rank": 190,
-      "current_rank": 119,
-      "rank_change": 71,
+      "current_rank": 112,
+      "rank_change": 78,
       "category": "6013",
       "date": "2026-11-18",
       "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c3/7c/3f/c37c3ffb-2bce-8c9f-a097-79b47f4f91e7/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/180x180bb.png",
@@ -36,10 +36,21 @@
       "publisher": "Enerjoy Pte. Ltd."
     },
     {
+      "appId": 6771587954,
+      "previous_rank": 186,
+      "current_rank": 132,
+      "rank_change": 54,
+      "category": "6013",
+      "date": "2026-11-18",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/51/39/7b/51397b10-abad-2ef2-bdd6-103ea5cd4b01/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/180x180bb.png",
+      "app_name": "Rage - Motivational Quotes",
+      "publisher": "CutCoach Inc."
+    },
+    {
       "appId": 6454791879,
       "previous_rank": 176,
-      "current_rank": 117,
-      "rank_change": 59,
+      "current_rank": 127,
+      "rank_change": 49,
       "category": "6013",
       "date": "2026-11-18",
       "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/92/da/ed/92daed1c-b0aa-9dc6-671a-9ca61c27a9fe/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/180x180bb.png",
@@ -47,26 +58,15 @@
       "publisher": "Chuze Fitness"
     },
     {
-      "appId": 6502008032,
-      "previous_rank": 196,
-      "current_rank": 141,
-      "rank_change": 55,
+      "appId": 6741105248,
+      "previous_rank": 227,
+      "current_rank": 180,
+      "rank_change": 47,
       "category": "6013",
       "date": "2026-11-18",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/54/29/ad/5429ad17-c184-7bc8-098b-510bb88b3170/productionAppIcon-1x_U007emarketing-0-11-0-85-220-0.png/180x180bb.png",
-      "app_name": "FusionGO",
-      "publisher": "InnoSoft Canada Inc."
-    },
-    {
-      "appId": 1291447822,
-      "previous_rank": 111,
-      "current_rank": 65,
-      "rank_change": 46,
-      "category": "6013",
-      "date": "2026-11-18",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/64/7f/e0/647fe0d8-fcfd-84dd-216b-80198627d54e/24-icon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.jpg",
-      "app_name": "24GO by 24 Hour Fitness",
-      "publisher": "Yourtrainer, Inc."
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/09/f9/31/09f9317b-409c-f686-ef32-aed955e76dda/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/180x180bb.png",
+      "app_name": "Calorie Counter by Lean AI",
+      "publisher": "HUBX"
     }
   ]
 }
