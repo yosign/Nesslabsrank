@@ -3,43 +3,10 @@
   "genre": "6012",
   "topRisers": [
     {
-      "appId": 6802919079,
-      "previous_rank": 203,
-      "current_rank": 153,
-      "rank_change": 50,
-      "category": "6012",
-      "date": "2026-11-18",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/53/b9/cd/53b9cdf3-7340-a1df-2b70-88bdff43df16/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/180x180bb.png",
-      "app_name": "Dwellia: AI Space Design",
-      "publisher": "Chengdu Dance Elephant Technology Co., LTD."
-    },
-    {
-      "appId": 1423831457,
-      "previous_rank": 170,
-      "current_rank": 124,
-      "rank_change": 46,
-      "category": "6012",
-      "date": "2026-11-18",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/92/b2/a9/92b2a935-43ce-4148-c798-95f942d09ed5/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/180x180bb.png",
-      "app_name": "ADT Control ®",
-      "publisher": "ADT LLC"
-    },
-    {
-      "appId": 1604464354,
-      "previous_rank": 230,
-      "current_rank": 185,
-      "rank_change": 45,
-      "category": "6012",
-      "date": "2026-11-18",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/03/26/72/0326721f-62b0-4dd6-fd52-fb153122fdd0/ADT_U002b_AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/180x180bb.png",
-      "app_name": "ADT+",
-      "publisher": "ADT LLC"
-    },
-    {
       "appId": 734547946,
       "previous_rank": 187,
-      "current_rank": 154,
-      "rank_change": 33,
+      "current_rank": 127,
+      "rank_change": 60,
       "category": "6012",
       "date": "2026-11-18",
       "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/53/1c/d1/531cd10a-e61a-bdac-60a2-88d687203116/VIVAppIcon-0-0-1x_U007epad-0-1-0-85-220.png/180x180bb.png",
@@ -47,26 +14,59 @@
       "publisher": "Vivint"
     },
     {
-      "appId": 333244247,
-      "previous_rank": 129,
-      "current_rank": 99,
-      "rank_change": 30,
+      "appId": 1016299342,
+      "previous_rank": 246,
+      "current_rank": 195,
+      "rank_change": 51,
       "category": "6012",
       "date": "2026-11-18",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/dd/d5/1e/ddd51e27-b0b4-3b26-4056-40b2f3e6cc3a/AppIcon-1x_U007emarketing-0-11-0-85-220-0.png/180x180bb.png",
-      "app_name": "LOFT Living",
-      "publisher": "RealPage, Inc."
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9b/6f/48/9b6f4843-4f41-f6f8-cafe-3f49ae3d140d/AppIcon-0-0-1x_U007emarketing-0-8-0-sRGB-85-220.png/180x180bb.png",
+      "app_name": "Blueair",
+      "publisher": "Blueair AB"
     },
     {
-      "appId": 1440094075,
-      "previous_rank": 159,
-      "current_rank": 129,
-      "rank_change": 30,
+      "appId": 6737291521,
+      "previous_rank": 207,
+      "current_rank": 164,
+      "rank_change": 43,
       "category": "6012",
       "date": "2026-11-18",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/74/32/57/74325723-f45e-c33d-87e2-b8b936126124/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/180x180bb.png",
-      "app_name": "Luxer One",
-      "publisher": "Luxer One"
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9e/9d/c3/9e9dc3e3-d366-ee87-df3c-31bdf1f1e614/PlayStation_Family-0-0-1x_U007ephone-0-1-0-sRGB-85-220.png/180x180bb.png",
+      "app_name": "PlayStation Family",
+      "publisher": "PlayStation Mobile Inc."
+    },
+    {
+      "appId": 6746327655,
+      "previous_rank": 226,
+      "current_rank": 187,
+      "rank_change": 39,
+      "category": "6012",
+      "date": "2026-11-18",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/67/21/f7/6721f76c-a5f3-5371-a1d5-3544aec88d98/AppIcon-0-0-1x_U007epad-0-1-0-P3-0-85-220.png/180x180bb.png",
+      "app_name": "Just Well - Wellness Manager",
+      "publisher": "Veristen Labs"
+    },
+    {
+      "appId": 6737612921,
+      "previous_rank": 239,
+      "current_rank": 200,
+      "rank_change": 39,
+      "category": "6012",
+      "date": "2026-11-18",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/74/f1/f7/74f1f714-e440-472b-3a79-06eb41644a5e/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-0-85-220.jpeg/180x180bb.png",
+      "app_name": "Wellance – AI Health & Balance",
+      "publisher": "Peppervale"
+    },
+    {
+      "appId": 1586120661,
+      "previous_rank": 215,
+      "current_rank": 179,
+      "rank_change": 36,
+      "category": "6012",
+      "date": "2026-11-18",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ea/83/a2/ea83a23c-8c8a-d4c5-a81e-8e671d4318e6/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/180x180bb.png",
+      "app_name": "Petlibro",
+      "publisher": "Designlibro Inc"
     }
   ]
 }
