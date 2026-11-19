@@ -5,8 +5,8 @@
     {
       "appId": 6751504827,
       "previous_rank": 125,
-      "current_rank": 43,
-      "rank_change": 82,
+      "current_rank": 48,
+      "rank_change": 77,
       "category": "6007",
       "date": "2026-11-19",
       "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b7/ec/5e/b7ec5e44-1576-197b-bec4-6693b3d3fd8e/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/180x180bb.png",
@@ -16,35 +16,13 @@
     {
       "appId": 1419778819,
       "previous_rank": 197,
-      "current_rank": 123,
-      "rank_change": 74,
+      "current_rank": 136,
+      "rank_change": 61,
       "category": "6007",
       "date": "2026-11-19",
       "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/27/b0/67/27b06793-b0f9-1a2d-a7f7-d522429ad7c6/AppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.png/180x180bb.png",
       "app_name": "Cox WiFi by Spectrum",
       "publisher": "Cox Communications, Inc."
-    },
-    {
-      "appId": 1544457390,
-      "previous_rank": 217,
-      "current_rank": 143,
-      "rank_change": 74,
-      "category": "6007",
-      "date": "2026-11-19",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/73/7c/e0/737ce075-6674-7a8d-5115-1c0431476681/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/180x180bb.png",
-      "app_name": "Hello Fairy",
-      "publisher": "Hysiry Technology Co., Ltd."
-    },
-    {
-      "appId": 6449222543,
-      "previous_rank": 249,
-      "current_rank": 175,
-      "rank_change": 74,
-      "category": "6007",
-      "date": "2026-11-19",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2a/a7/b3/2aa7b3f7-7f73-4690-7c9a-019be7203f4e/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/180x180bb.png",
-      "app_name": "Toys for Tots",
-      "publisher": "Marine Toys for Tots Foundation"
     },
     {
       "appId": 6479373050,
@@ -58,15 +36,37 @@
       "publisher": "ElevenLabs, Inc."
     },
     {
+      "appId": 6449222543,
+      "previous_rank": 249,
+      "current_rank": 194,
+      "rank_change": 55,
+      "category": "6007",
+      "date": "2026-11-19",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2a/a7/b3/2aa7b3f7-7f73-4690-7c9a-019be7203f4e/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/180x180bb.png",
+      "app_name": "Toys for Tots",
+      "publisher": "Marine Toys for Tots Foundation"
+    },
+    {
       "appId": 6788947658,
       "previous_rank": 163,
-      "current_rank": 114,
-      "rank_change": 49,
+      "current_rank": 121,
+      "rank_change": 42,
       "category": "6007",
       "date": "2026-11-19",
       "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/82/5a/19/825a1978-2be8-0425-beb9-7fec1874302d/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/180x180bb.png",
       "app_name": "Latent: Focus Timelapse",
       "publisher": "Weaive, Inc."
+    },
+    {
+      "appId": 6447682225,
+      "previous_rank": 180,
+      "current_rank": 138,
+      "rank_change": 42,
+      "category": "6007",
+      "date": "2026-11-19",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/01/e0/d4/01e0d4be-106a-8a8c-f49d-fc9ec4de4a88/AppIcon-0-0-1x_U007ephone-0-10-0-85-220.png/180x180bb.png",
+      "app_name": "eGovPH",
+      "publisher": "DICT eGovernment"
     }
   ]
 }
