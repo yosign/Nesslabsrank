@@ -1,0 +1,407 @@
+{
+  "date": "2026-11-22",
+  "changes": {
+    "6012": {
+      "added": [
+        {
+          "appId": 1329458504,
+          "name": "ECOVACS HOME",
+          "publisher": "Ecovacs",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/dc/d7/57/dcd757c4-5bd3-97aa-f43c-a1ccc018f755/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/180x180bb.png",
+          "rating": 4.6,
+          "ratingCount": 59500,
+          "price": "0.00",
+          "rank": 182,
+          "category": "6012"
+        },
+        {
+          "appId": 1375330146,
+          "name": "Super Slime Simulator",
+          "publisher": "Dramaton LTD",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/79/76/9b/79769bc8-6c38-862d-82ff-21c2f651ffe7/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/180x180bb.png",
+          "rating": 4.7,
+          "ratingCount": 422000,
+          "price": "0.00",
+          "rank": 185,
+          "category": "6012"
+        },
+        {
+          "appId": 6741428388,
+          "name": "Earn Money & Rewards: Prograd",
+          "publisher": "Prograd Limited",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2e/8f/90/2e8f90c4-b4c3-6fd2-16b6-822acf774a7c/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/180x180bb.png",
+          "rating": 4.5,
+          "ratingCount": 4593,
+          "price": "0.00",
+          "rank": 204,
+          "category": "6012"
+        },
+        {
+          "appId": 1626186138,
+          "name": "Roku Smart Home",
+          "publisher": "ROKU INC",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/91/97/a9/9197a9a5-df23-205b-286d-7a7850c98ae9/RokuAppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/180x180bb.png",
+          "rating": 4.7,
+          "ratingCount": 168000,
+          "price": "0.00",
+          "rank": 218,
+          "category": "6012"
+        },
+        {
+          "appId": 1543351744,
+          "name": "Keepsmile",
+          "publisher": "深圳市优智达科技有限公司",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e3/16/37/e316374f-f7cc-b243-3c8a-b724ac096f36/AppIcon-0-0-1x_U007epad-0-11-0-0-85-220.png/180x180bb.png",
+          "rating": 2.5,
+          "ratingCount": 4877,
+          "price": "0.00",
+          "rank": 224,
+          "category": "6012"
+        },
+        {
+          "appId": 1076159017,
+          "name": "Home Planner AI：Room Design 3D",
+          "publisher": "Room Planner Ltd",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/17/1a/85/171a85a5-cb1b-5256-12e3-1f84acf9ab0e/AppIcon-0-0-1x_U007epad-0-8-0-85-220.png/180x180bb.png",
+          "rating": 4.6,
+          "ratingCount": 46700,
+          "price": "0.00",
+          "rank": 227,
+          "category": "6012"
+        },
+        {
+          "appId": 1397726277,
+          "name": "Wansview Cloud",
+          "publisher": "Ajcloud Labs Inc.",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/35/fd/bf/35fdbf39-14ac-8265-ca02-81030acbf82b/AppIcon_WanviewCloud-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/180x180bb.png",
+          "rating": 4.7,
+          "ratingCount": 55400,
+          "price": "0.00",
+          "rank": 231,
+          "category": "6012"
+        },
+        {
+          "appId": 1595390736,
+          "name": "Instinct: Casual Dating App",
+          "publisher": "Instinct Dating Company",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3f/d4/a9/3fd4a971-215b-c18e-7e67-6f591e581797/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/180x180bb.png",
+          "rating": 4.9,
+          "ratingCount": 144000,
+          "price": "0.00",
+          "rank": 234,
+          "category": "6012"
+        },
+        {
+          "appId": 1489209093,
+          "name": "Microsoft Family Safety",
+          "publisher": "Microsoft Corporation",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/03/7f/53/037f53c3-4faf-7dcf-fea0-0c7b44136877/AppIcon-prod-1x_U007emarketing-0-6-0-0-85-220-0.png/180x180bb.png",
+          "rating": 4.2,
+          "ratingCount": 8381,
+          "price": "0.00",
+          "rank": 236,
+          "category": "6012"
+        },
+        {
+          "appId": 1507406707,
+          "name": "XBOX Family Settings",
+          "publisher": "Microsoft Corporation",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b0/17/03/b0170317-5644-bd55-6140-76ed466b3366/AppIcon-Release-1x_U007emarketing-0-8-0-85-220-0.png/180x180bb.png",
+          "rating": 4,
+          "ratingCount": 6367,
+          "price": "0.00",
+          "rank": 237,
+          "category": "6012"
+        },
+        {
+          "appId": 6760682108,
+          "name": "Aurelux",
+          "publisher": "Shenzhen Juele Technology Co., Ltd",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/17/8e/53/178e53a2-70e5-1e47-4cf5-02444736f4b4/AppIcon-0-0-1x_U007ephone-0-11-0-85-220.png/180x180bb.png",
+          "rating": 0,
+          "ratingCount": 0,
+          "price": "0.00",
+          "rank": 242,
+          "category": "6012"
+        },
+        {
+          "appId": 6760381656,
+          "name": "Juicy AI: Chat with Characters",
+          "publisher": "CHARALEX AI TECH LTD",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d8/84/a7/d884a7c7-8094-f3af-1bab-7ba99c162058/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/180x180bb.png",
+          "rating": 4.6,
+          "ratingCount": 616,
+          "price": "0.00",
+          "rank": 243,
+          "category": "6012"
+        },
+        {
+          "appId": 6743861531,
+          "name": "WRizz: Rizz Keyboard",
+          "publisher": "DH Creations Inc",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1f/7a/1f/1f7a1fa8-8eff-7747-218b-b717926e7c48/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/180x180bb.png",
+          "rating": 4.8,
+          "ratingCount": 3596,
+          "price": "0.00",
+          "rank": 244,
+          "category": "6012"
+        },
+        {
+          "appId": 6755456312,
+          "name": "AI Lover: AI Character Chat",
+          "publisher": "AI Lover Inc.",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f5/39/10/f539103d-5b1d-09a8-6aeb-e5b5d32f95dc/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/180x180bb.png",
+          "rating": 0,
+          "ratingCount": 0,
+          "price": "0.00",
+          "rank": 245,
+          "category": "6012"
+        },
+        {
+          "appId": 1619559100,
+          "name": "The Art Of Pandora",
+          "publisher": "Hazel Mason",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/42/a2/17/42a21717-58d8-b08b-17bd-6ccea0bc1721/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/180x180bb.png",
+          "rating": 4.9,
+          "ratingCount": 43,
+          "price": "0.00",
+          "rank": 247,
+          "category": "6012"
+        },
+        {
+          "appId": 1663430725,
+          "name": "RIZZ",
+          "publisher": "TREND IT LLC",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/68/3c/7e/683c7ee1-1f65-f79f-abfc-6c3bbdcf62f8/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.jpeg/180x180bb.png",
+          "rating": 4.8,
+          "ratingCount": 40199.99999999999,
+          "price": "0.00",
+          "rank": 248,
+          "category": "6012"
+        },
+        {
+          "appId": 6756558210,
+          "name": "Rivet: Date & match new people",
+          "publisher": "MeantToBe Inc.",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ce/3e/c0/ce3ec058-242f-e00d-f65c-4e16e1b10aec/AppIcon-0-0-1x_U007ephone-0-1-0-sRGB-85-220.png/180x180bb.png",
+          "rating": 4,
+          "ratingCount": 196,
+          "price": "0.00",
+          "rank": 249,
+          "category": "6012"
+        },
+        {
+          "appId": 1519461680,
+          "name": "Whering: Your Digital Closet",
+          "publisher": "Whering Ltd",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/8d/a9/ac/8da9ace4-68cc-b414-fda3-f5dd4fd5945f/AppIcon-production-0-0-1x_U007emarketing-0-11-0-85-220.png/180x180bb.png",
+          "rating": 4.7,
+          "ratingCount": 12100,
+          "price": "0.00",
+          "rank": 250,
+          "category": "6012"
+        }
+      ],
+      "removed": [
+        {
+          "appId": 6695762481,
+          "name": "RoadClub",
+          "publisher": "Cambridge Mobile Telematics Inc.",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0f/02/55/0f02557b-8fd3-4fb3-16a0-7523b1802ea6/AppIcon-0-0-1x_U007ephone-0-1-0-sRGB-85-220.png/180x180bb.png",
+          "rating": 4.6,
+          "ratingCount": 2800,
+          "price": "0.00",
+          "rank": 123,
+          "category": "6012"
+        },
+        {
+          "appId": 6553957231,
+          "name": "Gather: All-in-One Mobility",
+          "publisher": "gather.life",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/1c/f0/58/1cf0581e-0879-4c8a-92ed-91a6507bf4a7/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/180x180bb.png",
+          "rating": 4.7,
+          "ratingCount": 1944,
+          "price": "0.00",
+          "rank": 193,
+          "category": "6012"
+        },
+        {
+          "appId": 6802919079,
+          "name": "Dwellia: AI Space Design",
+          "publisher": "Chengdu Dance Elephant Technology Co., LTD.",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/53/b9/cd/53b9cdf3-7340-a1df-2b70-88bdff43df16/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/180x180bb.png",
+          "rating": 0,
+          "ratingCount": 0,
+          "price": "0.00",
+          "rank": 201,
+          "category": "6012"
+        },
+        {
+          "appId": 6744415578,
+          "name": "MySimilac Rewards",
+          "publisher": "Abbott",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f1/94/6e/f1946e85-b4ed-c75a-0989-26485d13727e/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/180x180bb.png",
+          "rating": 2.2,
+          "ratingCount": 113,
+          "price": "0.00",
+          "rank": 206,
+          "category": "6012"
+        },
+        {
+          "appId": 1042822181,
+          "name": "Meeting Guide",
+          "publisher": "Alcoholics Anonymous World Services, Inc.",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/71/d4/da/71d4dad5-f9e9-5ca3-be14-784c748643f6/AppIcon-0-0-1x_U007epad-0-1-85-220.png/180x180bb.png",
+          "rating": 4.4,
+          "ratingCount": 1065,
+          "price": "0.00",
+          "rank": 213,
+          "category": "6012"
+        },
+        {
+          "appId": 1492307238,
+          "name": "BenefitHub",
+          "publisher": "BenefitHub",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/83/e0/6e/83e06e8c-4e88-571a-73dd-3bf87398576c/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/180x180bb.png",
+          "rating": 4.7,
+          "ratingCount": 2875,
+          "price": "0.00",
+          "rank": 218,
+          "category": "6012"
+        },
+        {
+          "appId": 1591156837,
+          "name": "ToChat - Meet New Friends",
+          "publisher": "ByteWave Corporation",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/dc/e7/d0/dce7d022-4b47-1e7b-0c7a-cc9bbb945091/AppIconNew-1x_U007emarketing-0-8-0-85-220-0.png/180x180bb.png",
+          "rating": 4.5,
+          "ratingCount": 5966,
+          "price": "0.00",
+          "rank": 219,
+          "category": "6012"
+        },
+        {
+          "appId": 6737127897,
+          "name": "Homeaglow",
+          "publisher": "homeaglow",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/66/69/00/666900bc-e7ee-8db3-2f23-ca6d80613300/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/180x180bb.png",
+          "rating": 4.7,
+          "ratingCount": 4173,
+          "price": "0.00",
+          "rank": 224,
+          "category": "6012"
+        },
+        {
+          "appId": 792612452,
+          "name": "Sensi",
+          "publisher": "Copeland LP",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/97/8c/f2/978cf298-05fd-349c-31ff-cf078e42e99c/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-85-220.png/180x180bb.png",
+          "rating": 4.6,
+          "ratingCount": 248000,
+          "price": "0.00",
+          "rank": 227,
+          "category": "6012"
+        },
+        {
+          "appId": 6802095147,
+          "name": "Tea Dating Advice",
+          "publisher": "Muhammad Arslan",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f8/76/d3/f876d3c6-162e-97b6-29ba-c154d2fd8c96/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/180x180bb.png",
+          "rating": 1,
+          "ratingCount": 8,
+          "price": "0.00",
+          "rank": 228,
+          "category": "6012"
+        },
+        {
+          "appId": 6758342859,
+          "name": "Echo Grace",
+          "publisher": "爽 张",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ff/e2/7d/ffe27dad-75ca-66ae-47b7-ed9fe87cd20f/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/180x180bb.png",
+          "rating": 4.8,
+          "ratingCount": 5181,
+          "price": "0.00",
+          "rank": 233,
+          "category": "6012"
+        },
+        {
+          "appId": 6737612921,
+          "name": "Wellance – AI Health & Balance",
+          "publisher": "Peppervale",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/74/f1/f7/74f1f714-e440-472b-3a79-06eb41644a5e/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-0-85-220.jpeg/180x180bb.png",
+          "rating": 4.4,
+          "ratingCount": 2919,
+          "price": "0.00",
+          "rank": 236,
+          "category": "6012"
+        },
+        {
+          "appId": 1392492235,
+          "name": "UniFi Protect",
+          "publisher": "Ubiquiti Inc.",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0c/ad/cb/0cadcb37-bd13-cca9-1f4c-327bd3829355/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/180x180bb.png",
+          "rating": 4.8,
+          "ratingCount": 78700,
+          "price": "0.00",
+          "rank": 237,
+          "category": "6012"
+        },
+        {
+          "appId": 1485452102,
+          "name": "UserTesting",
+          "publisher": "UserTesting",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/1b/f5/46/1bf54609-89c6-6b12-9f9e-12a6200483d9/George-AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/180x180bb.png",
+          "rating": 3,
+          "ratingCount": 2858,
+          "price": "0.00",
+          "rank": 238,
+          "category": "6012"
+        },
+        {
+          "appId": 6499445456,
+          "name": "AHS: American Home Shield",
+          "publisher": "Frontdoor Incorporated",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f5/ad/b3/f5adb338-9fce-2eca-fd8c-aa507223ebbf/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/180x180bb.png",
+          "rating": 4.9,
+          "ratingCount": 66200,
+          "price": "0.00",
+          "rank": 241,
+          "category": "6012"
+        },
+        {
+          "appId": 6471983227,
+          "name": "IDEXX Vello",
+          "publisher": "IDEXX Laboratories",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3d/df/5c/3ddf5cc7-5129-8883-70a9-d7966cf5405c/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/180x180bb.png",
+          "rating": 4.4,
+          "ratingCount": 31,
+          "price": "0.00",
+          "rank": 245,
+          "category": "6012"
+        },
+        {
+          "appId": 1623569698,
+          "name": "JoinBrands: UGC Creator Jobs",
+          "publisher": "Join Brands",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9a/64/c7/9a64c75c-ace9-983d-843f-dcb7aa3651ae/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/180x180bb.png",
+          "rating": 4.6,
+          "ratingCount": 893,
+          "price": "0.00",
+          "rank": 246,
+          "category": "6012"
+        },
+        {
+          "appId": 1024722275,
+          "name": "Aladdin Connect",
+          "publisher": "Overhead Door Corporation",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/69/87/d4/6987d45f-ef2b-3a2c-853c-fccfb2827951/AppIcon-0-0-1x_U007emarketing-0-8-0-sRGB-85-220.png/180x180bb.png",
+          "rating": 4.8,
+          "ratingCount": 115000,
+          "price": "0.00",
+          "rank": 249,
+          "category": "6012"
+        }
+      ]
+    }
+  }
+}
