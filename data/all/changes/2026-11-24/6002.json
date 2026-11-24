@@ -3,10 +3,21 @@
   "genre": "6002",
   "topRisers": [
     {
+      "appId": 1502909594,
+      "previous_rank": 241,
+      "current_rank": 169,
+      "rank_change": 72,
+      "category": "6002",
+      "date": "2026-11-24",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/54/34/7b/54347be1-722e-edce-b871-7dba9255ec0d/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/180x180bb.png",
+      "app_name": "Translator Keyboard - Language",
+      "publisher": "Air Apps Systems"
+    },
+    {
       "appId": 474874963,
       "previous_rank": 237,
-      "current_rank": 159,
-      "rank_change": 78,
+      "current_rank": 167,
+      "rank_change": 70,
       "category": "6002",
       "date": "2026-11-24",
       "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b0/2b/b3/b02bb3e5-4765-6b74-f201-d9f7cefc7e8d/SHAppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/180x180bb.png",
@@ -14,21 +25,10 @@
       "publisher": "National Information Solutions Cooperative"
     },
     {
-      "appId": 1218465964,
-      "previous_rank": 105,
-      "current_rank": 31,
-      "rank_change": 74,
-      "category": "6002",
-      "date": "2026-11-24",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/86/87/55/868755b7-e661-9b03-cb97-0bfa32c50baa/AppIcon-0-0-1x_U007ephone-0-1-0-sRGB-85-220.png/180x180bb.png",
-      "app_name": "AT&T ActiveArmor®",
-      "publisher": "AT&T Services, Inc."
-    },
-    {
       "appId": 978439794,
       "previous_rank": 229,
-      "current_rank": 158,
-      "rank_change": 71,
+      "current_rank": 165,
+      "rank_change": 64,
       "category": "6002",
       "date": "2026-11-24",
       "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6d/cb/bf/6dcbbf6e-d7f0-d6be-6942-cf243fb49761/AppIcon-0-0-1x_U007emarketing-0-8-0-sRGB-85-220.png/180x180bb.png",
@@ -36,37 +36,37 @@
       "publisher": "Frontier Communications"
     },
     {
-      "appId": 6836876321,
-      "previous_rank": 194,
-      "current_rank": 139,
-      "rank_change": 55,
+      "appId": 1218465964,
+      "previous_rank": 105,
+      "current_rank": 43,
+      "rank_change": 62,
       "category": "6002",
       "date": "2026-11-24",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f4/7d/06/f47d0657-4cf8-48d1-bae2-9fcd759c5095/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/180x180bb.png",
-      "app_name": "sard - ترجمة الألعاب",
-      "publisher": "Ozgur Turna"
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/86/87/55/868755b7-e661-9b03-cb97-0bfa32c50baa/AppIcon-0-0-1x_U007ephone-0-1-0-sRGB-85-220.png/180x180bb.png",
+      "app_name": "AT&T ActiveArmor®",
+      "publisher": "AT&T Services, Inc."
     },
     {
-      "appId": 6473001076,
-      "previous_rank": 192,
-      "current_rank": 142,
-      "rank_change": 50,
+      "appId": 1615277532,
+      "previous_rank": 239,
+      "current_rank": 181,
+      "rank_change": 58,
       "category": "6002",
       "date": "2026-11-24",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4e/ec/c7/4eecc782-5d0a-d4e5-f576-c000b07e5c43/GoFoAppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/180x180bb.png",
-      "app_name": "GOFO DRIVER",
-      "publisher": "GOFO INC."
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/60/c6/3f/60c63ff3-063e-4c2d-7cb0-a070a62846b8/AppIcon-0-0-1x_U007emarketing-0-8-0-sRGB-85-220.png/180x180bb.png",
+      "app_name": "Jadens Printer",
+      "publisher": "JADENS COMPANY LIMITED"
     },
     {
-      "appId": 777875529,
-      "previous_rank": 204,
-      "current_rank": 156,
-      "rank_change": 48,
+      "appId": 6651824516,
+      "previous_rank": 132,
+      "current_rank": 79,
+      "rank_change": 53,
       "category": "6002",
       "date": "2026-11-24",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/15/56/be/1556bea2-38df-7498-b83c-43e000979c10/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/180x180bb.png",
-      "app_name": "Verizon Call Filter",
-      "publisher": "Verizon Wireless"
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2e/37/8e/2e378ed5-9e7a-fcaf-c9d2-be08f4d8de00/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/180x180bb.png",
+      "app_name": "FlashLabel Pro",
+      "publisher": "Xiamen Print Future Technology Co.Ltd."
     }
   ]
 }
