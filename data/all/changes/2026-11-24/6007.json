@@ -3,21 +3,10 @@
   "genre": "6007",
   "topRisers": [
     {
-      "appId": 412650768,
-      "previous_rank": 209,
-      "current_rank": 133,
-      "rank_change": 76,
-      "category": "6007",
-      "date": "2026-11-24",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ec/89/e4/ec89e46b-a1c8-185a-90a4-1ba5cf21fd60/appIcon-0-1x_U007epad-0-11-0-85-220-0.png/180x180bb.png",
-      "app_name": "EZ Receipts",
-      "publisher": "HealthEquity"
-    },
-    {
       "appId": 1515133401,
       "previous_rank": 214,
-      "current_rank": 140,
-      "rank_change": 74,
+      "current_rank": 147,
+      "rank_change": 67,
       "category": "6007",
       "date": "2026-11-24",
       "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0a/4a/43/0a4a4334-841c-9709-877f-c61fa19ad178/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/180x180bb.png",
@@ -25,21 +14,10 @@
       "publisher": "Minimodev Technologies LTD"
     },
     {
-      "appId": 1091505266,
-      "previous_rank": 194,
-      "current_rank": 122,
-      "rank_change": 72,
-      "category": "6007",
-      "date": "2026-11-24",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ca/af/57/caaf571d-d3d0-f216-706e-ea12890761d8/SharePointAppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.png/180x180bb.png",
-      "app_name": "Microsoft SharePoint",
-      "publisher": "Microsoft Corporation"
-    },
-    {
       "appId": 6777149885,
       "previous_rank": 249,
-      "current_rank": 185,
-      "rank_change": 64,
+      "current_rank": 183,
+      "rank_change": 66,
       "category": "6007",
       "date": "2026-11-24",
       "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c9/51/c9/c951c9e9-b547-fb71-12e6-bb41063cb1ee/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/180x180bb.png",
@@ -47,26 +25,48 @@
       "publisher": "Aurorax Inc."
     },
     {
-      "appId": 6788947658,
-      "previous_rank": 236,
-      "current_rank": 177,
+      "appId": 412650768,
+      "previous_rank": 209,
+      "current_rank": 144,
+      "rank_change": 65,
+      "category": "6007",
+      "date": "2026-11-24",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ec/89/e4/ec89e46b-a1c8-185a-90a4-1ba5cf21fd60/appIcon-0-1x_U007epad-0-11-0-85-220-0.png/180x180bb.png",
+      "app_name": "EZ Receipts",
+      "publisher": "HealthEquity"
+    },
+    {
+      "appId": 1091505266,
+      "previous_rank": 194,
+      "current_rank": 135,
       "rank_change": 59,
       "category": "6007",
       "date": "2026-11-24",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/82/5a/19/825a1978-2be8-0425-beb9-7fec1874302d/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/180x180bb.png",
-      "app_name": "Latent: Focus Timelapse",
-      "publisher": "Weaive, Inc."
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ca/af/57/caaf571d-d3d0-f216-706e-ea12890761d8/SharePointAppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.png/180x180bb.png",
+      "app_name": "Microsoft SharePoint",
+      "publisher": "Microsoft Corporation"
     },
     {
       "appId": 1461747901,
       "previous_rank": 211,
-      "current_rank": 155,
-      "rank_change": 56,
+      "current_rank": 165,
+      "rank_change": 46,
       "category": "6007",
       "date": "2026-11-24",
       "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/56/e8/d7/56e8d78b-6fd8-9601-5868-493989e17e3a/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/180x180bb.png",
       "app_name": "Mobile Scanner App - Scan PDF",
       "publisher": "Glority Global Group Ltd."
+    },
+    {
+      "appId": 6751504827,
+      "previous_rank": 123,
+      "current_rank": 78,
+      "rank_change": 45,
+      "category": "6007",
+      "date": "2026-11-24",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b7/ec/5e/b7ec5e44-1576-197b-bec4-6693b3d3fd8e/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/180x180bb.png",
+      "app_name": "WasteConnect+",
+      "publisher": "Waste Connections, Inc."
     }
   ]
 }
