@@ -1,0 +1,187 @@
+{
+  "date": "2026-11-25",
+  "changes": {
+    "6012": {
+      "added": [
+        {
+          "appId": 6755228595,
+          "name": "NightGrace：Sleep & Podcasts",
+          "publisher": "Forerunner Technology Limited (HK)",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/12/b7/44/12b7443f-78a9-197c-ce56-f0d6275b5e3a/AppIcon-0-0-1x_U007ephone-0-1-0-0-85-220.png/180x180bb.png",
+          "rating": 4.9,
+          "ratingCount": 6350,
+          "price": "0.00",
+          "rank": 189,
+          "category": "6012"
+        },
+        {
+          "appId": 1182728161,
+          "name": "Wyndy: Trusted Babysitting App",
+          "publisher": "Wyndy",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fe/c1/eb/fec1eb4c-30a8-b45f-5813-c5c09c81efe5/AppIcon-0-0-1x_U007epad-0-1-85-220.png/180x180bb.png",
+          "rating": 4.6,
+          "ratingCount": 2451,
+          "price": "0.00",
+          "rank": 206,
+          "category": "6012"
+        },
+        {
+          "appId": 1565972415,
+          "name": "RAM®",
+          "publisher": "FCA US LLC",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/37/a6/02/37a60254-ab39-bbe1-84b4-8e3268ae8f0e/AppIcon.ram.prod-0-0-1x_U007emarketing-0-6-0-85-220.png/180x180bb.png",
+          "rating": 4.8,
+          "ratingCount": 97899.99999999999,
+          "price": "0.00",
+          "rank": 225,
+          "category": "6012"
+        },
+        {
+          "appId": 1042822181,
+          "name": "Meeting Guide",
+          "publisher": "Alcoholics Anonymous World Services, Inc.",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/71/d4/da/71d4dad5-f9e9-5ca3-be14-784c748643f6/AppIcon-0-0-1x_U007epad-0-1-85-220.png/180x180bb.png",
+          "rating": 4.4,
+          "ratingCount": 1066,
+          "price": "0.00",
+          "rank": 227,
+          "category": "6012"
+        },
+        {
+          "appId": 1623569698,
+          "name": "JoinBrands: UGC Creator Jobs",
+          "publisher": "Join Brands",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/be/f4/05/bef405d3-b5aa-3d2a-7476-1d7a257b5c87/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/180x180bb.png",
+          "rating": 4.6,
+          "ratingCount": 898,
+          "price": "0.00",
+          "rank": 239,
+          "category": "6012"
+        },
+        {
+          "appId": 6478189868,
+          "name": "SeaHaze: Create Your Story",
+          "publisher": "SUNRISEAI PTE. LTD.",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/29/83/6c/29836caa-4377-7806-14f2-8f25bcabc4a6/AppIcon-0-0-1x_U007epad-0-1-85-220.png/180x180bb.png",
+          "rating": 3.8,
+          "ratingCount": 804,
+          "price": "0.00",
+          "rank": 244,
+          "category": "6012"
+        },
+        {
+          "appId": 6743861531,
+          "name": "WRizz: Rizz Keyboard",
+          "publisher": "DH Creations Inc",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1f/7a/1f/1f7a1fa8-8eff-7747-218b-b717926e7c48/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/180x180bb.png",
+          "rating": 4.8,
+          "ratingCount": 3596,
+          "price": "0.00",
+          "rank": 246,
+          "category": "6012"
+        },
+        {
+          "appId": 6737612921,
+          "name": "Wellance – AI Health & Balance",
+          "publisher": "Peppervale",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/74/f1/f7/74f1f714-e440-472b-3a79-06eb41644a5e/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-0-85-220.jpeg/180x180bb.png",
+          "rating": 4.4,
+          "ratingCount": 2937,
+          "price": "0.00",
+          "rank": 247,
+          "category": "6012"
+        }
+      ],
+      "removed": [
+        {
+          "appId": 6802919079,
+          "name": "Dwellia: AI Space Design",
+          "publisher": "Chengdu Dance Elephant Technology Co., LTD.",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/53/b9/cd/53b9cdf3-7340-a1df-2b70-88bdff43df16/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/180x180bb.png",
+          "rating": 0,
+          "ratingCount": 0,
+          "price": "0.00",
+          "rank": 192,
+          "category": "6012"
+        },
+        {
+          "appId": 1474938269,
+          "name": "Meta Viewpoints",
+          "publisher": "Meta Platforms, Inc.",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/89/39/8f/89398ff9-dd21-d895-89b0-dc370a980317/Icon-Production-0-0-1x_U007ephone-0-1-0-85-220.png/180x180bb.png",
+          "rating": 4.8,
+          "ratingCount": 22000,
+          "price": "0.00",
+          "rank": 204,
+          "category": "6012"
+        },
+        {
+          "appId": 6805126381,
+          "name": "Roamer for Rivian",
+          "publisher": "Velocity Studios, LLC",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9e/11/81/9e1181fd-445f-648e-3b50-450ffb57efee/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/180x180bb.png",
+          "rating": 5,
+          "ratingCount": 32,
+          "price": "0.00",
+          "rank": 216,
+          "category": "6012"
+        },
+        {
+          "appId": 6741428388,
+          "name": "Earn Money & Rewards: Prograd",
+          "publisher": "Prograd Limited",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8f/2a/50/8f2a504c-35cc-5494-833f-02573a6b26cd/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/180x180bb.png",
+          "rating": 4.5,
+          "ratingCount": 4606,
+          "price": "0.00",
+          "rank": 223,
+          "category": "6012"
+        },
+        {
+          "appId": 1626186138,
+          "name": "Roku Smart Home",
+          "publisher": "ROKU INC",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/91/97/a9/9197a9a5-df23-205b-286d-7a7850c98ae9/RokuAppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/180x180bb.png",
+          "rating": 4.7,
+          "ratingCount": 168000,
+          "price": "0.00",
+          "rank": 231,
+          "category": "6012"
+        },
+        {
+          "appId": 1595390736,
+          "name": "Instinct: Casual Dating App",
+          "publisher": "Instinct Dating Company",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3f/d4/a9/3fd4a971-215b-c18e-7e67-6f591e581797/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/180x180bb.png",
+          "rating": 4.9,
+          "ratingCount": 144000,
+          "price": "0.00",
+          "rank": 247,
+          "category": "6012"
+        },
+        {
+          "appId": 1619559100,
+          "name": "The Art Of Pandora",
+          "publisher": "Hazel Mason",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/42/a2/17/42a21717-58d8-b08b-17bd-6ccea0bc1721/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/180x180bb.png",
+          "rating": 4.9,
+          "ratingCount": 43,
+          "price": "0.00",
+          "rank": 248,
+          "category": "6012"
+        },
+        {
+          "appId": 981863450,
+          "name": "Yoosee",
+          "publisher": "GWELL TIMES(HK)CO,LIMITED",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/67/84/9c/67849c62-4135-db18-43e6-dbbea523d35c/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/180x180bb.png",
+          "rating": 4.3,
+          "ratingCount": 11800,
+          "price": "0.00",
+          "rank": 250,
+          "category": "6012"
+        }
+      ]
+    }
+  }
+}
