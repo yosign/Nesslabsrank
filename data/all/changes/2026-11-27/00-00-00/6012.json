@@ -1,0 +1,319 @@
+{
+  "date": "2026-11-27",
+  "changes": {
+    "6012": {
+      "added": [
+        {
+          "appId": 6836548899,
+          "name": "The Loaded Tea Shop",
+          "publisher": "Champs Tea Shop Inc",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b6/c8/ba/b6c8ba0c-e4a6-ec50-3b09-a60e84b79ef8/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/180x180bb.png",
+          "rating": 0,
+          "ratingCount": 0,
+          "price": "0.00",
+          "rank": 93,
+          "category": "6012"
+        },
+        {
+          "appId": 6754627199,
+          "name": "Camp Chef Connect",
+          "publisher": "Camp Chef",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/43/df/ef/43dfef71-3288-61ac-94a4-4fefb1d77d96/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/180x180bb.png",
+          "rating": 2,
+          "ratingCount": 78,
+          "price": "0.00",
+          "rank": 159,
+          "category": "6012"
+        },
+        {
+          "appId": 6499094633,
+          "name": "CHEFBBQ",
+          "publisher": "小金 吴",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2e/d4/f1/2ed4f190-8c13-0bcd-a85e-77ac07704e31/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/180x180bb.png",
+          "rating": 2.1,
+          "ratingCount": 34,
+          "price": "0.00",
+          "rank": 196,
+          "category": "6012"
+        },
+        {
+          "appId": 6760859166,
+          "name": "Jacquie Lawson Advent Calendar",
+          "publisher": "Jacquielawson.com",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ae/11/34/ae11342c-35c1-c0ae-2fdf-e15b90e2f767/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/180x180bb.png",
+          "rating": 4.9,
+          "ratingCount": 2007,
+          "price": "0.00",
+          "rank": 198,
+          "category": "6012"
+        },
+        {
+          "appId": 6739101147,
+          "name": "Whale Framely",
+          "publisher": "Whale TV Europe B.V.",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/93/d4/38/93d4386f-584a-32e8-f089-f55d9d977572/AppIcon-0-0-1x_U007emarketing-0-6-0-0-85-220.png/180x180bb.png",
+          "rating": 4.9,
+          "ratingCount": 1559,
+          "price": "0.00",
+          "rank": 216,
+          "category": "6012"
+        },
+        {
+          "appId": 1543351744,
+          "name": "Keepsmile",
+          "publisher": "深圳市优智达科技有限公司",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e3/16/37/e316374f-f7cc-b243-3c8a-b724ac096f36/AppIcon-0-0-1x_U007epad-0-11-0-0-85-220.png/180x180bb.png",
+          "rating": 2.5,
+          "ratingCount": 4877,
+          "price": "0.00",
+          "rank": 226,
+          "category": "6012"
+        },
+        {
+          "appId": 1322483990,
+          "name": "Ninja Pro Connect",
+          "publisher": "SHARKNINJA OPERATING LLC",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1c/6a/2e/1c6a2e3a-a1ff-5d26-2be9-013e635db1f5/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/180x180bb.png",
+          "rating": 4.7,
+          "ratingCount": 4330,
+          "price": "0.00",
+          "rank": 230,
+          "category": "6012"
+        },
+        {
+          "appId": 1619559100,
+          "name": "The Art Of Pandora",
+          "publisher": "Hazel Mason",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/42/a2/17/42a21717-58d8-b08b-17bd-6ccea0bc1721/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/180x180bb.png",
+          "rating": 4.9,
+          "ratingCount": 43,
+          "price": "0.00",
+          "rank": 231,
+          "category": "6012"
+        },
+        {
+          "appId": 1583154299,
+          "name": "OSAIO",
+          "publisher": "AFAR PTE. LTD",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ff/d5/b4/ffd5b48c-a48c-c1b5-b08b-7612a7915986/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/180x180bb.png",
+          "rating": 4.6,
+          "ratingCount": 3254,
+          "price": "0.00",
+          "rank": 235,
+          "category": "6012"
+        },
+        {
+          "appId": 1489209093,
+          "name": "Microsoft Family Safety",
+          "publisher": "Microsoft Corporation",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/03/7f/53/037f53c3-4faf-7dcf-fea0-0c7b44136877/AppIcon-prod-1x_U007emarketing-0-6-0-0-85-220-0.png/180x180bb.png",
+          "rating": 4.2,
+          "ratingCount": 8434,
+          "price": "0.00",
+          "rank": 240,
+          "category": "6012"
+        },
+        {
+          "appId": 6758983027,
+          "name": "Karpo: For the curious",
+          "publisher": "MACHINEPULSE PTE. LTD.",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d8/f1/cf/d8f1cff7-9500-9eab-5262-b097f6c88289/AppIconClassic-0-0-1x_U007ephone-0-1-85-220.png/180x180bb.png",
+          "rating": 4.6,
+          "ratingCount": 71,
+          "price": "0.00",
+          "rank": 242,
+          "category": "6012"
+        },
+        {
+          "appId": 6473748536,
+          "name": "Astra - Life Advice",
+          "publisher": "Vert Ventures",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/20/16/50/2016507d-53d8-384d-d514-04b5b1767125/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/180x180bb.png",
+          "rating": 4.7,
+          "ratingCount": 40000,
+          "price": "0.00",
+          "rank": 245,
+          "category": "6012"
+        },
+        {
+          "appId": 1663430725,
+          "name": "RIZZ",
+          "publisher": "TREND IT LLC",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/68/3c/7e/683c7ee1-1f65-f79f-abfc-6c3bbdcf62f8/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.jpeg/180x180bb.png",
+          "rating": 4.8,
+          "ratingCount": 40300,
+          "price": "0.00",
+          "rank": 246,
+          "category": "6012"
+        },
+        {
+          "appId": 6451155639,
+          "name": "Vet Tix",
+          "publisher": "Veteran Tickets Foundation",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/22/9e/09/229e09c4-a9f7-a7dd-152a-4fd7468c1b74/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/180x180bb.png",
+          "rating": 3.5,
+          "ratingCount": 351,
+          "price": "0.00",
+          "rank": 247,
+          "category": "6012"
+        }
+      ],
+      "removed": [
+        {
+          "appId": 1604464354,
+          "name": "ADT+",
+          "publisher": "ADT LLC",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/03/26/72/0326721f-62b0-4dd6-fd52-fb153122fdd0/ADT_U002b_AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/180x180bb.png",
+          "rating": 4.8,
+          "ratingCount": 63900,
+          "price": "0.00",
+          "rank": 182,
+          "category": "6012"
+        },
+        {
+          "appId": 1403308360,
+          "name": "Sport Clips Haircuts Check-In",
+          "publisher": "Sport Clips",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/10/7e/8d/107e8dc6-d3d0-b886-5539-d5475a8258d5/AppIcon-1x_U007ephone-0-1-85-220-0.png/180x180bb.png",
+          "rating": 4.8,
+          "ratingCount": 85000,
+          "price": "0.00",
+          "rank": 185,
+          "category": "6012"
+        },
+        {
+          "appId": 432633172,
+          "name": "Angi: Find Local Home Services",
+          "publisher": "Angi Inc.",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/cf/5c/95/cf5c95db-86f9-034f-a28d-0125cb572f11/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/180x180bb.png",
+          "rating": 4.5,
+          "ratingCount": 117000,
+          "price": "0.00",
+          "rank": 205,
+          "category": "6012"
+        },
+        {
+          "appId": 1516518499,
+          "name": "myQ Community",
+          "publisher": "The Chamberlain Group, Inc.",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/84/0b/26/840b2643-0731-6470-c7bd-b64b691bcbc8/AppIcon-0-0-1x_U007epad-0-1-85-220.png/180x180bb.png",
+          "rating": 4.5,
+          "ratingCount": 41000,
+          "price": "0.00",
+          "rank": 207,
+          "category": "6012"
+        },
+        {
+          "appId": 1455415833,
+          "name": "Tasker by Taskrabbit",
+          "publisher": "TaskRabbit",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/df/0c/9e/df0c9e02-fedf-8b54-fe88-bf86d5e57170/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/180x180bb.png",
+          "rating": 3,
+          "ratingCount": 4439,
+          "price": "0.00",
+          "rank": 214,
+          "category": "6012"
+        },
+        {
+          "appId": 6466933712,
+          "name": "Sherwin-Williams Color Expert™",
+          "publisher": "The Sherwin-Williams Company",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5e/6e/3c/5e6e3c5d-f45f-d036-791e-30d5a230f722/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/180x180bb.png",
+          "rating": 4.6,
+          "ratingCount": 7485,
+          "price": "0.00",
+          "rank": 215,
+          "category": "6012"
+        },
+        {
+          "appId": 1485452102,
+          "name": "UserTesting",
+          "publisher": "UserTesting",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/1b/f5/46/1bf54609-89c6-6b12-9f9e-12a6200483d9/George-AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/180x180bb.png",
+          "rating": 3.1,
+          "ratingCount": 2912,
+          "price": "0.00",
+          "rank": 219,
+          "category": "6012"
+        },
+        {
+          "appId": 854624810,
+          "name": "HomeGoods",
+          "publisher": "HomeGoods",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/dc/75/9e/dc759ed9-e487-17ca-23bd-7031439e8905/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/180x180bb.png",
+          "rating": 2.6,
+          "ratingCount": 2130,
+          "price": "0.00",
+          "rank": 224,
+          "category": "6012"
+        },
+        {
+          "appId": 1042822181,
+          "name": "Meeting Guide",
+          "publisher": "Alcoholics Anonymous World Services, Inc.",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/71/d4/da/71d4dad5-f9e9-5ca3-be14-784c748643f6/AppIcon-0-0-1x_U007epad-0-1-85-220.png/180x180bb.png",
+          "rating": 4.4,
+          "ratingCount": 1066,
+          "price": "0.00",
+          "rank": 234,
+          "category": "6012"
+        },
+        {
+          "appId": 1182728161,
+          "name": "Wyndy: Trusted Babysitting App",
+          "publisher": "Wyndy",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/13/bd/1f/13bd1fcf-f0b3-1867-1cc9-5d4d6c909b28/AppIcon-0-0-1x_U007epad-0-1-85-220.png/180x180bb.png",
+          "rating": 4.6,
+          "ratingCount": 2456,
+          "price": "0.00",
+          "rank": 235,
+          "category": "6012"
+        },
+        {
+          "appId": 431685286,
+          "name": "Evite: Party Invitation Maker",
+          "publisher": "Evite, Inc",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6e/73/d4/6e73d468-034d-730b-3439-48e1f695cda6/AppIcon-prod-0-0-1x_U007emarketing-0-11-0-85-220.png/180x180bb.png",
+          "rating": 4.8,
+          "ratingCount": 520000,
+          "price": "0.00",
+          "rank": 239,
+          "category": "6012"
+        },
+        {
+          "appId": 6741428388,
+          "name": "Earn Money & Rewards: Prograd",
+          "publisher": "Prograd Limited",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8f/2a/50/8f2a504c-35cc-5494-833f-02573a6b26cd/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/180x180bb.png",
+          "rating": 4.4,
+          "ratingCount": 4617,
+          "price": "0.00",
+          "rank": 243,
+          "category": "6012"
+        },
+        {
+          "appId": 288487321,
+          "name": "Trulia Real Estate & Rentals",
+          "publisher": "Trulia, Inc",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d7/ee/fb/d7eefb5e-4fe5-2335-8d06-73b5d0cea9bc/app-icon-0-0-1x_U007emarketing-0-8-0-85-220.png/180x180bb.png",
+          "rating": 4.8,
+          "ratingCount": 1420000,
+          "price": "0.00",
+          "rank": 245,
+          "category": "6012"
+        },
+        {
+          "appId": 6786533446,
+          "name": "ExpiryHub: Date & Item Tracker",
+          "publisher": "艺豪 潘",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e0/26/b0/e026b026-1ffe-d694-768c-0407f532ceb1/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/180x180bb.png",
+          "rating": 4.6,
+          "ratingCount": 10,
+          "price": "0.00",
+          "rank": 247,
+          "category": "6012"
+        }
+      ]
+    }
+  }
+}
