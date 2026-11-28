@@ -5,8 +5,8 @@
     {
       "appId": 1667391175,
       "previous_rank": 247,
-      "current_rank": 107,
-      "rank_change": 140,
+      "current_rank": 99,
+      "rank_change": 148,
       "category": "6002",
       "date": "2026-11-28",
       "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c7/be/4c/c7be4cbf-da1d-568f-ea95-dc81c901317c/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/180x180bb.png",
@@ -16,8 +16,8 @@
     {
       "appId": 6502297763,
       "previous_rank": 204,
-      "current_rank": 89,
-      "rank_change": 115,
+      "current_rank": 82,
+      "rank_change": 122,
       "category": "6002",
       "date": "2026-11-28",
       "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f2/31/f9/f231f9ba-209e-fb70-a03c-ec7f2b9c831d/AppIcon-1x_U007ephone-0-1-0-85-220-0.png/180x180bb.png",
@@ -27,8 +27,8 @@
     {
       "appId": 6747678685,
       "previous_rank": 162,
-      "current_rank": 51,
-      "rank_change": 111,
+      "current_rank": 62,
+      "rank_change": 100,
       "category": "6002",
       "date": "2026-11-28",
       "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/36/ec/6a/36ec6aa9-2892-f1a7-f9ec-3cc240089aa7/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.jpeg/180x180bb.png",
@@ -36,10 +36,21 @@
       "publisher": "NJUS AB"
     },
     {
+      "appId": 1621229655,
+      "previous_rank": 180,
+      "current_rank": 100,
+      "rank_change": 80,
+      "category": "6002",
+      "date": "2026-11-28",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/db/48/0d/db480de7-de68-56a3-9fc3-fe908848c6f4/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/180x180bb.png",
+      "app_name": "Sony | BRAVIA Connect",
+      "publisher": "Sony Corporation"
+    },
+    {
       "appId": 1499828123,
       "previous_rank": 186,
-      "current_rank": 88,
-      "rank_change": 98,
+      "current_rank": 107,
+      "rank_change": 79,
       "category": "6002",
       "date": "2026-11-28",
       "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/bc/7e/3f/bc7e3f7b-ad14-8b78-9c62-98034687321c/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/180x180bb.png",
@@ -47,26 +58,15 @@
       "publisher": "Jasco Products Company LLC"
     },
     {
-      "appId": 1005186680,
-      "previous_rank": 210,
-      "current_rank": 131,
-      "rank_change": 79,
+      "appId": 1016562846,
+      "previous_rank": 225,
+      "current_rank": 153,
+      "rank_change": 72,
       "category": "6002",
       "date": "2026-11-28",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/74/12/a5/7412a5f6-bd6a-8bc2-5f49-8f8c5097c574/AppIcon-SOA-0-0-1x_U007ephone-0-1-85-220.png/180x180bb.png",
-      "app_name": "MySubaru",
-      "publisher": "Subaru of America"
-    },
-    {
-      "appId": 1621229655,
-      "previous_rank": 180,
-      "current_rank": 104,
-      "rank_change": 76,
-      "category": "6002",
-      "date": "2026-11-28",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/db/48/0d/db480de7-de68-56a3-9fc3-fe908848c6f4/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/180x180bb.png",
-      "app_name": "Sony | BRAVIA Connect",
-      "publisher": "Sony Corporation"
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7d/f1/a6/7df1a6e5-946c-79ea-ef3b-e04974abd76a/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/180x180bb.png",
+      "app_name": "Rokie - Remote for Roku Player",
+      "publisher": "KRAFTWERK 9 LTD"
     }
   ]
 }
