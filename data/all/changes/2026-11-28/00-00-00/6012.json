@@ -1,0 +1,341 @@
+{
+  "date": "2026-11-28",
+  "changes": {
+    "6012": {
+      "added": [
+        {
+          "appId": 6754980416,
+          "name": "Location Finder: Phone Tracker",
+          "publisher": "ct-consult GmbH",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d2/de/03/d2de032c-a468-7aed-7f97-2ae97ad65338/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/180x180bb.png",
+          "rating": 4.1,
+          "ratingCount": 223,
+          "price": "0.00",
+          "rank": 87,
+          "category": "6012"
+        },
+        {
+          "appId": 6455427201,
+          "name": "Wishlist Maker - Wishdeck",
+          "publisher": "Wishdeck Software Inc.",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b3/6c/14/b36c141e-5340-c92d-5665-4796dc321d50/Wishdeck_Liquid-0-0-1x_U007epad-0-1-0-85-220.png/180x180bb.png",
+          "rating": 4.7,
+          "ratingCount": 329,
+          "price": "0.00",
+          "rank": 105,
+          "category": "6012"
+        },
+        {
+          "appId": 6743141285,
+          "name": "I.AM.GIA US & Canada",
+          "publisher": "A&S Labels Pty Ltd",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d8/4c/15/d84c150c-118c-1d5b-0800-adc75d518b22/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/180x180bb.png",
+          "rating": 3.1,
+          "ratingCount": 16,
+          "price": "0.00",
+          "rank": 114,
+          "category": "6012"
+        },
+        {
+          "appId": 854624810,
+          "name": "HomeGoods",
+          "publisher": "HomeGoods",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/dc/75/9e/dc759ed9-e487-17ca-23bd-7031439e8905/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/180x180bb.png",
+          "rating": 2.6,
+          "ratingCount": 2130,
+          "price": "0.00",
+          "rank": 187,
+          "category": "6012"
+        },
+        {
+          "appId": 1609475671,
+          "name": "Moonsift - Wishlist Maker",
+          "publisher": "Moonsift Limited",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2b/68/16/2b681646-5c0f-9a64-40cd-75ef5bfa7301/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/180x180bb.png",
+          "rating": 4.8,
+          "ratingCount": 2353,
+          "price": "0.00",
+          "rank": 199,
+          "category": "6012"
+        },
+        {
+          "appId": 6466933712,
+          "name": "Sherwin-Williams Color Expert™",
+          "publisher": "The Sherwin-Williams Company",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5e/6e/3c/5e6e3c5d-f45f-d036-791e-30d5a230f722/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/180x180bb.png",
+          "rating": 4.6,
+          "ratingCount": 7485,
+          "price": "0.00",
+          "rank": 209,
+          "category": "6012"
+        },
+        {
+          "appId": 432633172,
+          "name": "Angi: Find Local Home Services",
+          "publisher": "Angi Inc.",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/cf/5c/95/cf5c95db-86f9-034f-a28d-0125cb572f11/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/180x180bb.png",
+          "rating": 4.5,
+          "ratingCount": 117000,
+          "price": "0.00",
+          "rank": 210,
+          "category": "6012"
+        },
+        {
+          "appId": 366525182,
+          "name": "MyRegistry.com",
+          "publisher": "MyRegistry.com",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0d/24/a1/0d24a102-d71d-7c8c-bf24-36339d00ebc8/AppIconLive-1x_U007emarketing-0-11-0-85-220-0.png/180x180bb.png",
+          "rating": 4.8,
+          "ratingCount": 7874,
+          "price": "0.00",
+          "rank": 213,
+          "category": "6012"
+        },
+        {
+          "appId": 1604464354,
+          "name": "ADT+",
+          "publisher": "ADT LLC",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/03/26/72/0326721f-62b0-4dd6-fd52-fb153122fdd0/ADT_U002b_AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/180x180bb.png",
+          "rating": 4.8,
+          "ratingCount": 66200,
+          "price": "0.00",
+          "rank": 218,
+          "category": "6012"
+        },
+        {
+          "appId": 1595390736,
+          "name": "Instinct: Casual Dating App",
+          "publisher": "Instinct Dating Company",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0e/ff/2a/0eff2a29-f76b-fafa-a7de-cb257599edc5/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/180x180bb.png",
+          "rating": 4.9,
+          "ratingCount": 144000,
+          "price": "0.00",
+          "rank": 233,
+          "category": "6012"
+        },
+        {
+          "appId": 6802919079,
+          "name": "Dwellia: AI Space Design",
+          "publisher": "Chengdu Dance Elephant Technology Co., LTD.",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/53/b9/cd/53b9cdf3-7340-a1df-2b70-88bdff43df16/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/180x180bb.png",
+          "rating": 0,
+          "ratingCount": 0,
+          "price": "0.00",
+          "rank": 236,
+          "category": "6012"
+        },
+        {
+          "appId": 955254528,
+          "name": "Flush Toilet Finder & Map",
+          "publisher": "JRustonApps B.V.",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/8e/19/42/8e19429d-73eb-7b5b-8da4-825d5187adaa/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/180x180bb.png",
+          "rating": 4.7,
+          "ratingCount": 10700,
+          "price": "0.00",
+          "rank": 239,
+          "category": "6012"
+        },
+        {
+          "appId": 1485452102,
+          "name": "UserTesting",
+          "publisher": "UserTesting",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/26/29/f5/2629f540-fa8c-ba33-0ccf-ac3ba31dfec1/George-AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/180x180bb.png",
+          "rating": 3.1,
+          "ratingCount": 2935,
+          "price": "0.00",
+          "rank": 245,
+          "category": "6012"
+        },
+        {
+          "appId": 6670536058,
+          "name": "District: Movies Events Dining",
+          "publisher": "Zomato Media Pvt. Ltd.",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1d/50/d9/1d50d98e-1b21-c337-d377-367a879a73c0/AppIcon26-0-0-1x_U007ephone-0-0-0-1-0-85-220.png/180x180bb.png",
+          "rating": 4.8,
+          "ratingCount": 1771,
+          "price": "0.00",
+          "rank": 246,
+          "category": "6012"
+        },
+        {
+          "appId": 1455415833,
+          "name": "Tasker by Taskrabbit",
+          "publisher": "TaskRabbit",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/df/0c/9e/df0c9e02-fedf-8b54-fe88-bf86d5e57170/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/180x180bb.png",
+          "rating": 3,
+          "ratingCount": 4439,
+          "price": "0.00",
+          "rank": 249,
+          "category": "6012"
+        }
+      ],
+      "removed": [
+        {
+          "appId": 6754627199,
+          "name": "Camp Chef Connect",
+          "publisher": "Camp Chef",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/43/df/ef/43dfef71-3288-61ac-94a4-4fefb1d77d96/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/180x180bb.png",
+          "rating": 2,
+          "ratingCount": 78,
+          "price": "0.00",
+          "rank": 159,
+          "category": "6012"
+        },
+        {
+          "appId": 6499094633,
+          "name": "CHEFBBQ",
+          "publisher": "小金 吴",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2e/d4/f1/2ed4f190-8c13-0bcd-a85e-77ac07704e31/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/180x180bb.png",
+          "rating": 2.1,
+          "ratingCount": 34,
+          "price": "0.00",
+          "rank": 196,
+          "category": "6012"
+        },
+        {
+          "appId": 6802420892,
+          "name": "Torqara: Car Screen Companion",
+          "publisher": "PEDALVA SL.",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/20/41/50/204150a5-9c09-ee8c-3df7-c9321998899e/AppIcon-0-0-1x_U007ephone-0-1-85-220.jpeg/180x180bb.png",
+          "rating": 3.9,
+          "ratingCount": 508,
+          "price": "0.00",
+          "rank": 220,
+          "category": "6012"
+        },
+        {
+          "appId": 6737612921,
+          "name": "Wellance – AI Health & Balance",
+          "publisher": "Peppervale",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/74/f1/f7/74f1f714-e440-472b-3a79-06eb41644a5e/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-0-85-220.jpeg/180x180bb.png",
+          "rating": 4.4,
+          "ratingCount": 2954,
+          "price": "0.00",
+          "rank": 222,
+          "category": "6012"
+        },
+        {
+          "appId": 792612452,
+          "name": "Sensi",
+          "publisher": "Copeland LP",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/97/8c/f2/978cf298-05fd-349c-31ff-cf078e42e99c/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-85-220.png/180x180bb.png",
+          "rating": 4.6,
+          "ratingCount": 248000,
+          "price": "0.00",
+          "rank": 225,
+          "category": "6012"
+        },
+        {
+          "appId": 999707163,
+          "name": "Furbo - smartest pet camera",
+          "publisher": "Tomofun",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/dd/12/df/dd12dfc6-633f-0b15-bd80-ea31838a921a/AppIcon-0-0-1x_U007emarketing-0-7-0-sRGB-85-220.png/180x180bb.png",
+          "rating": 4.8,
+          "ratingCount": 5598,
+          "price": "0.00",
+          "rank": 227,
+          "category": "6012"
+        },
+        {
+          "appId": 1322483990,
+          "name": "Ninja Pro Connect",
+          "publisher": "SHARKNINJA OPERATING LLC",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1c/6a/2e/1c6a2e3a-a1ff-5d26-2be9-013e635db1f5/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/180x180bb.png",
+          "rating": 4.7,
+          "ratingCount": 4330,
+          "price": "0.00",
+          "rank": 230,
+          "category": "6012"
+        },
+        {
+          "appId": 1583154299,
+          "name": "OSAIO",
+          "publisher": "AFAR PTE. LTD",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ff/d5/b4/ffd5b48c-a48c-c1b5-b08b-7612a7915986/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/180x180bb.png",
+          "rating": 4.6,
+          "ratingCount": 3254,
+          "price": "0.00",
+          "rank": 235,
+          "category": "6012"
+        },
+        {
+          "appId": 1248669703,
+          "name": "Aqara Home",
+          "publisher": "Aqara Software Service Co.,Ltd.",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/63/cd/a6/63cda61f-ba82-a1ac-71e8-2549825c7214/AppIcon-0-0-1x_U007emarketing-0-8-0-sRGB-85-220.png/180x180bb.png",
+          "rating": 4.7,
+          "ratingCount": 8186,
+          "price": "0.00",
+          "rank": 241,
+          "category": "6012"
+        },
+        {
+          "appId": 6758983027,
+          "name": "Karpo: For the curious",
+          "publisher": "MACHINEPULSE PTE. LTD.",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d8/f1/cf/d8f1cff7-9500-9eab-5262-b097f6c88289/AppIconClassic-0-0-1x_U007ephone-0-1-85-220.png/180x180bb.png",
+          "rating": 4.6,
+          "ratingCount": 71,
+          "price": "0.00",
+          "rank": 242,
+          "category": "6012"
+        },
+        {
+          "appId": 1138970986,
+          "name": "MyChoice Benefits",
+          "publisher": "Businessolver",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/42/7d/a9/427da94a-be0c-51c2-6b6d-dbfe2c4defab/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/180x180bb.png",
+          "rating": 4.8,
+          "ratingCount": 25600,
+          "price": "0.00",
+          "rank": 243,
+          "category": "6012"
+        },
+        {
+          "appId": 6744415578,
+          "name": "MySimilac Rewards",
+          "publisher": "Abbott",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f1/94/6e/f1946e85-b4ed-c75a-0989-26485d13727e/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/180x180bb.png",
+          "rating": 2.2,
+          "ratingCount": 120,
+          "price": "0.00",
+          "rank": 244,
+          "category": "6012"
+        },
+        {
+          "appId": 6759089677,
+          "name": "PrayerWall: Devotion&Trust",
+          "publisher": "IGNITEDDY TECH SDN.BHD.",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/39/32/03/3932037b-f752-ca0f-0c33-2302ba5590ec/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/180x180bb.png",
+          "rating": 4.9,
+          "ratingCount": 2055,
+          "price": "0.00",
+          "rank": 248,
+          "category": "6012"
+        },
+        {
+          "appId": 1357742931,
+          "name": "Church Center",
+          "publisher": "Ministry Centered Technologies",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/11/35/84/113584af-98d1-be4f-1ee3-3846d0ad13bc/app_icon-0-0-1x_U007epad-0-1-85-220.png/180x180bb.png",
+          "rating": 4.6,
+          "ratingCount": 5396,
+          "price": "0.00",
+          "rank": 249,
+          "category": "6012"
+        },
+        {
+          "appId": 1280670682,
+          "name": "SmartRent",
+          "publisher": "Smartrent.com, LLC",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/73/5e/fc/735efcc3-edc9-a728-b000-5d3b22c66d06/AppIcon-0-0-1x_U007epad-0-1-85-220.png/180x180bb.png",
+          "rating": 4.7,
+          "ratingCount": 125000,
+          "price": "0.00",
+          "rank": 250,
+          "category": "6012"
+        }
+      ]
+    }
+  }
+}
